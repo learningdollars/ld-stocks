@@ -1,0 +1,6 @@
+python ==3.8.5
+selenium
+chrome webdriver
+Firefox webdriver(ANY)
+pandas
+csv file preview
