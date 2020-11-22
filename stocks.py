@@ -49,5 +49,5 @@ def csv_url_reader(url_obj):
             print("NA")
 
 if __name__ =="__main__":
-    with open("sheet1.csv") as url_obj:
+    with open("tickers.csv") as url_obj:
         csv_url_reader(url_obj)
