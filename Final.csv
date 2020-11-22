@@ -1,4 +1,4 @@
-Stock_Name,Rating
-NVIDIA,59%
-Facebook,84%
-Alphabet Class C,90%
+Stock_Name,Rating,Guru_value,Market
+Apple,58%,Significantly Overvalued,Technology
+Microsoft,90%,Modestly Overvalued,Technology
+Alphabet Class C,90%,Modestly Overvalued,Communication Services
