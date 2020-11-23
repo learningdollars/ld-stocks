@@ -1,0 +1,696 @@
+1606129856289	geckodriver	INFO	Listening on 127.0.0.1:53005
+1606129857323	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileDTlHjl"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1606129866345	Marionette	INFO	Listening on port 38949
+1606129866809	Marionette	WARN	TLS certificate errors will be ignored for this session
+1606129876547	Marionette	INFO	Stopped listening on port 38949
+1606129917986	geckodriver	INFO	Listening on 127.0.0.1:41285
+1606129917992	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileipMOaA"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1606129922151	Marionette	INFO	Listening on port 41511
+1606129922249	Marionette	WARN	TLS certificate errors will be ignored for this session
+1606129929465	Marionette	INFO	Stopped listening on port 41511
+JavaScript error: resource://gre/modules/UrlClassifierListManager.jsm, line 691: TypeError: this.tablesData[table] is undefined
+1606129969300	geckodriver	INFO	Listening on 127.0.0.1:53489
+1606129970313	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileByyxTh"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1606129974664	Marionette	INFO	Listening on port 39511
+1606129974752	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://cdn.robinhood.com/assets/generated_assets/Vendor-dd9ca8ace0f5e722d8f2.chunk.js, line 2: Error: Unauthorized
+JavaScript error: https://cdn.robinhood.com/assets/generated_assets/Vendor-dd9ca8ace0f5e722d8f2.chunk.js, line 2: Error: Unauthorized
+1606130002948	Marionette	INFO	Stopped listening on port 39511
+1606130006343	geckodriver	INFO	Listening on 127.0.0.1:59999
+1606130007353	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilekCVUQ8"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1606130011407	Marionette	INFO	Listening on port 44617
+1606130011495	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://cdn.robinhood.com/assets/generated_assets/Vendor-bc841585fe4223886653.chunk.js, line 2: Error: Unauthorized
+JavaScript error: https://cdn.robinhood.com/assets/generated_assets/Vendor-bc841585fe4223886653.chunk.js, line 2: Error: Unauthorized
+1606130037297	Marionette	INFO	Stopped listening on port 44617
+1606130040815	geckodriver	INFO	Listening on 127.0.0.1:36929
+1606130041824	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileQPOKAo"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1606130046073	Marionette	INFO	Listening on port 40967
+1606130046170	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://cdn.robinhood.com/assets/generated_assets/Vendor-bc841585fe4223886653.chunk.js, line 2: Error: Unauthorized
+JavaScript error: https://cdn.robinhood.com/assets/generated_assets/Vendor-bc841585fe4223886653.chunk.js, line 2: Error: Unauthorized
+1606130069057	Marionette	INFO	Stopped listening on port 40967
+1606130137847	geckodriver	INFO	Listening on 127.0.0.1:57455
+1606130138857	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileyrE3BT"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1606130143542	Marionette	INFO	Listening on port 38683
+1606130143608	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://cdn.robinhood.com/assets/generated_assets/Vendor-dd9ca8ace0f5e722d8f2.chunk.js, line 2: Error: Unauthorized
+JavaScript error: https://cdn.robinhood.com/assets/generated_assets/Vendor-dd9ca8ace0f5e722d8f2.chunk.js, line 2: Error: Unauthorized
+JavaScript error: https://cdn.robinhood.com/assets/generated_assets/Vendor-dd9ca8ace0f5e722d8f2.chunk.js, line 2: Error: Request has been terminated
+Possible causes: the network is offline, Origin is not allowed by Access-Control-Allow-Origin, the page is being unloaded, etc.
+1606130170769	Marionette	INFO	Stopped listening on port 38683
+1606130175023	geckodriver	INFO	Listening on 127.0.0.1:54257
+1606130176031	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileR82VPj"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1606130180482	Marionette	INFO	Listening on port 39683
+1606130180600	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://cdn.robinhood.com/assets/generated_assets/Vendor-bc841585fe4223886653.chunk.js, line 2: Error: Unauthorized
+JavaScript error: https://cdn.robinhood.com/assets/generated_assets/Vendor-bc841585fe4223886653.chunk.js, line 2: Error: Unauthorized
+JavaScript error: https://cdn.robinhood.com/assets/generated_assets/Vendor-bc841585fe4223886653.chunk.js, line 2: Error: Request has been terminated
+Possible causes: the network is offline, Origin is not allowed by Access-Control-Allow-Origin, the page is being unloaded, etc.
+1606130203054	Marionette	INFO	Stopped listening on port 39683
+1606130206596	geckodriver	INFO	Listening on 127.0.0.1:50223
+1606130207603	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilepTeA5c"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1606130211933	Marionette	INFO	Listening on port 43087
+1606130212048	Marionette	WARN	TLS certificate errors will be ignored for this session
+1606130248519	geckodriver	INFO	Listening on 127.0.0.1:46445
+1606130249529	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileSKfIz3"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1606130254129	Marionette	INFO	Stopped listening on port 43087
+1606130254453	Marionette	INFO	Listening on port 43841
+1606130254577	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://cdn.robinhood.com/assets/generated_assets/Vendor-dd9ca8ace0f5e722d8f2.chunk.js, line 2: Error: Unauthorized
+JavaScript error: https://cdn.robinhood.com/assets/generated_assets/Vendor-dd9ca8ace0f5e722d8f2.chunk.js, line 2: Error: Unauthorized
+JavaScript error: https://cdn.robinhood.com/assets/generated_assets/App-d74b971cef41b5035827.chunk.js, line 2: SecurityError: Permission denied to access property "XMLHttpRequest" on cross-origin object
+1606130277989	Marionette	INFO	Stopped listening on port 43841
+1606130281480	geckodriver	INFO	Listening on 127.0.0.1:44169
+1606130282488	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile67pgLN"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1606130286670	Marionette	INFO	Listening on port 43197
+1606130286733	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://cdn.robinhood.com/assets/generated_assets/Vendor-bc841585fe4223886653.chunk.js, line 2: Error: Unauthorized
+JavaScript error: https://cdn.robinhood.com/assets/generated_assets/Vendor-bc841585fe4223886653.chunk.js, line 2: Error: Unauthorized
+JavaScript error: https://cdn.robinhood.com/assets/generated_assets/App-5fec605fbe5874a87906.chunk.js, line 2: SecurityError: Permission denied to access property "XMLHttpRequest" on cross-origin object
+1606130314508	Marionette	INFO	Stopped listening on port 43197
+1606130317717	geckodriver	INFO	Listening on 127.0.0.1:41717
+1606130318726	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile9daiQf"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1606130322978	Marionette	INFO	Listening on port 43485
+1606130323077	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://cdn.robinhood.com/assets/generated_assets/Vendor-bc841585fe4223886653.chunk.js, line 2: Error: Unauthorized
+JavaScript error: https://cdn.robinhood.com/assets/generated_assets/Vendor-bc841585fe4223886653.chunk.js, line 2: Error: Unauthorized
+JavaScript error: https://cdn.robinhood.com/assets/generated_assets/App-5fec605fbe5874a87906.chunk.js, line 2: SecurityError: Permission denied to access property "XMLHttpRequest" on cross-origin object
+1606130344647	Marionette	INFO	Stopped listening on port 43485
+1606135207076	geckodriver	INFO	Listening on 127.0.0.1:34955
+1606135208085	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilexIBOMt"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1606135212173	Marionette	INFO	Listening on port 43195
+1606135212227	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://cdn.robinhood.com/assets/generated_assets/Vendor-bc841585fe4223886653.chunk.js, line 2: Error: Unauthorized
+JavaScript error: https://cdn.robinhood.com/assets/generated_assets/Vendor-bc841585fe4223886653.chunk.js, line 2: Error: Unauthorized
+JavaScript error: https://cdn.robinhood.com/assets/generated_assets/Vendor-bc841585fe4223886653.chunk.js, line 2: Error: Unauthorized
+1606135259455	Marionette	INFO	Stopped listening on port 43195
+1606135262807	geckodriver	INFO	Listening on 127.0.0.1:43141
+1606135263816	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilerDRjtt"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1606135269371	Marionette	INFO	Listening on port 41181
+1606135269487	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://cdn.robinhood.com/assets/generated_assets/Vendor-bc841585fe4223886653.chunk.js, line 2: Error: Unauthorized
+JavaScript error: https://cdn.robinhood.com/assets/generated_assets/Vendor-bc841585fe4223886653.chunk.js, line 2: Error: Unauthorized
+JavaScript error: https://cdn.robinhood.com/assets/generated_assets/Vendor-bc841585fe4223886653.chunk.js, line 2: Error: Unauthorized
+JavaScript error: https://cdn.robinhood.com/assets/generated_assets/Vendor-bc841585fe4223886653.chunk.js, line 2: Error: Unauthorized
+1606135317245	Marionette	INFO	Stopped listening on port 41181
+1606135320582	geckodriver	INFO	Listening on 127.0.0.1:56881
+1606135321591	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileen81GH"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1606135325742	Marionette	INFO	Listening on port 46119
+1606135325837	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://cdn.robinhood.com/assets/generated_assets/Vendor-bc841585fe4223886653.chunk.js, line 2: Error: Unauthorized
+JavaScript error: https://cdn.robinhood.com/assets/generated_assets/Vendor-bc841585fe4223886653.chunk.js, line 2: Error: Unauthorized
+JavaScript error: https://cdn.robinhood.com/assets/generated_assets/Vendor-bc841585fe4223886653.chunk.js, line 2: Error: Unauthorized
+JavaScript error: https://cdn.robinhood.com/assets/generated_assets/Vendor-bc841585fe4223886653.chunk.js, line 2: Error: Unauthorized
+JavaScript error: https://cdn.robinhood.com/assets/generated_assets/Vendor-bc841585fe4223886653.chunk.js, line 2: Error: Unauthorized
+JavaScript error: https://cdn.robinhood.com/assets/generated_assets/Vendor-bc841585fe4223886653.chunk.js, line 2: Error: Unauthorized
+1606135388494	Marionette	INFO	Stopped listening on port 46119
+1606135391940	geckodriver	INFO	Listening on 127.0.0.1:46157
+1606135392948	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilem8XuFG"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1606135396856	Marionette	INFO	Listening on port 45085
+1606135396891	Marionette	WARN	TLS certificate errors will be ignored for this session
+1606135436806	Marionette	INFO	Stopped listening on port 45085
+1606135440020	geckodriver	INFO	Listening on 127.0.0.1:54529
+1606135441028	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilejk7AO6"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1606135444955	Marionette	INFO	Listening on port 32809
+1606135445074	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://cdn.robinhood.com/assets/generated_assets/Vendor-bc841585fe4223886653.chunk.js, line 2: Error: Unauthorized
+JavaScript error: https://cdn.robinhood.com/assets/generated_assets/Vendor-bc841585fe4223886653.chunk.js, line 2: Error: Unauthorized
+JavaScript error: https://cdn.robinhood.com/assets/generated_assets/Vendor-bc841585fe4223886653.chunk.js, line 2: Error: Unauthorized
+JavaScript error: https://cdn.robinhood.com/assets/generated_assets/Vendor-bc841585fe4223886653.chunk.js, line 2: Error: Unauthorized
+JavaScript error: https://cdn.robinhood.com/assets/generated_assets/Vendor-bc841585fe4223886653.chunk.js, line 2: Error: Unauthorized
+JavaScript error: https://cdn.robinhood.com/assets/generated_assets/Vendor-bc841585fe4223886653.chunk.js, line 2: Error: Unauthorized
+JavaScript error: https://cdn.robinhood.com/assets/generated_assets/Vendor-bc841585fe4223886653.chunk.js, line 2: Error: Unauthorized
+JavaScript error: https://cdn.robinhood.com/assets/generated_assets/Vendor-bc841585fe4223886653.chunk.js, line 2: Error: Unauthorized
+1606135505860	Marionette	INFO	Stopped listening on port 32809
+1606135509671	geckodriver	INFO	Listening on 127.0.0.1:59285
+1606135510681	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilef3ZQbQ"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1606135514756	Marionette	INFO	Listening on port 42625
+1606135514821	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://cdn.robinhood.com/assets/generated_assets/App-d74b971cef41b5035827.chunk.js, line 2: SecurityError: Permission denied to access property "XMLHttpRequest" on cross-origin object
+1606135540832	Marionette	INFO	Stopped listening on port 42625
+1606135544056	geckodriver	INFO	Listening on 127.0.0.1:36659
+1606135545067	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilea8C3QN"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1606135549347	Marionette	INFO	Listening on port 45989
+1606135549409	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://cdn.robinhood.com/assets/generated_assets/Vendor-bc841585fe4223886653.chunk.js, line 2: Error: Unauthorized
+JavaScript error: https://cdn.robinhood.com/assets/generated_assets/Vendor-bc841585fe4223886653.chunk.js, line 2: Error: Unauthorized
+1606135577377	Marionette	INFO	Stopped listening on port 45989
+1606135581079	geckodriver	INFO	Listening on 127.0.0.1:34577
+1606135582088	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofiled1LIZD"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1606135586250	Marionette	INFO	Listening on port 37617
+1606135586332	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://cdn.robinhood.com/assets/generated_assets/Vendor-bc841585fe4223886653.chunk.js, line 2: Error: Unauthorized
+JavaScript error: https://cdn.robinhood.com/assets/generated_assets/Vendor-bc841585fe4223886653.chunk.js, line 2: Error: Unauthorized
+JavaScript error: https://cdn.robinhood.com/assets/generated_assets/Vendor-bc841585fe4223886653.chunk.js, line 2: Error: Unauthorized
+JavaScript error: https://cdn.robinhood.com/assets/generated_assets/Vendor-bc841585fe4223886653.chunk.js, line 2: Error: Unauthorized
+JavaScript error: https://cdn.robinhood.com/assets/generated_assets/Vendor-bc841585fe4223886653.chunk.js, line 2: Error: Unauthorized
+JavaScript error: https://cdn.robinhood.com/assets/generated_assets/Vendor-bc841585fe4223886653.chunk.js, line 2: Error: Unauthorized
+JavaScript error: https://cdn.robinhood.com/assets/generated_assets/Vendor-bc841585fe4223886653.chunk.js, line 2: Error: Unauthorized
+JavaScript error: https://cdn.robinhood.com/assets/generated_assets/Vendor-bc841585fe4223886653.chunk.js, line 2: Error: Unauthorized
+JavaScript error: https://cdn.robinhood.com/assets/generated_assets/Vendor-bc841585fe4223886653.chunk.js, line 2: Error: Unauthorized
+JavaScript error: https://cdn.robinhood.com/assets/generated_assets/Vendor-bc841585fe4223886653.chunk.js, line 2: Error: Unauthorized
+JavaScript error: https://cdn.robinhood.com/assets/generated_assets/Vendor-bc841585fe4223886653.chunk.js, line 2: Error: Request has been terminated
+Possible causes: the network is offline, Origin is not allowed by Access-Control-Allow-Origin, the page is being unloaded, etc.
+1606135645380	Marionette	INFO	Stopped listening on port 37617
+1606135648543	geckodriver	INFO	Listening on 127.0.0.1:35253
+1606135649551	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileebwNjC"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1606135653728	Marionette	INFO	Listening on port 36809
+1606135653795	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://cdn.robinhood.com/assets/generated_assets/Vendor-bc841585fe4223886653.chunk.js, line 2: Error: Unauthorized
+JavaScript error: https://cdn.robinhood.com/assets/generated_assets/Vendor-bc841585fe4223886653.chunk.js, line 2: Error: Unauthorized
+1606135688986	Marionette	INFO	Stopped listening on port 36809
+1606135692439	geckodriver	INFO	Listening on 127.0.0.1:39661
+1606135693448	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileB9pj3s"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1606135697687	Marionette	INFO	Listening on port 41207
+1606135697789	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://cdn.robinhood.com/assets/generated_assets/Vendor-dd9ca8ace0f5e722d8f2.chunk.js, line 2: Error: Unauthorized
+JavaScript error: https://cdn.robinhood.com/assets/generated_assets/Vendor-dd9ca8ace0f5e722d8f2.chunk.js, line 2: Error: Unauthorized
+JavaScript error: https://cdn.robinhood.com/assets/generated_assets/Vendor-dd9ca8ace0f5e722d8f2.chunk.js, line 2: Error: Request has been terminated
+Possible causes: the network is offline, Origin is not allowed by Access-Control-Allow-Origin, the page is being unloaded, etc.
+1606135732760	Marionette	INFO	Stopped listening on port 41207
+1606135736957	geckodriver	INFO	Listening on 127.0.0.1:49881
+1606135737966	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilezLQM6Q"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1606135742485	Marionette	INFO	Listening on port 34621
+1606135742610	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://cdn.robinhood.com/assets/generated_assets/Vendor-bc841585fe4223886653.chunk.js, line 2: Error: Unauthorized
+JavaScript error: https://cdn.robinhood.com/assets/generated_assets/Vendor-bc841585fe4223886653.chunk.js, line 2: Error: Unauthorized
+JavaScript error: https://cdn.robinhood.com/assets/generated_assets/Vendor-bc841585fe4223886653.chunk.js, line 2: Error: Unauthorized
+1606135781694	Marionette	INFO	Stopped listening on port 34621
+1606135785294	geckodriver	INFO	Listening on 127.0.0.1:33245
+1606135786305	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilerp41jp"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1606135791037	Marionette	INFO	Listening on port 36493
+1606135791154	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://cdn.robinhood.com/assets/generated_assets/Vendor-dd9ca8ace0f5e722d8f2.chunk.js, line 2: Error: Unauthorized
+JavaScript error: https://cdn.robinhood.com/assets/generated_assets/Vendor-dd9ca8ace0f5e722d8f2.chunk.js, line 2: Error: Unauthorized
+JavaScript error: https://cdn.robinhood.com/assets/generated_assets/Vendor-dd9ca8ace0f5e722d8f2.chunk.js, line 2: Error: Unauthorized
+1606135828229	Marionette	INFO	Stopped listening on port 36493
+1606135831504	geckodriver	INFO	Listening on 127.0.0.1:42987
+1606135832514	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile6ql0zE"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1606135837213	Marionette	INFO	Listening on port 38123
+1606135837260	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://cdn.robinhood.com/assets/generated_assets/Vendor-bc841585fe4223886653.chunk.js, line 2: Error: Unauthorized
+JavaScript error: https://cdn.robinhood.com/assets/generated_assets/Vendor-bc841585fe4223886653.chunk.js, line 2: Error: Unauthorized
+JavaScript error: https://cdn.robinhood.com/assets/generated_assets/Vendor-bc841585fe4223886653.chunk.js, line 2: Error: Unauthorized
+1606135871161	Marionette	INFO	Stopped listening on port 38123
+1606135874349	geckodriver	INFO	Listening on 127.0.0.1:52237
+1606135875357	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileg40btG"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1606135879819	Marionette	INFO	Listening on port 43557
+1606135879927	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://cdn.robinhood.com/assets/generated_assets/Vendor-bc841585fe4223886653.chunk.js, line 2: Error: Unauthorized
+JavaScript error: https://cdn.robinhood.com/assets/generated_assets/Vendor-bc841585fe4223886653.chunk.js, line 2: Error: Request has been terminated
+Possible causes: the network is offline, Origin is not allowed by Access-Control-Allow-Origin, the page is being unloaded, etc.
+JavaScript error: https://cdn.robinhood.com/assets/generated_assets/Vendor-bc841585fe4223886653.chunk.js, line 2: Error: Request has been terminated
+Possible causes: the network is offline, Origin is not allowed by Access-Control-Allow-Origin, the page is being unloaded, etc.
+1606135930185	Marionette	INFO	Stopped listening on port 43557
+1606135933645	geckodriver	INFO	Listening on 127.0.0.1:51037
+1606135934657	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilewtGetC"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1606135939310	Marionette	INFO	Listening on port 40189
+1606135939403	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://cdn.robinhood.com/assets/generated_assets/Vendor-bc841585fe4223886653.chunk.js, line 2: Error: Unauthorized
+JavaScript error: https://cdn.robinhood.com/assets/generated_assets/Vendor-bc841585fe4223886653.chunk.js, line 2: Error: Unauthorized
+JavaScript error: https://cdn.robinhood.com/assets/generated_assets/Vendor-bc841585fe4223886653.chunk.js, line 2: Error: Unauthorized
+JavaScript error: https://cdn.robinhood.com/assets/generated_assets/Vendor-bc841585fe4223886653.chunk.js, line 2: Error: Unauthorized
+1606135987930	Marionette	INFO	Stopped listening on port 40189
+1606135991428	geckodriver	INFO	Listening on 127.0.0.1:50637
+1606135992436	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilemcNkgp"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1606135997222	Marionette	INFO	Listening on port 43183
+1606135997282	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://cdn.robinhood.com/assets/generated_assets/Vendor-bc841585fe4223886653.chunk.js, line 2: Error: Unauthorized
+JavaScript error: https://cdn.robinhood.com/assets/generated_assets/Vendor-bc841585fe4223886653.chunk.js, line 2: Error: Unauthorized
+JavaScript error: https://cdn.robinhood.com/assets/generated_assets/Vendor-bc841585fe4223886653.chunk.js, line 2: Error: Unauthorized
+JavaScript error: https://cdn.robinhood.com/assets/generated_assets/Vendor-bc841585fe4223886653.chunk.js, line 2: Error: Unauthorized
+1606136045684	Marionette	INFO	Stopped listening on port 43183
+1606136048917	geckodriver	INFO	Listening on 127.0.0.1:48303
+1606136049925	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileORABUO"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1606136053763	Marionette	INFO	Listening on port 46715
+1606136053872	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://cdn.robinhood.com/assets/generated_assets/Vendor-dd9ca8ace0f5e722d8f2.chunk.js, line 2: Error: Unauthorized
+JavaScript error: https://cdn.robinhood.com/assets/generated_assets/Vendor-dd9ca8ace0f5e722d8f2.chunk.js, line 2: Error: Unauthorized
+1606136088233	Marionette	INFO	Stopped listening on port 46715
+1606136091502	geckodriver	INFO	Listening on 127.0.0.1:51207
+1606136092509	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileafF2cl"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1606136096410	Marionette	INFO	Listening on port 46661
+1606136096461	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://cdn.robinhood.com/assets/generated_assets/Vendor-bc841585fe4223886653.chunk.js, line 2: Error: Unauthorized
+JavaScript error: https://cdn.robinhood.com/assets/generated_assets/Vendor-bc841585fe4223886653.chunk.js, line 2: Error: Unauthorized
+JavaScript error: https://cdn.robinhood.com/assets/generated_assets/Vendor-bc841585fe4223886653.chunk.js, line 2: Error: Unauthorized
+JavaScript error: https://cdn.robinhood.com/assets/generated_assets/Vendor-bc841585fe4223886653.chunk.js, line 2: Error: Unauthorized
+JavaScript error: https://cdn.robinhood.com/assets/generated_assets/Vendor-bc841585fe4223886653.chunk.js, line 2: Error: Unauthorized
+JavaScript error: https://cdn.robinhood.com/assets/generated_assets/Vendor-bc841585fe4223886653.chunk.js, line 2: Error: Unauthorized
+1606136171840	Marionette	INFO	Stopped listening on port 46661
+1606136175106	geckodriver	INFO	Listening on 127.0.0.1:40623
+1606136176114	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileps4hWZ"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1606136180445	Marionette	INFO	Listening on port 43681
+1606136180564	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://cdn.robinhood.com/assets/generated_assets/Vendor-dd9ca8ace0f5e722d8f2.chunk.js, line 2: Error: Unauthorized
+JavaScript error: https://cdn.robinhood.com/assets/generated_assets/Vendor-dd9ca8ace0f5e722d8f2.chunk.js, line 2: Error: Unauthorized
+JavaScript error: https://cdn.robinhood.com/assets/generated_assets/Vendor-dd9ca8ace0f5e722d8f2.chunk.js, line 2: Error: Unauthorized
+JavaScript error: https://cdn.robinhood.com/assets/generated_assets/Vendor-dd9ca8ace0f5e722d8f2.chunk.js, line 2: Error: Unauthorized
+1606136241800	Marionette	INFO	Stopped listening on port 43681
+1606136245058	geckodriver	INFO	Listening on 127.0.0.1:56079
+1606136246066	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilep9n4YQ"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1606136250419	Marionette	INFO	Listening on port 35561
+1606136250511	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://cdn.robinhood.com/assets/generated_assets/Vendor-dd9ca8ace0f5e722d8f2.chunk.js, line 2: Error: Unauthorized
+JavaScript error: https://cdn.robinhood.com/assets/generated_assets/Vendor-dd9ca8ace0f5e722d8f2.chunk.js, line 2: Error: Unauthorized
+JavaScript error: https://cdn.robinhood.com/assets/generated_assets/Vendor-dd9ca8ace0f5e722d8f2.chunk.js, line 2: Error: Unauthorized
+1606136285566	Marionette	INFO	Stopped listening on port 35561
+1606136288933	geckodriver	INFO	Listening on 127.0.0.1:36353
+1606136289941	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilefYl7MT"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1606136294505	Marionette	INFO	Listening on port 37569
+1606136294616	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://cdn.robinhood.com/assets/generated_assets/Vendor-bc841585fe4223886653.chunk.js, line 2: Error: Unauthorized
+JavaScript error: https://cdn.robinhood.com/assets/generated_assets/Vendor-bc841585fe4223886653.chunk.js, line 2: Error: Unauthorized
+JavaScript error: https://cdn.robinhood.com/assets/generated_assets/Vendor-bc841585fe4223886653.chunk.js, line 2: Error: Unauthorized
+JavaScript error: https://cdn.robinhood.com/assets/generated_assets/Vendor-bc841585fe4223886653.chunk.js, line 2: Error: Unauthorized
+JavaScript error: https://cdn.robinhood.com/assets/generated_assets/Vendor-bc841585fe4223886653.chunk.js, line 2: Error: Unauthorized
+1606136351615	Marionette	INFO	Stopped listening on port 37569
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1606136354793	geckodriver	INFO	Listening on 127.0.0.1:53277
+1606136355800	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofiler6u7CL"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1606136359889	Marionette	INFO	Listening on port 45335
+1606136359941	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://cdn.robinhood.com/assets/generated_assets/Vendor-bc841585fe4223886653.chunk.js, line 2: Error: Unauthorized
+JavaScript error: https://cdn.robinhood.com/assets/generated_assets/Vendor-bc841585fe4223886653.chunk.js, line 2: Error: Unauthorized
+JavaScript error: https://cdn.robinhood.com/assets/generated_assets/Vendor-bc841585fe4223886653.chunk.js, line 2: Error: Unauthorized
+JavaScript error: https://cdn.robinhood.com/assets/generated_assets/Vendor-bc841585fe4223886653.chunk.js, line 2: Error: Unauthorized
+1606136404945	Marionette	INFO	Stopped listening on port 45335
+1606136408413	geckodriver	INFO	Listening on 127.0.0.1:33043
+1606136409422	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileKidw0P"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1606136413592	Marionette	INFO	Listening on port 46507
+1606136413672	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://cdn.robinhood.com/assets/generated_assets/Vendor-bc841585fe4223886653.chunk.js, line 2: Error: Unauthorized
+JavaScript error: https://cdn.robinhood.com/assets/generated_assets/Vendor-bc841585fe4223886653.chunk.js, line 2: Error: Unauthorized
+JavaScript error: https://cdn.robinhood.com/assets/generated_assets/Vendor-bc841585fe4223886653.chunk.js, line 2: Error: Unauthorized
+JavaScript error: https://cdn.robinhood.com/assets/generated_assets/Vendor-bc841585fe4223886653.chunk.js, line 2: Error: Unauthorized
+1606136454074	Marionette	INFO	Stopped listening on port 46507
+1606136458033	geckodriver	INFO	Listening on 127.0.0.1:40323
+1606136459042	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileUxU0Le"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1606136463424	Marionette	INFO	Listening on port 37801
+1606136463493	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://cdn.robinhood.com/assets/generated_assets/Vendor-dd9ca8ace0f5e722d8f2.chunk.js, line 2: Error: Unauthorized
+JavaScript error: https://cdn.robinhood.com/assets/generated_assets/Vendor-dd9ca8ace0f5e722d8f2.chunk.js, line 2: Error: Unauthorized
+JavaScript error: https://cdn.robinhood.com/assets/generated_assets/Vendor-dd9ca8ace0f5e722d8f2.chunk.js, line 2: Error: Unauthorized
+JavaScript error: https://cdn.robinhood.com/assets/generated_assets/Vendor-dd9ca8ace0f5e722d8f2.chunk.js, line 2: Error: Unauthorized
+JavaScript error: https://cdn.robinhood.com/assets/generated_assets/Vendor-dd9ca8ace0f5e722d8f2.chunk.js, line 2: Error: Unauthorized
+1606136552915	Marionette	INFO	Stopped listening on port 37801
+1606136556204	geckodriver	INFO	Listening on 127.0.0.1:37115
+1606136557214	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileoP3VPV"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1606136561467	Marionette	INFO	Listening on port 34965
+1606136561561	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://cdn.robinhood.com/assets/generated_assets/Vendor-bc841585fe4223886653.chunk.js, line 2: Error: Unauthorized
+JavaScript error: https://cdn.robinhood.com/assets/generated_assets/Vendor-bc841585fe4223886653.chunk.js, line 2: Error: Unauthorized
+JavaScript error: https://cdn.robinhood.com/assets/generated_assets/Vendor-bc841585fe4223886653.chunk.js, line 2: Error: Unauthorized
+JavaScript error: https://cdn.robinhood.com/assets/generated_assets/Vendor-bc841585fe4223886653.chunk.js, line 2: Error: Unauthorized
+1606136624468	Marionette	INFO	Stopped listening on port 34965
+1606136627712	geckodriver	INFO	Listening on 127.0.0.1:57515
+1606136628720	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilez7Ejpq"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1606136632952	Marionette	INFO	Listening on port 46839
+1606136633065	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://cdn.robinhood.com/assets/generated_assets/Vendor-bc841585fe4223886653.chunk.js, line 2: Error: Unauthorized
+JavaScript error: https://cdn.robinhood.com/assets/generated_assets/Vendor-bc841585fe4223886653.chunk.js, line 2: Error: Unauthorized
+JavaScript error: https://cdn.robinhood.com/assets/generated_assets/Vendor-bc841585fe4223886653.chunk.js, line 2: Error: Unauthorized
+JavaScript error: https://cdn.robinhood.com/assets/generated_assets/Vendor-bc841585fe4223886653.chunk.js, line 2: Error: Unauthorized
+1606136668826	Marionette	INFO	Stopped listening on port 46839
+1606136672172	geckodriver	INFO	Listening on 127.0.0.1:55323
+1606136673180	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile2lcW3G"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1606136677334	Marionette	INFO	Listening on port 35353
+1606136677431	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://cdn.robinhood.com/assets/generated_assets/Vendor-bc841585fe4223886653.chunk.js, line 2: Error: Unauthorized
+JavaScript error: https://cdn.robinhood.com/assets/generated_assets/Vendor-bc841585fe4223886653.chunk.js, line 2: Error: Unauthorized
+JavaScript error: https://cdn.robinhood.com/assets/generated_assets/Vendor-bc841585fe4223886653.chunk.js, line 2: Error: Unauthorized
+JavaScript error: https://cdn.robinhood.com/assets/generated_assets/Vendor-bc841585fe4223886653.chunk.js, line 2: Error: Request has been terminated
+Possible causes: the network is offline, Origin is not allowed by Access-Control-Allow-Origin, the page is being unloaded, etc.
+1606136718171	Marionette	INFO	Stopped listening on port 35353
+1606136721668	geckodriver	INFO	Listening on 127.0.0.1:48369
+1606136722680	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileUwrIdS"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1606136726923	Marionette	INFO	Listening on port 36211
+1606136727024	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://cdn.robinhood.com/assets/generated_assets/Vendor-bc841585fe4223886653.chunk.js, line 2: Error: Unauthorized
+JavaScript error: https://cdn.robinhood.com/assets/generated_assets/Vendor-bc841585fe4223886653.chunk.js, line 2: Error: Unauthorized
+JavaScript error: https://cdn.robinhood.com/assets/generated_assets/Vendor-bc841585fe4223886653.chunk.js, line 2: Error: Unauthorized
+JavaScript error: https://cdn.robinhood.com/assets/generated_assets/Vendor-bc841585fe4223886653.chunk.js, line 2: Error: Unauthorized
+JavaScript error: https://cdn.robinhood.com/assets/generated_assets/Vendor-bc841585fe4223886653.chunk.js, line 2: Error: Request has been terminated
+Possible causes: the network is offline, Origin is not allowed by Access-Control-Allow-Origin, the page is being unloaded, etc.
+1606136779631	Marionette	INFO	Stopped listening on port 36211
+1606136782894	geckodriver	INFO	Listening on 127.0.0.1:58829
+1606136783903	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileR6kVKO"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1606136788266	Marionette	INFO	Listening on port 35255
+1606136788350	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://cdn.robinhood.com/assets/generated_assets/Vendor-bc841585fe4223886653.chunk.js, line 2: Error: Unauthorized
+JavaScript error: https://cdn.robinhood.com/assets/generated_assets/Vendor-bc841585fe4223886653.chunk.js, line 2: Error: Unauthorized
+JavaScript error: https://cdn.robinhood.com/assets/generated_assets/Vendor-bc841585fe4223886653.chunk.js, line 2: Error: Unauthorized
+JavaScript error: https://cdn.robinhood.com/assets/generated_assets/Vendor-bc841585fe4223886653.chunk.js, line 2: Error: Unauthorized
+1606136848439	Marionette	INFO	Stopped listening on port 35255
+1606136851692	geckodriver	INFO	Listening on 127.0.0.1:55647
+1606136852701	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileS4NCl1"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1606136857749	Marionette	INFO	Listening on port 34447
+1606136857844	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://cdn.robinhood.com/assets/generated_assets/Vendor-bc841585fe4223886653.chunk.js, line 2: Error: Unauthorized
+JavaScript error: https://cdn.robinhood.com/assets/generated_assets/Vendor-bc841585fe4223886653.chunk.js, line 2: Error: Unauthorized
+JavaScript error: https://cdn.robinhood.com/assets/generated_assets/App-5fec605fbe5874a87906.chunk.js, line 2: SecurityError: Permission denied to access property "XMLHttpRequest" on cross-origin object
+1606136918914	Marionette	INFO	Stopped listening on port 34447
+1606136922108	geckodriver	INFO	Listening on 127.0.0.1:39855
+1606136923119	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile4REJqv"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1606136927824	Marionette	INFO	Listening on port 43969
+1606136927865	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: Region.jsm: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 726))
+console.error: Region.jsm: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 376))
+JavaScript error: https://cdn.robinhood.com/assets/generated_assets/Vendor-bc841585fe4223886653.chunk.js, line 2: Error: Unauthorized
+JavaScript error: https://cdn.robinhood.com/assets/generated_assets/Vendor-bc841585fe4223886653.chunk.js, line 2: Error: Unauthorized
+JavaScript error: https://cdn.robinhood.com/assets/generated_assets/Vendor-bc841585fe4223886653.chunk.js, line 2: Error: Unauthorized
+JavaScript error: https://cdn.robinhood.com/assets/generated_assets/Vendor-bc841585fe4223886653.chunk.js, line 2: Error: Unauthorized
+1606137001366	Marionette	INFO	Stopped listening on port 43969
+1606137004467	geckodriver	INFO	Listening on 127.0.0.1:47119
+1606137005478	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile9rDdF0"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1606137009406	Marionette	INFO	Listening on port 34293
+1606137009518	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://cdn.robinhood.com/assets/generated_assets/Vendor-dd9ca8ace0f5e722d8f2.chunk.js, line 2: Error: Unauthorized
+JavaScript error: https://cdn.robinhood.com/assets/generated_assets/Vendor-dd9ca8ace0f5e722d8f2.chunk.js, line 2: Error: Unauthorized
+1606137066949	Marionette	INFO	Stopped listening on port 34293
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1606137070182	geckodriver	INFO	Listening on 127.0.0.1:59679
+1606137071191	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileK3kbLd"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1606137075024	Marionette	INFO	Listening on port 35851
+1606137075131	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://cdn.robinhood.com/assets/generated_assets/Vendor-bc841585fe4223886653.chunk.js, line 2: Error: Unauthorized
+JavaScript error: https://cdn.robinhood.com/assets/generated_assets/Vendor-bc841585fe4223886653.chunk.js, line 2: Error: Unauthorized
+JavaScript error: https://cdn.robinhood.com/assets/generated_assets/Vendor-bc841585fe4223886653.chunk.js, line 2: Error: Unauthorized
+1606137108312	Marionette	INFO	Stopped listening on port 35851
+1606137111701	geckodriver	INFO	Listening on 127.0.0.1:47831
+1606137112713	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileySbNvE"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1606137116721	Marionette	INFO	Listening on port 43459
+1606137116762	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://cdn.robinhood.com/assets/generated_assets/Vendor-bc841585fe4223886653.chunk.js, line 2: Error: Unauthorized
+JavaScript error: https://cdn.robinhood.com/assets/generated_assets/Vendor-bc841585fe4223886653.chunk.js, line 2: Error: Unauthorized
+JavaScript error: https://cdn.robinhood.com/assets/generated_assets/Vendor-bc841585fe4223886653.chunk.js, line 2: Error: Unauthorized
+JavaScript error: https://cdn.robinhood.com/assets/generated_assets/Vendor-bc841585fe4223886653.chunk.js, line 2: Error: Unauthorized
+1606137166109	Marionette	INFO	Stopped listening on port 43459
+1606137169615	geckodriver	INFO	Listening on 127.0.0.1:43743
+1606137170623	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilekXl4fv"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1606137174957	Marionette	INFO	Listening on port 34577
+1606137175064	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://cdn.robinhood.com/assets/generated_assets/Vendor-bc841585fe4223886653.chunk.js, line 2: Error: Unauthorized
+JavaScript error: https://cdn.robinhood.com/assets/generated_assets/Vendor-bc841585fe4223886653.chunk.js, line 2: Error: Unauthorized
+1606137221781	Marionette	INFO	Stopped listening on port 34577
+1606137225085	geckodriver	INFO	Listening on 127.0.0.1:38001
+1606137226093	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileM5nXpK"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1606137230411	Marionette	INFO	Listening on port 43367
+1606137230532	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://cdn.robinhood.com/assets/generated_assets/Vendor-bc841585fe4223886653.chunk.js, line 2: Error: Unauthorized
+JavaScript error: https://cdn.robinhood.com/assets/generated_assets/Vendor-bc841585fe4223886653.chunk.js, line 2: Error: Unauthorized
+JavaScript error: https://cdn.robinhood.com/assets/generated_assets/Vendor-bc841585fe4223886653.chunk.js, line 2: Error: Request has been terminated
+Possible causes: the network is offline, Origin is not allowed by Access-Control-Allow-Origin, the page is being unloaded, etc.
+JavaScript error: https://cdn.robinhood.com/assets/generated_assets/Vendor-bc841585fe4223886653.chunk.js, line 2: Error: Unauthorized
+1606137270340	Marionette	INFO	Stopped listening on port 43367
+1606137273729	geckodriver	INFO	Listening on 127.0.0.1:33957
+1606137274738	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileTkN99D"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1606137278862	Marionette	INFO	Listening on port 39655
+1606137278989	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://cdn.robinhood.com/assets/generated_assets/Vendor-bc841585fe4223886653.chunk.js, line 2: Error: Unauthorized
+JavaScript error: https://cdn.robinhood.com/assets/generated_assets/Vendor-bc841585fe4223886653.chunk.js, line 2: Error: Unauthorized
+JavaScript error: https://cdn.robinhood.com/assets/generated_assets/Vendor-bc841585fe4223886653.chunk.js, line 2: Error: Request has been terminated
+Possible causes: the network is offline, Origin is not allowed by Access-Control-Allow-Origin, the page is being unloaded, etc.
+1606137315647	Marionette	INFO	Stopped listening on port 39655
+1606137318963	geckodriver	INFO	Listening on 127.0.0.1:46697
+1606137319972	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilebvD3h1"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1606137324035	Marionette	INFO	Listening on port 36895
+1606137324118	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://cdn.robinhood.com/assets/generated_assets/Vendor-bc841585fe4223886653.chunk.js, line 2: Error: Unauthorized
+JavaScript error: https://cdn.robinhood.com/assets/generated_assets/Vendor-bc841585fe4223886653.chunk.js, line 2: Error: Unauthorized
+JavaScript error: https://cdn.robinhood.com/assets/generated_assets/Vendor-bc841585fe4223886653.chunk.js, line 2: Error: Unauthorized
+JavaScript error: https://cdn.robinhood.com/assets/generated_assets/Vendor-bc841585fe4223886653.chunk.js, line 2: Error: Unauthorized
+JavaScript error: https://cdn.robinhood.com/assets/generated_assets/Vendor-bc841585fe4223886653.chunk.js, line 2: Error: Request has been terminated
+Possible causes: the network is offline, Origin is not allowed by Access-Control-Allow-Origin, the page is being unloaded, etc.
+1606137373246	Marionette	INFO	Stopped listening on port 36895
+1606137376791	geckodriver	INFO	Listening on 127.0.0.1:47685
+1606137377801	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilejvgdf3"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1606137382607	Marionette	INFO	Listening on port 42729
+1606137382646	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://cdn.robinhood.com/assets/generated_assets/Vendor-bc841585fe4223886653.chunk.js, line 2: Error: Unauthorized
+JavaScript error: https://cdn.robinhood.com/assets/generated_assets/Vendor-bc841585fe4223886653.chunk.js, line 2: Error: Unauthorized
+JavaScript error: https://cdn.robinhood.com/assets/generated_assets/Vendor-bc841585fe4223886653.chunk.js, line 2: Error: Unauthorized
+JavaScript error: https://cdn.robinhood.com/assets/generated_assets/Vendor-bc841585fe4223886653.chunk.js, line 2: Error: Unauthorized
+JavaScript error: https://cdn.robinhood.com/assets/generated_assets/Vendor-bc841585fe4223886653.chunk.js, line 2: Error: Unauthorized
+1606137438489	Marionette	INFO	Stopped listening on port 42729
+1606137441931	geckodriver	INFO	Listening on 127.0.0.1:56447
+1606137442939	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileW26jNo"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1606137448047	Marionette	INFO	Listening on port 36197
+1606137448084	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://cdn.robinhood.com/assets/generated_assets/Vendor-dd9ca8ace0f5e722d8f2.chunk.js, line 2: Error: Unauthorized
+JavaScript error: https://cdn.robinhood.com/assets/generated_assets/Vendor-dd9ca8ace0f5e722d8f2.chunk.js, line 2: Error: Unauthorized
+JavaScript error: https://cdn.robinhood.com/assets/generated_assets/Vendor-dd9ca8ace0f5e722d8f2.chunk.js, line 2: Error: Unauthorized
+JavaScript error: https://cdn.robinhood.com/assets/generated_assets/Vendor-dd9ca8ace0f5e722d8f2.chunk.js, line 2: Error: Request has been terminated
+Possible causes: the network is offline, Origin is not allowed by Access-Control-Allow-Origin, the page is being unloaded, etc.
+1606137517162	Marionette	INFO	Stopped listening on port 36197
+1606137520374	geckodriver	INFO	Listening on 127.0.0.1:52883
+1606137521385	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilepZ7e92"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1606137526260	Marionette	INFO	Listening on port 36509
+1606137526330	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://cdn.robinhood.com/assets/generated_assets/Vendor-bc841585fe4223886653.chunk.js, line 2: Error: Unauthorized
+JavaScript error: https://cdn.robinhood.com/assets/generated_assets/Vendor-bc841585fe4223886653.chunk.js, line 2: Error: Unauthorized
+JavaScript error: https://cdn.robinhood.com/assets/generated_assets/Vendor-bc841585fe4223886653.chunk.js, line 2: Error: Unauthorized
+JavaScript error: https://cdn.robinhood.com/assets/generated_assets/Vendor-bc841585fe4223886653.chunk.js, line 2: Error: Unauthorized
+1606137597732	Marionette	INFO	Stopped listening on port 36509
+1606137600922	geckodriver	INFO	Listening on 127.0.0.1:60429
+1606137601929	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileno9Jjq"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1606137606281	Marionette	INFO	Listening on port 41837
+1606137606372	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://cdn.robinhood.com/assets/generated_assets/Vendor-bc841585fe4223886653.chunk.js, line 2: Error: Unauthorized
+JavaScript error: https://cdn.robinhood.com/assets/generated_assets/Vendor-bc841585fe4223886653.chunk.js, line 2: Error: Unauthorized
+JavaScript error: https://cdn.robinhood.com/assets/generated_assets/Vendor-bc841585fe4223886653.chunk.js, line 2: Error: Unauthorized
+JavaScript error: https://cdn.robinhood.com/assets/generated_assets/Vendor-bc841585fe4223886653.chunk.js, line 2: Error: Unauthorized
+1606137650126	Marionette	INFO	Stopped listening on port 41837
+1606137653482	geckodriver	INFO	Listening on 127.0.0.1:47015
+1606137654490	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileYPWDRd"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1606137658157	Marionette	INFO	Listening on port 42677
+1606137658243	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://cdn.robinhood.com/assets/generated_assets/Vendor-bc841585fe4223886653.chunk.js, line 2: Error: Unauthorized
+JavaScript error: https://cdn.robinhood.com/assets/generated_assets/Vendor-bc841585fe4223886653.chunk.js, line 2: Error: Unauthorized
+JavaScript error: https://cdn.robinhood.com/assets/generated_assets/Vendor-bc841585fe4223886653.chunk.js, line 2: Error: Unauthorized
+JavaScript error: https://cdn.robinhood.com/assets/generated_assets/Vendor-bc841585fe4223886653.chunk.js, line 2: Error: Unauthorized
+JavaScript error: https://cdn.robinhood.com/assets/generated_assets/Vendor-bc841585fe4223886653.chunk.js, line 2: Error: Unauthorized
+JavaScript error: https://cdn.robinhood.com/assets/generated_assets/Vendor-bc841585fe4223886653.chunk.js, line 2: Error: Request has been terminated
+Possible causes: the network is offline, Origin is not allowed by Access-Control-Allow-Origin, the page is being unloaded, etc.
+1606137714871	Marionette	INFO	Stopped listening on port 42677
+1606137720157	geckodriver	INFO	Listening on 127.0.0.1:44213
+1606137721167	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile9hfRxU"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1606137725279	Marionette	INFO	Listening on port 42739
+1606137725408	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://cdn.robinhood.com/assets/generated_assets/Vendor-bc841585fe4223886653.chunk.js, line 2: Error: Unauthorized
+JavaScript error: https://cdn.robinhood.com/assets/generated_assets/Vendor-bc841585fe4223886653.chunk.js, line 2: Error: Unauthorized
+JavaScript error: https://cdn.robinhood.com/assets/generated_assets/Vendor-bc841585fe4223886653.chunk.js, line 2: Error: Unauthorized
+JavaScript error: https://cdn.robinhood.com/assets/generated_assets/Vendor-bc841585fe4223886653.chunk.js, line 2: Error: Request has been terminated
+Possible causes: the network is offline, Origin is not allowed by Access-Control-Allow-Origin, the page is being unloaded, etc.
+JavaScript error: https://cdn.robinhood.com/assets/generated_assets/Vendor-bc841585fe4223886653.chunk.js, line 2: Error: Request has been terminated
+Possible causes: the network is offline, Origin is not allowed by Access-Control-Allow-Origin, the page is being unloaded, etc.
+1606137777940	Marionette	INFO	Stopped listening on port 42739
+1606137781251	geckodriver	INFO	Listening on 127.0.0.1:36667
+1606137782261	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileZwF8ka"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1606137786332	Marionette	INFO	Listening on port 36369
+1606137786404	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://cdn.robinhood.com/assets/generated_assets/Vendor-bc841585fe4223886653.chunk.js, line 2: Error: Unauthorized
+JavaScript error: https://cdn.robinhood.com/assets/generated_assets/Vendor-bc841585fe4223886653.chunk.js, line 2: Error: Unauthorized
+JavaScript error: https://cdn.robinhood.com/assets/generated_assets/Vendor-bc841585fe4223886653.chunk.js, line 2: Error: Request has been terminated
+Possible causes: the network is offline, Origin is not allowed by Access-Control-Allow-Origin, the page is being unloaded, etc.
+JavaScript error: https://cdn.robinhood.com/assets/generated_assets/Vendor-bc841585fe4223886653.chunk.js, line 2: Error: Unauthorized
+1606137835919	Marionette	INFO	Stopped listening on port 36369
+1606137839234	geckodriver	INFO	Listening on 127.0.0.1:47177
+1606137840243	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilevZzte4"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1606137844055	Marionette	INFO	Listening on port 41047
+1606137844198	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://cdn.robinhood.com/assets/generated_assets/Vendor-bc841585fe4223886653.chunk.js, line 2: Error: Unauthorized
+JavaScript error: https://cdn.robinhood.com/assets/generated_assets/Vendor-bc841585fe4223886653.chunk.js, line 2: Error: Unauthorized
+JavaScript error: https://cdn.robinhood.com/assets/generated_assets/Vendor-bc841585fe4223886653.chunk.js, line 2: Error: Unauthorized
+JavaScript error: https://cdn.robinhood.com/assets/generated_assets/Vendor-bc841585fe4223886653.chunk.js, line 2: Error: Unauthorized
+1606137888087	Marionette	INFO	Stopped listening on port 41047
+1606137891639	geckodriver	INFO	Listening on 127.0.0.1:54509
+1606137892646	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileHVYMWp"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1606137896559	Marionette	INFO	Listening on port 41091
+1606137896597	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://cdn.robinhood.com/assets/generated_assets/Vendor-bc841585fe4223886653.chunk.js, line 2: Error: Unauthorized
+JavaScript error: https://cdn.robinhood.com/assets/generated_assets/Vendor-bc841585fe4223886653.chunk.js, line 2: Error: Unauthorized
+JavaScript error: https://cdn.robinhood.com/assets/generated_assets/Vendor-bc841585fe4223886653.chunk.js, line 2: Error: Unauthorized
+1606137939384	Marionette	INFO	Stopped listening on port 41091
+1606137942810	geckodriver	INFO	Listening on 127.0.0.1:51727
+1606137943820	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileHE1hAo"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1606137947630	Marionette	INFO	Listening on port 42507
+1606137947764	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://cdn.robinhood.com/assets/generated_assets/Vendor-dd9ca8ace0f5e722d8f2.chunk.js, line 2: Error: Unauthorized
+JavaScript error: https://cdn.robinhood.com/assets/generated_assets/Vendor-dd9ca8ace0f5e722d8f2.chunk.js, line 2: Error: Unauthorized
+JavaScript error: https://cdn.robinhood.com/assets/generated_assets/Vendor-dd9ca8ace0f5e722d8f2.chunk.js, line 2: Error: Unauthorized
+1606137993484	Marionette	INFO	Stopped listening on port 42507
+1606137996881	geckodriver	INFO	Listening on 127.0.0.1:54931
+1606137997890	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilehDl1yI"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1606138001999	Marionette	INFO	Listening on port 33491
+1606138002032	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://cdn.robinhood.com/assets/generated_assets/Vendor-dd9ca8ace0f5e722d8f2.chunk.js, line 2: Error: Unauthorized
+JavaScript error: https://cdn.robinhood.com/assets/generated_assets/Vendor-dd9ca8ace0f5e722d8f2.chunk.js, line 2: Error: Unauthorized
+JavaScript error: https://cdn.robinhood.com/assets/generated_assets/Vendor-dd9ca8ace0f5e722d8f2.chunk.js, line 2: Error: Unauthorized
+JavaScript error: https://cdn.robinhood.com/assets/generated_assets/Vendor-dd9ca8ace0f5e722d8f2.chunk.js, line 2: Error: Request has been terminated
+Possible causes: the network is offline, Origin is not allowed by Access-Control-Allow-Origin, the page is being unloaded, etc.
+1606138045652	Marionette	INFO	Stopped listening on port 33491
+1606138049055	geckodriver	INFO	Listening on 127.0.0.1:40771
+1606138050064	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilerXIOkn"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1606138054221	Marionette	INFO	Listening on port 38415
+1606138054339	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://cdn.robinhood.com/assets/generated_assets/Vendor-bc841585fe4223886653.chunk.js, line 2: Error: Unauthorized
+JavaScript error: https://cdn.robinhood.com/assets/generated_assets/Vendor-bc841585fe4223886653.chunk.js, line 2: Error: Unauthorized
+JavaScript error: https://cdn.robinhood.com/assets/generated_assets/Vendor-bc841585fe4223886653.chunk.js, line 2: Error: Unauthorized
+1606138101929	Marionette	INFO	Stopped listening on port 38415
+1606138105286	geckodriver	INFO	Listening on 127.0.0.1:37305
+1606138106295	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileAgQzcr"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1606138110973	Marionette	INFO	Listening on port 46541
+1606138111072	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://cdn.robinhood.com/assets/generated_assets/Vendor-bc841585fe4223886653.chunk.js, line 2: Error: Unauthorized
+JavaScript error: https://cdn.robinhood.com/assets/generated_assets/Vendor-bc841585fe4223886653.chunk.js, line 2: Error: Unauthorized
+JavaScript error: https://cdn.robinhood.com/assets/generated_assets/Vendor-bc841585fe4223886653.chunk.js, line 2: Error: Unauthorized
+JavaScript error: https://cdn.robinhood.com/assets/generated_assets/Vendor-bc841585fe4223886653.chunk.js, line 2: Error: Unauthorized
+1606138144174	Marionette	INFO	Stopped listening on port 46541
+1606138147417	geckodriver	INFO	Listening on 127.0.0.1:56253
+1606138148423	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileAoGb0s"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1606138152560	Marionette	INFO	Listening on port 35803
+1606138152670	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://cdn.robinhood.com/assets/generated_assets/Vendor-bc841585fe4223886653.chunk.js, line 2: Error: Unauthorized
+JavaScript error: https://cdn.robinhood.com/assets/generated_assets/Vendor-bc841585fe4223886653.chunk.js, line 2: Error: Unauthorized
+JavaScript error: https://cdn.robinhood.com/assets/generated_assets/Vendor-bc841585fe4223886653.chunk.js, line 2: Error: Unauthorized
+JavaScript error: https://cdn.robinhood.com/assets/generated_assets/Vendor-bc841585fe4223886653.chunk.js, line 2: Error: Unauthorized
+1606138188704	Marionette	INFO	Stopped listening on port 35803
+1606138191891	geckodriver	INFO	Listening on 127.0.0.1:39107
+1606138192901	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileUqRjt4"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1606138197643	Marionette	INFO	Listening on port 41475
+1606138197787	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://cdn.robinhood.com/assets/generated_assets/Vendor-dd9ca8ace0f5e722d8f2.chunk.js, line 2: Error: Unauthorized
+JavaScript error: https://cdn.robinhood.com/assets/generated_assets/Vendor-dd9ca8ace0f5e722d8f2.chunk.js, line 2: Error: Unauthorized
+JavaScript error: https://cdn.robinhood.com/assets/generated_assets/Vendor-dd9ca8ace0f5e722d8f2.chunk.js, line 2: Error: Unauthorized
+JavaScript error: https://cdn.robinhood.com/assets/generated_assets/Vendor-dd9ca8ace0f5e722d8f2.chunk.js, line 2: Error: Unauthorized
+1606138237584	Marionette	INFO	Stopped listening on port 41475
+1606138240746	geckodriver	INFO	Listening on 127.0.0.1:45463
+1606138241755	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileoRPxuF"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1606138245949	Marionette	INFO	Listening on port 43751
+1606138246000	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://cdn.robinhood.com/assets/generated_assets/Vendor-bc841585fe4223886653.chunk.js, line 2: Error: Unauthorized
+JavaScript error: https://cdn.robinhood.com/assets/generated_assets/Vendor-bc841585fe4223886653.chunk.js, line 2: Error: Unauthorized
+JavaScript error: https://cdn.robinhood.com/assets/generated_assets/App-5fec605fbe5874a87906.chunk.js, line 2: SecurityError: Permission denied to access property "XMLHttpRequest" on cross-origin object
+1606138273184	Marionette	INFO	Stopped listening on port 43751
+1606138276498	geckodriver	INFO	Listening on 127.0.0.1:45465
+1606138277508	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileiDA19q"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1606138281769	Marionette	INFO	Listening on port 43315
+1606138281855	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://cdn.robinhood.com/assets/generated_assets/Vendor-bc841585fe4223886653.chunk.js, line 2: Error: Unauthorized
+JavaScript error: https://cdn.robinhood.com/assets/generated_assets/Vendor-bc841585fe4223886653.chunk.js, line 2: Error: Unauthorized
+JavaScript error: https://cdn.robinhood.com/assets/generated_assets/App-5fec605fbe5874a87906.chunk.js, line 2: SecurityError: Permission denied to access property "XMLHttpRequest" on cross-origin object
+1606138306259	Marionette	INFO	Stopped listening on port 43315
+1606138309542	geckodriver	INFO	Listening on 127.0.0.1:54247
+1606138310552	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileVhDQr3"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1606138315107	Marionette	INFO	Listening on port 33297
+1606138315193	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://cdn.robinhood.com/assets/generated_assets/Vendor-dd9ca8ace0f5e722d8f2.chunk.js, line 2: Error: Unauthorized
+JavaScript error: https://cdn.robinhood.com/assets/generated_assets/Vendor-dd9ca8ace0f5e722d8f2.chunk.js, line 2: Error: Unauthorized
+JavaScript error: https://cdn.robinhood.com/assets/generated_assets/Vendor-dd9ca8ace0f5e722d8f2.chunk.js, line 2: Error: Unauthorized
+JavaScript error: https://cdn.robinhood.com/assets/generated_assets/Vendor-dd9ca8ace0f5e722d8f2.chunk.js, line 2: Error: Unauthorized
+1606138357378	Marionette	INFO	Stopped listening on port 33297
+1606138360945	geckodriver	INFO	Listening on 127.0.0.1:35887
+1606138361956	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileC5pBJA"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1606138366358	Marionette	INFO	Listening on port 33201
+1606138366396	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://cdn.robinhood.com/assets/generated_assets/Vendor-dd9ca8ace0f5e722d8f2.chunk.js, line 2: Error: Unauthorized
+JavaScript error: https://cdn.robinhood.com/assets/generated_assets/Vendor-dd9ca8ace0f5e722d8f2.chunk.js, line 2: Error: Unauthorized
+1606138394780	Marionette	INFO	Stopped listening on port 33201
+1606138398662	geckodriver	INFO	Listening on 127.0.0.1:35639
+1606138399668	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileBGzyO3"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1606138404338	Marionette	INFO	Listening on port 44451
+1606138404412	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://cdn.robinhood.com/assets/generated_assets/Vendor-bc841585fe4223886653.chunk.js, line 2: Error: Unauthorized
+JavaScript error: https://cdn.robinhood.com/assets/generated_assets/Vendor-bc841585fe4223886653.chunk.js, line 2: Error: Unauthorized
+JavaScript error: https://cdn.robinhood.com/assets/generated_assets/Vendor-bc841585fe4223886653.chunk.js, line 2: Error: Request has been terminated
+Possible causes: the network is offline, Origin is not allowed by Access-Control-Allow-Origin, the page is being unloaded, etc.
+1606138431771	Marionette	INFO	Stopped listening on port 44451
+1606138435222	geckodriver	INFO	Listening on 127.0.0.1:42811
+1606138436231	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile2or2KH"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1606138440912	Marionette	INFO	Listening on port 34393
+1606138440977	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://cdn.robinhood.com/assets/generated_assets/Vendor-bc841585fe4223886653.chunk.js, line 2: Error: Unauthorized
+JavaScript error: https://cdn.robinhood.com/assets/generated_assets/Vendor-bc841585fe4223886653.chunk.js, line 2: Error: Unauthorized
+1606138469255	Marionette	INFO	Stopped listening on port 34393
+1606138472607	geckodriver	INFO	Listening on 127.0.0.1:32989
+1606138473615	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile49qK0h"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1606138478007	Marionette	INFO	Listening on port 41495
+1606138478065	Marionette	WARN	TLS certificate errors will be ignored for this session
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+1606138827368	Marionette	INFO	Stopped listening on port 41495

@@ -1,5 +1,6 @@
 import yfinance as yf
 import csv
+import sys
 import time
 from selenium import webdriver
 
@@ -17,7 +18,7 @@ def csv_url_reader(url_obj):
         title = line["Stock"]
         # print(url +' ' + title)
         if precision =='TRUE':
-            browser = webdriver.Chrome()
+            browser = webdriver.Firefox()
             browser.get("https://robinhood.com/stocks/" + title)
             stockname = browser.find_elements_by_css_selector('header.Jo5RGrWjFiX_iyW3gMLsy')
             for stock in stockname:
@@ -29,18 +30,23 @@ def csv_url_reader(url_obj):
                 # print(rat + ' '+ precision)
                 rate.append(rat)
             # assert title in browser.title
+            # Market Technology
+            try:
+                market_tech = yf.Ticker(title)
+                tech = market_tech.info.get('sector')
+            except:
+                ('Oops!',sys.exc_info())
             # Getting Guru multiple sites
             browser.get("https://www.gurufocus.com/stock/"+title+"/summary")
             gurus = browser.find_elements_by_css_selector("button.el-button.fs-regular.el-button--danger.el-button--mini.el-popover__reference")
             for guru in gurus:
-                val = guru.find_element_by_css_selector("span").text
-                guru_value.append(val)
-            # Market Technology
-            market_tech = yf.Ticker(title)
-            tech = market_tech.info.get('sector')
-            markets.append(tech)
+                try:
+                    data = guru.find_element_by_css_selector("span").text
+                    guru_value.append(data)
+                except:
+                    ('Oops!',sys.exc_info())
             # Output
-            print(name + ' '+ rat + ' ' + val + ' ' + tech)
+            print((name + ' '+ rat  +' ' + data + ' ' + str(tech)))
             df = pd.DataFrame(list(zip(stock_name,rate,guru_value,markets)), columns=['Stock_Name','Rating','Guru_value','Market'])
             df.to_csv('Final.csv',index=False)
             browser.quit()

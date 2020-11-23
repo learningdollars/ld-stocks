@@ -1,4 +1,4 @@
-SN,Title,URL
-1,NVDA,https://robinhood.com/stocks/NVDA
-2,FB,https://robinhood.com/stocks/FB
-3,GOOG,https://robinhood.com/stocks/GOOG
+Stock,Predecision
+MNST,TRUE
+GD,TRUE
+GOOG,TRUE
