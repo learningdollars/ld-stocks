@@ -694,3 +694,1320 @@ IPDL protocol error: Handler returned error code!
 ###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
 
 1606138827368	Marionette	INFO	Stopped listening on port 41495
+1606146183237	geckodriver	INFO	Listening on 127.0.0.1:42835
+1606146184164	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilerHToFP"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1606146191382	Marionette	INFO	Listening on port 38585
+1606146191602	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://cdn.robinhood.com/assets/generated_assets/Vendor-bc841585fe4223886653.chunk.js, line 2: Error: Unauthorized
+JavaScript error: https://cdn.robinhood.com/assets/generated_assets/Vendor-bc841585fe4223886653.chunk.js, line 2: Error: Unauthorized
+JavaScript error: https://cdn.robinhood.com/assets/generated_assets/Vendor-bc841585fe4223886653.chunk.js, line 2: Error: Request has been terminated
+Possible causes: the network is offline, Origin is not allowed by Access-Control-Allow-Origin, the page is being unloaded, etc.
+JavaScript error: https://cdn.robinhood.com/assets/generated_assets/Vendor-bc841585fe4223886653.chunk.js, line 2: Error: Request has been terminated
+Possible causes: the network is offline, Origin is not allowed by Access-Control-Allow-Origin, the page is being unloaded, etc.
+JavaScript error: https://cdn.robinhood.com/assets/generated_assets/Vendor-bc841585fe4223886653.chunk.js, line 2: Error: Unauthorized
+1606146273520	Marionette	INFO	Stopped listening on port 38585
+1606146276801	geckodriver	INFO	Listening on 127.0.0.1:41681
+1606146277787	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileYfcGsc"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1606146282748	Marionette	INFO	Listening on port 38911
+1606146282853	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://cdn.robinhood.com/assets/generated_assets/Vendor-bc841585fe4223886653.chunk.js, line 2: Error: Unauthorized
+JavaScript error: https://cdn.robinhood.com/assets/generated_assets/Vendor-bc841585fe4223886653.chunk.js, line 2: Error: Unauthorized
+JavaScript error: https://cdn.robinhood.com/assets/generated_assets/Vendor-bc841585fe4223886653.chunk.js, line 2: Error: Unauthorized
+JavaScript error: https://cdn.robinhood.com/assets/generated_assets/Vendor-bc841585fe4223886653.chunk.js, line 2: Error: Unauthorized
+1606146337351	Marionette	INFO	Stopped listening on port 38911
+1606146341179	geckodriver	INFO	Listening on 127.0.0.1:38617
+1606146342188	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileIickyt"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1606146346497	Marionette	INFO	Listening on port 41401
+1606146346552	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://cdn.robinhood.com/assets/generated_assets/Vendor-bc841585fe4223886653.chunk.js, line 2: Error: Unauthorized
+JavaScript error: https://cdn.robinhood.com/assets/generated_assets/Vendor-bc841585fe4223886653.chunk.js, line 2: Error: Unauthorized
+1606146381279	Marionette	INFO	Stopped listening on port 41401
+1606146384728	geckodriver	INFO	Listening on 127.0.0.1:50817
+1606146385736	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilewiuqzH"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1606146389791	Marionette	INFO	Listening on port 41915
+1606146389893	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://cdn.robinhood.com/assets/generated_assets/Vendor-dd9ca8ace0f5e722d8f2.chunk.js, line 2: Error: Unauthorized
+JavaScript error: https://cdn.robinhood.com/assets/generated_assets/Vendor-dd9ca8ace0f5e722d8f2.chunk.js, line 2: Error: Unauthorized
+JavaScript error: https://cdn.robinhood.com/assets/generated_assets/Vendor-dd9ca8ace0f5e722d8f2.chunk.js, line 2: Error: Unauthorized
+1606146442722	Marionette	INFO	Stopped listening on port 41915
+1606146446107	geckodriver	INFO	Listening on 127.0.0.1:49709
+1606146447116	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilex4D0qS"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1606146451350	Marionette	INFO	Listening on port 46871
+1606146451464	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://cdn.robinhood.com/assets/generated_assets/Vendor-bc841585fe4223886653.chunk.js, line 2: Error: Unauthorized
+JavaScript error: https://cdn.robinhood.com/assets/generated_assets/Vendor-bc841585fe4223886653.chunk.js, line 2: Error: Unauthorized
+1606146479653	Marionette	INFO	Stopped listening on port 46871
+1606146483036	geckodriver	INFO	Listening on 127.0.0.1:54261
+1606146484044	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilegr1DLv"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1606146488383	Marionette	INFO	Listening on port 37753
+1606146488501	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://cdn.robinhood.com/assets/generated_assets/Vendor-dd9ca8ace0f5e722d8f2.chunk.js, line 2: Error: Unauthorized
+JavaScript error: https://cdn.robinhood.com/assets/generated_assets/Vendor-dd9ca8ace0f5e722d8f2.chunk.js, line 2: Error: Unauthorized
+JavaScript error: https://cdn.robinhood.com/assets/generated_assets/Vendor-dd9ca8ace0f5e722d8f2.chunk.js, line 2: Error: Unauthorized
+1606146527443	Marionette	INFO	Stopped listening on port 37753
+1606146531017	geckodriver	INFO	Listening on 127.0.0.1:59967
+1606146532025	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileobm7O2"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1606146536069	Marionette	INFO	Listening on port 33949
+1606146536178	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://cdn.robinhood.com/assets/generated_assets/Vendor-bc841585fe4223886653.chunk.js, line 2: Error: Unauthorized
+JavaScript error: https://cdn.robinhood.com/assets/generated_assets/Vendor-bc841585fe4223886653.chunk.js, line 2: Error: Unauthorized
+1606146570833	Marionette	INFO	Stopped listening on port 33949
+1606146618747	geckodriver	INFO	Listening on 127.0.0.1:36983
+1606146619752	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileTSyPgI"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1606146624277	Marionette	INFO	Listening on port 36633
+1606146624436	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://cdn.robinhood.com/assets/generated_assets/Vendor-bc841585fe4223886653.chunk.js, line 2: Error: Unauthorized
+JavaScript error: https://cdn.robinhood.com/assets/generated_assets/Vendor-bc841585fe4223886653.chunk.js, line 2: Error: Unauthorized
+JavaScript error: https://cdn.robinhood.com/assets/generated_assets/Vendor-bc841585fe4223886653.chunk.js, line 2: Error: Unauthorized
+JavaScript error: https://cdn.robinhood.com/assets/generated_assets/Vendor-bc841585fe4223886653.chunk.js, line 2: Error: Unauthorized
+1606146678447	Marionette	INFO	Stopped listening on port 36633
+1606146680137	geckodriver	INFO	Listening on 127.0.0.1:59387
+1606146681145	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileDZeWeP"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1606146686125	Marionette	INFO	Listening on port 38471
+1606146686218	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: Region.jsm: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 726))
+console.error: Region.jsm: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 376))
+JavaScript error: https://cdn.robinhood.com/assets/generated_assets/Vendor-bc841585fe4223886653.chunk.js, line 2: Error: Unauthorized
+JavaScript error: https://cdn.robinhood.com/assets/generated_assets/Vendor-bc841585fe4223886653.chunk.js, line 2: Error: Unauthorized
+JavaScript error: https://cdn.robinhood.com/assets/generated_assets/Vendor-bc841585fe4223886653.chunk.js, line 2: Error: Unauthorized
+JavaScript error: https://cdn.robinhood.com/assets/generated_assets/Vendor-bc841585fe4223886653.chunk.js, line 2: Error: Unauthorized
+1606146759705	geckodriver	INFO	Listening on 127.0.0.1:41699
+1606146760717	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileP6qn0J"
+1606146764205	Marionette	INFO	Stopped listening on port 38471
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1606146766202	Marionette	INFO	Listening on port 35271
+1606146766276	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: Region.jsm: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 726))
+console.error: Region.jsm: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 376))
+JavaScript error: https://cdn.robinhood.com/assets/generated_assets/Vendor-dd9ca8ace0f5e722d8f2.chunk.js, line 2: Error: Unauthorized
+JavaScript error: https://cdn.robinhood.com/assets/generated_assets/Vendor-dd9ca8ace0f5e722d8f2.chunk.js, line 2: Error: Unauthorized
+JavaScript error: https://cdn.robinhood.com/assets/generated_assets/Vendor-dd9ca8ace0f5e722d8f2.chunk.js, line 2: Error: Request has been terminated
+Possible causes: the network is offline, Origin is not allowed by Access-Control-Allow-Origin, the page is being unloaded, etc.
+JavaScript error: https://cdn.robinhood.com/assets/generated_assets/Vendor-dd9ca8ace0f5e722d8f2.chunk.js, line 2: Error: Unauthorized
+1606146839342	geckodriver	INFO	Listening on 127.0.0.1:43121
+1606146840348	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileboWKe3"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1606146844921	Marionette	INFO	Stopped listening on port 35271
+1606146845609	Marionette	INFO	Listening on port 34587
+1606146845713	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://cdn.robinhood.com/assets/generated_assets/Vendor-dd9ca8ace0f5e722d8f2.chunk.js, line 2: Error: Unauthorized
+JavaScript error: https://cdn.robinhood.com/assets/generated_assets/Vendor-dd9ca8ace0f5e722d8f2.chunk.js, line 2: Error: Unauthorized
+JavaScript error: https://cdn.robinhood.com/assets/generated_assets/Vendor-dd9ca8ace0f5e722d8f2.chunk.js, line 2: Error: Unauthorized
+JavaScript error: https://cdn.robinhood.com/assets/generated_assets/Vendor-dd9ca8ace0f5e722d8f2.chunk.js, line 2: Error: Unauthorized
+JavaScript error: https://cdn.robinhood.com/assets/generated_assets/Vendor-dd9ca8ace0f5e722d8f2.chunk.js, line 2: Error: Unauthorized
+JavaScript error: https://cdn.robinhood.com/assets/generated_assets/Vendor-dd9ca8ace0f5e722d8f2.chunk.js, line 2: Error: Unauthorized
+JavaScript error: https://cdn.robinhood.com/assets/generated_assets/Vendor-dd9ca8ace0f5e722d8f2.chunk.js, line 2: Error: Unauthorized
+JavaScript error: https://cdn.robinhood.com/assets/generated_assets/Vendor-dd9ca8ace0f5e722d8f2.chunk.js, line 2: Error: Unauthorized
+1606146923061	Marionette	INFO	Stopped listening on port 34587
+1606147092926	geckodriver	INFO	Listening on 127.0.0.1:46009
+1606147093934	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilePyNpZm"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1606147097765	Marionette	INFO	Listening on port 38897
+1606147097882	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://cdn.robinhood.com/assets/generated_assets/Vendor-dd9ca8ace0f5e722d8f2.chunk.js, line 2: Error: Unauthorized
+JavaScript error: https://cdn.robinhood.com/assets/generated_assets/Vendor-dd9ca8ace0f5e722d8f2.chunk.js, line 2: Error: Unauthorized
+JavaScript error: https://cdn.robinhood.com/assets/generated_assets/Vendor-dd9ca8ace0f5e722d8f2.chunk.js, line 2: Error: Unauthorized
+1606147302602	geckodriver	INFO	Listening on 127.0.0.1:40011
+1606147302609	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilePhTmOH"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1606147308652	Marionette	INFO	Listening on port 35377
+1606147308764	Marionette	WARN	TLS certificate errors will be ignored for this session
+1606147327523	Marionette	INFO	Stopped listening on port 35377
+1606147396814	geckodriver	INFO	Listening on 127.0.0.1:55175
+1606147396820	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileZx6Ixl"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1606147400807	Marionette	INFO	Listening on port 34165
+1606147400866	Marionette	WARN	TLS certificate errors will be ignored for this session
+1606147414091	Marionette	INFO	Stopped listening on port 34165
+1606147602620	geckodriver	INFO	Listening on 127.0.0.1:59741
+1606147602626	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileetV9ZB"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1606147607106	Marionette	INFO	Listening on port 41183
+1606147607167	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://cdn.robinhood.com/assets/generated_assets/Vendor-bc841585fe4223886653.chunk.js, line 2: Error: Unauthorized
+JavaScript error: https://cdn.robinhood.com/assets/generated_assets/Vendor-bc841585fe4223886653.chunk.js, line 2: Error: Unauthorized
+JavaScript error: https://cdn.robinhood.com/assets/generated_assets/Vendor-bc841585fe4223886653.chunk.js, line 2: Error: Unauthorized
+JavaScript error: https://cdn.robinhood.com/assets/generated_assets/Vendor-bc841585fe4223886653.chunk.js, line 2: Error: Unauthorized
+JavaScript error: https://cdn.robinhood.com/assets/generated_assets/Vendor-bc841585fe4223886653.chunk.js, line 2: Error: Unauthorized
+JavaScript error: https://cdn.robinhood.com/assets/generated_assets/Vendor-bc841585fe4223886653.chunk.js, line 2: Error: Unauthorized
+JavaScript error: https://cdn.robinhood.com/assets/generated_assets/Vendor-bc841585fe4223886653.chunk.js, line 2: Error: Unauthorized
+JavaScript error: https://cdn.robinhood.com/assets/generated_assets/Vendor-bc841585fe4223886653.chunk.js, line 2: Error: Unauthorized
+JavaScript error: https://cdn.robinhood.com/assets/generated_assets/Vendor-bc841585fe4223886653.chunk.js, line 2: Error: Unauthorized
+JavaScript error: https://cdn.robinhood.com/assets/generated_assets/Vendor-bc841585fe4223886653.chunk.js, line 2: Error: Unauthorized
+JavaScript error: https://cdn.robinhood.com/assets/generated_assets/Vendor-bc841585fe4223886653.chunk.js, line 2: Error: Unauthorized
+JavaScript error: https://cdn.robinhood.com/assets/generated_assets/Vendor-bc841585fe4223886653.chunk.js, line 2: Error: Unauthorized
+JavaScript error: https://cdn.robinhood.com/assets/generated_assets/Vendor-bc841585fe4223886653.chunk.js, line 2: Error: Unauthorized
+JavaScript error: https://cdn.robinhood.com/assets/generated_assets/Vendor-bc841585fe4223886653.chunk.js, line 2: Error: Unauthorized
+JavaScript error: https://cdn.robinhood.com/assets/generated_assets/Vendor-bc841585fe4223886653.chunk.js, line 2: Error: Unauthorized
+JavaScript error: https://cdn.robinhood.com/assets/generated_assets/Vendor-bc841585fe4223886653.chunk.js, line 2: Error: Unauthorized
+JavaScript error: https://cdn.robinhood.com/assets/generated_assets/Vendor-bc841585fe4223886653.chunk.js, line 2: Error: Unauthorized
+JavaScript error: https://cdn.robinhood.com/assets/generated_assets/Vendor-bc841585fe4223886653.chunk.js, line 2: Error: Unauthorized
+JavaScript error: https://cdn.robinhood.com/assets/generated_assets/Vendor-bc841585fe4223886653.chunk.js, line 2: Error: Unauthorized
+JavaScript error: https://cdn.robinhood.com/assets/generated_assets/Vendor-bc841585fe4223886653.chunk.js, line 2: Error: Unauthorized
+JavaScript error: https://cdn.robinhood.com/assets/generated_assets/Vendor-bc841585fe4223886653.chunk.js, line 2: Error: Unauthorized
+JavaScript error: https://cdn.robinhood.com/assets/generated_assets/Vendor-bc841585fe4223886653.chunk.js, line 2: Error: Unauthorized
+JavaScript error: https://cdn.robinhood.com/assets/generated_assets/Vendor-bc841585fe4223886653.chunk.js, line 2: Error: Unauthorized
+JavaScript error: https://cdn.robinhood.com/assets/generated_assets/Vendor-bc841585fe4223886653.chunk.js, line 2: Error: Unauthorized
+JavaScript error: https://cdn.robinhood.com/assets/generated_assets/Vendor-bc841585fe4223886653.chunk.js, line 2: Error: Unauthorized
+JavaScript error: https://cdn.robinhood.com/assets/generated_assets/Vendor-bc841585fe4223886653.chunk.js, line 2: Error: Unauthorized
+1606147696219	geckodriver	INFO	Listening on 127.0.0.1:60105
+1606147696225	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilezZQx3c"
+JavaScript error: https://cdn.robinhood.com/assets/generated_assets/Vendor-bc841585fe4223886653.chunk.js, line 2: Error: Unauthorized
+JavaScript error: https://cdn.robinhood.com/assets/generated_assets/Vendor-bc841585fe4223886653.chunk.js, line 2: Error: Unauthorized
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1606147701885	Marionette	INFO	Listening on port 37579
+1606147701983	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: Region.jsm: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 726))
+console.error: Region.jsm: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 376))
+JavaScript error: https://cdn.robinhood.com/assets/generated_assets/Vendor-bc841585fe4223886653.chunk.js, line 2: Error: Unauthorized
+JavaScript error: https://cdn.robinhood.com/assets/generated_assets/Vendor-bc841585fe4223886653.chunk.js, line 2: Error: Unauthorized
+JavaScript error: https://cdn.robinhood.com/assets/generated_assets/Vendor-bc841585fe4223886653.chunk.js, line 2: Error: Unauthorized
+JavaScript error: https://cdn.robinhood.com/assets/generated_assets/Vendor-bc841585fe4223886653.chunk.js, line 2: Error: Unauthorized
+JavaScript error: https://cdn.robinhood.com/assets/generated_assets/Vendor-bc841585fe4223886653.chunk.js, line 2: Error: Unauthorized
+JavaScript error: https://cdn.robinhood.com/assets/generated_assets/Vendor-bc841585fe4223886653.chunk.js, line 2: Error: Unauthorized
+JavaScript error: https://cdn.robinhood.com/assets/generated_assets/Vendor-bc841585fe4223886653.chunk.js, line 2: Error: Unauthorized
+JavaScript error: https://cdn.robinhood.com/assets/generated_assets/Vendor-bc841585fe4223886653.chunk.js, line 2: Error: Unauthorized
+JavaScript error: https://cdn.robinhood.com/assets/generated_assets/Vendor-bc841585fe4223886653.chunk.js, line 2: Error: Unauthorized
+JavaScript error: https://cdn.robinhood.com/assets/generated_assets/Vendor-bc841585fe4223886653.chunk.js, line 2: Error: Unauthorized
+JavaScript error: https://cdn.robinhood.com/assets/generated_assets/Vendor-bc841585fe4223886653.chunk.js, line 2: Error: Unauthorized
+JavaScript error: https://cdn.robinhood.com/assets/generated_assets/Vendor-bc841585fe4223886653.chunk.js, line 2: Error: Unauthorized
+JavaScript error: https://cdn.robinhood.com/assets/generated_assets/Vendor-bc841585fe4223886653.chunk.js, line 2: Error: Unauthorized
+JavaScript error: https://cdn.robinhood.com/assets/generated_assets/Vendor-bc841585fe4223886653.chunk.js, line 2: Error: Unauthorized
+JavaScript error: https://cdn.robinhood.com/assets/generated_assets/Vendor-bc841585fe4223886653.chunk.js, line 2: Error: Unauthorized
+JavaScript error: https://cdn.robinhood.com/assets/generated_assets/Vendor-bc841585fe4223886653.chunk.js, line 2: Error: Unauthorized
+JavaScript error: https://cdn.robinhood.com/assets/generated_assets/Vendor-bc841585fe4223886653.chunk.js, line 2: Error: Unauthorized
+JavaScript error: https://cdn.robinhood.com/assets/generated_assets/Vendor-bc841585fe4223886653.chunk.js, line 2: Error: Unauthorized
+JavaScript error: https://cdn.robinhood.com/assets/generated_assets/Vendor-bc841585fe4223886653.chunk.js, line 2: Error: Unauthorized
+JavaScript error: https://cdn.robinhood.com/assets/generated_assets/Vendor-bc841585fe4223886653.chunk.js, line 2: Error: Unauthorized
+JavaScript error: https://cdn.robinhood.com/assets/generated_assets/Vendor-bc841585fe4223886653.chunk.js, line 2: Error: Unauthorized
+JavaScript error: https://cdn.robinhood.com/assets/generated_assets/Vendor-bc841585fe4223886653.chunk.js, line 2: Error: Unauthorized
+JavaScript error: https://cdn.robinhood.com/assets/generated_assets/Vendor-bc841585fe4223886653.chunk.js, line 2: Error: Unauthorized
+JavaScript error: https://cdn.robinhood.com/assets/generated_assets/Vendor-bc841585fe4223886653.chunk.js, line 2: Error: Unauthorized
+JavaScript error: https://cdn.robinhood.com/assets/generated_assets/Vendor-bc841585fe4223886653.chunk.js, line 2: Error: Unauthorized
+JavaScript error: https://cdn.robinhood.com/assets/generated_assets/Vendor-bc841585fe4223886653.chunk.js, line 2: Error: Unauthorized
+JavaScript error: https://cdn.robinhood.com/assets/generated_assets/Vendor-bc841585fe4223886653.chunk.js, line 2: Error: Unauthorized
+JavaScript error: https://cdn.robinhood.com/assets/generated_assets/Vendor-bc841585fe4223886653.chunk.js, line 2: Error: Unauthorized
+JavaScript error: https://cdn.robinhood.com/assets/generated_assets/Vendor-bc841585fe4223886653.chunk.js, line 2: Error: Unauthorized
+JavaScript error: https://cdn.robinhood.com/assets/generated_assets/Vendor-bc841585fe4223886653.chunk.js, line 2: Error: Unauthorized
+JavaScript error: https://cdn.robinhood.com/assets/generated_assets/Vendor-bc841585fe4223886653.chunk.js, line 2: Error: Unauthorized
+JavaScript error: https://cdn.robinhood.com/assets/generated_assets/Vendor-bc841585fe4223886653.chunk.js, line 2: Error: Unauthorized
+JavaScript error: https://cdn.robinhood.com/assets/generated_assets/Vendor-bc841585fe4223886653.chunk.js, line 2: Error: Unauthorized
+JavaScript error: https://cdn.robinhood.com/assets/generated_assets/Vendor-bc841585fe4223886653.chunk.js, line 2: Error: Unauthorized
+JavaScript error: https://cdn.robinhood.com/assets/generated_assets/Vendor-bc841585fe4223886653.chunk.js, line 2: Error: Unauthorized
+JavaScript error: https://cdn.robinhood.com/assets/generated_assets/Vendor-bc841585fe4223886653.chunk.js, line 2: Error: Unauthorized
+JavaScript error: https://cdn.robinhood.com/assets/generated_assets/Vendor-bc841585fe4223886653.chunk.js, line 2: Error: Unauthorized
+JavaScript error: https://cdn.robinhood.com/assets/generated_assets/Vendor-bc841585fe4223886653.chunk.js, line 2: Error: Unauthorized
+JavaScript error: https://cdn.robinhood.com/assets/generated_assets/Vendor-bc841585fe4223886653.chunk.js, line 2: Error: Unauthorized
+JavaScript error: https://cdn.robinhood.com/assets/generated_assets/Vendor-bc841585fe4223886653.chunk.js, line 2: Error: Unauthorized
+JavaScript error: https://cdn.robinhood.com/assets/generated_assets/Vendor-bc841585fe4223886653.chunk.js, line 2: Error: Unauthorized
+JavaScript error: https://cdn.robinhood.com/assets/generated_assets/Vendor-bc841585fe4223886653.chunk.js, line 2: Error: Unauthorized
+JavaScript error: https://cdn.robinhood.com/assets/generated_assets/Vendor-bc841585fe4223886653.chunk.js, line 2: Error: Unauthorized
+JavaScript error: https://cdn.robinhood.com/assets/generated_assets/Vendor-bc841585fe4223886653.chunk.js, line 2: Error: Unauthorized
+JavaScript error: https://cdn.robinhood.com/assets/generated_assets/Vendor-bc841585fe4223886653.chunk.js, line 2: Error: Unauthorized
+JavaScript error: https://cdn.robinhood.com/assets/generated_assets/Vendor-bc841585fe4223886653.chunk.js, line 2: Error: Unauthorized
+1606147809059	geckodriver	INFO	Listening on 127.0.0.1:44667
+1606147809066	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileAjDN0i"
+JavaScript error: https://cdn.robinhood.com/assets/generated_assets/Vendor-bc841585fe4223886653.chunk.js, line 2: Error: Unauthorized
+JavaScript error: https://cdn.robinhood.com/assets/generated_assets/Vendor-bc841585fe4223886653.chunk.js, line 2: Error: Unauthorized
+JavaScript error: https://cdn.robinhood.com/assets/generated_assets/Vendor-bc841585fe4223886653.chunk.js, line 2: Error: Unauthorized
+JavaScript error: https://cdn.robinhood.com/assets/generated_assets/Vendor-bc841585fe4223886653.chunk.js, line 2: Error: Unauthorized
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+JavaScript error: https://cdn.robinhood.com/assets/generated_assets/Vendor-bc841585fe4223886653.chunk.js, line 2: Error: Unauthorized
+1606147814989	Marionette	INFO	Listening on port 45505
+JavaScript error: https://cdn.robinhood.com/assets/generated_assets/Vendor-bc841585fe4223886653.chunk.js, line 2: Error: Unauthorized
+1606147815128	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://cdn.robinhood.com/assets/generated_assets/Vendor-bc841585fe4223886653.chunk.js, line 2: Error: Unauthorized
+JavaScript error: https://cdn.robinhood.com/assets/generated_assets/Vendor-bc841585fe4223886653.chunk.js, line 2: Error: Unauthorized
+JavaScript error: https://cdn.robinhood.com/assets/generated_assets/Vendor-bc841585fe4223886653.chunk.js, line 2: Error: Unauthorized
+JavaScript error: https://cdn.robinhood.com/assets/generated_assets/Vendor-bc841585fe4223886653.chunk.js, line 2: Error: Unauthorized
+JavaScript error: https://cdn.robinhood.com/assets/generated_assets/Vendor-bc841585fe4223886653.chunk.js, line 2: Error: Unauthorized
+JavaScript error: https://cdn.robinhood.com/assets/generated_assets/Vendor-bc841585fe4223886653.chunk.js, line 2: Error: Unauthorized
+JavaScript error: https://cdn.robinhood.com/assets/generated_assets/Vendor-bc841585fe4223886653.chunk.js, line 2: Error: Unauthorized
+JavaScript error: https://cdn.robinhood.com/assets/generated_assets/Vendor-bc841585fe4223886653.chunk.js, line 2: Error: Unauthorized
+JavaScript error: https://cdn.robinhood.com/assets/generated_assets/Vendor-bc841585fe4223886653.chunk.js, line 2: Error: Unauthorized
+JavaScript error: https://cdn.robinhood.com/assets/generated_assets/Vendor-bc841585fe4223886653.chunk.js, line 2: Error: Unauthorized
+JavaScript error: https://cdn.robinhood.com/assets/generated_assets/Vendor-bc841585fe4223886653.chunk.js, line 2: Error: Unauthorized
+JavaScript error: https://cdn.robinhood.com/assets/generated_assets/Vendor-bc841585fe4223886653.chunk.js, line 2: Error: Unauthorized
+JavaScript error: https://cdn.robinhood.com/assets/generated_assets/Vendor-bc841585fe4223886653.chunk.js, line 2: Error: Unauthorized
+JavaScript error: https://cdn.robinhood.com/assets/generated_assets/Vendor-bc841585fe4223886653.chunk.js, line 2: Error: Unauthorized
+JavaScript error: https://cdn.robinhood.com/assets/generated_assets/Vendor-bc841585fe4223886653.chunk.js, line 2: Error: Unauthorized
+JavaScript error: https://cdn.robinhood.com/assets/generated_assets/Vendor-bc841585fe4223886653.chunk.js, line 2: Error: Unauthorized
+JavaScript error: https://cdn.robinhood.com/assets/generated_assets/Vendor-bc841585fe4223886653.chunk.js, line 2: Error: Unauthorized
+JavaScript error: https://cdn.robinhood.com/assets/generated_assets/Vendor-bc841585fe4223886653.chunk.js, line 2: Error: Unauthorized
+JavaScript error: https://cdn.robinhood.com/assets/generated_assets/Vendor-bc841585fe4223886653.chunk.js, line 2: Error: Unauthorized
+JavaScript error: https://cdn.robinhood.com/assets/generated_assets/Vendor-bc841585fe4223886653.chunk.js, line 2: Error: Unauthorized
+JavaScript error: https://cdn.robinhood.com/assets/generated_assets/Vendor-bc841585fe4223886653.chunk.js, line 2: Error: Unauthorized
+JavaScript error: https://cdn.robinhood.com/assets/generated_assets/Vendor-bc841585fe4223886653.chunk.js, line 2: Error: Unauthorized
+JavaScript error: https://cdn.robinhood.com/assets/generated_assets/Vendor-bc841585fe4223886653.chunk.js, line 2: Error: Unauthorized
+JavaScript error: https://cdn.robinhood.com/assets/generated_assets/Vendor-bc841585fe4223886653.chunk.js, line 2: Error: Unauthorized
+JavaScript error: https://cdn.robinhood.com/assets/generated_assets/Vendor-bc841585fe4223886653.chunk.js, line 2: Error: Unauthorized
+JavaScript error: https://cdn.robinhood.com/assets/generated_assets/Vendor-bc841585fe4223886653.chunk.js, line 2: Error: Unauthorized
+JavaScript error: https://cdn.robinhood.com/assets/generated_assets/Vendor-bc841585fe4223886653.chunk.js, line 2: Error: Unauthorized
+JavaScript error: https://cdn.robinhood.com/assets/generated_assets/Vendor-bc841585fe4223886653.chunk.js, line 2: Error: Unauthorized
+JavaScript error: https://cdn.robinhood.com/assets/generated_assets/Vendor-bc841585fe4223886653.chunk.js, line 2: Error: Unauthorized
+JavaScript error: https://cdn.robinhood.com/assets/generated_assets/Vendor-bc841585fe4223886653.chunk.js, line 2: Error: Unauthorized
+JavaScript error: https://cdn.robinhood.com/assets/generated_assets/Vendor-bc841585fe4223886653.chunk.js, line 2: Error: Unauthorized
+JavaScript error: https://cdn.robinhood.com/assets/generated_assets/Vendor-bc841585fe4223886653.chunk.js, line 2: Error: Unauthorized
+JavaScript error: https://cdn.robinhood.com/assets/generated_assets/Vendor-bc841585fe4223886653.chunk.js, line 2: Error: Unauthorized
+JavaScript error: https://cdn.robinhood.com/assets/generated_assets/Vendor-bc841585fe4223886653.chunk.js, line 2: Error: Unauthorized
+JavaScript error: https://cdn.robinhood.com/assets/generated_assets/Vendor-bc841585fe4223886653.chunk.js, line 2: Error: Unauthorized
+JavaScript error: https://cdn.robinhood.com/assets/generated_assets/Vendor-bc841585fe4223886653.chunk.js, line 2: Error: Unauthorized
+JavaScript error: https://cdn.robinhood.com/assets/generated_assets/Vendor-bc841585fe4223886653.chunk.js, line 2: Error: Unauthorized
+JavaScript error: https://cdn.robinhood.com/assets/generated_assets/Vendor-bc841585fe4223886653.chunk.js, line 2: Error: Unauthorized
+JavaScript error: https://cdn.robinhood.com/assets/generated_assets/Vendor-bc841585fe4223886653.chunk.js, line 2: Error: Unauthorized
+JavaScript error: https://cdn.robinhood.com/assets/generated_assets/Vendor-bc841585fe4223886653.chunk.js, line 2: Error: Unauthorized
+JavaScript error: https://cdn.robinhood.com/assets/generated_assets/Vendor-bc841585fe4223886653.chunk.js, line 2: Error: Unauthorized
+JavaScript error: https://cdn.robinhood.com/assets/generated_assets/Vendor-bc841585fe4223886653.chunk.js, line 2: Error: Unauthorized
+JavaScript error: https://cdn.robinhood.com/assets/generated_assets/Vendor-bc841585fe4223886653.chunk.js, line 2: Error: Unauthorized
+JavaScript error: https://cdn.robinhood.com/assets/generated_assets/Vendor-bc841585fe4223886653.chunk.js, line 2: Error: Unauthorized
+JavaScript error: https://cdn.robinhood.com/assets/generated_assets/Vendor-bc841585fe4223886653.chunk.js, line 2: Error: Unauthorized
+JavaScript error: https://cdn.robinhood.com/assets/generated_assets/Vendor-bc841585fe4223886653.chunk.js, line 2: Error: Unauthorized
+JavaScript error: https://cdn.robinhood.com/assets/generated_assets/Vendor-bc841585fe4223886653.chunk.js, line 2: Error: Unauthorized
+JavaScript error: https://cdn.robinhood.com/assets/generated_assets/Vendor-bc841585fe4223886653.chunk.js, line 2: Error: Unauthorized
+JavaScript error: https://cdn.robinhood.com/assets/generated_assets/Vendor-bc841585fe4223886653.chunk.js, line 2: Error: Unauthorized
+JavaScript error: https://cdn.robinhood.com/assets/generated_assets/Vendor-bc841585fe4223886653.chunk.js, line 2: Error: Unauthorized
+JavaScript error: https://cdn.robinhood.com/assets/generated_assets/Vendor-bc841585fe4223886653.chunk.js, line 2: Error: Unauthorized
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+JavaScript error: https://cdn.robinhood.com/assets/generated_assets/Vendor-bc841585fe4223886653.chunk.js, line 2: Error: Unauthorized
+JavaScript error: https://cdn.robinhood.com/assets/generated_assets/Vendor-bc841585fe4223886653.chunk.js, line 2: Error: Unauthorized
+1606147868972	Marionette	INFO	Stopped listening on port 45505
+JavaScript error: https://cdn.robinhood.com/assets/generated_assets/Vendor-bc841585fe4223886653.chunk.js, line 2: Error: Unauthorized
+JavaScript error: https://cdn.robinhood.com/assets/generated_assets/Vendor-bc841585fe4223886653.chunk.js, line 2: Error: Unauthorized
+JavaScript error: https://cdn.robinhood.com/assets/generated_assets/Vendor-bc841585fe4223886653.chunk.js, line 2: Error: Unauthorized
+JavaScript error: https://cdn.robinhood.com/assets/generated_assets/Vendor-bc841585fe4223886653.chunk.js, line 2: Error: Unauthorized
+1606147876374	Marionette	INFO	Stopped listening on port 38897
+JavaScript error: https://cdn.robinhood.com/assets/generated_assets/Vendor-bc841585fe4223886653.chunk.js, line 2: Error: Unauthorized
+1606147877342	Marionette	INFO	Stopped listening on port 41183
+1606147878459	Marionette	INFO	Stopped listening on port 37579
+1606148282364	geckodriver	INFO	Listening on 127.0.0.1:33315
+1606148282395	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilehy9vC0"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1606148286605	Marionette	INFO	Listening on port 43375
+1606148286657	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://cdn.robinhood.com/assets/generated_assets/Vendor-dd9ca8ace0f5e722d8f2.chunk.js, line 2: Error: Unauthorized
+JavaScript error: https://cdn.robinhood.com/assets/generated_assets/Vendor-dd9ca8ace0f5e722d8f2.chunk.js, line 2: Error: Unauthorized
+JavaScript error: https://cdn.robinhood.com/assets/generated_assets/Vendor-dd9ca8ace0f5e722d8f2.chunk.js, line 2: Error: Unauthorized
+JavaScript error: https://cdn.robinhood.com/assets/generated_assets/Vendor-dd9ca8ace0f5e722d8f2.chunk.js, line 2: Error: Unauthorized
+JavaScript error: https://cdn.robinhood.com/assets/generated_assets/Vendor-dd9ca8ace0f5e722d8f2.chunk.js, line 2: Error: Unauthorized
+JavaScript error: https://cdn.robinhood.com/assets/generated_assets/Vendor-dd9ca8ace0f5e722d8f2.chunk.js, line 2: Error: Unauthorized
+JavaScript error: https://cdn.robinhood.com/assets/generated_assets/Vendor-dd9ca8ace0f5e722d8f2.chunk.js, line 2: Error: Unauthorized
+JavaScript error: https://cdn.robinhood.com/assets/generated_assets/Vendor-dd9ca8ace0f5e722d8f2.chunk.js, line 2: Error: Unauthorized
+JavaScript error: https://cdn.robinhood.com/assets/generated_assets/Vendor-dd9ca8ace0f5e722d8f2.chunk.js, line 2: Error: Unauthorized
+JavaScript error: https://cdn.robinhood.com/assets/generated_assets/Vendor-dd9ca8ace0f5e722d8f2.chunk.js, line 2: Error: Unauthorized
+JavaScript error: https://cdn.robinhood.com/assets/generated_assets/Vendor-dd9ca8ace0f5e722d8f2.chunk.js, line 2: Error: Unauthorized
+JavaScript error: https://cdn.robinhood.com/assets/generated_assets/Vendor-dd9ca8ace0f5e722d8f2.chunk.js, line 2: Error: Unauthorized
+JavaScript error: https://cdn.robinhood.com/assets/generated_assets/Vendor-dd9ca8ace0f5e722d8f2.chunk.js, line 2: Error: Unauthorized
+JavaScript error: https://cdn.robinhood.com/assets/generated_assets/Vendor-dd9ca8ace0f5e722d8f2.chunk.js, line 2: Error: Unauthorized
+JavaScript error: https://cdn.robinhood.com/assets/generated_assets/Vendor-dd9ca8ace0f5e722d8f2.chunk.js, line 2: Error: Unauthorized
+JavaScript error: https://cdn.robinhood.com/assets/generated_assets/Vendor-dd9ca8ace0f5e722d8f2.chunk.js, line 2: Error: Unauthorized
+JavaScript error: https://cdn.robinhood.com/assets/generated_assets/Vendor-dd9ca8ace0f5e722d8f2.chunk.js, line 2: Error: Unauthorized
+JavaScript error: https://cdn.robinhood.com/assets/generated_assets/Vendor-dd9ca8ace0f5e722d8f2.chunk.js, line 2: Error: Unauthorized
+JavaScript error: https://cdn.robinhood.com/assets/generated_assets/Vendor-dd9ca8ace0f5e722d8f2.chunk.js, line 2: Error: Unauthorized
+JavaScript error: https://cdn.robinhood.com/assets/generated_assets/Vendor-dd9ca8ace0f5e722d8f2.chunk.js, line 2: Error: Unauthorized
+JavaScript error: https://cdn.robinhood.com/assets/generated_assets/Vendor-dd9ca8ace0f5e722d8f2.chunk.js, line 2: Error: Unauthorized
+JavaScript error: https://cdn.robinhood.com/assets/generated_assets/Vendor-dd9ca8ace0f5e722d8f2.chunk.js, line 2: Error: Unauthorized
+JavaScript error: https://cdn.robinhood.com/assets/generated_assets/Vendor-dd9ca8ace0f5e722d8f2.chunk.js, line 2: Error: Unauthorized
+JavaScript error: https://cdn.robinhood.com/assets/generated_assets/Vendor-dd9ca8ace0f5e722d8f2.chunk.js, line 2: Error: Unauthorized
+JavaScript error: https://cdn.robinhood.com/assets/generated_assets/Vendor-dd9ca8ace0f5e722d8f2.chunk.js, line 2: Error: Unauthorized
+JavaScript error: https://cdn.robinhood.com/assets/generated_assets/Vendor-dd9ca8ace0f5e722d8f2.chunk.js, line 2: Error: Unauthorized
+JavaScript error: https://cdn.robinhood.com/assets/generated_assets/Vendor-dd9ca8ace0f5e722d8f2.chunk.js, line 2: Error: Unauthorized
+JavaScript error: https://cdn.robinhood.com/assets/generated_assets/Vendor-dd9ca8ace0f5e722d8f2.chunk.js, line 2: Error: Unauthorized
+JavaScript error: https://cdn.robinhood.com/assets/generated_assets/Vendor-dd9ca8ace0f5e722d8f2.chunk.js, line 2: Error: Unauthorized
+JavaScript error: https://cdn.robinhood.com/assets/generated_assets/Vendor-dd9ca8ace0f5e722d8f2.chunk.js, line 2: Error: Unauthorized
+JavaScript error: https://cdn.robinhood.com/assets/generated_assets/Vendor-dd9ca8ace0f5e722d8f2.chunk.js, line 2: Error: Unauthorized
+JavaScript error: https://cdn.robinhood.com/assets/generated_assets/Vendor-dd9ca8ace0f5e722d8f2.chunk.js, line 2: Error: Unauthorized
+JavaScript error: https://cdn.robinhood.com/assets/generated_assets/Vendor-dd9ca8ace0f5e722d8f2.chunk.js, line 2: Error: Unauthorized
+JavaScript error: https://cdn.robinhood.com/assets/generated_assets/Vendor-dd9ca8ace0f5e722d8f2.chunk.js, line 2: Error: Unauthorized
+JavaScript error: https://cdn.robinhood.com/assets/generated_assets/Vendor-dd9ca8ace0f5e722d8f2.chunk.js, line 2: Error: Unauthorized
+JavaScript error: https://cdn.robinhood.com/assets/generated_assets/Vendor-dd9ca8ace0f5e722d8f2.chunk.js, line 2: Error: Unauthorized
+JavaScript error: https://cdn.robinhood.com/assets/generated_assets/Vendor-dd9ca8ace0f5e722d8f2.chunk.js, line 2: Error: Unauthorized
+JavaScript error: https://cdn.robinhood.com/assets/generated_assets/Vendor-dd9ca8ace0f5e722d8f2.chunk.js, line 2: Error: Unauthorized
+JavaScript error: https://cdn.robinhood.com/assets/generated_assets/Vendor-dd9ca8ace0f5e722d8f2.chunk.js, line 2: Error: Unauthorized
+JavaScript error: https://cdn.robinhood.com/assets/generated_assets/Vendor-dd9ca8ace0f5e722d8f2.chunk.js, line 2: Error: Unauthorized
+JavaScript error: https://cdn.robinhood.com/assets/generated_assets/Vendor-dd9ca8ace0f5e722d8f2.chunk.js, line 2: Error: Unauthorized
+JavaScript error: https://cdn.robinhood.com/assets/generated_assets/Vendor-dd9ca8ace0f5e722d8f2.chunk.js, line 2: Error: Unauthorized
+JavaScript error: https://cdn.robinhood.com/assets/generated_assets/Vendor-dd9ca8ace0f5e722d8f2.chunk.js, line 2: Error: Unauthorized
+JavaScript error: https://cdn.robinhood.com/assets/generated_assets/Vendor-dd9ca8ace0f5e722d8f2.chunk.js, line 2: Error: Unauthorized
+JavaScript error: https://cdn.robinhood.com/assets/generated_assets/Vendor-dd9ca8ace0f5e722d8f2.chunk.js, line 2: Error: Unauthorized
+JavaScript error: https://cdn.robinhood.com/assets/generated_assets/Vendor-dd9ca8ace0f5e722d8f2.chunk.js, line 2: Error: Unauthorized
+JavaScript error: https://cdn.robinhood.com/assets/generated_assets/Vendor-dd9ca8ace0f5e722d8f2.chunk.js, line 2: Error: Unauthorized
+JavaScript error: https://cdn.robinhood.com/assets/generated_assets/Vendor-dd9ca8ace0f5e722d8f2.chunk.js, line 2: Error: Unauthorized
+JavaScript error: https://cdn.robinhood.com/assets/generated_assets/Vendor-dd9ca8ace0f5e722d8f2.chunk.js, line 2: Error: Unauthorized
+JavaScript error: https://cdn.robinhood.com/assets/generated_assets/Vendor-dd9ca8ace0f5e722d8f2.chunk.js, line 2: Error: Unauthorized
+JavaScript error: https://cdn.robinhood.com/assets/generated_assets/Vendor-dd9ca8ace0f5e722d8f2.chunk.js, line 2: Error: Unauthorized
+JavaScript error: https://cdn.robinhood.com/assets/generated_assets/Vendor-dd9ca8ace0f5e722d8f2.chunk.js, line 2: Error: Unauthorized
+JavaScript error: https://cdn.robinhood.com/assets/generated_assets/Vendor-dd9ca8ace0f5e722d8f2.chunk.js, line 2: Error: Unauthorized
+JavaScript error: https://cdn.robinhood.com/assets/generated_assets/Vendor-dd9ca8ace0f5e722d8f2.chunk.js, line 2: Error: Unauthorized
+JavaScript error: https://cdn.robinhood.com/assets/generated_assets/Vendor-dd9ca8ace0f5e722d8f2.chunk.js, line 2: Error: Unauthorized
+JavaScript error: https://cdn.robinhood.com/assets/generated_assets/Vendor-dd9ca8ace0f5e722d8f2.chunk.js, line 2: Error: Unauthorized
+JavaScript error: https://cdn.robinhood.com/assets/generated_assets/Vendor-dd9ca8ace0f5e722d8f2.chunk.js, line 2: Error: Unauthorized
+JavaScript error: https://cdn.robinhood.com/assets/generated_assets/Vendor-dd9ca8ace0f5e722d8f2.chunk.js, line 2: Error: Unauthorized
+JavaScript error: https://cdn.robinhood.com/assets/generated_assets/Vendor-dd9ca8ace0f5e722d8f2.chunk.js, line 2: Error: Unauthorized
+JavaScript error: https://cdn.robinhood.com/assets/generated_assets/Vendor-dd9ca8ace0f5e722d8f2.chunk.js, line 2: Error: Unauthorized
+JavaScript error: https://cdn.robinhood.com/assets/generated_assets/Vendor-dd9ca8ace0f5e722d8f2.chunk.js, line 2: Error: Unauthorized
+JavaScript error: https://cdn.robinhood.com/assets/generated_assets/Vendor-dd9ca8ace0f5e722d8f2.chunk.js, line 2: Error: Unauthorized
+JavaScript error: https://cdn.robinhood.com/assets/generated_assets/Vendor-dd9ca8ace0f5e722d8f2.chunk.js, line 2: Error: Unauthorized
+JavaScript error: https://cdn.robinhood.com/assets/generated_assets/Vendor-dd9ca8ace0f5e722d8f2.chunk.js, line 2: Error: Unauthorized
+JavaScript error: https://cdn.robinhood.com/assets/generated_assets/Vendor-dd9ca8ace0f5e722d8f2.chunk.js, line 2: Error: Unauthorized
+JavaScript error: https://cdn.robinhood.com/assets/generated_assets/Vendor-dd9ca8ace0f5e722d8f2.chunk.js, line 2: Error: Unauthorized
+JavaScript error: https://cdn.robinhood.com/assets/generated_assets/Vendor-dd9ca8ace0f5e722d8f2.chunk.js, line 2: Error: Unauthorized
+JavaScript error: https://cdn.robinhood.com/assets/generated_assets/Vendor-dd9ca8ace0f5e722d8f2.chunk.js, line 2: Error: Unauthorized
+JavaScript error: https://cdn.robinhood.com/assets/generated_assets/Vendor-dd9ca8ace0f5e722d8f2.chunk.js, line 2: Error: Unauthorized
+JavaScript error: https://cdn.robinhood.com/assets/generated_assets/Vendor-dd9ca8ace0f5e722d8f2.chunk.js, line 2: Error: Unauthorized
+JavaScript error: https://cdn.robinhood.com/assets/generated_assets/Vendor-dd9ca8ace0f5e722d8f2.chunk.js, line 2: Error: Unauthorized
+JavaScript error: https://cdn.robinhood.com/assets/generated_assets/Vendor-dd9ca8ace0f5e722d8f2.chunk.js, line 2: Error: Unauthorized
+JavaScript error: https://cdn.robinhood.com/assets/generated_assets/Vendor-dd9ca8ace0f5e722d8f2.chunk.js, line 2: Error: Unauthorized
+JavaScript error: https://cdn.robinhood.com/assets/generated_assets/Vendor-dd9ca8ace0f5e722d8f2.chunk.js, line 2: Error: Unauthorized
+JavaScript error: https://cdn.robinhood.com/assets/generated_assets/Vendor-dd9ca8ace0f5e722d8f2.chunk.js, line 2: Error: Unauthorized
+JavaScript error: https://cdn.robinhood.com/assets/generated_assets/Vendor-dd9ca8ace0f5e722d8f2.chunk.js, line 2: Error: Unauthorized
+JavaScript error: https://cdn.robinhood.com/assets/generated_assets/Vendor-dd9ca8ace0f5e722d8f2.chunk.js, line 2: Error: Unauthorized
+JavaScript error: https://cdn.robinhood.com/assets/generated_assets/Vendor-dd9ca8ace0f5e722d8f2.chunk.js, line 2: Error: Unauthorized
+JavaScript error: https://cdn.robinhood.com/assets/generated_assets/Vendor-dd9ca8ace0f5e722d8f2.chunk.js, line 2: Error: Unauthorized
+JavaScript error: https://cdn.robinhood.com/assets/generated_assets/Vendor-dd9ca8ace0f5e722d8f2.chunk.js, line 2: Error: Unauthorized
+JavaScript error: https://cdn.robinhood.com/assets/generated_assets/Vendor-dd9ca8ace0f5e722d8f2.chunk.js, line 2: Error: Unauthorized
+JavaScript error: https://cdn.robinhood.com/assets/generated_assets/Vendor-dd9ca8ace0f5e722d8f2.chunk.js, line 2: Error: Unauthorized
+JavaScript error: https://cdn.robinhood.com/assets/generated_assets/Vendor-dd9ca8ace0f5e722d8f2.chunk.js, line 2: Error: Unauthorized
+JavaScript error: https://cdn.robinhood.com/assets/generated_assets/Vendor-dd9ca8ace0f5e722d8f2.chunk.js, line 2: Error: Unauthorized
+JavaScript error: https://cdn.robinhood.com/assets/generated_assets/Vendor-dd9ca8ace0f5e722d8f2.chunk.js, line 2: Error: Unauthorized
+JavaScript error: https://cdn.robinhood.com/assets/generated_assets/Vendor-dd9ca8ace0f5e722d8f2.chunk.js, line 2: Error: Unauthorized
+JavaScript error: https://cdn.robinhood.com/assets/generated_assets/Vendor-dd9ca8ace0f5e722d8f2.chunk.js, line 2: Error: Unauthorized
+JavaScript error: https://cdn.robinhood.com/assets/generated_assets/Vendor-dd9ca8ace0f5e722d8f2.chunk.js, line 2: Error: Unauthorized
+JavaScript error: https://cdn.robinhood.com/assets/generated_assets/Vendor-dd9ca8ace0f5e722d8f2.chunk.js, line 2: Error: Unauthorized
+JavaScript error: https://cdn.robinhood.com/assets/generated_assets/Vendor-dd9ca8ace0f5e722d8f2.chunk.js, line 2: Error: Unauthorized
+JavaScript error: https://cdn.robinhood.com/assets/generated_assets/Vendor-dd9ca8ace0f5e722d8f2.chunk.js, line 2: Error: Unauthorized
+JavaScript error: https://cdn.robinhood.com/assets/generated_assets/Vendor-dd9ca8ace0f5e722d8f2.chunk.js, line 2: Error: Unauthorized
+JavaScript error: https://cdn.robinhood.com/assets/generated_assets/Vendor-dd9ca8ace0f5e722d8f2.chunk.js, line 2: Error: Unauthorized
+JavaScript error: https://cdn.robinhood.com/assets/generated_assets/Vendor-dd9ca8ace0f5e722d8f2.chunk.js, line 2: Error: Unauthorized
+JavaScript error: https://cdn.robinhood.com/assets/generated_assets/Vendor-dd9ca8ace0f5e722d8f2.chunk.js, line 2: Error: Unauthorized
+JavaScript error: https://cdn.robinhood.com/assets/generated_assets/Vendor-dd9ca8ace0f5e722d8f2.chunk.js, line 2: Error: Unauthorized
+JavaScript error: https://cdn.robinhood.com/assets/generated_assets/Vendor-dd9ca8ace0f5e722d8f2.chunk.js, line 2: Error: Unauthorized
+JavaScript error: https://cdn.robinhood.com/assets/generated_assets/Vendor-dd9ca8ace0f5e722d8f2.chunk.js, line 2: Error: Unauthorized
+JavaScript error: https://cdn.robinhood.com/assets/generated_assets/Vendor-dd9ca8ace0f5e722d8f2.chunk.js, line 2: Error: Unauthorized
+JavaScript error: https://cdn.robinhood.com/assets/generated_assets/Vendor-dd9ca8ace0f5e722d8f2.chunk.js, line 2: Error: Unauthorized
+1606148582974	geckodriver	INFO	Listening on 127.0.0.1:51745
+1606148582980	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileIdURfr"
+JavaScript error: https://cdn.robinhood.com/assets/generated_assets/Vendor-dd9ca8ace0f5e722d8f2.chunk.js, line 2: Error: Unauthorized
+JavaScript error: https://cdn.robinhood.com/assets/generated_assets/Vendor-dd9ca8ace0f5e722d8f2.chunk.js, line 2: Error: Unauthorized
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1606148587283	Marionette	INFO	Listening on port 40625
+1606148587334	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: Region.jsm: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 726))
+console.error: Region.jsm: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 376))
+JavaScript error: https://cdn.robinhood.com/assets/generated_assets/Vendor-dd9ca8ace0f5e722d8f2.chunk.js, line 2: Error: Unauthorized
+JavaScript error: https://cdn.robinhood.com/assets/generated_assets/Vendor-dd9ca8ace0f5e722d8f2.chunk.js, line 2: Error: Unauthorized
+JavaScript error: https://cdn.robinhood.com/assets/generated_assets/Vendor-dd9ca8ace0f5e722d8f2.chunk.js, line 2: Error: Unauthorized
+JavaScript error: https://cdn.robinhood.com/assets/generated_assets/Vendor-dd9ca8ace0f5e722d8f2.chunk.js, line 2: Error: Unauthorized
+JavaScript error: https://cdn.robinhood.com/assets/generated_assets/Vendor-dd9ca8ace0f5e722d8f2.chunk.js, line 2: Error: Unauthorized
+JavaScript error: https://cdn.robinhood.com/assets/generated_assets/Vendor-dd9ca8ace0f5e722d8f2.chunk.js, line 2: Error: Unauthorized
+JavaScript error: https://cdn.robinhood.com/assets/generated_assets/Vendor-dd9ca8ace0f5e722d8f2.chunk.js, line 2: Error: Unauthorized
+JavaScript error: https://cdn.robinhood.com/assets/generated_assets/Vendor-dd9ca8ace0f5e722d8f2.chunk.js, line 2: Error: Unauthorized
+JavaScript error: https://cdn.robinhood.com/assets/generated_assets/Vendor-dd9ca8ace0f5e722d8f2.chunk.js, line 2: Error: Unauthorized
+JavaScript error: https://cdn.robinhood.com/assets/generated_assets/Vendor-dd9ca8ace0f5e722d8f2.chunk.js, line 2: Error: Unauthorized
+JavaScript error: https://cdn.robinhood.com/assets/generated_assets/Vendor-bc841585fe4223886653.chunk.js, line 2: Error: Unauthorized
+JavaScript error: https://cdn.robinhood.com/assets/generated_assets/Vendor-bc841585fe4223886653.chunk.js, line 2: Error: Unauthorized
+JavaScript error: https://cdn.robinhood.com/assets/generated_assets/Vendor-dd9ca8ace0f5e722d8f2.chunk.js, line 2: Error: Unauthorized
+JavaScript error: https://cdn.robinhood.com/assets/generated_assets/Vendor-dd9ca8ace0f5e722d8f2.chunk.js, line 2: Error: Unauthorized
+JavaScript error: https://cdn.robinhood.com/assets/generated_assets/Vendor-bc841585fe4223886653.chunk.js, line 2: Error: Unauthorized
+JavaScript error: https://cdn.robinhood.com/assets/generated_assets/Vendor-bc841585fe4223886653.chunk.js, line 2: Error: Unauthorized
+JavaScript error: https://cdn.robinhood.com/assets/generated_assets/Vendor-dd9ca8ace0f5e722d8f2.chunk.js, line 2: Error: Unauthorized
+JavaScript error: https://cdn.robinhood.com/assets/generated_assets/Vendor-dd9ca8ace0f5e722d8f2.chunk.js, line 2: Error: Unauthorized
+JavaScript error: https://cdn.robinhood.com/assets/generated_assets/Vendor-bc841585fe4223886653.chunk.js, line 2: Error: Unauthorized
+JavaScript error: https://cdn.robinhood.com/assets/generated_assets/Vendor-bc841585fe4223886653.chunk.js, line 2: Error: Unauthorized
+JavaScript error: https://cdn.robinhood.com/assets/generated_assets/Vendor-dd9ca8ace0f5e722d8f2.chunk.js, line 2: Error: Unauthorized
+JavaScript error: https://cdn.robinhood.com/assets/generated_assets/Vendor-dd9ca8ace0f5e722d8f2.chunk.js, line 2: Error: Unauthorized
+JavaScript error: https://cdn.robinhood.com/assets/generated_assets/Vendor-bc841585fe4223886653.chunk.js, line 2: Error: Unauthorized
+JavaScript error: https://cdn.robinhood.com/assets/generated_assets/Vendor-bc841585fe4223886653.chunk.js, line 2: Error: Unauthorized
+JavaScript error: https://cdn.robinhood.com/assets/generated_assets/Vendor-dd9ca8ace0f5e722d8f2.chunk.js, line 2: Error: Unauthorized
+JavaScript error: https://cdn.robinhood.com/assets/generated_assets/Vendor-dd9ca8ace0f5e722d8f2.chunk.js, line 2: Error: Unauthorized
+JavaScript error: https://cdn.robinhood.com/assets/generated_assets/Vendor-bc841585fe4223886653.chunk.js, line 2: Error: Unauthorized
+JavaScript error: https://cdn.robinhood.com/assets/generated_assets/Vendor-bc841585fe4223886653.chunk.js, line 2: Error: Unauthorized
+JavaScript error: https://cdn.robinhood.com/assets/generated_assets/Vendor-dd9ca8ace0f5e722d8f2.chunk.js, line 2: Error: Unauthorized
+JavaScript error: https://cdn.robinhood.com/assets/generated_assets/Vendor-dd9ca8ace0f5e722d8f2.chunk.js, line 2: Error: Unauthorized
+JavaScript error: https://cdn.robinhood.com/assets/generated_assets/Vendor-bc841585fe4223886653.chunk.js, line 2: Error: Unauthorized
+JavaScript error: https://cdn.robinhood.com/assets/generated_assets/Vendor-bc841585fe4223886653.chunk.js, line 2: Error: Unauthorized
+JavaScript error: https://cdn.robinhood.com/assets/generated_assets/Vendor-dd9ca8ace0f5e722d8f2.chunk.js, line 2: Error: Unauthorized
+JavaScript error: https://cdn.robinhood.com/assets/generated_assets/Vendor-dd9ca8ace0f5e722d8f2.chunk.js, line 2: Error: Unauthorized
+JavaScript error: https://cdn.robinhood.com/assets/generated_assets/Vendor-bc841585fe4223886653.chunk.js, line 2: Error: Unauthorized
+JavaScript error: https://cdn.robinhood.com/assets/generated_assets/Vendor-bc841585fe4223886653.chunk.js, line 2: Error: Unauthorized
+JavaScript error: https://cdn.robinhood.com/assets/generated_assets/Vendor-dd9ca8ace0f5e722d8f2.chunk.js, line 2: Error: Unauthorized
+JavaScript error: https://cdn.robinhood.com/assets/generated_assets/Vendor-dd9ca8ace0f5e722d8f2.chunk.js, line 2: Error: Unauthorized
+JavaScript error: https://cdn.robinhood.com/assets/generated_assets/Vendor-bc841585fe4223886653.chunk.js, line 2: Error: Unauthorized
+JavaScript error: https://cdn.robinhood.com/assets/generated_assets/Vendor-bc841585fe4223886653.chunk.js, line 2: Error: Unauthorized
+JavaScript error: https://cdn.robinhood.com/assets/generated_assets/Vendor-dd9ca8ace0f5e722d8f2.chunk.js, line 2: Error: Unauthorized
+JavaScript error: https://cdn.robinhood.com/assets/generated_assets/Vendor-dd9ca8ace0f5e722d8f2.chunk.js, line 2: Error: Unauthorized
+JavaScript error: https://cdn.robinhood.com/assets/generated_assets/Vendor-bc841585fe4223886653.chunk.js, line 2: Error: Unauthorized
+JavaScript error: https://cdn.robinhood.com/assets/generated_assets/Vendor-bc841585fe4223886653.chunk.js, line 2: Error: Unauthorized
+JavaScript error: https://cdn.robinhood.com/assets/generated_assets/Vendor-dd9ca8ace0f5e722d8f2.chunk.js, line 2: Error: Unauthorized
+JavaScript error: https://cdn.robinhood.com/assets/generated_assets/Vendor-dd9ca8ace0f5e722d8f2.chunk.js, line 2: Error: Unauthorized
+JavaScript error: https://cdn.robinhood.com/assets/generated_assets/Vendor-bc841585fe4223886653.chunk.js, line 2: Error: Unauthorized
+JavaScript error: https://cdn.robinhood.com/assets/generated_assets/Vendor-bc841585fe4223886653.chunk.js, line 2: Error: Unauthorized
+JavaScript error: https://cdn.robinhood.com/assets/generated_assets/Vendor-dd9ca8ace0f5e722d8f2.chunk.js, line 2: Error: Unauthorized
+JavaScript error: https://cdn.robinhood.com/assets/generated_assets/Vendor-dd9ca8ace0f5e722d8f2.chunk.js, line 2: Error: Unauthorized
+JavaScript error: https://cdn.robinhood.com/assets/generated_assets/Vendor-bc841585fe4223886653.chunk.js, line 2: Error: Unauthorized
+JavaScript error: https://cdn.robinhood.com/assets/generated_assets/Vendor-bc841585fe4223886653.chunk.js, line 2: Error: Unauthorized
+JavaScript error: https://cdn.robinhood.com/assets/generated_assets/Vendor-dd9ca8ace0f5e722d8f2.chunk.js, line 2: Error: Unauthorized
+JavaScript error: https://cdn.robinhood.com/assets/generated_assets/Vendor-dd9ca8ace0f5e722d8f2.chunk.js, line 2: Error: Unauthorized
+JavaScript error: https://cdn.robinhood.com/assets/generated_assets/Vendor-bc841585fe4223886653.chunk.js, line 2: Error: Unauthorized
+JavaScript error: https://cdn.robinhood.com/assets/generated_assets/Vendor-bc841585fe4223886653.chunk.js, line 2: Error: Unauthorized
+JavaScript error: https://cdn.robinhood.com/assets/generated_assets/Vendor-dd9ca8ace0f5e722d8f2.chunk.js, line 2: Error: Unauthorized
+JavaScript error: https://cdn.robinhood.com/assets/generated_assets/Vendor-dd9ca8ace0f5e722d8f2.chunk.js, line 2: Error: Unauthorized
+JavaScript error: https://cdn.robinhood.com/assets/generated_assets/Vendor-bc841585fe4223886653.chunk.js, line 2: Error: Unauthorized
+JavaScript error: https://cdn.robinhood.com/assets/generated_assets/Vendor-bc841585fe4223886653.chunk.js, line 2: Error: Unauthorized
+JavaScript error: https://cdn.robinhood.com/assets/generated_assets/Vendor-dd9ca8ace0f5e722d8f2.chunk.js, line 2: Error: Unauthorized
+JavaScript error: https://cdn.robinhood.com/assets/generated_assets/Vendor-dd9ca8ace0f5e722d8f2.chunk.js, line 2: Error: Unauthorized
+JavaScript error: https://cdn.robinhood.com/assets/generated_assets/Vendor-bc841585fe4223886653.chunk.js, line 2: Error: Unauthorized
+JavaScript error: https://cdn.robinhood.com/assets/generated_assets/Vendor-bc841585fe4223886653.chunk.js, line 2: Error: Unauthorized
+JavaScript error: https://cdn.robinhood.com/assets/generated_assets/Vendor-dd9ca8ace0f5e722d8f2.chunk.js, line 2: Error: Unauthorized
+JavaScript error: https://cdn.robinhood.com/assets/generated_assets/Vendor-dd9ca8ace0f5e722d8f2.chunk.js, line 2: Error: Unauthorized
+JavaScript error: https://cdn.robinhood.com/assets/generated_assets/Vendor-bc841585fe4223886653.chunk.js, line 2: Error: Unauthorized
+JavaScript error: https://cdn.robinhood.com/assets/generated_assets/Vendor-bc841585fe4223886653.chunk.js, line 2: Error: Unauthorized
+JavaScript error: https://cdn.robinhood.com/assets/generated_assets/Vendor-dd9ca8ace0f5e722d8f2.chunk.js, line 2: Error: Unauthorized
+JavaScript error: https://cdn.robinhood.com/assets/generated_assets/Vendor-dd9ca8ace0f5e722d8f2.chunk.js, line 2: Error: Unauthorized
+JavaScript error: https://cdn.robinhood.com/assets/generated_assets/Vendor-bc841585fe4223886653.chunk.js, line 2: Error: Unauthorized
+JavaScript error: https://cdn.robinhood.com/assets/generated_assets/Vendor-bc841585fe4223886653.chunk.js, line 2: Error: Unauthorized
+JavaScript error: https://cdn.robinhood.com/assets/generated_assets/Vendor-dd9ca8ace0f5e722d8f2.chunk.js, line 2: Error: Unauthorized
+JavaScript error: https://cdn.robinhood.com/assets/generated_assets/Vendor-dd9ca8ace0f5e722d8f2.chunk.js, line 2: Error: Unauthorized
+JavaScript error: https://cdn.robinhood.com/assets/generated_assets/Vendor-bc841585fe4223886653.chunk.js, line 2: Error: Unauthorized
+JavaScript error: https://cdn.robinhood.com/assets/generated_assets/Vendor-bc841585fe4223886653.chunk.js, line 2: Error: Unauthorized
+JavaScript error: https://cdn.robinhood.com/assets/generated_assets/Vendor-dd9ca8ace0f5e722d8f2.chunk.js, line 2: Error: Unauthorized
+JavaScript error: https://cdn.robinhood.com/assets/generated_assets/Vendor-dd9ca8ace0f5e722d8f2.chunk.js, line 2: Error: Unauthorized
+1606148709623	geckodriver	INFO	Listening on 127.0.0.1:57471
+1606148709629	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileEZKHZl"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1606148713953	Marionette	INFO	Listening on port 34027
+JavaScript error: https://cdn.robinhood.com/assets/generated_assets/Vendor-bc841585fe4223886653.chunk.js, line 2: Error: Unauthorized
+1606148714072	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://cdn.robinhood.com/assets/generated_assets/Vendor-bc841585fe4223886653.chunk.js, line 2: Error: Unauthorized
+JavaScript error: https://cdn.robinhood.com/assets/generated_assets/Vendor-dd9ca8ace0f5e722d8f2.chunk.js, line 2: Error: Unauthorized
+JavaScript error: https://cdn.robinhood.com/assets/generated_assets/Vendor-dd9ca8ace0f5e722d8f2.chunk.js, line 2: Error: Unauthorized
+JavaScript error: https://cdn.robinhood.com/assets/generated_assets/Vendor-bc841585fe4223886653.chunk.js, line 2: Error: Unauthorized
+JavaScript error: https://cdn.robinhood.com/assets/generated_assets/Vendor-bc841585fe4223886653.chunk.js, line 2: Error: Unauthorized
+JavaScript error: https://cdn.robinhood.com/assets/generated_assets/Vendor-dd9ca8ace0f5e722d8f2.chunk.js, line 2: Error: Unauthorized
+JavaScript error: https://cdn.robinhood.com/assets/generated_assets/Vendor-dd9ca8ace0f5e722d8f2.chunk.js, line 2: Error: Unauthorized
+JavaScript error: https://cdn.robinhood.com/assets/generated_assets/Vendor-bc841585fe4223886653.chunk.js, line 2: Error: Unauthorized
+JavaScript error: https://cdn.robinhood.com/assets/generated_assets/Vendor-bc841585fe4223886653.chunk.js, line 2: Error: Unauthorized
+JavaScript error: https://cdn.robinhood.com/assets/generated_assets/Vendor-dd9ca8ace0f5e722d8f2.chunk.js, line 2: Error: Unauthorized
+JavaScript error: https://cdn.robinhood.com/assets/generated_assets/Vendor-dd9ca8ace0f5e722d8f2.chunk.js, line 2: Error: Unauthorized
+JavaScript error: https://cdn.robinhood.com/assets/generated_assets/Vendor-bc841585fe4223886653.chunk.js, line 2: Error: Unauthorized
+JavaScript error: https://cdn.robinhood.com/assets/generated_assets/Vendor-bc841585fe4223886653.chunk.js, line 2: Error: Unauthorized
+JavaScript error: https://cdn.robinhood.com/assets/generated_assets/Vendor-dd9ca8ace0f5e722d8f2.chunk.js, line 2: Error: Unauthorized
+JavaScript error: https://cdn.robinhood.com/assets/generated_assets/Vendor-dd9ca8ace0f5e722d8f2.chunk.js, line 2: Error: Unauthorized
+JavaScript error: https://cdn.robinhood.com/assets/generated_assets/Vendor-dd9ca8ace0f5e722d8f2.chunk.js, line 2: Error: Unauthorized
+JavaScript error: https://cdn.robinhood.com/assets/generated_assets/Vendor-dd9ca8ace0f5e722d8f2.chunk.js, line 2: Error: Unauthorized
+JavaScript error: https://cdn.robinhood.com/assets/generated_assets/Vendor-bc841585fe4223886653.chunk.js, line 2: Error: Unauthorized
+JavaScript error: https://cdn.robinhood.com/assets/generated_assets/Vendor-bc841585fe4223886653.chunk.js, line 2: Error: Unauthorized
+JavaScript error: https://cdn.robinhood.com/assets/generated_assets/Vendor-dd9ca8ace0f5e722d8f2.chunk.js, line 2: Error: Unauthorized
+JavaScript error: https://cdn.robinhood.com/assets/generated_assets/Vendor-dd9ca8ace0f5e722d8f2.chunk.js, line 2: Error: Unauthorized
+JavaScript error: https://cdn.robinhood.com/assets/generated_assets/Vendor-dd9ca8ace0f5e722d8f2.chunk.js, line 2: Error: Unauthorized
+JavaScript error: https://cdn.robinhood.com/assets/generated_assets/Vendor-dd9ca8ace0f5e722d8f2.chunk.js, line 2: Error: Unauthorized
+JavaScript error: https://cdn.robinhood.com/assets/generated_assets/Vendor-bc841585fe4223886653.chunk.js, line 2: Error: Unauthorized
+JavaScript error: https://cdn.robinhood.com/assets/generated_assets/Vendor-bc841585fe4223886653.chunk.js, line 2: Error: Unauthorized
+JavaScript error: https://cdn.robinhood.com/assets/generated_assets/Vendor-dd9ca8ace0f5e722d8f2.chunk.js, line 2: Error: Unauthorized
+JavaScript error: https://cdn.robinhood.com/assets/generated_assets/Vendor-dd9ca8ace0f5e722d8f2.chunk.js, line 2: Error: Unauthorized
+JavaScript error: https://cdn.robinhood.com/assets/generated_assets/Vendor-dd9ca8ace0f5e722d8f2.chunk.js, line 2: Error: Unauthorized
+JavaScript error: https://cdn.robinhood.com/assets/generated_assets/Vendor-dd9ca8ace0f5e722d8f2.chunk.js, line 2: Error: Unauthorized
+JavaScript error: https://cdn.robinhood.com/assets/generated_assets/Vendor-bc841585fe4223886653.chunk.js, line 2: Error: Unauthorized
+JavaScript error: https://cdn.robinhood.com/assets/generated_assets/Vendor-bc841585fe4223886653.chunk.js, line 2: Error: Unauthorized
+JavaScript error: https://cdn.robinhood.com/assets/generated_assets/Vendor-dd9ca8ace0f5e722d8f2.chunk.js, line 2: Error: Unauthorized
+JavaScript error: https://cdn.robinhood.com/assets/generated_assets/Vendor-dd9ca8ace0f5e722d8f2.chunk.js, line 2: Error: Unauthorized
+JavaScript error: https://cdn.robinhood.com/assets/generated_assets/Vendor-dd9ca8ace0f5e722d8f2.chunk.js, line 2: Error: Unauthorized
+JavaScript error: https://cdn.robinhood.com/assets/generated_assets/Vendor-dd9ca8ace0f5e722d8f2.chunk.js, line 2: Error: Unauthorized
+JavaScript error: https://cdn.robinhood.com/assets/generated_assets/Vendor-bc841585fe4223886653.chunk.js, line 2: Error: Unauthorized
+JavaScript error: https://cdn.robinhood.com/assets/generated_assets/Vendor-bc841585fe4223886653.chunk.js, line 2: Error: Unauthorized
+JavaScript error: https://cdn.robinhood.com/assets/generated_assets/Vendor-dd9ca8ace0f5e722d8f2.chunk.js, line 2: Error: Unauthorized
+JavaScript error: https://cdn.robinhood.com/assets/generated_assets/Vendor-dd9ca8ace0f5e722d8f2.chunk.js, line 2: Error: Unauthorized
+JavaScript error: https://cdn.robinhood.com/assets/generated_assets/Vendor-dd9ca8ace0f5e722d8f2.chunk.js, line 2: Error: Unauthorized
+JavaScript error: https://cdn.robinhood.com/assets/generated_assets/Vendor-dd9ca8ace0f5e722d8f2.chunk.js, line 2: Error: Unauthorized
+1606148758714	geckodriver	INFO	Listening on 127.0.0.1:39923
+1606148758719	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileHIvVz7"
+JavaScript error: https://cdn.robinhood.com/assets/generated_assets/Vendor-bc841585fe4223886653.chunk.js, line 2: Error: Unauthorized
+JavaScript error: https://cdn.robinhood.com/assets/generated_assets/Vendor-bc841585fe4223886653.chunk.js, line 2: Error: Unauthorized
+JavaScript error: https://cdn.robinhood.com/assets/generated_assets/Vendor-dd9ca8ace0f5e722d8f2.chunk.js, line 2: Error: Unauthorized
+JavaScript error: https://cdn.robinhood.com/assets/generated_assets/Vendor-dd9ca8ace0f5e722d8f2.chunk.js, line 2: Error: Unauthorized
+JavaScript error: https://cdn.robinhood.com/assets/generated_assets/Vendor-dd9ca8ace0f5e722d8f2.chunk.js, line 2: Error: Unauthorized
+JavaScript error: https://cdn.robinhood.com/assets/generated_assets/Vendor-dd9ca8ace0f5e722d8f2.chunk.js, line 2: Error: Unauthorized
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1606148762938	Marionette	INFO	Listening on port 36717
+1606148763071	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://cdn.robinhood.com/assets/generated_assets/Vendor-bc841585fe4223886653.chunk.js, line 2: Error: Unauthorized
+JavaScript error: https://cdn.robinhood.com/assets/generated_assets/Vendor-dd9ca8ace0f5e722d8f2.chunk.js, line 2: Error: Unauthorized
+JavaScript error: https://cdn.robinhood.com/assets/generated_assets/Vendor-dd9ca8ace0f5e722d8f2.chunk.js, line 2: Error: Unauthorized
+JavaScript error: https://cdn.robinhood.com/assets/generated_assets/Vendor-bc841585fe4223886653.chunk.js, line 2: Error: Unauthorized
+JavaScript error: https://cdn.robinhood.com/assets/generated_assets/Vendor-dd9ca8ace0f5e722d8f2.chunk.js, line 2: Error: Unauthorized
+JavaScript error: https://cdn.robinhood.com/assets/generated_assets/Vendor-dd9ca8ace0f5e722d8f2.chunk.js, line 2: Error: Unauthorized
+JavaScript error: https://cdn.robinhood.com/assets/generated_assets/Vendor-dd9ca8ace0f5e722d8f2.chunk.js, line 2: Error: Unauthorized
+JavaScript error: https://cdn.robinhood.com/assets/generated_assets/Vendor-bc841585fe4223886653.chunk.js, line 2: Error: Unauthorized
+JavaScript error: https://cdn.robinhood.com/assets/generated_assets/Vendor-dd9ca8ace0f5e722d8f2.chunk.js, line 2: Error: Unauthorized
+JavaScript error: https://cdn.robinhood.com/assets/generated_assets/Vendor-bc841585fe4223886653.chunk.js, line 2: Error: Unauthorized
+JavaScript error: https://cdn.robinhood.com/assets/generated_assets/Vendor-dd9ca8ace0f5e722d8f2.chunk.js, line 2: Error: Unauthorized
+JavaScript error: https://cdn.robinhood.com/assets/generated_assets/Vendor-dd9ca8ace0f5e722d8f2.chunk.js, line 2: Error: Unauthorized
+JavaScript error: https://cdn.robinhood.com/assets/generated_assets/Vendor-bc841585fe4223886653.chunk.js, line 2: Error: Unauthorized
+JavaScript error: https://cdn.robinhood.com/assets/generated_assets/Vendor-dd9ca8ace0f5e722d8f2.chunk.js, line 2: Error: Unauthorized
+JavaScript error: https://cdn.robinhood.com/assets/generated_assets/Vendor-dd9ca8ace0f5e722d8f2.chunk.js, line 2: Error: Unauthorized
+JavaScript error: https://cdn.robinhood.com/assets/generated_assets/Vendor-bc841585fe4223886653.chunk.js, line 2: Error: Unauthorized
+JavaScript error: https://cdn.robinhood.com/assets/generated_assets/Vendor-dd9ca8ace0f5e722d8f2.chunk.js, line 2: Error: Unauthorized
+JavaScript error: https://cdn.robinhood.com/assets/generated_assets/Vendor-dd9ca8ace0f5e722d8f2.chunk.js, line 2: Error: Unauthorized
+JavaScript error: https://cdn.robinhood.com/assets/generated_assets/Vendor-bc841585fe4223886653.chunk.js, line 2: Error: Unauthorized
+JavaScript error: https://cdn.robinhood.com/assets/generated_assets/Vendor-dd9ca8ace0f5e722d8f2.chunk.js, line 2: Error: Unauthorized
+JavaScript error: https://cdn.robinhood.com/assets/generated_assets/Vendor-dd9ca8ace0f5e722d8f2.chunk.js, line 2: Error: Unauthorized
+JavaScript error: https://cdn.robinhood.com/assets/generated_assets/Vendor-bc841585fe4223886653.chunk.js, line 2: Error: Unauthorized
+JavaScript error: https://cdn.robinhood.com/assets/generated_assets/Vendor-dd9ca8ace0f5e722d8f2.chunk.js, line 2: Error: Unauthorized
+JavaScript error: https://cdn.robinhood.com/assets/generated_assets/Vendor-dd9ca8ace0f5e722d8f2.chunk.js, line 2: Error: Unauthorized
+JavaScript error: https://cdn.robinhood.com/assets/generated_assets/Vendor-dd9ca8ace0f5e722d8f2.chunk.js, line 2: Error: Unauthorized
+JavaScript error: https://cdn.robinhood.com/assets/generated_assets/Vendor-bc841585fe4223886653.chunk.js, line 2: Error: Unauthorized
+JavaScript error: https://cdn.robinhood.com/assets/generated_assets/Vendor-dd9ca8ace0f5e722d8f2.chunk.js, line 2: Error: Unauthorized
+JavaScript error: https://cdn.robinhood.com/assets/generated_assets/Vendor-bc841585fe4223886653.chunk.js, line 2: Error: Unauthorized
+JavaScript error: https://cdn.robinhood.com/assets/generated_assets/Vendor-dd9ca8ace0f5e722d8f2.chunk.js, line 2: Error: Unauthorized
+JavaScript error: https://cdn.robinhood.com/assets/generated_assets/Vendor-dd9ca8ace0f5e722d8f2.chunk.js, line 2: Error: Unauthorized
+JavaScript error: https://cdn.robinhood.com/assets/generated_assets/Vendor-dd9ca8ace0f5e722d8f2.chunk.js, line 2: Error: Unauthorized
+JavaScript error: https://cdn.robinhood.com/assets/generated_assets/Vendor-bc841585fe4223886653.chunk.js, line 2: Error: Unauthorized
+JavaScript error: https://cdn.robinhood.com/assets/generated_assets/Vendor-dd9ca8ace0f5e722d8f2.chunk.js, line 2: Error: Unauthorized
+JavaScript error: https://cdn.robinhood.com/assets/generated_assets/Vendor-bc841585fe4223886653.chunk.js, line 2: Error: Unauthorized
+JavaScript error: https://cdn.robinhood.com/assets/generated_assets/Vendor-dd9ca8ace0f5e722d8f2.chunk.js, line 2: Error: Unauthorized
+JavaScript error: https://cdn.robinhood.com/assets/generated_assets/Vendor-dd9ca8ace0f5e722d8f2.chunk.js, line 2: Error: Unauthorized
+JavaScript error: https://cdn.robinhood.com/assets/generated_assets/Vendor-dd9ca8ace0f5e722d8f2.chunk.js, line 2: Error: Unauthorized
+JavaScript error: https://cdn.robinhood.com/assets/generated_assets/Vendor-bc841585fe4223886653.chunk.js, line 2: Error: Unauthorized
+JavaScript error: https://cdn.robinhood.com/assets/generated_assets/Vendor-dd9ca8ace0f5e722d8f2.chunk.js, line 2: Error: Unauthorized
+JavaScript error: https://cdn.robinhood.com/assets/generated_assets/Vendor-bc841585fe4223886653.chunk.js, line 2: Error: Unauthorized
+JavaScript error: https://cdn.robinhood.com/assets/generated_assets/Vendor-dd9ca8ace0f5e722d8f2.chunk.js, line 2: Error: Unauthorized
+JavaScript error: https://cdn.robinhood.com/assets/generated_assets/Vendor-bc841585fe4223886653.chunk.js, line 2: Error: Unauthorized
+JavaScript error: https://cdn.robinhood.com/assets/generated_assets/Vendor-dd9ca8ace0f5e722d8f2.chunk.js, line 2: Error: Unauthorized
+JavaScript error: https://cdn.robinhood.com/assets/generated_assets/Vendor-dd9ca8ace0f5e722d8f2.chunk.js, line 2: Error: Unauthorized
+JavaScript error: https://cdn.robinhood.com/assets/generated_assets/Vendor-dd9ca8ace0f5e722d8f2.chunk.js, line 2: Error: Unauthorized
+JavaScript error: https://cdn.robinhood.com/assets/generated_assets/Vendor-bc841585fe4223886653.chunk.js, line 2: Error: Unauthorized
+JavaScript error: https://cdn.robinhood.com/assets/generated_assets/Vendor-dd9ca8ace0f5e722d8f2.chunk.js, line 2: Error: Unauthorized
+JavaScript error: https://cdn.robinhood.com/assets/generated_assets/Vendor-bc841585fe4223886653.chunk.js, line 2: Error: Unauthorized
+JavaScript error: https://cdn.robinhood.com/assets/generated_assets/Vendor-dd9ca8ace0f5e722d8f2.chunk.js, line 2: Error: Unauthorized
+JavaScript error: https://cdn.robinhood.com/assets/generated_assets/Vendor-dd9ca8ace0f5e722d8f2.chunk.js, line 2: Error: Unauthorized
+JavaScript error: https://cdn.robinhood.com/assets/generated_assets/Vendor-dd9ca8ace0f5e722d8f2.chunk.js, line 2: Error: Unauthorized
+JavaScript error: https://cdn.robinhood.com/assets/generated_assets/Vendor-bc841585fe4223886653.chunk.js, line 2: Error: Unauthorized
+JavaScript error: https://cdn.robinhood.com/assets/generated_assets/Vendor-bc841585fe4223886653.chunk.js, line 2: Error: Unauthorized
+JavaScript error: https://cdn.robinhood.com/assets/generated_assets/Vendor-bc841585fe4223886653.chunk.js, line 2: Error: Unauthorized
+JavaScript error: https://cdn.robinhood.com/assets/generated_assets/Vendor-bc841585fe4223886653.chunk.js, line 2: Error: Unauthorized
+JavaScript error: https://cdn.robinhood.com/assets/generated_assets/Vendor-dd9ca8ace0f5e722d8f2.chunk.js, line 2: Error: Unauthorized
+JavaScript error: https://cdn.robinhood.com/assets/generated_assets/Vendor-dd9ca8ace0f5e722d8f2.chunk.js, line 2: Error: Unauthorized
+JavaScript error: https://cdn.robinhood.com/assets/generated_assets/Vendor-dd9ca8ace0f5e722d8f2.chunk.js, line 2: Error: Unauthorized
+JavaScript error: https://cdn.robinhood.com/assets/generated_assets/Vendor-dd9ca8ace0f5e722d8f2.chunk.js, line 2: Error: Unauthorized
+JavaScript error: https://cdn.robinhood.com/assets/generated_assets/Vendor-bc841585fe4223886653.chunk.js, line 2: Error: Unauthorized
+JavaScript error: https://cdn.robinhood.com/assets/generated_assets/Vendor-bc841585fe4223886653.chunk.js, line 2: Error: Unauthorized
+JavaScript error: https://cdn.robinhood.com/assets/generated_assets/Vendor-bc841585fe4223886653.chunk.js, line 2: Error: Unauthorized
+JavaScript error: https://cdn.robinhood.com/assets/generated_assets/Vendor-bc841585fe4223886653.chunk.js, line 2: Error: Unauthorized
+JavaScript error: https://cdn.robinhood.com/assets/generated_assets/Vendor-dd9ca8ace0f5e722d8f2.chunk.js, line 2: Error: Unauthorized
+JavaScript error: https://cdn.robinhood.com/assets/generated_assets/Vendor-dd9ca8ace0f5e722d8f2.chunk.js, line 2: Error: Unauthorized
+JavaScript error: https://cdn.robinhood.com/assets/generated_assets/Vendor-dd9ca8ace0f5e722d8f2.chunk.js, line 2: Error: Unauthorized
+JavaScript error: https://cdn.robinhood.com/assets/generated_assets/Vendor-dd9ca8ace0f5e722d8f2.chunk.js, line 2: Error: Unauthorized
+JavaScript error: https://cdn.robinhood.com/assets/generated_assets/Vendor-bc841585fe4223886653.chunk.js, line 2: Error: Unauthorized
+JavaScript error: https://cdn.robinhood.com/assets/generated_assets/Vendor-bc841585fe4223886653.chunk.js, line 2: Error: Unauthorized
+JavaScript error: https://cdn.robinhood.com/assets/generated_assets/Vendor-bc841585fe4223886653.chunk.js, line 2: Error: Unauthorized
+JavaScript error: https://cdn.robinhood.com/assets/generated_assets/Vendor-bc841585fe4223886653.chunk.js, line 2: Error: Unauthorized
+JavaScript error: https://cdn.robinhood.com/assets/generated_assets/Vendor-dd9ca8ace0f5e722d8f2.chunk.js, line 2: Error: Unauthorized
+JavaScript error: https://cdn.robinhood.com/assets/generated_assets/Vendor-dd9ca8ace0f5e722d8f2.chunk.js, line 2: Error: Unauthorized
+JavaScript error: https://cdn.robinhood.com/assets/generated_assets/Vendor-dd9ca8ace0f5e722d8f2.chunk.js, line 2: Error: Unauthorized
+JavaScript error: https://cdn.robinhood.com/assets/generated_assets/Vendor-dd9ca8ace0f5e722d8f2.chunk.js, line 2: Error: Unauthorized
+JavaScript error: https://cdn.robinhood.com/assets/generated_assets/Vendor-bc841585fe4223886653.chunk.js, line 2: Error: Unauthorized
+JavaScript error: https://cdn.robinhood.com/assets/generated_assets/Vendor-bc841585fe4223886653.chunk.js, line 2: Error: Unauthorized
+JavaScript error: https://cdn.robinhood.com/assets/generated_assets/Vendor-bc841585fe4223886653.chunk.js, line 2: Error: Unauthorized
+JavaScript error: https://cdn.robinhood.com/assets/generated_assets/Vendor-dd9ca8ace0f5e722d8f2.chunk.js, line 2: Error: Unauthorized
+JavaScript error: https://cdn.robinhood.com/assets/generated_assets/Vendor-dd9ca8ace0f5e722d8f2.chunk.js, line 2: Error: Unauthorized
+JavaScript error: https://cdn.robinhood.com/assets/generated_assets/Vendor-bc841585fe4223886653.chunk.js, line 2: Error: Unauthorized
+JavaScript error: https://cdn.robinhood.com/assets/generated_assets/Vendor-dd9ca8ace0f5e722d8f2.chunk.js, line 2: Error: Unauthorized
+JavaScript error: https://cdn.robinhood.com/assets/generated_assets/Vendor-dd9ca8ace0f5e722d8f2.chunk.js, line 2: Error: Unauthorized
+JavaScript error: https://cdn.robinhood.com/assets/generated_assets/Vendor-bc841585fe4223886653.chunk.js, line 2: Error: Unauthorized
+JavaScript error: https://cdn.robinhood.com/assets/generated_assets/Vendor-bc841585fe4223886653.chunk.js, line 2: Error: Unauthorized
+JavaScript error: https://cdn.robinhood.com/assets/generated_assets/Vendor-bc841585fe4223886653.chunk.js, line 2: Error: Unauthorized
+JavaScript error: https://cdn.robinhood.com/assets/generated_assets/Vendor-dd9ca8ace0f5e722d8f2.chunk.js, line 2: Error: Unauthorized
+JavaScript error: https://cdn.robinhood.com/assets/generated_assets/Vendor-dd9ca8ace0f5e722d8f2.chunk.js, line 2: Error: Unauthorized
+JavaScript error: https://cdn.robinhood.com/assets/generated_assets/Vendor-bc841585fe4223886653.chunk.js, line 2: Error: Unauthorized
+JavaScript error: https://cdn.robinhood.com/assets/generated_assets/Vendor-dd9ca8ace0f5e722d8f2.chunk.js, line 2: Error: Unauthorized
+JavaScript error: https://cdn.robinhood.com/assets/generated_assets/Vendor-dd9ca8ace0f5e722d8f2.chunk.js, line 2: Error: Unauthorized
+1606148851887	Marionette	INFO	Stopped listening on port 43375
+JavaScript error: https://cdn.robinhood.com/assets/generated_assets/Vendor-bc841585fe4223886653.chunk.js, line 2: Error: Unauthorized
+JavaScript error: https://cdn.robinhood.com/assets/generated_assets/Vendor-bc841585fe4223886653.chunk.js, line 2: Error: Unauthorized
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1606148854565	Marionette	INFO	Stopped listening on port 40625
+JavaScript error: https://cdn.robinhood.com/assets/generated_assets/Vendor-dd9ca8ace0f5e722d8f2.chunk.js, line 2: Error: Unauthorized
+1606148856221	Marionette	INFO	Stopped listening on port 34027
+1606148857891	Marionette	INFO	Stopped listening on port 36717
+1606190172484	geckodriver	INFO	Listening on 127.0.0.1:37051
+1606190173479	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileXuumE8"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1606190179296	Marionette	INFO	Listening on port 33057
+1606190179480	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://cdn.robinhood.com/assets/generated_assets/Vendor-dd9ca8ace0f5e722d8f2.chunk.js, line 2: Error: Unauthorized
+JavaScript error: https://cdn.robinhood.com/assets/generated_assets/Vendor-dd9ca8ace0f5e722d8f2.chunk.js, line 2: Error: Unauthorized
+JavaScript error: https://cdn.robinhood.com/assets/generated_assets/Vendor-dd9ca8ace0f5e722d8f2.chunk.js, line 2: Error: Unauthorized
+1606190212505	Marionette	INFO	Stopped listening on port 33057
+1606190215683	geckodriver	INFO	Listening on 127.0.0.1:60755
+1606190216666	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilezcnwvZ"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1606190220762	Marionette	INFO	Listening on port 46245
+1606190220809	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://cdn.robinhood.com/assets/generated_assets/Vendor-dd9ca8ace0f5e722d8f2.chunk.js, line 2: Error: Unauthorized
+JavaScript error: https://cdn.robinhood.com/assets/generated_assets/Vendor-dd9ca8ace0f5e722d8f2.chunk.js, line 2: Error: Unauthorized
+1606190250699	Marionette	INFO	Stopped listening on port 46245
+1606190254546	geckodriver	INFO	Listening on 127.0.0.1:37121
+1606190255555	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilewSUYVO"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1606190259243	Marionette	INFO	Listening on port 38467
+1606190259303	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://cdn.robinhood.com/assets/generated_assets/Vendor-dd9ca8ace0f5e722d8f2.chunk.js, line 2: Error: Unauthorized
+JavaScript error: https://cdn.robinhood.com/assets/generated_assets/Vendor-dd9ca8ace0f5e722d8f2.chunk.js, line 2: Error: Unauthorized
+JavaScript error: https://cdn.robinhood.com/assets/generated_assets/Vendor-dd9ca8ace0f5e722d8f2.chunk.js, line 2: Error: Unauthorized
+JavaScript error: https://cdn.robinhood.com/assets/generated_assets/Vendor-dd9ca8ace0f5e722d8f2.chunk.js, line 2: Error: Request has been terminated
+Possible causes: the network is offline, Origin is not allowed by Access-Control-Allow-Origin, the page is being unloaded, etc.
+JavaScript error: https://cdn.robinhood.com/assets/generated_assets/Vendor-dd9ca8ace0f5e722d8f2.chunk.js, line 2: Error: Request has been terminated
+Possible causes: the network is offline, Origin is not allowed by Access-Control-Allow-Origin, the page is being unloaded, etc.
+1606190286899	Marionette	INFO	Stopped listening on port 38467
+1606190289968	geckodriver	INFO	Listening on 127.0.0.1:33735
+1606190290977	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile0hBSo9"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1606190294830	Marionette	INFO	Listening on port 46407
+1606190294937	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://cdn.robinhood.com/assets/generated_assets/Vendor-dd9ca8ace0f5e722d8f2.chunk.js, line 2: Error: Unauthorized
+JavaScript error: https://cdn.robinhood.com/assets/generated_assets/Vendor-dd9ca8ace0f5e722d8f2.chunk.js, line 2: Error: Unauthorized
+JavaScript error: https://cdn.robinhood.com/assets/generated_assets/App-d74b971cef41b5035827.chunk.js, line 2: SecurityError: Permission denied to access property "XMLHttpRequest" on cross-origin object
+1606190320038	Marionette	INFO	Stopped listening on port 46407
+1606190323195	geckodriver	INFO	Listening on 127.0.0.1:38859
+1606190324206	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileW40vwX"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1606190327945	Marionette	INFO	Listening on port 46137
+1606190328073	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://cdn.robinhood.com/assets/generated_assets/Vendor-dd9ca8ace0f5e722d8f2.chunk.js, line 2: Error: Unauthorized
+JavaScript error: https://cdn.robinhood.com/assets/generated_assets/Vendor-dd9ca8ace0f5e722d8f2.chunk.js, line 2: Error: Unauthorized
+JavaScript error: https://cdn.robinhood.com/assets/generated_assets/Vendor-dd9ca8ace0f5e722d8f2.chunk.js, line 2: Error: Request has been terminated
+Possible causes: the network is offline, Origin is not allowed by Access-Control-Allow-Origin, the page is being unloaded, etc.
+1606190357598	Marionette	INFO	Stopped listening on port 46137
+1606190361414	geckodriver	INFO	Listening on 127.0.0.1:45861
+1606190362419	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileot6qpI"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1606190366010	Marionette	INFO	Listening on port 46807
+1606190366068	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://cdn.robinhood.com/assets/generated_assets/Vendor-dd9ca8ace0f5e722d8f2.chunk.js, line 2: Error: Unauthorized
+JavaScript error: https://cdn.robinhood.com/assets/generated_assets/Vendor-dd9ca8ace0f5e722d8f2.chunk.js, line 2: Error: Unauthorized
+1606190397728	Marionette	INFO	Stopped listening on port 46807
+1606190401147	geckodriver	INFO	Listening on 127.0.0.1:35261
+1606190402159	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilenlAQLl"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1606190406027	Marionette	INFO	Listening on port 38359
+1606190406101	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://cdn.robinhood.com/assets/generated_assets/Vendor-dd9ca8ace0f5e722d8f2.chunk.js, line 2: Error: Unauthorized
+JavaScript error: https://cdn.robinhood.com/assets/generated_assets/Vendor-dd9ca8ace0f5e722d8f2.chunk.js, line 2: Error: Unauthorized
+JavaScript error: https://cdn.robinhood.com/assets/generated_assets/Vendor-dd9ca8ace0f5e722d8f2.chunk.js, line 2: Error: Request has been terminated
+Possible causes: the network is offline, Origin is not allowed by Access-Control-Allow-Origin, the page is being unloaded, etc.
+1606190439466	Marionette	INFO	Stopped listening on port 38359
+1606190442695	geckodriver	INFO	Listening on 127.0.0.1:38327
+1606190443703	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile95OGLQ"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1606190447832	Marionette	INFO	Listening on port 36231
+1606190447971	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://cdn.robinhood.com/assets/generated_assets/Vendor-dd9ca8ace0f5e722d8f2.chunk.js, line 2: Error: Unauthorized
+JavaScript error: https://cdn.robinhood.com/assets/generated_assets/Vendor-dd9ca8ace0f5e722d8f2.chunk.js, line 2: Error: Unauthorized
+1606190471233	Marionette	INFO	Stopped listening on port 36231
+1606190534452	geckodriver	INFO	Listening on 127.0.0.1:36347
+1606190535463	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilepenVgk"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1606190539589	Marionette	INFO	Listening on port 38737
+1606190539711	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://cdn.robinhood.com/assets/generated_assets/Vendor-dd9ca8ace0f5e722d8f2.chunk.js, line 2: Error: Unauthorized
+JavaScript error: https://cdn.robinhood.com/assets/generated_assets/Vendor-dd9ca8ace0f5e722d8f2.chunk.js, line 2: Error: Unauthorized
+JavaScript error: https://cdn.robinhood.com/assets/generated_assets/Vendor-dd9ca8ace0f5e722d8f2.chunk.js, line 2: Error: Request has been terminated
+Possible causes: the network is offline, Origin is not allowed by Access-Control-Allow-Origin, the page is being unloaded, etc.
+1606190564856	Marionette	INFO	Stopped listening on port 38737
+1606190568041	geckodriver	INFO	Listening on 127.0.0.1:34545
+1606190569050	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilexanLpq"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1606190572672	Marionette	INFO	Listening on port 46717
+1606190572815	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://cdn.robinhood.com/assets/generated_assets/Vendor-dd9ca8ace0f5e722d8f2.chunk.js, line 2: Error: Unauthorized
+JavaScript error: https://cdn.robinhood.com/assets/generated_assets/Vendor-dd9ca8ace0f5e722d8f2.chunk.js, line 2: Error: Unauthorized
+1606190600797	Marionette	INFO	Stopped listening on port 46717
+1606197867945	geckodriver	INFO	Listening on 127.0.0.1:34435
+1606197868986	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileP7VQEv"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1606197892433	Marionette	INFO	Listening on port 44215
+1606197893276	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://markets.businessinsider.com/Content/Scripts/Chart/chartiq/chartiq.min.js?v=4ffd6844, line 1: unreachable code after return statement
+JavaScript warning: https://markets.businessinsider.com/Content/Scripts/Chart/chartiq/chartiq.min.js?v=4ffd6844, line 1: unreachable code after return statement
+JavaScript warning: https://markets.businessinsider.com/Content/Scripts/Chart/chartiq/chartiq.min.js?v=4ffd6844, line 1: unreachable code after return statement
+JavaScript error: https://fdfc32b6421d52108b5d3e99d9249055.safeframe.googlesyndication.com/safeframe/1-0-37/html/container.html, line 8: SecurityError: Permission denied to access property Symbol.toPrimitive on cross-origin object
+1606198039290	Marionette	INFO	Stopped listening on port 44215
+1606198041491	geckodriver	INFO	Listening on 127.0.0.1:53001
+1606198042502	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilerQP54r"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1606198071793	Marionette	INFO	Listening on port 45855
+1606198072109	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://markets.businessinsider.com/Content/Scripts/Chart/chartiq/chartiq.min.js?v=4ffd6844, line 1: unreachable code after return statement
+JavaScript warning: https://markets.businessinsider.com/Content/Scripts/Chart/chartiq/chartiq.min.js?v=4ffd6844, line 1: unreachable code after return statement
+JavaScript warning: https://markets.businessinsider.com/Content/Scripts/Chart/chartiq/chartiq.min.js?v=4ffd6844, line 1: unreachable code after return statement
+1606198213967	geckodriver	INFO	Listening on 127.0.0.1:60845
+1606198214029	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilecGDy3V"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1606198244520	Marionette	INFO	Listening on port 33689
+1606198244771	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://markets.businessinsider.com/Content/Scripts/Chart/chartiq/chartiq.min.js?v=4ffd6844, line 1: unreachable code after return statement
+JavaScript warning: https://markets.businessinsider.com/Content/Scripts/Chart/chartiq/chartiq.min.js?v=4ffd6844, line 1: unreachable code after return statement
+JavaScript warning: https://markets.businessinsider.com/Content/Scripts/Chart/chartiq/chartiq.min.js?v=4ffd6844, line 1: unreachable code after return statement
+1606198705103	geckodriver	INFO	Listening on 127.0.0.1:58219
+1606198706067	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile4iLUYu"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1606198722095	Marionette	INFO	Listening on port 43545
+1606198722379	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://markets.businessinsider.com/Content/Scripts/Chart/chartiq/chartiq.min.js?v=4ffd6844, line 1: unreachable code after return statement
+JavaScript warning: https://markets.businessinsider.com/Content/Scripts/Chart/chartiq/chartiq.min.js?v=4ffd6844, line 1: unreachable code after return statement
+JavaScript warning: https://markets.businessinsider.com/Content/Scripts/Chart/chartiq/chartiq.min.js?v=4ffd6844, line 1: unreachable code after return statement
+1606198969152	geckodriver	INFO	Listening on 127.0.0.1:40469
+1606198969160	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilelo9jIT"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1606198972941	Marionette	INFO	Listening on port 42331
+1606198973005	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://markets.businessinsider.com/Content/Scripts/Chart/chartiq/chartiq.min.js?v=4ffd6844, line 1: unreachable code after return statement
+JavaScript warning: https://markets.businessinsider.com/Content/Scripts/Chart/chartiq/chartiq.min.js?v=4ffd6844, line 1: unreachable code after return statement
+JavaScript warning: https://markets.businessinsider.com/Content/Scripts/Chart/chartiq/chartiq.min.js?v=4ffd6844, line 1: unreachable code after return statement
+1606199111461	geckodriver	INFO	Listening on 127.0.0.1:33633
+1606199111510	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile7yycym"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1606199116661	Marionette	INFO	Listening on port 45119
+1606199116762	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://markets.businessinsider.com/Content/Scripts/Chart/chartiq/chartiq.min.js?v=4ffd6844, line 1: unreachable code after return statement
+JavaScript warning: https://markets.businessinsider.com/Content/Scripts/Chart/chartiq/chartiq.min.js?v=4ffd6844, line 1: unreachable code after return statement
+JavaScript warning: https://markets.businessinsider.com/Content/Scripts/Chart/chartiq/chartiq.min.js?v=4ffd6844, line 1: unreachable code after return statement
+JavaScript error: https://b34fb60520deca1e2296352d3d8ebd91.safeframe.googlesyndication.com/safeframe/1-0-37/html/container.html, line 8: SecurityError: Permission denied to access property Symbol.toPrimitive on cross-origin object
+1606199166362	Marionette	INFO	Stopped listening on port 45119
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 1031: Error: Sqlite.jsm has been shutdown. Cannot open connection to: /tmp/rust_mozprofile7yycym/protections.sqlite
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x6C0027,name=PNecko::Msg_RemoveRequestContext) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x3A0146,name=PContent::Msg_ScriptError) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0xB60006,name=PWebSocket::Msg_DeleteSelf) Channel closing: too late to send/recv, messages will be lost
+
+1606199213916	geckodriver	INFO	Listening on 127.0.0.1:60163
+1606199213929	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileKk06Cs"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1606199218543	Marionette	INFO	Listening on port 43059
+1606199218581	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://markets.businessinsider.com/Content/Scripts/Chart/chartiq/chartiq.min.js?v=4ffd6844, line 1: unreachable code after return statement
+JavaScript warning: https://markets.businessinsider.com/Content/Scripts/Chart/chartiq/chartiq.min.js?v=4ffd6844, line 1: unreachable code after return statement
+JavaScript warning: https://markets.businessinsider.com/Content/Scripts/Chart/chartiq/chartiq.min.js?v=4ffd6844, line 1: unreachable code after return statement
+1606199305712	Marionette	INFO	Stopped listening on port 43059
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 1031: Error: Sqlite.jsm has been shutdown. Cannot open connection to: /tmp/rust_mozprofilelo9jIT/protections.sqlite
+1606199309990	Marionette	INFO	Stopped listening on port 42331
+1606199329468	geckodriver	INFO	Listening on 127.0.0.1:56761
+1606199329473	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileACyiWR"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1606199333267	Marionette	INFO	Listening on port 37511
+1606199333331	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://markets.businessinsider.com/Content/Scripts/Chart/chartiq/chartiq.min.js?v=4ffd6844, line 1: unreachable code after return statement
+JavaScript warning: https://markets.businessinsider.com/Content/Scripts/Chart/chartiq/chartiq.min.js?v=4ffd6844, line 1: unreachable code after return statement
+JavaScript warning: https://markets.businessinsider.com/Content/Scripts/Chart/chartiq/chartiq.min.js?v=4ffd6844, line 1: unreachable code after return statement
+1606199412920	Marionette	INFO	Stopped listening on port 37511
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 1031: Error: Sqlite.jsm has been shutdown. Cannot open connection to: /tmp/rust_mozprofileACyiWR/protections.sqlite
+[Child 3152, MediaDecoderStateMachine #1] WARNING: Decoder=7efce669f400 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<MediaSourceTrackDemuxer::SamplesPromise> mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file /build/firefox-m6W5sP/firefox-83.0+build2/dom/media/MediaDecoderStateMachine.cpp:3471
+[Child 3152, MediaDecoderStateMachine #1] WARNING: Decoder=7efce6328400 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<MediaSourceTrackDemuxer::SamplesPromise> mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file /build/firefox-m6W5sP/firefox-83.0+build2/dom/media/MediaDecoderStateMachine.cpp:3471
+[Child 3152, MediaDecoderStateMachine #1] WARNING: Decoder=7efce6328400 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<MediaSourceTrackDemuxer::SamplesPromise> mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file /build/firefox-m6W5sP/firefox-83.0+build2/dom/media/MediaDecoderStateMachine.cpp:3471
+[Child 3152, MediaDecoderStateMachine #1] WARNING: Decoder=7efce6327800 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<MediaSourceTrackDemuxer::SamplesPromise> mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file /build/firefox-m6W5sP/firefox-83.0+build2/dom/media/MediaDecoderStateMachine.cpp:3471
+[Child 3152, MediaDecoderStateMachine #1] WARNING: Decoder=7efce6327800 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<MediaSourceTrackDemuxer::SamplesPromise> mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file /build/firefox-m6W5sP/firefox-83.0+build2/dom/media/MediaDecoderStateMachine.cpp:3471
+[Child 3152, MediaDecoderStateMachine #1] WARNING: Decoder=7efce6326800 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<MediaSourceTrackDemuxer::SamplesPromise> mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file /build/firefox-m6W5sP/firefox-83.0+build2/dom/media/MediaDecoderStateMachine.cpp:3471
+[Child 3152, MediaDecoderStateMachine #1] WARNING: Decoder=7efce6341400 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<MediaSourceTrackDemuxer::SamplesPromise> mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file /build/firefox-m6W5sP/firefox-83.0+build2/dom/media/MediaDecoderStateMachine.cpp:3471
+[Child 3152, MediaDecoderStateMachine #1] WARNING: Decoder=7efce633b800 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<MediaSourceTrackDemuxer::SamplesPromise> mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file /build/firefox-m6W5sP/firefox-83.0+build2/dom/media/MediaDecoderStateMachine.cpp:3471
+[Child 3152, MediaDecoderStateMachine #1] WARNING: Decoder=7efce6323800 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<MediaSourceTrackDemuxer::SamplesPromise> mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file /build/firefox-m6W5sP/firefox-83.0+build2/dom/media/MediaDecoderStateMachine.cpp:3471
+1606199667455	geckodriver	INFO	Listening on 127.0.0.1:54729
+1606199667461	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileQ5X4CF"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1606199671855	Marionette	INFO	Listening on port 46677
+1606199671904	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://markets.businessinsider.com/Content/Scripts/Chart/chartiq/addOns.js?v=4ffd6844, line 1: TypeError: t is undefined
+JavaScript error: https://markets.businessinsider.com/Content/Scripts/chartiq.addons.min.js?v=4ffd6844, line 1: ReferenceError: CIQ is not defined
+JavaScript error: https://markets.businessinsider.com/Content/Scripts/Chart/chartiq/scripts.js?v=4ffd6844, line 1: ReferenceError: CIQ is not defined
+JavaScript error: https://markets.businessinsider.com/Content/Scripts/Chart/chartiq/polyfills.js?v=4ffd6844, line 1: uncaught exception: [object Object]
+JavaScript error: https://markets.businessinsider.com/Content/dist/scripts.js?v=4ffd6844, line 20: ReferenceError: CIQ is not defined
+[Child 3152, MediaDecoderStateMachine #1] WARNING: Decoder=7efce633b800 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<MediaSourceTrackDemuxer::SamplesPromise> mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file /build/firefox-m6W5sP/firefox-83.0+build2/dom/media/MediaDecoderStateMachine.cpp:3471
+[Child 3152, MediaDecoderStateMachine #1] WARNING: Decoder=7efce633b800 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<MediaSourceTrackDemuxer::SamplesPromise> mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file /build/firefox-m6W5sP/firefox-83.0+build2/dom/media/MediaDecoderStateMachine.cpp:3471
+1606199729260	Marionette	INFO	Stopped listening on port 46677
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 697: Error: Phase "Sqlite.jsm: wait until all connections are closed" is finished, it is too late to register completion condition "protections.sqlite#0: waiting for shutdown"
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[Child 3152, MediaDecoderStateMachine #1] WARNING: Decoder=7efcdba74c00 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<MediaSourceTrackDemuxer::SamplesPromise> mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file /build/firefox-m6W5sP/firefox-83.0+build2/dom/media/MediaDecoderStateMachine.cpp:3471
+1606199803356	geckodriver	INFO	Listening on 127.0.0.1:33027
+1606199804364	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileaFjkks"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1606199808328	Marionette	INFO	Listening on port 33307
+1606199808411	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Child 3152, MediaDecoderStateMachine #1] WARNING: Decoder=7efcdba78c00 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<MediaSourceTrackDemuxer::SamplesPromise> mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file /build/firefox-m6W5sP/firefox-83.0+build2/dom/media/MediaDecoderStateMachine.cpp:3471
+[Child 3152, MediaDecoderStateMachine #1] WARNING: Decoder=7efcdba78c00 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<MediaSourceTrackDemuxer::SamplesPromise> mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file /build/firefox-m6W5sP/firefox-83.0+build2/dom/media/MediaDecoderStateMachine.cpp:3471
+JavaScript error: https://cdn.robinhood.com/assets/generated_assets/Vendor-dd9ca8ace0f5e722d8f2.chunk.js, line 2: Error: Unauthorized
+JavaScript error: https://cdn.robinhood.com/assets/generated_assets/Vendor-dd9ca8ace0f5e722d8f2.chunk.js, line 2: Error: Unauthorized
+JavaScript error: https://cdn.robinhood.com/assets/generated_assets/Vendor-dd9ca8ace0f5e722d8f2.chunk.js, line 2: Error: Unauthorized
+JavaScript error: https://cdn.robinhood.com/assets/generated_assets/Vendor-dd9ca8ace0f5e722d8f2.chunk.js, line 2: Error: Unauthorized
+[Child 3152, MediaDecoderStateMachine #1] WARNING: Decoder=7efcdba75800 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<MediaSourceTrackDemuxer::SamplesPromise> mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file /build/firefox-m6W5sP/firefox-83.0+build2/dom/media/MediaDecoderStateMachine.cpp:3471
+[Child 3152, MediaDecoderStateMachine #1] WARNING: Decoder=7efcdba75800 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<MediaSourceTrackDemuxer::SamplesPromise> mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file /build/firefox-m6W5sP/firefox-83.0+build2/dom/media/MediaDecoderStateMachine.cpp:3471
+JavaScript warning: https://markets.businessinsider.com/Content/Scripts/Chart/chartiq/chartiq.min.js?v=4ffd6844, line 1: unreachable code after return statement
+JavaScript warning: https://markets.businessinsider.com/Content/Scripts/Chart/chartiq/chartiq.min.js?v=4ffd6844, line 1: unreachable code after return statement
+JavaScript warning: https://markets.businessinsider.com/Content/Scripts/Chart/chartiq/chartiq.min.js?v=4ffd6844, line 1: unreachable code after return statement
+[Child 3152, MediaDecoderStateMachine #1] WARNING: Decoder=7efcdba77400 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<MediaSourceTrackDemuxer::SamplesPromise> mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file /build/firefox-m6W5sP/firefox-83.0+build2/dom/media/MediaDecoderStateMachine.cpp:3471
+1606199908255	Marionette	INFO	Stopped listening on port 33307
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x3A0146,name=PContent::Msg_ScriptError) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0xB60006,name=PWebSocket::Msg_DeleteSelf) Channel closing: too late to send/recv, messages will be lost
+
+1606199911258	geckodriver	INFO	Listening on 127.0.0.1:42941
+1606199912263	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileIzekqs"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1606199916226	Marionette	INFO	Listening on port 41139
+1606199916314	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Child 3152, MediaDecoderStateMachine #1] WARNING: Decoder=7efcdba78800 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<MediaSourceTrackDemuxer::SamplesPromise> mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file /build/firefox-m6W5sP/firefox-83.0+build2/dom/media/MediaDecoderStateMachine.cpp:3471
+JavaScript error: https://cdn.robinhood.com/assets/generated_assets/Vendor-dd9ca8ace0f5e722d8f2.chunk.js, line 2: Error: Unauthorized
+JavaScript error: https://cdn.robinhood.com/assets/generated_assets/Vendor-dd9ca8ace0f5e722d8f2.chunk.js, line 2: Error: Unauthorized
+JavaScript error: https://cdn.robinhood.com/assets/generated_assets/Vendor-dd9ca8ace0f5e722d8f2.chunk.js, line 2: Error: Unauthorized
+[Child 3152, MediaDecoderStateMachine #1] WARNING: Decoder=7efcdba77800 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<MediaSourceTrackDemuxer::SamplesPromise> mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file /build/firefox-m6W5sP/firefox-83.0+build2/dom/media/MediaDecoderStateMachine.cpp:3471
+[Child 3152, MediaDecoderStateMachine #1] WARNING: Decoder=7efcdba77800 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<MediaSourceTrackDemuxer::SamplesPromise> mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file /build/firefox-m6W5sP/firefox-83.0+build2/dom/media/MediaDecoderStateMachine.cpp:3471
+JavaScript warning: https://markets.businessinsider.com/Content/Scripts/Chart/chartiq/chartiq.min.js?v=4ffd6844, line 1: unreachable code after return statement
+JavaScript warning: https://markets.businessinsider.com/Content/Scripts/Chart/chartiq/chartiq.min.js?v=4ffd6844, line 1: unreachable code after return statement
+JavaScript warning: https://markets.businessinsider.com/Content/Scripts/Chart/chartiq/chartiq.min.js?v=4ffd6844, line 1: unreachable code after return statement
+[Child 3152, MediaDecoderStateMachine #1] WARNING: Decoder=7efcdba78800 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<MediaSourceTrackDemuxer::SamplesPromise> mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file /build/firefox-m6W5sP/firefox-83.0+build2/dom/media/MediaDecoderStateMachine.cpp:3471
+[Child 3152, MediaDecoderStateMachine #1] WARNING: Decoder=7efcdba78800 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<MediaSourceTrackDemuxer::SamplesPromise> mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file /build/firefox-m6W5sP/firefox-83.0+build2/dom/media/MediaDecoderStateMachine.cpp:3471
+JavaScript error: https://c8869842daedcae1d90ba647a532d9d0.safeframe.googlesyndication.com/safeframe/1-0-37/html/container.html, line 8: SecurityError: Permission denied to access property Symbol.toPrimitive on cross-origin object
+1606200003628	Marionette	INFO	Stopped listening on port 41139
+[Child 3152, MediaDecoderStateMachine #1] WARNING: Decoder=7efcdba7f000 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<MediaSourceTrackDemuxer::SamplesPromise> mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file /build/firefox-m6W5sP/firefox-83.0+build2/dom/media/MediaDecoderStateMachine.cpp:3471
+1606200095028	geckodriver	INFO	Listening on 127.0.0.1:43401
+1606200096039	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileFk0gFN"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1606200100095	Marionette	INFO	Listening on port 33963
+1606200100184	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Child 3152, MediaDecoderStateMachine #1] WARNING: Decoder=7efcdc777400 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<MediaSourceTrackDemuxer::SamplesPromise> mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file /build/firefox-m6W5sP/firefox-83.0+build2/dom/media/MediaDecoderStateMachine.cpp:3471
+[Child 3152, MediaDecoderStateMachine #1] WARNING: Decoder=7efcdc777400 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<MediaSourceTrackDemuxer::SamplesPromise> mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file /build/firefox-m6W5sP/firefox-83.0+build2/dom/media/MediaDecoderStateMachine.cpp:3471
+JavaScript error: https://cdn.robinhood.com/assets/generated_assets/Vendor-dd9ca8ace0f5e722d8f2.chunk.js, line 2: Error: Unauthorized
+JavaScript error: https://cdn.robinhood.com/assets/generated_assets/Vendor-dd9ca8ace0f5e722d8f2.chunk.js, line 2: Error: Unauthorized
+JavaScript error: https://cdn.robinhood.com/assets/generated_assets/App-d74b971cef41b5035827.chunk.js, line 2: SecurityError: Permission denied to access property "XMLHttpRequest" on cross-origin object
+[Child 3152, MediaDecoderStateMachine #1] WARNING: Decoder=7efcdba73400 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<MediaSourceTrackDemuxer::SamplesPromise> mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file /build/firefox-m6W5sP/firefox-83.0+build2/dom/media/MediaDecoderStateMachine.cpp:3471
+JavaScript warning: https://markets.businessinsider.com/Content/Scripts/Chart/chartiq/chartiq.min.js?v=4ffd6844, line 1: unreachable code after return statement
+JavaScript warning: https://markets.businessinsider.com/Content/Scripts/Chart/chartiq/chartiq.min.js?v=4ffd6844, line 1: unreachable code after return statement
+JavaScript warning: https://markets.businessinsider.com/Content/Scripts/Chart/chartiq/chartiq.min.js?v=4ffd6844, line 1: unreachable code after return statement
+[Child 3152, MediaDecoderStateMachine #1] WARNING: Decoder=7efcdba78000 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<MediaSourceTrackDemuxer::SamplesPromise> mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file /build/firefox-m6W5sP/firefox-83.0+build2/dom/media/MediaDecoderStateMachine.cpp:3471
+JavaScript error: https://2ea78eef2057e382a683736f26051579.safeframe.googlesyndication.com/safeframe/1-0-37/html/container.html, line 8: SecurityError: Permission denied to access property Symbol.toPrimitive on cross-origin object
+1606200187975	Marionette	INFO	Stopped listening on port 33963
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x6C0027,name=PNecko::Msg_RemoveRequestContext) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x3A0146,name=PContent::Msg_ScriptError) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0xB60006,name=PWebSocket::Msg_DeleteSelf) Channel closing: too late to send/recv, messages will be lost
+
+1606200191260	geckodriver	INFO	Listening on 127.0.0.1:42673
+1606200192265	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileio4XAq"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1606200196523	Marionette	INFO	Listening on port 41633
+1606200196611	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Child 3152, MediaDecoderStateMachine #1] WARNING: Decoder=7efcdba76c00 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<MediaSourceTrackDemuxer::SamplesPromise> mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file /build/firefox-m6W5sP/firefox-83.0+build2/dom/media/MediaDecoderStateMachine.cpp:3471
+[Child 3152, MediaDecoderStateMachine #1] WARNING: Decoder=7efcdba76c00 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<MediaSourceTrackDemuxer::SamplesPromise> mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file /build/firefox-m6W5sP/firefox-83.0+build2/dom/media/MediaDecoderStateMachine.cpp:3471
+JavaScript error: https://cdn.robinhood.com/assets/generated_assets/Vendor-dd9ca8ace0f5e722d8f2.chunk.js, line 2: Error: Unauthorized
+JavaScript error: https://cdn.robinhood.com/assets/generated_assets/Vendor-dd9ca8ace0f5e722d8f2.chunk.js, line 2: Error: Unauthorized
+JavaScript error: https://cdn.robinhood.com/assets/generated_assets/Vendor-dd9ca8ace0f5e722d8f2.chunk.js, line 2: Error: Unauthorized
+JavaScript warning: https://markets.businessinsider.com/Content/Scripts/Chart/chartiq/chartiq.min.js?v=4ffd6844, line 1: unreachable code after return statement
+JavaScript warning: https://markets.businessinsider.com/Content/Scripts/Chart/chartiq/chartiq.min.js?v=4ffd6844, line 1: unreachable code after return statement
+JavaScript warning: https://markets.businessinsider.com/Content/Scripts/Chart/chartiq/chartiq.min.js?v=4ffd6844, line 1: unreachable code after return statement
+[Child 3152, MediaDecoderStateMachine #1] WARNING: Decoder=7efcdba7d000 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<MediaSourceTrackDemuxer::SamplesPromise> mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file /build/firefox-m6W5sP/firefox-83.0+build2/dom/media/MediaDecoderStateMachine.cpp:3471
+[Child 3152, MediaDecoderStateMachine #1] WARNING: Decoder=7efcdba7d000 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<MediaSourceTrackDemuxer::SamplesPromise> mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file /build/firefox-m6W5sP/firefox-83.0+build2/dom/media/MediaDecoderStateMachine.cpp:3471
+1606200309923	Marionette	INFO	Stopped listening on port 41633
+[Child 3152, MediaDecoderStateMachine #1] WARNING: Decoder=7efcd860a400 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<MediaSourceTrackDemuxer::SamplesPromise> mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file /build/firefox-m6W5sP/firefox-83.0+build2/dom/media/MediaDecoderStateMachine.cpp:3471
+[Child 3152, MediaDecoderStateMachine #1] WARNING: Decoder=7efcd860a400 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<MediaSourceTrackDemuxer::SamplesPromise> mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file /build/firefox-m6W5sP/firefox-83.0+build2/dom/media/MediaDecoderStateMachine.cpp:3471
+[Child 3152, MediaDecoderStateMachine #1] WARNING: Decoder=7efcd78de000 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<MediaSourceTrackDemuxer::SamplesPromise> mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file /build/firefox-m6W5sP/firefox-83.0+build2/dom/media/MediaDecoderStateMachine.cpp:3471
+[Child 3152, MediaDecoderStateMachine #1] WARNING: Decoder=7efcd6fc5c00 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<MediaSourceTrackDemuxer::SamplesPromise> mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file /build/firefox-m6W5sP/firefox-83.0+build2/dom/media/MediaDecoderStateMachine.cpp:3471
+[Child 3152, MediaDecoderStateMachine #1] WARNING: Decoder=7efcd6fc5c00 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<MediaSourceTrackDemuxer::SamplesPromise> mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file /build/firefox-m6W5sP/firefox-83.0+build2/dom/media/MediaDecoderStateMachine.cpp:3471
+[Child 3152, MediaDecoderStateMachine #1] WARNING: Decoder=7efcd6fbd000 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<MediaSourceTrackDemuxer::SamplesPromise> mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file /build/firefox-m6W5sP/firefox-83.0+build2/dom/media/MediaDecoderStateMachine.cpp:3471
+[Child 3152, MediaDecoderStateMachine #1] WARNING: Decoder=7efcd6fbd000 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<MediaSourceTrackDemuxer::SamplesPromise> mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file /build/firefox-m6W5sP/firefox-83.0+build2/dom/media/MediaDecoderStateMachine.cpp:3471
+1606200428627	geckodriver	INFO	Listening on 127.0.0.1:34341
+1606200429631	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileFcBhaH"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1606200434000	Marionette	INFO	Listening on port 43169
+1606200434072	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: Region.jsm: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 726))
+console.error: Region.jsm: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 376))
+[Child 3152, MediaDecoderStateMachine #1] WARNING: Decoder=7efcd7280000 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<MediaSourceTrackDemuxer::SamplesPromise> mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file /build/firefox-m6W5sP/firefox-83.0+build2/dom/media/MediaDecoderStateMachine.cpp:3471
+[Child 3152, MediaDecoderStateMachine #1] WARNING: Decoder=7efcd7280000 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<MediaSourceTrackDemuxer::SamplesPromise> mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file /build/firefox-m6W5sP/firefox-83.0+build2/dom/media/MediaDecoderStateMachine.cpp:3471
+[Child 3152, MediaDecoderStateMachine #1] WARNING: Decoder=7efcd6fbf000 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<MediaSourceTrackDemuxer::SamplesPromise> mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file /build/firefox-m6W5sP/firefox-83.0+build2/dom/media/MediaDecoderStateMachine.cpp:3471
+[Child 3152, MediaDecoderStateMachine #1] WARNING: Decoder=7efcd6fbf000 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<MediaSourceTrackDemuxer::SamplesPromise> mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file /build/firefox-m6W5sP/firefox-83.0+build2/dom/media/MediaDecoderStateMachine.cpp:3471
+[Child 3152, MediaDecoderStateMachine #1] WARNING: Decoder=7efcd6fbe800 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<MediaSourceTrackDemuxer::SamplesPromise> mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file /build/firefox-m6W5sP/firefox-83.0+build2/dom/media/MediaDecoderStateMachine.cpp:3471
+[Child 3152, MediaDecoderStateMachine #1] WARNING: Decoder=7efcd6fbe800 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<MediaSourceTrackDemuxer::SamplesPromise> mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file /build/firefox-m6W5sP/firefox-83.0+build2/dom/media/MediaDecoderStateMachine.cpp:3471
+[Child 3152, MediaDecoderStateMachine #1] WARNING: Decoder=7efcd6fbe800 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<MediaSourceTrackDemuxer::SamplesPromise> mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file /build/firefox-m6W5sP/firefox-83.0+build2/dom/media/MediaDecoderStateMachine.cpp:3471
+[Child 3152, MediaDecoderStateMachine #1] WARNING: Decoder=7efcd6fbe800 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<MediaSourceTrackDemuxer::SamplesPromise> mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file /build/firefox-m6W5sP/firefox-83.0+build2/dom/media/MediaDecoderStateMachine.cpp:3471
+1606200563970	Marionette	INFO	Stopped listening on port 43169
+[Child 3152, MediaDecoderStateMachine #1] WARNING: Decoder=7efcd727e800 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<MediaSourceTrackDemuxer::SamplesPromise> mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file /build/firefox-m6W5sP/firefox-83.0+build2/dom/media/MediaDecoderStateMachine.cpp:3471
+[Child 3152, MediaDecoderStateMachine #1] WARNING: Decoder=7efcd727e800 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<MediaSourceTrackDemuxer::SamplesPromise> mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file /build/firefox-m6W5sP/firefox-83.0+build2/dom/media/MediaDecoderStateMachine.cpp:3471
+[Child 3152, MediaDecoderStateMachine #1] WARNING: Decoder=7efcd6fc1000 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<MediaSourceTrackDemuxer::SamplesPromise> mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file /build/firefox-m6W5sP/firefox-83.0+build2/dom/media/MediaDecoderStateMachine.cpp:3471
+[Child 3152, MediaDecoderStateMachine #1] WARNING: Decoder=7efcd6fc1000 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<MediaSourceTrackDemuxer::SamplesPromise> mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file /build/firefox-m6W5sP/firefox-83.0+build2/dom/media/MediaDecoderStateMachine.cpp:3471
+1606200637363	geckodriver	INFO	Listening on 127.0.0.1:44243
+1606200638370	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileFCYJ6X"
+[Child 3152, MediaDecoderStateMachine #1] WARNING: Decoder=7efcd7285800 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<MediaSourceTrackDemuxer::SamplesPromise> mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file /build/firefox-m6W5sP/firefox-83.0+build2/dom/media/MediaDecoderStateMachine.cpp:3471
+[Child 3152, MediaDecoderStateMachine #1] WARNING: Decoder=7efcd7285800 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<MediaSourceTrackDemuxer::SamplesPromise> mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file /build/firefox-m6W5sP/firefox-83.0+build2/dom/media/MediaDecoderStateMachine.cpp:3471
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1606200642693	Marionette	INFO	Listening on port 45665
+1606200642823	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Child 3152, MediaDecoderStateMachine #1] WARNING: Decoder=7efcd6fbb800 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<MediaSourceTrackDemuxer::SamplesPromise> mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file /build/firefox-m6W5sP/firefox-83.0+build2/dom/media/MediaDecoderStateMachine.cpp:3471
+JavaScript error: https://cdn.robinhood.com/assets/generated_assets/Vendor-dd9ca8ace0f5e722d8f2.chunk.js, line 2: Error: Unauthorized
+JavaScript error: https://cdn.robinhood.com/assets/generated_assets/Vendor-dd9ca8ace0f5e722d8f2.chunk.js, line 2: Error: Unauthorized
+JavaScript error: https://cdn.robinhood.com/assets/generated_assets/Vendor-dd9ca8ace0f5e722d8f2.chunk.js, line 2: Error: Unauthorized
+JavaScript error: https://cdn.robinhood.com/assets/generated_assets/Vendor-dd9ca8ace0f5e722d8f2.chunk.js, line 2: Error: Unauthorized
+JavaScript warning: https://markets.businessinsider.com/Content/Scripts/Chart/chartiq/chartiq.min.js?v=4ffd6844, line 1: unreachable code after return statement
+JavaScript warning: https://markets.businessinsider.com/Content/Scripts/Chart/chartiq/chartiq.min.js?v=4ffd6844, line 1: unreachable code after return statement
+JavaScript warning: https://markets.businessinsider.com/Content/Scripts/Chart/chartiq/chartiq.min.js?v=4ffd6844, line 1: unreachable code after return statement
+[Child 3152, MediaDecoderStateMachine #1] WARNING: Decoder=7efcd7288000 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<MediaSourceTrackDemuxer::SamplesPromise> mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file /build/firefox-m6W5sP/firefox-83.0+build2/dom/media/MediaDecoderStateMachine.cpp:3471
+[Child 3152, MediaDecoderStateMachine #1] WARNING: Decoder=7efcd7288000 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<MediaSourceTrackDemuxer::SamplesPromise> mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file /build/firefox-m6W5sP/firefox-83.0+build2/dom/media/MediaDecoderStateMachine.cpp:3471
+[Child 3152, MediaDecoderStateMachine #1] WARNING: Decoder=7efcd6fc1000 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<MediaSourceTrackDemuxer::SamplesPromise> mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file /build/firefox-m6W5sP/firefox-83.0+build2/dom/media/MediaDecoderStateMachine.cpp:3471
+1606200750816	Marionette	INFO	Stopped listening on port 45665
+1606200754369	geckodriver	INFO	Listening on 127.0.0.1:46699
+1606200755376	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileRyZXMC"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1606200759578	Marionette	INFO	Listening on port 42923
+1606200759659	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Child 3152, MediaDecoderStateMachine #1] WARNING: Decoder=7efcd6fc0000 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<MediaSourceTrackDemuxer::SamplesPromise> mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file /build/firefox-m6W5sP/firefox-83.0+build2/dom/media/MediaDecoderStateMachine.cpp:3471
+[Child 3152, MediaDecoderStateMachine #1] WARNING: Decoder=7efcd6fbe800 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<MediaSourceTrackDemuxer::SamplesPromise> mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file /build/firefox-m6W5sP/firefox-83.0+build2/dom/media/MediaDecoderStateMachine.cpp:3471
+[Child 3152, MediaDecoderStateMachine #1] WARNING: Decoder=7efcd6fbe800 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<MediaSourceTrackDemuxer::SamplesPromise> mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file /build/firefox-m6W5sP/firefox-83.0+build2/dom/media/MediaDecoderStateMachine.cpp:3471
+JavaScript error: https://cdn.robinhood.com/assets/generated_assets/Vendor-dd9ca8ace0f5e722d8f2.chunk.js, line 2: Error: Unauthorized
+JavaScript error: https://cdn.robinhood.com/assets/generated_assets/Vendor-dd9ca8ace0f5e722d8f2.chunk.js, line 2: Error: Unauthorized
+JavaScript error: https://cdn.robinhood.com/assets/generated_assets/Vendor-dd9ca8ace0f5e722d8f2.chunk.js, line 2: Error: Unauthorized
+[Child 3152, MediaDecoderStateMachine #1] WARNING: Decoder=7efcd6fbd000 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<MediaSourceTrackDemuxer::SamplesPromise> mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file /build/firefox-m6W5sP/firefox-83.0+build2/dom/media/MediaDecoderStateMachine.cpp:3471
+[Child 3152, MediaDecoderStateMachine #1] WARNING: Decoder=7efcd6fbd000 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<MediaSourceTrackDemuxer::SamplesPromise> mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file /build/firefox-m6W5sP/firefox-83.0+build2/dom/media/MediaDecoderStateMachine.cpp:3471
+JavaScript warning: https://markets.businessinsider.com/Content/Scripts/Chart/chartiq/chartiq.min.js?v=4ffd6844, line 1: unreachable code after return statement
+JavaScript warning: https://markets.businessinsider.com/Content/Scripts/Chart/chartiq/chartiq.min.js?v=4ffd6844, line 1: unreachable code after return statement
+JavaScript warning: https://markets.businessinsider.com/Content/Scripts/Chart/chartiq/chartiq.min.js?v=4ffd6844, line 1: unreachable code after return statement
+[Child 3152, MediaDecoderStateMachine #1] WARNING: Decoder=7efcd6fc6400 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<MediaSourceTrackDemuxer::SamplesPromise> mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file /build/firefox-m6W5sP/firefox-83.0+build2/dom/media/MediaDecoderStateMachine.cpp:3471
+[Child 3152, MediaDecoderStateMachine #1] WARNING: Decoder=7efcd6fc6400 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<MediaSourceTrackDemuxer::SamplesPromise> mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file /build/firefox-m6W5sP/firefox-83.0+build2/dom/media/MediaDecoderStateMachine.cpp:3471
+1606200873229	Marionette	INFO	Stopped listening on port 42923
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x3A0146,name=PContent::Msg_ScriptError) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0xB60006,name=PWebSocket::Msg_DeleteSelf) Channel closing: too late to send/recv, messages will be lost
+
+[Child 3152, MediaDecoderStateMachine #1] WARNING: Decoder=7efcd6fbd000 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<MediaSourceTrackDemuxer::SamplesPromise> mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file /build/firefox-m6W5sP/firefox-83.0+build2/dom/media/MediaDecoderStateMachine.cpp:3471
+[Child 3152, MediaDecoderStateMachine #1] WARNING: Decoder=7efcd6fbd000 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<MediaSourceTrackDemuxer::SamplesPromise> mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file /build/firefox-m6W5sP/firefox-83.0+build2/dom/media/MediaDecoderStateMachine.cpp:3471
+[Child 3152, MediaDecoderStateMachine #1] WARNING: Decoder=7efcd6fbf000 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<MediaSourceTrackDemuxer::SamplesPromise> mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file /build/firefox-m6W5sP/firefox-83.0+build2/dom/media/MediaDecoderStateMachine.cpp:3471
+[Child 3152, MediaDecoderStateMachine #1] WARNING: Decoder=7efcd6fbe800 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<MediaSourceTrackDemuxer::SamplesPromise> mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file /build/firefox-m6W5sP/firefox-83.0+build2/dom/media/MediaDecoderStateMachine.cpp:3471
+[Child 3152, MediaDecoderStateMachine #1] WARNING: Decoder=7efcd6fbe800 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<MediaSourceTrackDemuxer::SamplesPromise> mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file /build/firefox-m6W5sP/firefox-83.0+build2/dom/media/MediaDecoderStateMachine.cpp:3471
+[Child 3152, MediaDecoderStateMachine #1] WARNING: Decoder=7efcd727f000 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<MediaSourceTrackDemuxer::SamplesPromise> mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file /build/firefox-m6W5sP/firefox-83.0+build2/dom/media/MediaDecoderStateMachine.cpp:3471
+[Child 3152, MediaDecoderStateMachine #1] WARNING: Decoder=7efcd7288400 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<MediaSourceTrackDemuxer::SamplesPromise> mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file /build/firefox-m6W5sP/firefox-83.0+build2/dom/media/MediaDecoderStateMachine.cpp:3471
+[Child 3152, MediaDecoderStateMachine #1] WARNING: Decoder=7efcd7288400 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<MediaSourceTrackDemuxer::SamplesPromise> mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file /build/firefox-m6W5sP/firefox-83.0+build2/dom/media/MediaDecoderStateMachine.cpp:3471
+[Child 3152, MediaDecoderStateMachine #1] WARNING: Decoder=7efcd7288400 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<MediaSourceTrackDemuxer::SamplesPromise> mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file /build/firefox-m6W5sP/firefox-83.0+build2/dom/media/MediaDecoderStateMachine.cpp:3471
+[Child 3152, MediaDecoderStateMachine #1] WARNING: Decoder=7efcd6fb9c00 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<MediaSourceTrackDemuxer::SamplesPromise> mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file /build/firefox-m6W5sP/firefox-83.0+build2/dom/media/MediaDecoderStateMachine.cpp:3471
+[Child 3152, MediaDecoderStateMachine #1] WARNING: Decoder=7efcd6fbe000 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<MediaSourceTrackDemuxer::SamplesPromise> mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file /build/firefox-m6W5sP/firefox-83.0+build2/dom/media/MediaDecoderStateMachine.cpp:3471
+[Child 3152, MediaDecoderStateMachine #1] WARNING: Decoder=7efcd6fbe000 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<MediaSourceTrackDemuxer::SamplesPromise> mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file /build/firefox-m6W5sP/firefox-83.0+build2/dom/media/MediaDecoderStateMachine.cpp:3471
+[Child 3152, MediaDecoderStateMachine #1] WARNING: Decoder=7efcd6fbe000 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<MediaSourceTrackDemuxer::SamplesPromise> mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file /build/firefox-m6W5sP/firefox-83.0+build2/dom/media/MediaDecoderStateMachine.cpp:3471
+1606201188973	geckodriver	INFO	Listening on 127.0.0.1:39059
+1606201189978	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileLY0Oz0"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1606201195153	Marionette	INFO	Listening on port 36229
+1606201195253	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Child 3152, MediaDecoderStateMachine #1] WARNING: Decoder=7efcd6fbc800 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<MediaSourceTrackDemuxer::SamplesPromise> mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file /build/firefox-m6W5sP/firefox-83.0+build2/dom/media/MediaDecoderStateMachine.cpp:3471
+[Child 3152, MediaDecoderStateMachine #1] WARNING: Decoder=7efcd6fbc800 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<MediaSourceTrackDemuxer::SamplesPromise> mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file /build/firefox-m6W5sP/firefox-83.0+build2/dom/media/MediaDecoderStateMachine.cpp:3471
+JavaScript error: https://cdn.robinhood.com/assets/generated_assets/Vendor-dd9ca8ace0f5e722d8f2.chunk.js, line 2: Error: Unauthorized
+JavaScript error: https://cdn.robinhood.com/assets/generated_assets/Vendor-dd9ca8ace0f5e722d8f2.chunk.js, line 2: Error: Unauthorized
+JavaScript error: https://cdn.robinhood.com/assets/generated_assets/Vendor-dd9ca8ace0f5e722d8f2.chunk.js, line 2: Error: Unauthorized
+JavaScript error: https://cdn.robinhood.com/assets/generated_assets/Vendor-dd9ca8ace0f5e722d8f2.chunk.js, line 2: Error: Unauthorized
+JavaScript error: https://cdn.robinhood.com/assets/generated_assets/Vendor-dd9ca8ace0f5e722d8f2.chunk.js, line 2: Error: Unauthorized
+JavaScript error: https://cdn.robinhood.com/assets/generated_assets/Vendor-dd9ca8ace0f5e722d8f2.chunk.js, line 2: Error: Unauthorized
+[Child 3152, MediaDecoderStateMachine #1] WARNING: Decoder=7efcd6fbcc00 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<MediaSourceTrackDemuxer::SamplesPromise> mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file /build/firefox-m6W5sP/firefox-83.0+build2/dom/media/MediaDecoderStateMachine.cpp:3471
+[Child 3152, MediaDecoderStateMachine #1] WARNING: Decoder=7efcd6fbcc00 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<MediaSourceTrackDemuxer::SamplesPromise> mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file /build/firefox-m6W5sP/firefox-83.0+build2/dom/media/MediaDecoderStateMachine.cpp:3471
+JavaScript error: https://cdn.robinhood.com/assets/generated_assets/Vendor-dd9ca8ace0f5e722d8f2.chunk.js, line 2: Error: Unauthorized
+JavaScript error: https://cdn.robinhood.com/assets/generated_assets/Vendor-dd9ca8ace0f5e722d8f2.chunk.js, line 2: Error: Unauthorized
+JavaScript warning: https://markets.businessinsider.com/Content/Scripts/Chart/chartiq/chartiq.min.js?v=4ffd6844, line 1: unreachable code after return statement
+JavaScript warning: https://markets.businessinsider.com/Content/Scripts/Chart/chartiq/chartiq.min.js?v=4ffd6844, line 1: unreachable code after return statement
+JavaScript warning: https://markets.businessinsider.com/Content/Scripts/Chart/chartiq/chartiq.min.js?v=4ffd6844, line 1: unreachable code after return statement
+1606201293949	Marionette	INFO	Stopped listening on port 36229
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x6C0027,name=PNecko::Msg_RemoveRequestContext) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x3A0146,name=PContent::Msg_ScriptError) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0xB60006,name=PWebSocket::Msg_DeleteSelf) Channel closing: too late to send/recv, messages will be lost
+
+1606201297524	geckodriver	INFO	Listening on 127.0.0.1:59303
+1606201298529	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilegRa2PG"
+[Child 3152, MediaDecoderStateMachine #1] WARNING: Decoder=7efcd6fbd000 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<MediaSourceTrackDemuxer::SamplesPromise> mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file /build/firefox-m6W5sP/firefox-83.0+build2/dom/media/MediaDecoderStateMachine.cpp:3471
+[Child 3152, MediaDecoderStateMachine #1] WARNING: Decoder=7efcd6fbd000 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<MediaSourceTrackDemuxer::SamplesPromise> mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file /build/firefox-m6W5sP/firefox-83.0+build2/dom/media/MediaDecoderStateMachine.cpp:3471
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1606201302926	Marionette	INFO	Listening on port 45225
+1606201302980	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://cdn.robinhood.com/assets/generated_assets/Vendor-dd9ca8ace0f5e722d8f2.chunk.js, line 2: Error: Unauthorized
+JavaScript error: https://cdn.robinhood.com/assets/generated_assets/Vendor-dd9ca8ace0f5e722d8f2.chunk.js, line 2: Error: Unauthorized
+JavaScript error: https://cdn.robinhood.com/assets/generated_assets/Vendor-dd9ca8ace0f5e722d8f2.chunk.js, line 2: Error: Unauthorized
+JavaScript error: https://cdn.robinhood.com/assets/generated_assets/Vendor-dd9ca8ace0f5e722d8f2.chunk.js, line 2: Error: Unauthorized
+JavaScript error: https://cdn.robinhood.com/assets/generated_assets/Vendor-dd9ca8ace0f5e722d8f2.chunk.js, line 2: Error: Unauthorized
+[Child 3152, MediaDecoderStateMachine #1] WARNING: Decoder=7efcd6fc0c00 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<MediaSourceTrackDemuxer::SamplesPromise> mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file /build/firefox-m6W5sP/firefox-83.0+build2/dom/media/MediaDecoderStateMachine.cpp:3471
+JavaScript error: https://cdn.robinhood.com/assets/generated_assets/Vendor-dd9ca8ace0f5e722d8f2.chunk.js, line 2: Error: Request has been terminated
+Possible causes: the network is offline, Origin is not allowed by Access-Control-Allow-Origin, the page is being unloaded, etc.
+JavaScript error: https://cdn.robinhood.com/assets/generated_assets/Vendor-dd9ca8ace0f5e722d8f2.chunk.js, line 2: Error: Unauthorized
+JavaScript warning: https://markets.businessinsider.com/Content/Scripts/Chart/chartiq/chartiq.min.js?v=4ffd6844, line 1: unreachable code after return statement
+JavaScript warning: https://markets.businessinsider.com/Content/Scripts/Chart/chartiq/chartiq.min.js?v=4ffd6844, line 1: unreachable code after return statement
+JavaScript warning: https://markets.businessinsider.com/Content/Scripts/Chart/chartiq/chartiq.min.js?v=4ffd6844, line 1: unreachable code after return statement
+[Child 3152, MediaDecoderStateMachine #1] WARNING: Decoder=7efcd6fbe000 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<MediaSourceTrackDemuxer::SamplesPromise> mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file /build/firefox-m6W5sP/firefox-83.0+build2/dom/media/MediaDecoderStateMachine.cpp:3471
+[Child 3152, MediaDecoderStateMachine #1] WARNING: Decoder=7efcd6fbe000 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<MediaSourceTrackDemuxer::SamplesPromise> mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file /build/firefox-m6W5sP/firefox-83.0+build2/dom/media/MediaDecoderStateMachine.cpp:3471
+[Child 3152, MediaDecoderStateMachine #1] WARNING: Decoder=7efcd6fbe000 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<MediaSourceTrackDemuxer::SamplesPromise> mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file /build/firefox-m6W5sP/firefox-83.0+build2/dom/media/MediaDecoderStateMachine.cpp:3471
+[Child 3152, MediaDecoderStateMachine #1] WARNING: Decoder=7efcd6fbec00 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<MediaSourceTrackDemuxer::SamplesPromise> mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file /build/firefox-m6W5sP/firefox-83.0+build2/dom/media/MediaDecoderStateMachine.cpp:3471
+1606201413354	Marionette	INFO	Stopped listening on port 45225
+[Child 3152, MediaDecoderStateMachine #1] WARNING: Decoder=7efcd6fbb400 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<MediaSourceTrackDemuxer::SamplesPromise> mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file /build/firefox-m6W5sP/firefox-83.0+build2/dom/media/MediaDecoderStateMachine.cpp:3471
+[Child 3152, MediaDecoderStateMachine #1] WARNING: Decoder=7efcd6fbb400 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<MediaSourceTrackDemuxer::SamplesPromise> mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file /build/firefox-m6W5sP/firefox-83.0+build2/dom/media/MediaDecoderStateMachine.cpp:3471
+[Child 3152, MediaDecoderStateMachine #1] WARNING: Decoder=7efcd6fbe800 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<MediaSourceTrackDemuxer::SamplesPromise> mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file /build/firefox-m6W5sP/firefox-83.0+build2/dom/media/MediaDecoderStateMachine.cpp:3471
+[Child 3152, MediaDecoderStateMachine #1] WARNING: Decoder=7efcd6fbcc00 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<MediaSourceTrackDemuxer::SamplesPromise> mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file /build/firefox-m6W5sP/firefox-83.0+build2/dom/media/MediaDecoderStateMachine.cpp:3471
+[Child 3152, MediaDecoderStateMachine #1] WARNING: Decoder=7efcd6fbcc00 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<MediaSourceTrackDemuxer::SamplesPromise> mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file /build/firefox-m6W5sP/firefox-83.0+build2/dom/media/MediaDecoderStateMachine.cpp:3471
+[Child 3152, MediaDecoderStateMachine #1] WARNING: Decoder=7efcd6fbcc00 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<MediaSourceTrackDemuxer::SamplesPromise> mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file /build/firefox-m6W5sP/firefox-83.0+build2/dom/media/MediaDecoderStateMachine.cpp:3471
+[Child 3152, MediaDecoderStateMachine #1] WARNING: Decoder=7efcd6fc2c00 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<MediaSourceTrackDemuxer::SamplesPromise> mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file /build/firefox-m6W5sP/firefox-83.0+build2/dom/media/MediaDecoderStateMachine.cpp:3471
+[Child 3152, MediaDecoderStateMachine #1] WARNING: Decoder=7efcd6fc2c00 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<MediaSourceTrackDemuxer::SamplesPromise> mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file /build/firefox-m6W5sP/firefox-83.0+build2/dom/media/MediaDecoderStateMachine.cpp:3471
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 1031: Error: Sqlite.jsm has been shutdown. Cannot open connection to: /tmp/rust_mozprofile4iLUYu/protections.sqlite
+1606201530548	Marionette	INFO	Stopped listening on port 43545
+1606201554037	geckodriver	INFO	Listening on 127.0.0.1:34649
+1606201555047	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileIpCoPn"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1606201559919	Marionette	INFO	Listening on port 46631
+1606201559990	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://cdn.robinhood.com/assets/generated_assets/Vendor-dd9ca8ace0f5e722d8f2.chunk.js, line 2: Error: Unauthorized
+JavaScript warning: https://markets.businessinsider.com/Content/Scripts/Chart/chartiq/chartiq.min.js?v=4ffd6844, line 1: unreachable code after return statement
+JavaScript warning: https://markets.businessinsider.com/Content/Scripts/Chart/chartiq/chartiq.min.js?v=4ffd6844, line 1: unreachable code after return statement
+JavaScript warning: https://markets.businessinsider.com/Content/Scripts/Chart/chartiq/chartiq.min.js?v=4ffd6844, line 1: unreachable code after return statement
+JavaScript error: https://912c7128e213a30ee4f0855e6f23022c.safeframe.googlesyndication.com/safeframe/1-0-37/html/container.html, line 8: SecurityError: Permission denied to access property Symbol.toPrimitive on cross-origin object
+1606201639772	Marionette	INFO	Stopped listening on port 46631
+1606201642988	geckodriver	INFO	Listening on 127.0.0.1:34619
+1606201643997	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileT70S2f"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1606201647982	Marionette	INFO	Listening on port 35049
+1606201648039	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://cdn.robinhood.com/assets/generated_assets/Vendor-dd9ca8ace0f5e722d8f2.chunk.js, line 2: Error: Unauthorized
+JavaScript error: https://cdn.robinhood.com/assets/generated_assets/Vendor-dd9ca8ace0f5e722d8f2.chunk.js, line 2: Error: Unauthorized
+JavaScript error: https://cdn.robinhood.com/assets/generated_assets/Vendor-dd9ca8ace0f5e722d8f2.chunk.js, line 2: Error: Unauthorized
+JavaScript error: https://cdn.robinhood.com/assets/generated_assets/Vendor-dd9ca8ace0f5e722d8f2.chunk.js, line 2: Error: Unauthorized
+JavaScript warning: https://markets.businessinsider.com/Content/Scripts/Chart/chartiq/chartiq.min.js?v=4ffd6844, line 1: unreachable code after return statement
+JavaScript warning: https://markets.businessinsider.com/Content/Scripts/Chart/chartiq/chartiq.min.js?v=4ffd6844, line 1: unreachable code after return statement
+JavaScript warning: https://markets.businessinsider.com/Content/Scripts/Chart/chartiq/chartiq.min.js?v=4ffd6844, line 1: unreachable code after return statement
+1606201778125	Marionette	INFO	Stopped listening on port 35049
+1606201781483	geckodriver	INFO	Listening on 127.0.0.1:32925
+1606201782491	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileO2JeCt"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1606201786677	Marionette	INFO	Listening on port 36775
+1606201786740	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://cdn.robinhood.com/assets/generated_assets/Vendor-dd9ca8ace0f5e722d8f2.chunk.js, line 2: Error: Unauthorized
+JavaScript error: https://cdn.robinhood.com/assets/generated_assets/Vendor-dd9ca8ace0f5e722d8f2.chunk.js, line 2: Error: Unauthorized
+JavaScript error: https://cdn.robinhood.com/assets/generated_assets/Vendor-dd9ca8ace0f5e722d8f2.chunk.js, line 2: Error: Unauthorized
+JavaScript error: https://cdn.robinhood.com/assets/generated_assets/Vendor-dd9ca8ace0f5e722d8f2.chunk.js, line 2: Error: Unauthorized
+JavaScript error: https://cdn.robinhood.com/assets/generated_assets/Vendor-dd9ca8ace0f5e722d8f2.chunk.js, line 2: Error: Request has been terminated
+Possible causes: the network is offline, Origin is not allowed by Access-Control-Allow-Origin, the page is being unloaded, etc.
+JavaScript warning: https://markets.businessinsider.com/Content/Scripts/Chart/chartiq/chartiq.min.js?v=4ffd6844, line 1: unreachable code after return statement
+JavaScript warning: https://markets.businessinsider.com/Content/Scripts/Chart/chartiq/chartiq.min.js?v=4ffd6844, line 1: unreachable code after return statement
+JavaScript warning: https://markets.businessinsider.com/Content/Scripts/Chart/chartiq/chartiq.min.js?v=4ffd6844, line 1: unreachable code after return statement
+1606201896544	Marionette	INFO	Stopped listening on port 36775
+1606201899843	geckodriver	INFO	Listening on 127.0.0.1:33517
+1606201900852	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileoe5jAN"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1606201904990	Marionette	INFO	Listening on port 33575
+1606201905109	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://cdn.robinhood.com/assets/generated_assets/Vendor-dd9ca8ace0f5e722d8f2.chunk.js, line 2: Error: Unauthorized
+JavaScript error: https://cdn.robinhood.com/assets/generated_assets/Vendor-dd9ca8ace0f5e722d8f2.chunk.js, line 2: Error: Unauthorized
+JavaScript error: https://cdn.robinhood.com/assets/generated_assets/Vendor-dd9ca8ace0f5e722d8f2.chunk.js, line 2: Error: Unauthorized
+JavaScript error: https://cdn.robinhood.com/assets/generated_assets/Vendor-dd9ca8ace0f5e722d8f2.chunk.js, line 2: Error: Unauthorized
+JavaScript error: https://cdn.robinhood.com/assets/generated_assets/Vendor-dd9ca8ace0f5e722d8f2.chunk.js, line 2: Error: Unauthorized
+JavaScript error: https://cdn.robinhood.com/assets/generated_assets/Vendor-dd9ca8ace0f5e722d8f2.chunk.js, line 2: Error: Unauthorized
+JavaScript warning: https://markets.businessinsider.com/Content/Scripts/Chart/chartiq/chartiq.min.js?v=4ffd6844, line 1: unreachable code after return statement
+JavaScript warning: https://markets.businessinsider.com/Content/Scripts/Chart/chartiq/chartiq.min.js?v=4ffd6844, line 1: unreachable code after return statement
+JavaScript warning: https://markets.businessinsider.com/Content/Scripts/Chart/chartiq/chartiq.min.js?v=4ffd6844, line 1: unreachable code after return statement
+1606202071386	Marionette	INFO	Stopped listening on port 33575
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x3A0146,name=PContent::Msg_ScriptError) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0xB60006,name=PWebSocket::Msg_DeleteSelf) Channel closing: too late to send/recv, messages will be lost
+
+1606202074496	geckodriver	INFO	Listening on 127.0.0.1:57153
+1606202075506	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileO21TGS"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1606202079685	Marionette	INFO	Listening on port 39825
+1606202079756	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://cdn.robinhood.com/assets/generated_assets/Vendor-dd9ca8ace0f5e722d8f2.chunk.js, line 2: Error: Unauthorized
+JavaScript error: https://cdn.robinhood.com/assets/generated_assets/Vendor-dd9ca8ace0f5e722d8f2.chunk.js, line 2: Error: Unauthorized
+JavaScript error: https://cdn.robinhood.com/assets/generated_assets/Vendor-dd9ca8ace0f5e722d8f2.chunk.js, line 2: Error: Unauthorized
+JavaScript error: https://cdn.robinhood.com/assets/generated_assets/Vendor-dd9ca8ace0f5e722d8f2.chunk.js, line 2: Error: Unauthorized
+JavaScript error: https://cdn.robinhood.com/assets/generated_assets/Vendor-dd9ca8ace0f5e722d8f2.chunk.js, line 2: Error: Request has been terminated
+Possible causes: the network is offline, Origin is not allowed by Access-Control-Allow-Origin, the page is being unloaded, etc.
+JavaScript warning: https://markets.businessinsider.com/Content/Scripts/Chart/chartiq/chartiq.min.js?v=4ffd6844, line 1: unreachable code after return statement
+JavaScript warning: https://markets.businessinsider.com/Content/Scripts/Chart/chartiq/chartiq.min.js?v=4ffd6844, line 1: unreachable code after return statement
+JavaScript warning: https://markets.businessinsider.com/Content/Scripts/Chart/chartiq/chartiq.min.js?v=4ffd6844, line 1: unreachable code after return statement
+1606202204873	Marionette	INFO	Stopped listening on port 39825
+1606202208208	geckodriver	INFO	Listening on 127.0.0.1:59135
+1606202209217	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileWl7jYv"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1606202213315	Marionette	INFO	Listening on port 41835
+1606202213359	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://cdn.robinhood.com/assets/generated_assets/Vendor-dd9ca8ace0f5e722d8f2.chunk.js, line 2: Error: Unauthorized
+JavaScript error: https://cdn.robinhood.com/assets/generated_assets/Vendor-dd9ca8ace0f5e722d8f2.chunk.js, line 2: Error: Unauthorized
+JavaScript error: https://cdn.robinhood.com/assets/generated_assets/Vendor-dd9ca8ace0f5e722d8f2.chunk.js, line 2: Error: Unauthorized
+JavaScript error: https://cdn.robinhood.com/assets/generated_assets/Vendor-dd9ca8ace0f5e722d8f2.chunk.js, line 2: Error: Unauthorized
+1606202290266	Marionette	INFO	Stopped listening on port 41835
+1606202293859	geckodriver	INFO	Listening on 127.0.0.1:42973
+1606202294866	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileawl0QC"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1606202299160	Marionette	INFO	Listening on port 41621
+1606202299214	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://cdn.robinhood.com/assets/generated_assets/Vendor-dd9ca8ace0f5e722d8f2.chunk.js, line 2: Error: Unauthorized
+JavaScript error: https://cdn.robinhood.com/assets/generated_assets/Vendor-dd9ca8ace0f5e722d8f2.chunk.js, line 2: Error: Unauthorized
+1606202352887	Marionette	INFO	Stopped listening on port 41621
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1606202356536	geckodriver	INFO	Listening on 127.0.0.1:50113
+1606202357544	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilePalFBH"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1606202361686	Marionette	INFO	Listening on port 36141
+1606202361792	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://cdn.robinhood.com/assets/generated_assets/Vendor-dd9ca8ace0f5e722d8f2.chunk.js, line 2: Error: Unauthorized
+JavaScript error: https://cdn.robinhood.com/assets/generated_assets/Vendor-dd9ca8ace0f5e722d8f2.chunk.js, line 2: Error: Unauthorized
+JavaScript error: https://cdn.robinhood.com/assets/generated_assets/Vendor-dd9ca8ace0f5e722d8f2.chunk.js, line 2: Error: Unauthorized
+JavaScript error: https://cdn.robinhood.com/assets/generated_assets/Vendor-dd9ca8ace0f5e722d8f2.chunk.js, line 2: Error: Unauthorized
+JavaScript error: https://cdn.robinhood.com/assets/generated_assets/Vendor-dd9ca8ace0f5e722d8f2.chunk.js, line 2: Error: Unauthorized
+JavaScript error: https://cdn.robinhood.com/assets/generated_assets/Vendor-dd9ca8ace0f5e722d8f2.chunk.js, line 2: Error: Unauthorized
+JavaScript error: https://cdn.robinhood.com/assets/generated_assets/Vendor-dd9ca8ace0f5e722d8f2.chunk.js, line 2: Error: Unauthorized
+JavaScript error: https://cdn.robinhood.com/assets/generated_assets/Vendor-dd9ca8ace0f5e722d8f2.chunk.js, line 2: Error: Unauthorized
+JavaScript warning: https://markets.businessinsider.com/Content/Scripts/Chart/chartiq/chartiq.min.js?v=4ffd6844, line 1: unreachable code after return statement
+JavaScript warning: https://markets.businessinsider.com/Content/Scripts/Chart/chartiq/chartiq.min.js?v=4ffd6844, line 1: unreachable code after return statement
+JavaScript warning: https://markets.businessinsider.com/Content/Scripts/Chart/chartiq/chartiq.min.js?v=4ffd6844, line 1: unreachable code after return statement
+JavaScript error: https://d108337af756986fa25f58b6a3544119.safeframe.googlesyndication.com/safeframe/1-0-37/html/container.html, line 8: ReferenceError: googqscp is not defined
+1606202470771	Marionette	INFO	Stopped listening on port 36141
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+1606202475049	geckodriver	INFO	Listening on 127.0.0.1:32821
+1606202476058	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileNS5ns0"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1606202480486	Marionette	INFO	Listening on port 41129
+1606202480610	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://cdn.robinhood.com/assets/generated_assets/Vendor-dd9ca8ace0f5e722d8f2.chunk.js, line 2: Error: Unauthorized
+JavaScript error: https://cdn.robinhood.com/assets/generated_assets/Vendor-dd9ca8ace0f5e722d8f2.chunk.js, line 2: Error: Unauthorized
+JavaScript error: https://cdn.robinhood.com/assets/generated_assets/Vendor-dd9ca8ace0f5e722d8f2.chunk.js, line 2: Error: Unauthorized
+JavaScript warning: https://markets.businessinsider.com/Content/Scripts/Chart/chartiq/chartiq.min.js?v=4ffd6844, line 1: unreachable code after return statement
+JavaScript warning: https://markets.businessinsider.com/Content/Scripts/Chart/chartiq/chartiq.min.js?v=4ffd6844, line 1: unreachable code after return statement
+JavaScript warning: https://markets.businessinsider.com/Content/Scripts/Chart/chartiq/chartiq.min.js?v=4ffd6844, line 1: unreachable code after return statement
+1606202577488	Marionette	INFO	Stopped listening on port 41129
