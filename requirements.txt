@@ -5,3 +5,4 @@ Firefox webdriver(ANY)
 pandas
 csv file preview
 html5lib-1.1
+yfinance

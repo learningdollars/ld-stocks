@@ -2011,3 +2011,36 @@ JavaScript warning: https://markets.businessinsider.com/Content/Scripts/Chart/ch
 JavaScript warning: https://markets.businessinsider.com/Content/Scripts/Chart/chartiq/chartiq.min.js?v=4ffd6844, line 1: unreachable code after return statement
 JavaScript warning: https://markets.businessinsider.com/Content/Scripts/Chart/chartiq/chartiq.min.js?v=4ffd6844, line 1: unreachable code after return statement
 1606202577488	Marionette	INFO	Stopped listening on port 41129
+1606275661279	geckodriver	INFO	Listening on 127.0.0.1:42335
+1606275662162	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileFmXU7F"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1606275670032	Marionette	INFO	Listening on port 42389
+1606275670346	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://cdn.robinhood.com/assets/generated_assets/Vendor-a2a59c9ff290dd6025ac.chunk.js, line 2: Error: Unauthorized
+JavaScript error: https://cdn.robinhood.com/assets/generated_assets/Vendor-a2a59c9ff290dd6025ac.chunk.js, line 2: Error: Unauthorized
+JavaScript error: https://cdn.robinhood.com/assets/generated_assets/Vendor-a2a59c9ff290dd6025ac.chunk.js, line 2: Error: Request has been terminated
+Possible causes: the network is offline, Origin is not allowed by Access-Control-Allow-Origin, the page is being unloaded, etc.
+JavaScript warning: https://markets.businessinsider.com/Content/Scripts/Chart/chartiq/chartiq.min.js?v=4ffd6844, line 1: unreachable code after return statement
+JavaScript warning: https://markets.businessinsider.com/Content/Scripts/Chart/chartiq/chartiq.min.js?v=4ffd6844, line 1: unreachable code after return statement
+JavaScript warning: https://markets.businessinsider.com/Content/Scripts/Chart/chartiq/chartiq.min.js?v=4ffd6844, line 1: unreachable code after return statement
+1606275738057	Marionette	INFO	Stopped listening on port 42389
+1606275742251	geckodriver	INFO	Listening on 127.0.0.1:53391
+1606275743256	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileFdb7hI"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1606275747580	Marionette	INFO	Listening on port 43567
+1606275747717	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://cdn.robinhood.com/assets/generated_assets/Vendor-6e0e8e444212b5eccb75.chunk.js, line 2: Error: Unauthorized
+JavaScript error: https://cdn.robinhood.com/assets/generated_assets/Vendor-6e0e8e444212b5eccb75.chunk.js, line 2: Error: Unauthorized
+JavaScript warning: https://markets.businessinsider.com/Content/Scripts/Chart/chartiq/chartiq.min.js?v=4ffd6844, line 1: unreachable code after return statement
+JavaScript warning: https://markets.businessinsider.com/Content/Scripts/Chart/chartiq/chartiq.min.js?v=4ffd6844, line 1: unreachable code after return statement
+JavaScript warning: https://markets.businessinsider.com/Content/Scripts/Chart/chartiq/chartiq.min.js?v=4ffd6844, line 1: unreachable code after return statement
+1606275814827	Marionette	INFO	Stopped listening on port 43567
+1606275818147	geckodriver	INFO	Listening on 127.0.0.1:45193
+1606275819154	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileqA5loq"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1606275823153	Marionette	INFO	Listening on port 39765
+1606275823197	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://markets.businessinsider.com/Content/Scripts/Chart/chartiq/chartiq.min.js?v=4ffd6844, line 1: unreachable code after return statement
+JavaScript warning: https://markets.businessinsider.com/Content/Scripts/Chart/chartiq/chartiq.min.js?v=4ffd6844, line 1: unreachable code after return statement
+JavaScript warning: https://markets.businessinsider.com/Content/Scripts/Chart/chartiq/chartiq.min.js?v=4ffd6844, line 1: unreachable code after return statement
+1606275871892	Marionette	INFO	Stopped listening on port 39765
