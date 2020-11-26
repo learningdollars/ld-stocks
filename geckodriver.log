@@ -2044,3 +2044,1156 @@ JavaScript warning: https://markets.businessinsider.com/Content/Scripts/Chart/ch
 JavaScript warning: https://markets.businessinsider.com/Content/Scripts/Chart/chartiq/chartiq.min.js?v=4ffd6844, line 1: unreachable code after return statement
 JavaScript warning: https://markets.businessinsider.com/Content/Scripts/Chart/chartiq/chartiq.min.js?v=4ffd6844, line 1: unreachable code after return statement
 1606275871892	Marionette	INFO	Stopped listening on port 39765
+1606281195223	geckodriver	INFO	Listening on 127.0.0.1:56899
+1606281196220	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileGEE5H4"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1606281209359	Marionette	INFO	Listening on port 33685
+1606281209713	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://cdn.permutive.com/3aba5292-ba75-422b-8715-bd21146f7836-web.js, line 1: Error: TypeError: Network request timed out
+JavaScript error: https://cdn.permutive.com/3aba5292-ba75-422b-8715-bd21146f7836-web.js, line 1: Error: TypeError: Network request timed out
+JavaScript error: https://cdn.permutive.com/3aba5292-ba75-422b-8715-bd21146f7836-web.js, line 1: Error: TypeError: Network request timed out
+JavaScript error: https://cdn.permutive.com/3aba5292-ba75-422b-8715-bd21146f7836-web.js, line 1: Error: TypeError: Network request timed out
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: https://721f4518834b327de84cd73ba66f7c05.safeframe.googlesyndication.com/safeframe/1-0-37/html/container.html, line 8: SecurityError: Permission denied to access property Symbol.toPrimitive on cross-origin object
+1606281412654	geckodriver	INFO	Listening on 127.0.0.1:50399
+1606281413603	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileLHjyhJ"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1606281438957	Marionette	INFO	Listening on port 42331
+1606281439226	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: services.settings: 
+  Message: TypeError: NetworkError when attempting to fetch resource.
+  Stack:
+    timedFetch/<@resource://services-common/kinto-http-client.js:549:22
+timedFetch@resource://services-common/kinto-http-client.js:527:20
+request@resource://services-common/kinto-http-client.js:613:41
+execute@resource://services-common/kinto-http-client.js:2400:44
+_fetchChangeset@resource://services-settings/RemoteSettingsClient.jsm:1038:22
+_importChanges@resource://services-settings/RemoteSettingsClient.jsm:890:20
+maybeSync@resource://services-settings/RemoteSettingsClient.jsm:595:35
+
+console.warn: services.settings: blocklists/addons-bloomfilters sync interrupted by shutdown
+1606281600899	Marionette	INFO	Stopped listening on port 33685
+JavaScript error: https://cdn.permutive.com/3aba5292-ba75-422b-8715-bd21146f7836-web.js, line 1: Error: TypeError: Network request timed out
+JavaScript error: https://cdn.permutive.com/3aba5292-ba75-422b-8715-bd21146f7836-web.js, line 1: Error: TypeError: Network request timed out
+JavaScript error: https://cdn.permutive.com/3aba5292-ba75-422b-8715-bd21146f7836-web.js, line 1: Error: TypeError: Network request failed
+JavaScript error: https://cdn.permutive.com/3aba5292-ba75-422b-8715-bd21146f7836-web.js, line 1: Error: TypeError: Network request failed
+Gdk-Message: 09:46:20.757: firefox: Fatal IO error 11 (Resource temporarily unavailable) on X server :0.
+
+Gdk-Message: 06:46:20.757: /usr/lib/firefox/firefox: Fatal IO error 11 (Resource temporarily unavailable) on X server :0.
+
+Gdk-Message: 06:46:20.757: /usr/lib/firefox/firefox: Fatal IO error 11 (Resource temporarily unavailable) on X server :0.
+
+Exiting due to channel error.
+1606300297160	geckodriver	INFO	Listening on 127.0.0.1:59569
+1606300297981	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileTcSlkM"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1606300307649	Marionette	INFO	Listening on port 36109
+1606300308191	Marionette	WARN	TLS certificate errors will be ignored for this session
+1606300358276	geckodriver	INFO	Listening on 127.0.0.1:45977
+1606300358283	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileEjRbxK"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1606300363765	Marionette	INFO	Listening on port 46607
+1606300363849	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1606300427391	Marionette	INFO	Stopped listening on port 46607
+1606300438906	Marionette	INFO	Stopped listening on port 36109
+1606300469963	geckodriver	INFO	Listening on 127.0.0.1:48307
+1606300469997	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileTdQAxV"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1606300475239	Marionette	INFO	Listening on port 32849
+1606300475343	Marionette	WARN	TLS certificate errors will be ignored for this session
+1606300530240	Marionette	INFO	Stopped listening on port 32849
+1606300626510	geckodriver	INFO	Listening on 127.0.0.1:48465
+1606300626517	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileuEiU8j"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1606300630936	Marionette	INFO	Listening on port 34693
+1606300631087	Marionette	WARN	TLS certificate errors will be ignored for this session
+1606300647358	Marionette	INFO	Stopped listening on port 34693
+JavaScript error: resource://gre/modules/UrlClassifierListManager.jsm, line 691: TypeError: this.tablesData[table] is undefined
+1606300790742	geckodriver	INFO	Listening on 127.0.0.1:34783
+1606300790749	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileSkc47r"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1606300794757	Marionette	INFO	Listening on port 37881
+1606300794813	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://cdn.permutive.com/3aba5292-ba75-422b-8715-bd21146f7836-web.js, line 1: Error: TypeError: Network request timed out
+JavaScript error: https://cdn.permutive.com/3aba5292-ba75-422b-8715-bd21146f7836-web.js, line 1: Error: TypeError: Network request timed out
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1606300867411	Marionette	INFO	Stopped listening on port 37881
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 1031: Error: Sqlite.jsm has been shutdown. Cannot open connection to: /tmp/rust_mozprofileSkc47r/protections.sqlite
+1606301512926	geckodriver	INFO	Listening on 127.0.0.1:43043
+1606301512932	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileo7zRsD"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1606301517085	Marionette	INFO	Listening on port 34191
+1606301517186	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://cdn.permutive.com/3aba5292-ba75-422b-8715-bd21146f7836-web.js, line 1: Error: TypeError: Network request timed out
+JavaScript error: https://cdn.permutive.com/3aba5292-ba75-422b-8715-bd21146f7836-web.js, line 1: Error: TypeError: Network request timed out
+JavaScript error: https://cdn.permutive.com/3aba5292-ba75-422b-8715-bd21146f7836-web.js, line 1: Error: TypeError: Network request timed out
+JavaScript error: https://cdn.permutive.com/3aba5292-ba75-422b-8715-bd21146f7836-web.js, line 1: Error: TypeError: Network request timed out
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1606301598418	geckodriver	INFO	Listening on 127.0.0.1:34417
+1606301598425	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileyiwybG"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1606301603513	Marionette	INFO	Listening on port 46303
+1606301603575	Marionette	WARN	TLS certificate errors will be ignored for this session
+1606301638754	Marionette	INFO	Stopped listening on port 34191
+JavaScript error: https://cdn.permutive.com/3aba5292-ba75-422b-8715-bd21146f7836-web.js, line 1: Error: TypeError: Network request timed out
+JavaScript error: https://cdn.permutive.com/3aba5292-ba75-422b-8715-bd21146f7836-web.js, line 1: Error: TypeError: Network request timed out
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: https://cdn.permutive.com/3aba5292-ba75-422b-8715-bd21146f7836-web.js, line 1: Error: TypeError: Network request timed out
+JavaScript error: https://395602466f3887f52beb42e0ae0c7e22.safeframe.googlesyndication.com/safeframe/1-0-37/html/container.html, line 8: SecurityError: Permission denied to access property Symbol.toPrimitive on cross-origin object
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1606301770137	geckodriver	INFO	Listening on 127.0.0.1:46061
+1606301770179	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileUz5SWf"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1606301775862	Marionette	INFO	Listening on port 44379
+1606301775929	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: Region.jsm: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 726))
+console.error: Region.jsm: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 376))
+1606301790824	Marionette	INFO	Stopped listening on port 46303
+1606301828631	geckodriver	INFO	Listening on 127.0.0.1:38249
+1606301828638	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilewUkZz5"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1606301833428	Marionette	INFO	Listening on port 39357
+1606301833483	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: Region.jsm: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 726))
+console.error: Region.jsm: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 376))
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript warning: https://markets.businessinsider.com/Content/Scripts/Chart/chartiq/chartiq.min.js?v=4ffd6844, line 1: unreachable code after return statement
+JavaScript warning: https://markets.businessinsider.com/Content/Scripts/Chart/chartiq/chartiq.min.js?v=4ffd6844, line 1: unreachable code after return statement
+JavaScript warning: https://markets.businessinsider.com/Content/Scripts/Chart/chartiq/chartiq.min.js?v=4ffd6844, line 1: unreachable code after return statement
+1606301966806	Marionette	INFO	Stopped listening on port 39357
+1606302500824	geckodriver	INFO	Listening on 127.0.0.1:54379
+1606302500831	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilepbQac2"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1606302505111	Marionette	INFO	Listening on port 39241
+1606302505183	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+1606302641703	Marionette	INFO	Stopped listening on port 39241
+1606302699894	geckodriver	INFO	Listening on 127.0.0.1:44063
+1606302699901	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileBsSv82"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1606302706104	Marionette	INFO	Listening on port 34671
+1606302706151	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1606302795037	Marionette	INFO	Stopped listening on port 34671
+1606302860917	geckodriver	INFO	Listening on 127.0.0.1:38349
+1606302861002	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileqjHIDY"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1606302868346	Marionette	INFO	Listening on port 36987
+1606302868482	Marionette	WARN	TLS certificate errors will be ignored for this session
+1606303056621	geckodriver	INFO	Listening on 127.0.0.1:60507
+1606303057702	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileDBuhst"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1606303103804	Marionette	INFO	Listening on port 46729
+1606303104191	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://cdn.permutive.com/3aba5292-ba75-422b-8715-bd21146f7836-web.js, line 1: Error: TypeError: Network request timed out
+JavaScript error: https://cdn.permutive.com/3aba5292-ba75-422b-8715-bd21146f7836-web.js, line 1: Error: TypeError: Network request timed out
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: https://cdn.permutive.com/3aba5292-ba75-422b-8715-bd21146f7836-web.js, line 1: Error: TypeError: Network request timed out
+JavaScript error: https://cdn.permutive.com/3aba5292-ba75-422b-8715-bd21146f7836-web.js, line 1: Error: TypeError: Network request timed out
+JavaScript error: https://cdn.permutive.com/3aba5292-ba75-422b-8715-bd21146f7836-web.js, line 1: Error: TypeError: Network request timed out
+1606303198555	geckodriver	INFO	Listening on 127.0.0.1:46319
+1606303200017	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileZF2dB9"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: https://cdn.permutive.com/3aba5292-ba75-422b-8715-bd21146f7836-web.js, line 1: Error: TypeError: Network request timed out
+
+###!!! [Child][MessageChannel] Error: (msgtype=0xFFF7,name=<unknown IPC msg name>) Channel error: cannot send/recv
+
+1606303278427	Marionette	INFO	Stopped listening on port 36987
+1606303294287	Marionette	INFO	Stopped listening on port 46729
+1606303298327	geckodriver	INFO	Listening on 127.0.0.1:46877
+1606303298369	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileQp1LmS"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1606303307798	Marionette	INFO	Listening on port 39167
+1606303308004	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: Region.jsm: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 726))
+console.error: Region.jsm: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 376))
+JavaScript error: https://cdn.permutive.com/3aba5292-ba75-422b-8715-bd21146f7836-web.js, line 1: Error: TypeError: Network request timed out
+JavaScript error: https://cdn.permutive.com/3aba5292-ba75-422b-8715-bd21146f7836-web.js, line 1: Error: TypeError: Network request timed out
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: https://cdn.permutive.com/3aba5292-ba75-422b-8715-bd21146f7836-web.js, line 1: Error: TypeError: Network request timed out
+1606303392130	geckodriver	INFO	Listening on 127.0.0.1:54361
+1606303392135	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileCPH8DQ"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1606303404560	Marionette	INFO	Listening on port 37805
+1606303404593	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript warning: https://markets.businessinsider.com/Content/Scripts/Chart/chartiq/chartiq.min.js?v=4ffd6844, line 1: unreachable code after return statement
+JavaScript warning: https://markets.businessinsider.com/Content/Scripts/Chart/chartiq/chartiq.min.js?v=4ffd6844, line 1: unreachable code after return statement
+JavaScript warning: https://markets.businessinsider.com/Content/Scripts/Chart/chartiq/chartiq.min.js?v=4ffd6844, line 1: unreachable code after return statement
+JavaScript error: https://markets.businessinsider.com/Content/Scripts/Chart/chartiq/polyfills.js?v=4ffd6844, line 1: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://markets.businessinsider.com/Content/Scripts/Chart/chartiq/polyfills.js?v=4ffd6844, line 1: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://markets.businessinsider.com/Content/Scripts/Chart/chartiq/polyfills.js?v=4ffd6844, line 1: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://markets.businessinsider.com/Content/Scripts/Chart/chartiq/polyfills.js?v=4ffd6844, line 1: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://markets.businessinsider.com/Content/Scripts/Chart/chartiq/polyfills.js?v=4ffd6844, line 1: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://markets.businessinsider.com/Content/Scripts/Chart/chartiq/polyfills.js?v=4ffd6844, line 1: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://markets.businessinsider.com/Content/Scripts/Chart/chartiq/polyfills.js?v=4ffd6844, line 1: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://markets.businessinsider.com/Content/Scripts/Chart/chartiq/polyfills.js?v=4ffd6844, line 1: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://markets.businessinsider.com/Content/Scripts/Chart/chartiq/polyfills.js?v=4ffd6844, line 1: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://markets.businessinsider.com/Content/Scripts/Chart/chartiq/polyfills.js?v=4ffd6844, line 1: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://markets.businessinsider.com/Content/Scripts/Chart/chartiq/polyfills.js?v=4ffd6844, line 1: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://markets.businessinsider.com/Content/Scripts/Chart/chartiq/polyfills.js?v=4ffd6844, line 1: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://markets.businessinsider.com/Content/Scripts/Chart/chartiq/polyfills.js?v=4ffd6844, line 1: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://markets.businessinsider.com/Content/Scripts/Chart/chartiq/polyfills.js?v=4ffd6844, line 1: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://markets.businessinsider.com/Content/Scripts/Chart/chartiq/polyfills.js?v=4ffd6844, line 1: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://markets.businessinsider.com/Content/Scripts/Chart/chartiq/polyfills.js?v=4ffd6844, line 1: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://markets.businessinsider.com/Content/Scripts/Chart/chartiq/polyfills.js?v=4ffd6844, line 1: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://markets.businessinsider.com/Content/Scripts/Chart/chartiq/polyfills.js?v=4ffd6844, line 1: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://markets.businessinsider.com/Content/Scripts/Chart/chartiq/polyfills.js?v=4ffd6844, line 1: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://markets.businessinsider.com/Content/Scripts/Chart/chartiq/polyfills.js?v=4ffd6844, line 1: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://markets.businessinsider.com/Content/Scripts/Chart/chartiq/polyfills.js?v=4ffd6844, line 1: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://markets.businessinsider.com/Content/Scripts/Chart/chartiq/polyfills.js?v=4ffd6844, line 1: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://cdn-gl.imrworldwide.com/novms/js/2/nlsSDK600.bundle.min.js, line 7: TypeError: p.gIframe.contentWindow is null
+1606303601722	Marionette	INFO	Stopped listening on port 37805
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+1606303656178	Marionette	INFO	Stopped listening on port 39167
+1606303762268	geckodriver	INFO	Listening on 127.0.0.1:46417
+1606303762966	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilesOZOM2"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1606303778598	Marionette	INFO	Listening on port 46017
+1606303778725	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: Region.jsm: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 726))
+console.error: Region.jsm: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 376))
+1606303849665	Marionette	INFO	Stopped listening on port 46017
+1606303944328	geckodriver	INFO	Listening on 127.0.0.1:49351
+1606303944334	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile9vXPcr"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1606303948965	Marionette	INFO	Listening on port 42409
+1606303949087	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://markets.businessinsider.com/Content/Scripts/Chart/chartiq/chartiq.min.js?v=4ffd6844, line 1: unreachable code after return statement
+JavaScript warning: https://markets.businessinsider.com/Content/Scripts/Chart/chartiq/chartiq.min.js?v=4ffd6844, line 1: unreachable code after return statement
+JavaScript warning: https://markets.businessinsider.com/Content/Scripts/Chart/chartiq/chartiq.min.js?v=4ffd6844, line 1: unreachable code after return statement
+1606304019073	Marionette	INFO	Stopped listening on port 42409
+1606304368427	geckodriver	INFO	Listening on 127.0.0.1:48183
+1606304368432	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileJCTD2S"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1606304372347	Marionette	INFO	Listening on port 40283
+1606304372474	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: https://cdn.permutive.com/3aba5292-ba75-422b-8715-bd21146f7836-web.js, line 1: Error: TypeError: Network request timed out
+JavaScript error: https://cdn.permutive.com/3aba5292-ba75-422b-8715-bd21146f7836-web.js, line 1: Error: TypeError: Network request timed out
+JavaScript warning: https://markets.businessinsider.com/Content/Scripts/Chart/chartiq/chartiq.min.js?v=4ffd6844, line 1: unreachable code after return statement
+JavaScript warning: https://markets.businessinsider.com/Content/Scripts/Chart/chartiq/chartiq.min.js?v=4ffd6844, line 1: unreachable code after return statement
+JavaScript warning: https://markets.businessinsider.com/Content/Scripts/Chart/chartiq/chartiq.min.js?v=4ffd6844, line 1: unreachable code after return statement
+JavaScript error: https://cd3d21d86847f75bb5467e077f62d628.safeframe.googlesyndication.com/safeframe/1-0-37/html/container.html, line 8: SecurityError: Permission denied to access property Symbol.toPrimitive on cross-origin object
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1606304514806	Marionette	INFO	Stopped listening on port 40283
+1606304755290	geckodriver	INFO	Listening on 127.0.0.1:41755
+1606304755297	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileiWFaQ2"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1606304760834	Marionette	INFO	Listening on port 46453
+1606304760948	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://cdn.permutive.com/3aba5292-ba75-422b-8715-bd21146f7836-web.js, line 1: Error: TypeError: Network request timed out
+JavaScript error: https://cdn.permutive.com/3aba5292-ba75-422b-8715-bd21146f7836-web.js, line 1: Error: TypeError: Network request timed out
+JavaScript warning: https://markets.businessinsider.com/Content/Scripts/Chart/chartiq/chartiq.min.js?v=4ffd6844, line 1: unreachable code after return statement
+JavaScript warning: https://markets.businessinsider.com/Content/Scripts/Chart/chartiq/chartiq.min.js?v=4ffd6844, line 1: unreachable code after return statement
+JavaScript warning: https://markets.businessinsider.com/Content/Scripts/Chart/chartiq/chartiq.min.js?v=4ffd6844, line 1: unreachable code after return statement
+JavaScript error: https://e7725d687d193be93913062e8342bfbe.safeframe.googlesyndication.com/safeframe/1-0-37/html/container.html, line 8: SecurityError: Permission denied to access property Symbol.toPrimitive on cross-origin object
+1606304924880	Marionette	INFO	Stopped listening on port 46453
+1606304926596	geckodriver	INFO	Listening on 127.0.0.1:42269
+1606304926602	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilevxqJJz"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1606304931038	Marionette	INFO	Listening on port 34939
+1606304931174	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://cdn.permutive.com/3aba5292-ba75-422b-8715-bd21146f7836-web.js, line 1: Error: TypeError: Network request timed out
+JavaScript error: https://cdn.permutive.com/3aba5292-ba75-422b-8715-bd21146f7836-web.js, line 1: Error: TypeError: Network request timed out
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: https://cdn.permutive.com/3aba5292-ba75-422b-8715-bd21146f7836-web.js, line 1: Error: TypeError: Network request timed out
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript warning: https://markets.businessinsider.com/Content/Scripts/Chart/chartiq/chartiq.min.js?v=4ffd6844, line 1: unreachable code after return statement
+JavaScript warning: https://markets.businessinsider.com/Content/Scripts/Chart/chartiq/chartiq.min.js?v=4ffd6844, line 1: unreachable code after return statement
+JavaScript warning: https://markets.businessinsider.com/Content/Scripts/Chart/chartiq/chartiq.min.js?v=4ffd6844, line 1: unreachable code after return statement
+1606305038720	geckodriver	INFO	Listening on 127.0.0.1:49289
+1606305038728	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileh9afzd"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1606305049696	Marionette	INFO	Listening on port 43043
+1606305049794	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: Region.jsm: "Error fetching region" (new AbortError("The operation was aborted. ", (void 0), 724))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 376))
+JavaScript warning: https://markets.businessinsider.com/Content/Scripts/Chart/chartiq/chartiq.min.js?v=4ffd6844, line 1: unreachable code after return statement
+JavaScript warning: https://markets.businessinsider.com/Content/Scripts/Chart/chartiq/chartiq.min.js?v=4ffd6844, line 1: unreachable code after return statement
+JavaScript warning: https://markets.businessinsider.com/Content/Scripts/Chart/chartiq/chartiq.min.js?v=4ffd6844, line 1: unreachable code after return statement
+1606305169940	geckodriver	INFO	Listening on 127.0.0.1:54171
+1606305169948	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileoCIisL"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1606305176003	Marionette	INFO	Listening on port 40569
+1606305176102	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://markets.businessinsider.com/Content/Scripts/Chart/chartiq/chartiq.min.js?v=4ffd6844, line 1: unreachable code after return statement
+JavaScript warning: https://markets.businessinsider.com/Content/Scripts/Chart/chartiq/chartiq.min.js?v=4ffd6844, line 1: unreachable code after return statement
+JavaScript warning: https://markets.businessinsider.com/Content/Scripts/Chart/chartiq/chartiq.min.js?v=4ffd6844, line 1: unreachable code after return statement
+1606305259238	geckodriver	INFO	Listening on 127.0.0.1:54797
+1606305260042	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileiT7OWx"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1606305281225	Marionette	INFO	Listening on port 33175
+1606305281380	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: https://cdn.permutive.com/3aba5292-ba75-422b-8715-bd21146f7836-web.js, line 1: Error: TypeError: Network request timed out
+JavaScript error: https://cdn.permutive.com/3aba5292-ba75-422b-8715-bd21146f7836-web.js, line 1: Error: TypeError: Network request timed out
+JavaScript error: https://cdn.permutive.com/3aba5292-ba75-422b-8715-bd21146f7836-web.js, line 1: Error: TypeError: Network request timed out
+JavaScript error: https://cdn.permutive.com/3aba5292-ba75-422b-8715-bd21146f7836-web.js, line 1: Error: TypeError: Network request timed out
+JavaScript error: https://cdn.permutive.com/3aba5292-ba75-422b-8715-bd21146f7836-web.js, line 1: Error: TypeError: Network request timed out
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript warning: https://markets.businessinsider.com/Content/Scripts/Chart/chartiq/chartiq.min.js?v=4ffd6844, line 1: unreachable code after return statement
+JavaScript warning: https://markets.businessinsider.com/Content/Scripts/Chart/chartiq/chartiq.min.js?v=4ffd6844, line 1: unreachable code after return statement
+JavaScript warning: https://markets.businessinsider.com/Content/Scripts/Chart/chartiq/chartiq.min.js?v=4ffd6844, line 1: unreachable code after return statement
+JavaScript error: https://markets.businessinsider.com/stocks/crm-stock line 145 > injectedScript, line 522: TypeError: img.parentNode is null
+JavaScript error: https://markets.businessinsider.com/stocks/crm-stock line 145 > injectedScript, line 522: TypeError: img.parentNode is null
+JavaScript error: https://markets.businessinsider.com/stocks/crm-stock line 145 > injectedScript, line 522: TypeError: img.parentNode is null
+JavaScript error: https://markets.businessinsider.com/stocks/crm-stock line 145 > injectedScript, line 522: TypeError: img.parentNode is null
+JavaScript error: https://markets.businessinsider.com/stocks/crm-stock line 145 > injectedScript, line 522: TypeError: img.parentNode is null
+JavaScript error: https://markets.businessinsider.com/stocks/crm-stock line 145 > injectedScript, line 522: TypeError: img.parentNode is null
+JavaScript error: https://markets.businessinsider.com/stocks/crm-stock line 145 > injectedScript, line 522: TypeError: img.parentNode is null
+JavaScript error: https://markets.businessinsider.com/stocks/crm-stock line 145 > injectedScript, line 522: TypeError: img.parentNode is null
+JavaScript error: https://markets.businessinsider.com/stocks/crm-stock line 145 > injectedScript, line 522: TypeError: img.parentNode is null
+JavaScript error: https://markets.businessinsider.com/stocks/crm-stock line 145 > injectedScript, line 522: TypeError: img.parentNode is null
+JavaScript error: https://markets.businessinsider.com/stocks/crm-stock line 145 > injectedScript, line 522: TypeError: img.parentNode is null
+JavaScript error: https://markets.businessinsider.com/stocks/crm-stock line 145 > injectedScript, line 522: TypeError: img.parentNode is null
+JavaScript error: https://markets.businessinsider.com/stocks/crm-stock line 145 > injectedScript, line 522: TypeError: img.parentNode is null
+JavaScript error: https://markets.businessinsider.com/stocks/crm-stock line 145 > injectedScript, line 522: TypeError: img.parentNode is null
+JavaScript error: https://markets.businessinsider.com/stocks/crm-stock line 145 > injectedScript, line 522: TypeError: img.parentNode is null
+1606305453863	addons.xpi	ERROR	System addon update list error Error: Failed downloading XML, status: 0, reason: timeout
+JavaScript error: https://1fde90684d5d0eaee22bbb0d2d77f621.safeframe.googlesyndication.com/safeframe/1-0-37/html/container.html, line 8: SecurityError: Permission denied to access property Symbol.toPrimitive on cross-origin object
+1606305858440	Marionette	INFO	Stopped listening on port 33175
+1606305864701	Marionette	INFO	Stopped listening on port 40569
+1606305868096	Marionette	INFO	Stopped listening on port 43043
+1606305871995	Marionette	INFO	Stopped listening on port 34939
+1606306253668	geckodriver	INFO	Listening on 127.0.0.1:58127
+1606306254653	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofiletgq4t5"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1606306263854	Marionette	INFO	Listening on port 34509
+1606306264019	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://cdn.permutive.com/3aba5292-ba75-422b-8715-bd21146f7836-web.js, line 1: Error: TypeError: Network request timed out
+JavaScript error: https://cdn.permutive.com/3aba5292-ba75-422b-8715-bd21146f7836-web.js, line 1: Error: TypeError: Network request timed out
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: https://cdn.permutive.com/3aba5292-ba75-422b-8715-bd21146f7836-web.js, line 1: Error: TypeError: Network request timed out
+JavaScript error: https://8d6e291a776f9ee48430eeb83c05c7fd.safeframe.googlesyndication.com/safeframe/1-0-37/html/container.html, line 8: SecurityError: Permission denied to access property Symbol.toPrimitive on cross-origin object
+1606307558961	Marionette	INFO	Stopped listening on port 34509
+1606308305706	geckodriver	INFO	Listening on 127.0.0.1:43837
+1606308306680	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilegHj03a"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1606308343917	Marionette	INFO	Listening on port 34133
+1606308344261	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://cdn.permutive.com/3aba5292-ba75-422b-8715-bd21146f7836-web.js, line 1: Error: TypeError: Network request timed out
+JavaScript error: https://cdn.permutive.com/3aba5292-ba75-422b-8715-bd21146f7836-web.js, line 1: Error: TypeError: Network request timed out
+JavaScript error: https://cdn.permutive.com/3aba5292-ba75-422b-8715-bd21146f7836-web.js, line 1: Error: TypeError: Network request timed out
+JavaScript error: https://cdn.permutive.com/3aba5292-ba75-422b-8715-bd21146f7836-web.js, line 1: Error: TypeError: Network request timed out
+JavaScript error: https://cdn.permutive.com/3aba5292-ba75-422b-8715-bd21146f7836-web.js, line 1: Error: TypeError: Network request timed out
+JavaScript error: https://cdn.permutive.com/3aba5292-ba75-422b-8715-bd21146f7836-web.js, line 1: Error: TypeError: Network request timed out
+JavaScript error: https://cdn.permutive.com/3aba5292-ba75-422b-8715-bd21146f7836-web.js, line 1: Error: TypeError: Network request timed out
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PMessagePort::Msg_PostMessages Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+1606312014043	geckodriver	INFO	Listening on 127.0.0.1:58769
+1606312015009	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileg9KEPg"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1606312029759	Marionette	INFO	Listening on port 38705
+1606312029966	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: , line 0: uncaught exception: undefined
+1606312093130	Marionette	INFO	Stopped listening on port 38705
+1606312122247	geckodriver	INFO	Listening on 127.0.0.1:45945
+1606312122253	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilekLFTW7"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1606312125888	Marionette	INFO	Listening on port 46731
+1606312125992	Marionette	WARN	TLS certificate errors will be ignored for this session
+1606313373678	Marionette	INFO	Stopped listening on port 46731
+1606314046372	geckodriver	INFO	Listening on 127.0.0.1:49965
+1606314046382	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilerCBeku"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1606314050143	Marionette	INFO	Listening on port 35211
+1606314050226	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://cdn.permutive.com/3aba5292-ba75-422b-8715-bd21146f7836-web.js, line 1: Error: TypeError: Network request timed out
+JavaScript error: https://cdn.permutive.com/3aba5292-ba75-422b-8715-bd21146f7836-web.js, line 1: Error: TypeError: Network request timed out
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: https://cdn.permutive.com/3aba5292-ba75-422b-8715-bd21146f7836-web.js, line 1: Error: TypeError: Network request timed out
+JavaScript warning: https://markets.businessinsider.com/Content/Scripts/Chart/chartiq/chartiq.min.js?v=4ffd6844, line 1: unreachable code after return statement
+JavaScript warning: https://markets.businessinsider.com/Content/Scripts/Chart/chartiq/chartiq.min.js?v=4ffd6844, line 1: unreachable code after return statement
+JavaScript warning: https://markets.businessinsider.com/Content/Scripts/Chart/chartiq/chartiq.min.js?v=4ffd6844, line 1: unreachable code after return statement
+1606314109221	geckodriver	INFO	Listening on 127.0.0.1:56211
+1606314110228	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilePpXErB"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1606314115443	Marionette	INFO	Listening on port 43059
+1606314115584	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://7d7800f3c43af17ef57705f16d4c9abd.safeframe.googlesyndication.com/safeframe/1-0-37/html/container.html, line 8: SecurityError: Permission denied to access property Symbol.toPrimitive on cross-origin object
+JavaScript warning: https://markets.businessinsider.com/Content/Scripts/Chart/chartiq/chartiq.min.js?v=4ffd6844, line 1: unreachable code after return statement
+JavaScript warning: https://markets.businessinsider.com/Content/Scripts/Chart/chartiq/chartiq.min.js?v=4ffd6844, line 1: unreachable code after return statement
+JavaScript warning: https://markets.businessinsider.com/Content/Scripts/Chart/chartiq/chartiq.min.js?v=4ffd6844, line 1: unreachable code after return statement
+1606314157770	geckodriver	INFO	Listening on 127.0.0.1:45833
+1606314158777	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileCEWppY"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1606314164007	Marionette	INFO	Listening on port 36693
+1606314164128	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: https://cdn.permutive.com/3aba5292-ba75-422b-8715-bd21146f7836-web.js, line 1: Error: TypeError: Network request timed out
+JavaScript error: https://cdn.permutive.com/3aba5292-ba75-422b-8715-bd21146f7836-web.js, line 1: Error: TypeError: Network request timed out
+JavaScript error: https://cdn.permutive.com/3aba5292-ba75-422b-8715-bd21146f7836-web.js, line 1: Error: TypeError: Network request timed out
+JavaScript error: https://cdn.permutive.com/3aba5292-ba75-422b-8715-bd21146f7836-web.js, line 1: Error: TypeError: Network request timed out
+JavaScript error: https://cdn.permutive.com/3aba5292-ba75-422b-8715-bd21146f7836-web.js, line 1: Error: TypeError: Network request timed out
+JavaScript error: https://862fabb714d8c36c13fb6083a5a614fc.safeframe.googlesyndication.com/safeframe/1-0-37/html/container.html, line 1: ReferenceError: tlt is not defined
+JavaScript error: https://862fabb714d8c36c13fb6083a5a614fc.safeframe.googlesyndication.com/safeframe/1-0-37/html/container.html, line 8: SecurityError: Permission denied to access property Symbol.toPrimitive on cross-origin object
+JavaScript warning: https://markets.businessinsider.com/Content/Scripts/Chart/chartiq/chartiq.min.js?v=4ffd6844, line 1: unreachable code after return statement
+JavaScript warning: https://markets.businessinsider.com/Content/Scripts/Chart/chartiq/chartiq.min.js?v=4ffd6844, line 1: unreachable code after return statement
+JavaScript warning: https://markets.businessinsider.com/Content/Scripts/Chart/chartiq/chartiq.min.js?v=4ffd6844, line 1: unreachable code after return statement
+JavaScript error: https://www.gstatic.com/mysidia/48f2f5ef1106bf615cd568eafbe346a9.js?tag=video_mra/web_raspberry, line 166: SecurityError: The operation is insecure.
+JavaScript error: https://7d7800f3c43af17ef57705f16d4c9abd.safeframe.googlesyndication.com/safeframe/1-0-37/html/container.html, line 8: SecurityError: Permission denied to access property Symbol.toPrimitive on cross-origin object
+1606316058788	Marionette	INFO	Stopped listening on port 36693
+1606316104584	geckodriver	INFO	Listening on 127.0.0.1:45209
+1606316104589	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileiytQ05"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1606316108388	Marionette	INFO	Listening on port 40263
+1606316108442	Marionette	WARN	TLS certificate errors will be ignored for this session
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1606316154603	geckodriver	INFO	Listening on 127.0.0.1:41771
+1606316154609	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofiletRT92R"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1606316158262	Marionette	INFO	Listening on port 39569
+1606316158375	Marionette	WARN	TLS certificate errors will be ignored for this session
+1606316241043	Marionette	INFO	Stopped listening on port 39569
+1606316244075	geckodriver	INFO	Listening on 127.0.0.1:47235
+1606316245084	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile78FXVv"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+console.error: Region.jsm: "Error fetching region" (new TypeError("NetworkError when attempting to fetch resource.", ""))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 376))
+1606316248790	Marionette	INFO	Listening on port 41449
+1606316248833	Marionette	WARN	TLS certificate errors will be ignored for this session
+1606316270834	geckodriver	INFO	Listening on 127.0.0.1:39343
+1606316270840	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilescPykC"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1606316274768	Marionette	INFO	Stopped listening on port 41449
+1606316275425	Marionette	INFO	Listening on port 43541
+1606316275493	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://markets.businessinsider.com/Content/Scripts/Chart/chartiq/chartiq.min.js?v=2a22212d, line 1: unreachable code after return statement
+JavaScript warning: https://markets.businessinsider.com/Content/Scripts/Chart/chartiq/chartiq.min.js?v=2a22212d, line 1: unreachable code after return statement
+JavaScript warning: https://markets.businessinsider.com/Content/Scripts/Chart/chartiq/chartiq.min.js?v=2a22212d, line 1: unreachable code after return statement
+1606316331429	Marionette	INFO	Stopped listening on port 43541
+1606316335044	geckodriver	INFO	Listening on 127.0.0.1:45063
+1606316336051	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileI7EKhu"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1606316340026	Marionette	INFO	Listening on port 45763
+1606316340097	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://markets.businessinsider.com/Content/Scripts/Chart/chartiq/chartiq.min.js?v=2a22212d, line 1: unreachable code after return statement
+JavaScript warning: https://markets.businessinsider.com/Content/Scripts/Chart/chartiq/chartiq.min.js?v=2a22212d, line 1: unreachable code after return statement
+JavaScript warning: https://markets.businessinsider.com/Content/Scripts/Chart/chartiq/chartiq.min.js?v=2a22212d, line 1: unreachable code after return statement
+1606316392418	Marionette	INFO	Stopped listening on port 45763
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x6C0027,name=PNecko::Msg_RemoveRequestContext) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x3A0146,name=PContent::Msg_ScriptError) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0xB60006,name=PWebSocket::Msg_DeleteSelf) Channel closing: too late to send/recv, messages will be lost
+
+1606316395723	geckodriver	INFO	Listening on 127.0.0.1:55803
+1606316396732	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileacfXjW"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1606316400748	Marionette	INFO	Listening on port 36607
+1606316400871	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: https://cdn.permutive.com/3aba5292-ba75-422b-8715-bd21146f7836-web.js, line 1: Error: TypeError: Network request timed out
+JavaScript error: https://cdn.permutive.com/3aba5292-ba75-422b-8715-bd21146f7836-web.js, line 1: Error: TypeError: Network request timed out
+JavaScript error: https://cdn.permutive.com/3aba5292-ba75-422b-8715-bd21146f7836-web.js, line 1: Error: TypeError: Network request timed out
+JavaScript error: https://cdn.permutive.com/3aba5292-ba75-422b-8715-bd21146f7836-web.js, line 1: Error: TypeError: Network request timed out
+JavaScript error: https://cdn.permutive.com/3aba5292-ba75-422b-8715-bd21146f7836-web.js, line 1: Error: TypeError: Network request timed out
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript warning: https://markets.businessinsider.com/Content/Scripts/Chart/chartiq/chartiq.min.js?v=2a22212d, line 1: unreachable code after return statement
+JavaScript warning: https://markets.businessinsider.com/Content/Scripts/Chart/chartiq/chartiq.min.js?v=2a22212d, line 1: unreachable code after return statement
+JavaScript warning: https://markets.businessinsider.com/Content/Scripts/Chart/chartiq/chartiq.min.js?v=2a22212d, line 1: unreachable code after return statement
+1606316491132	Marionette	INFO	Stopped listening on port 36607
+1606316521020	Marionette	INFO	Stopped listening on port 43059
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1606316525393	Marionette	INFO	Stopped listening on port 35211
+1606316867118	geckodriver	INFO	Listening on 127.0.0.1:45977
+1606316867123	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileESrWtM"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1606316871193	Marionette	INFO	Listening on port 36755
+1606316871274	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1606316917483	Marionette	INFO	Stopped listening on port 36755
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 1031: Error: Sqlite.jsm has been shutdown. Cannot open connection to: /tmp/rust_mozprofileESrWtM/protections.sqlite
+1606316920608	geckodriver	INFO	Listening on 127.0.0.1:60185
+1606316921612	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileZQFZOl"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1606316925471	Marionette	INFO	Listening on port 44697
+1606316925579	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://cdn.permutive.com/3aba5292-ba75-422b-8715-bd21146f7836-web.js, line 1: Error: TypeError: Network request timed out
+JavaScript error: https://cdn.permutive.com/3aba5292-ba75-422b-8715-bd21146f7836-web.js, line 1: Error: TypeError: Network request timed out
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: https://cdn.permutive.com/3aba5292-ba75-422b-8715-bd21146f7836-web.js, line 1: Error: TypeError: Network request timed out
+1606316958809	Marionette	INFO	Stopped listening on port 44697
+1606316962195	geckodriver	INFO	Listening on 127.0.0.1:59431
+1606316963200	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileUcJPWV"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1606316967080	Marionette	INFO	Listening on port 44513
+1606316967141	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://cdn.permutive.com/3aba5292-ba75-422b-8715-bd21146f7836-web.js, line 1: Error: TypeError: Network request timed out
+JavaScript error: https://cdn.permutive.com/3aba5292-ba75-422b-8715-bd21146f7836-web.js, line 1: Error: TypeError: Network request timed out
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: https://cdn.permutive.com/3aba5292-ba75-422b-8715-bd21146f7836-web.js, line 1: Error: TypeError: Network request timed out
+1606317008262	Marionette	INFO	Stopped listening on port 44513
+JavaScript error: https://cdn.permutive.com/3aba5292-ba75-422b-8715-bd21146f7836-web.js, line 1: Error: TypeError: Network request timed out
+JavaScript error: https://cdn.permutive.com/3aba5292-ba75-422b-8715-bd21146f7836-web.js, line 1: Error: TypeError: Network request timed out
+1606317306800	geckodriver	INFO	Listening on 127.0.0.1:37841
+1606317306805	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileu2Dtpn"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1606317310736	Marionette	INFO	Listening on port 40443
+1606317310856	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript warning: https://markets.businessinsider.com/Content/Scripts/Chart/chartiq/chartiq.min.js?v=2a22212d, line 1: unreachable code after return statement
+JavaScript warning: https://markets.businessinsider.com/Content/Scripts/Chart/chartiq/chartiq.min.js?v=2a22212d, line 1: unreachable code after return statement
+JavaScript warning: https://markets.businessinsider.com/Content/Scripts/Chart/chartiq/chartiq.min.js?v=2a22212d, line 1: unreachable code after return statement
+JavaScript warning: https://markets.businessinsider.com/Content/Scripts/Chart/chartiq/chartiq.min.js?v=2a22212d, line 1: unreachable code after return statement
+JavaScript warning: https://markets.businessinsider.com/Content/Scripts/Chart/chartiq/chartiq.min.js?v=2a22212d, line 1: unreachable code after return statement
+JavaScript warning: https://markets.businessinsider.com/Content/Scripts/Chart/chartiq/chartiq.min.js?v=2a22212d, line 1: unreachable code after return statement
+1606317514451	Marionette	INFO	Stopped listening on port 40443
+1606318845460	geckodriver	INFO	Listening on 127.0.0.1:46535
+1606318846147	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileOueuSU"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1606318861237	Marionette	INFO	Listening on port 37343
+1606318861379	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://markets.businessinsider.com/Content/Scripts/Chart/chartiq/chartiq.min.js?v=2a22212d, line 1: unreachable code after return statement
+JavaScript warning: https://markets.businessinsider.com/Content/Scripts/Chart/chartiq/chartiq.min.js?v=2a22212d, line 1: unreachable code after return statement
+JavaScript warning: https://markets.businessinsider.com/Content/Scripts/Chart/chartiq/chartiq.min.js?v=2a22212d, line 1: unreachable code after return statement
+1606318932065	Marionette	INFO	Stopped listening on port 37343
+1606319328106	geckodriver	INFO	Listening on 127.0.0.1:41473
+1606319329103	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileEcD5VA"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1606319335904	Marionette	INFO	Listening on port 44039
+1606319336345	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://markets.businessinsider.com/Content/Scripts/Chart/chartiq/chartiq.min.js?v=2a22212d, line 1: unreachable code after return statement
+JavaScript warning: https://markets.businessinsider.com/Content/Scripts/Chart/chartiq/chartiq.min.js?v=2a22212d, line 1: unreachable code after return statement
+JavaScript warning: https://markets.businessinsider.com/Content/Scripts/Chart/chartiq/chartiq.min.js?v=2a22212d, line 1: unreachable code after return statement
+1606319382550	geckodriver	INFO	Listening on 127.0.0.1:36523
+1606319382558	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileJg28AD"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1606319387728	Marionette	INFO	Listening on port 33125
+1606319387841	Marionette	WARN	TLS certificate errors will be ignored for this session
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+1606319389597	Marionette	INFO	Stopped listening on port 44039
+JavaScript error: resource://gre/modules/osfile/osfile_async_front.jsm, line 446: Error: OS.File has been shut down. Rejecting request to stat
+JavaScript warning: https://markets.businessinsider.com/Content/Scripts/Chart/chartiq/chartiq.min.js?v=2a22212d, line 1: unreachable code after return statement
+JavaScript warning: https://markets.businessinsider.com/Content/Scripts/Chart/chartiq/chartiq.min.js?v=2a22212d, line 1: unreachable code after return statement
+JavaScript warning: https://markets.businessinsider.com/Content/Scripts/Chart/chartiq/chartiq.min.js?v=2a22212d, line 1: unreachable code after return statement
+1606319556441	Marionette	INFO	Stopped listening on port 33125
+1606319571492	geckodriver	INFO	Listening on 127.0.0.1:56081
+1606319571498	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileH6IquC"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1606319575533	Marionette	INFO	Listening on port 33705
+1606319575638	Marionette	WARN	TLS certificate errors will be ignored for this session
+1606319824160	geckodriver	INFO	Listening on 127.0.0.1:38421
+1606319824166	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileIaJW6a"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1606319827959	Marionette	INFO	Listening on port 43109
+1606319828037	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://markets.businessinsider.com/Content/Scripts/Chart/chartiq/chartiq.min.js?v=2a22212d, line 1: unreachable code after return statement
+JavaScript warning: https://markets.businessinsider.com/Content/Scripts/Chart/chartiq/chartiq.min.js?v=2a22212d, line 1: unreachable code after return statement
+JavaScript warning: https://markets.businessinsider.com/Content/Scripts/Chart/chartiq/chartiq.min.js?v=2a22212d, line 1: unreachable code after return statement
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: https://cdn.permutive.com/3aba5292-ba75-422b-8715-bd21146f7836-web.js, line 1: Error: TypeError: Network request timed out
+JavaScript error: https://cdn.permutive.com/3aba5292-ba75-422b-8715-bd21146f7836-web.js, line 1: Error: TypeError: Network request timed out
+JavaScript error: https://cdn.permutive.com/3aba5292-ba75-422b-8715-bd21146f7836-web.js, line 1: Error: TypeError: Network request timed out
+JavaScript error: https://cdn.permutive.com/3aba5292-ba75-422b-8715-bd21146f7836-web.js, line 1: Error: TypeError: Network request timed out
+JavaScript error: https://cdn.permutive.com/3aba5292-ba75-422b-8715-bd21146f7836-web.js, line 1: Error: TypeError: Network request timed out
+JavaScript error: https://cdn.permutive.com/3aba5292-ba75-422b-8715-bd21146f7836-web.js, line 1: Error: TypeError: Network request timed out
+JavaScript error: https://cdn.permutive.com/3aba5292-ba75-422b-8715-bd21146f7836-web.js, line 1: Error: TypeError: Network request timed out
+1606320103259	addons.xpi	ERROR	System addon update list error Error: Failed downloading XML, status: 0, reason: timeout
+JavaScript error: https://cdn.permutive.com/3aba5292-ba75-422b-8715-bd21146f7836-web.js, line 1: Error: TypeError: Network request timed out
+JavaScript error: https://cdn.permutive.com/3aba5292-ba75-422b-8715-bd21146f7836-web.js, line 1: Error: TypeError: Network request timed out
+JavaScript error: https://cdn.permutive.com/3aba5292-ba75-422b-8715-bd21146f7836-web.js, line 1: Error: TypeError: Network request timed out
+JavaScript error: https://cdn.permutive.com/3aba5292-ba75-422b-8715-bd21146f7836-web.js, line 1: Error: TypeError: Network request timed out
+1606320226947	addons.xpi	ERROR	System addon update list error Error: Failed downloading XML, status: 0, reason: error
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 1031: Error: Sqlite.jsm has been shutdown. Cannot open connection to: /tmp/rust_mozprofileH6IquC/protections.sqlite
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x5C0005,name=PHttpChannel::Msg_Cancel) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x5C000A,name=PHttpChannel::Msg_DeletingChannel) Channel closing: too late to send/recv, messages will be lost
+
+1606320231147	Marionette	INFO	Stopped listening on port 43109
+1606320231477	Marionette	INFO	Stopped listening on port 33705
+1606367954593	geckodriver	INFO	Listening on 127.0.0.1:42353
+1606367955577	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileLiZtC0"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1606367970434	Marionette	INFO	Listening on port 40573
+1606367970692	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://cdn.permutive.com/3aba5292-ba75-422b-8715-bd21146f7836-web.js, line 1: Error: TypeError: Network request timed out
+JavaScript error: https://cdn.permutive.com/3aba5292-ba75-422b-8715-bd21146f7836-web.js, line 1: Error: TypeError: Network request timed out
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: https://cdn.permutive.com/3aba5292-ba75-422b-8715-bd21146f7836-web.js, line 1: Error: TypeError: Network request timed out
+JavaScript error: https://cdn.permutive.com/3aba5292-ba75-422b-8715-bd21146f7836-web.js, line 1: Error: TypeError: Network request timed out
+JavaScript error: https://cdn.permutive.com/3aba5292-ba75-422b-8715-bd21146f7836-web.js, line 1: Error: TypeError: Network request timed out
+JavaScript error: https://a7826a158b0e13651a1ee36d73ab2d89.safeframe.googlesyndication.com/safeframe/1-0-37/html/container.html, line 1: ReferenceError: tlt is not defined
+JavaScript error: https://a7826a158b0e13651a1ee36d73ab2d89.safeframe.googlesyndication.com/safeframe/1-0-37/html/container.html, line 8: SecurityError: Permission denied to access property Symbol.toPrimitive on cross-origin object
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1606368021005	Marionette	INFO	Stopped listening on port 40573
+JavaScript error: resource://gre/modules/osfile/osfile_async_front.jsm, line 446: Error: OS.File has been shut down. Rejecting request to stat
+1606368058479	geckodriver	INFO	Listening on 127.0.0.1:33101
+1606368058485	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile6IHhsd"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1606368062431	Marionette	INFO	Listening on port 36107
+1606368062522	Marionette	WARN	TLS certificate errors will be ignored for this session
+1606368125329	geckodriver	INFO	Listening on 127.0.0.1:37045
+1606368125338	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile2lAtQF"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1606368129311	Marionette	INFO	Listening on port 37183
+1606368129376	Marionette	WARN	TLS certificate errors will be ignored for this session
+1606368263184	geckodriver	INFO	Listening on 127.0.0.1:59083
+1606368263192	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile8qu3XH"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1606368267025	Marionette	INFO	Listening on port 42167
+1606368267146	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://cdn.permutive.com/3aba5292-ba75-422b-8715-bd21146f7836-web.js, line 1: Error: TypeError: Network request timed out
+JavaScript error: https://cdn.permutive.com/3aba5292-ba75-422b-8715-bd21146f7836-web.js, line 1: Error: TypeError: Network request timed out
+JavaScript error: https://cdn.permutive.com/3aba5292-ba75-422b-8715-bd21146f7836-web.js, line 1: Error: TypeError: Network request timed out
+JavaScript error: https://cdn.permutive.com/3aba5292-ba75-422b-8715-bd21146f7836-web.js, line 1: Error: TypeError: Network request timed out
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1606368336093	geckodriver	INFO	Listening on 127.0.0.1:37129
+1606368336126	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileHBCtQI"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1606368341198	Marionette	INFO	Listening on port 44217
+1606368341278	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://cdn.permutive.com/3aba5292-ba75-422b-8715-bd21146f7836-web.js, line 1: Error: TypeError: Network request timed out
+JavaScript error: https://cdn.permutive.com/3aba5292-ba75-422b-8715-bd21146f7836-web.js, line 1: Error: TypeError: Network request timed out
+JavaScript error: https://cdn.permutive.com/3aba5292-ba75-422b-8715-bd21146f7836-web.js, line 1: Error: TypeError: Network request timed out
+JavaScript error: https://cdn.permutive.com/3aba5292-ba75-422b-8715-bd21146f7836-web.js, line 1: Error: TypeError: Network request timed out
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript warning: https://markets.businessinsider.com/Content/Scripts/Chart/chartiq/chartiq.min.js?v=2a22212d, line 1: unreachable code after return statement
+JavaScript warning: https://markets.businessinsider.com/Content/Scripts/Chart/chartiq/chartiq.min.js?v=2a22212d, line 1: unreachable code after return statement
+JavaScript warning: https://markets.businessinsider.com/Content/Scripts/Chart/chartiq/chartiq.min.js?v=2a22212d, line 1: unreachable code after return statement
+1606368436262	Marionette	INFO	Stopped listening on port 36107
+1606368438601	Marionette	INFO	Stopped listening on port 37183
+1606368440453	Marionette	INFO	Stopped listening on port 42167
+JavaScript error: , line 0: uncaught exception: undefined
+1606368442403	Marionette	INFO	Stopped listening on port 44217
+1606368494639	geckodriver	INFO	Listening on 127.0.0.1:51799
+1606368494645	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileSmB1oQ"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1606368498441	Marionette	INFO	Listening on port 44615
+1606368498497	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://cdn.permutive.com/3aba5292-ba75-422b-8715-bd21146f7836-web.js, line 1: Error: TypeError: Network request timed out
+JavaScript error: https://cdn.permutive.com/3aba5292-ba75-422b-8715-bd21146f7836-web.js, line 1: Error: TypeError: Network request timed out
+JavaScript error: https://cdn.permutive.com/3aba5292-ba75-422b-8715-bd21146f7836-web.js, line 1: Error: TypeError: Network request timed out
+JavaScript error: https://cdn.permutive.com/3aba5292-ba75-422b-8715-bd21146f7836-web.js, line 1: Error: TypeError: Network request timed out
+1606368899866	Marionette	INFO	Stopped listening on port 44615
+1606370521268	geckodriver	INFO	Listening on 127.0.0.1:33849
+1606370521275	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilebb1w0p"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1606370526048	Marionette	INFO	Listening on port 33987
+1606370526119	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: Region.jsm: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 726))
+console.error: Region.jsm: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 376))
+JavaScript error: https://markets.businessinsider.com/Content/Scripts/MDSnG/min/clientApiLibs.min.js?v=2a22212d, line 11: TypeError: f is undefined
+JavaScript error: https://markets.businessinsider.com/earnings-calendar#date=11/30/2020-12/06/2020&name=&countries=&eventtypes=103,99&tab=ALL, line 1704: ReferenceError: $ is not defined
+JavaScript error: https://markets.businessinsider.com/Content/Scripts/calendar.js?v=2a22212d, line 231: ReferenceError: AjaxLoader is not defined
+JavaScript error: https://markets.businessinsider.com/Content/Scripts/MDSnG/min/clientApiLibs.min.js?v=2a22212d, line 11: TypeError: f is undefined
+JavaScript error: https://markets.businessinsider.com/earnings-calendar#date=11/30/2020-12/06/2020&name=&countries=&eventtypes=103,99&tab=ALL line 978 > injectedScript, line 5: ReferenceError: $ is not defined
+JavaScript error: https://markets.businessinsider.com/Content/dist/scripts.js?v=2a22212d, line 20: ReferenceError: $ is not defined
+JavaScript error: https://markets.businessinsider.com/Content/dist/scripts.js?v=2a22212d, line 20: ReferenceError: SetupMMSuggest is not defined
+JavaScript error: https://cdn.permutive.com/3aba5292-ba75-422b-8715-bd21146f7836-web.js, line 1: Error: TypeError: Network request timed out
+JavaScript error: https://cdn.permutive.com/3aba5292-ba75-422b-8715-bd21146f7836-web.js, line 1: Error: TypeError: Network request timed out
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: https://cdn.permutive.com/3aba5292-ba75-422b-8715-bd21146f7836-web.js, line 1: Error: TypeError: Network request timed out
+JavaScript error: https://cdn.permutive.com/3aba5292-ba75-422b-8715-bd21146f7836-web.js, line 1: Error: TypeError: Network request timed out
+JavaScript error: https://cdn.permutive.com/3aba5292-ba75-422b-8715-bd21146f7836-web.js, line 1: Error: TypeError: Network request timed out
+JavaScript error: https://29c15e3df4ef94c07ef794f7ef2d06ca.safeframe.googlesyndication.com/safeframe/1-0-37/html/container.html, line 8: SecurityError: Permission denied to access property Symbol.toPrimitive on cross-origin object
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1606370862991	Marionette	INFO	Stopped listening on port 33987
+1606371231348	geckodriver	INFO	Listening on 127.0.0.1:33941
+1606371231353	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilewGihJk"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1606371235490	Marionette	INFO	Listening on port 36963
+1606371235595	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: https://324bc63d0ada7db1760d82a8af6f166f.safeframe.googlesyndication.com/safeframe/1-0-37/html/container.html, line 1: ReferenceError: tlt is not defined
+JavaScript error: https://324bc63d0ada7db1760d82a8af6f166f.safeframe.googlesyndication.com/safeframe/1-0-37/html/container.html, line 8: SecurityError: Permission denied to access property Symbol.toPrimitive on cross-origin object
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+1606372013966	Marionette	INFO	Stopped listening on port 36963
+1606372043603	geckodriver	INFO	Listening on 127.0.0.1:60267
+1606372043612	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilelneLJJ"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1606372048012	Marionette	INFO	Listening on port 35813
+1606372048054	Marionette	WARN	TLS certificate errors will be ignored for this session
+1606372101986	geckodriver	INFO	Listening on 127.0.0.1:47081
+1606372101993	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileCxf3zf"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1606372106443	Marionette	INFO	Listening on port 35999
+1606372106563	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1606372153050	Marionette	INFO	Stopped listening on port 35999
+1606372155685	Marionette	INFO	Stopped listening on port 35813
+1606372316656	geckodriver	INFO	Listening on 127.0.0.1:39745
+1606372316662	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileSIIKK0"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1606372320445	Marionette	INFO	Listening on port 32941
+1606372320517	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://b3a210b9995788b3949d856c39e1809e.safeframe.googlesyndication.com/safeframe/1-0-37/html/container.html, line 8: SecurityError: Permission denied to access property Symbol.toPrimitive on cross-origin object
+1606372561542	geckodriver	INFO	Listening on 127.0.0.1:47165
+1606372561547	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile2Tp2hr"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1606372565779	Marionette	INFO	Listening on port 45375
+1606372565892	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://cdn.permutive.com/3aba5292-ba75-422b-8715-bd21146f7836-web.js, line 1: Error: TypeError: Network request timed out
+JavaScript error: https://cdn.permutive.com/3aba5292-ba75-422b-8715-bd21146f7836-web.js, line 1: Error: TypeError: Network request timed out
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: https://cdn.permutive.com/3aba5292-ba75-422b-8715-bd21146f7836-web.js, line 1: Error: TypeError: Network request timed out
+1606372663841	geckodriver	INFO	Listening on 127.0.0.1:53043
+1606372663864	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile0jST1r"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1606372668032	Marionette	INFO	Listening on port 35101
+1606372668106	Marionette	WARN	TLS certificate errors will be ignored for this session
+1606372713347	Marionette	INFO	Stopped listening on port 32941
+1606372715039	Marionette	INFO	Stopped listening on port 45375
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1606372717069	Marionette	INFO	Stopped listening on port 35101
+1606372851344	geckodriver	INFO	Listening on 127.0.0.1:60037
+1606372851349	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileh3jWth"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1606372855366	Marionette	INFO	Listening on port 45507
+1606372855495	Marionette	WARN	TLS certificate errors will be ignored for this session
+1606372881908	Marionette	INFO	Stopped listening on port 45507
+1606373054160	geckodriver	INFO	Listening on 127.0.0.1:43753
+1606373054166	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileDwAJYx"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1606373057877	Marionette	INFO	Listening on port 36515
+1606373058009	Marionette	WARN	TLS certificate errors will be ignored for this session
+1606373519017	geckodriver	INFO	Listening on 127.0.0.1:45637
+1606373519023	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileMa3TBT"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1606373523183	Marionette	INFO	Listening on port 39743
+1606373523269	Marionette	WARN	TLS certificate errors will be ignored for this session
+1606373543818	Marionette	INFO	Stopped listening on port 39743
+1606373547483	geckodriver	INFO	Listening on 127.0.0.1:57669
+1606373547488	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileSCr9xV"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1606373551919	Marionette	INFO	Listening on port 35063
+1606373552047	Marionette	WARN	TLS certificate errors will be ignored for this session
+1606373606044	Marionette	INFO	Stopped listening on port 35063
+1606373665079	geckodriver	INFO	Listening on 127.0.0.1:41849
+1606373665085	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilePGFl9e"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1606373669124	Marionette	INFO	Listening on port 45385
+1606373669234	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://cdn.permutive.com/3aba5292-ba75-422b-8715-bd21146f7836-web.js, line 1: Error: TypeError: Network request timed out
+JavaScript error: https://cdn.permutive.com/3aba5292-ba75-422b-8715-bd21146f7836-web.js, line 1: Error: TypeError: Network request timed out
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: https://cdn.permutive.com/3aba5292-ba75-422b-8715-bd21146f7836-web.js, line 1: Error: TypeError: Network request timed out
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+Exiting due to channel error.
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+Exiting due to channel error.
+Exiting due to channel error.
+1606373885727	geckodriver	INFO	Listening on 127.0.0.1:33495
+1606373885732	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile5WflvB"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1606373889832	Marionette	INFO	Listening on port 41259
+1606373889876	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://ecb40d3827729e6337105f1812b89bd7.safeframe.googlesyndication.com/safeframe/1-0-37/html/container.html, line 8: SecurityError: Permission denied to access property Symbol.toPrimitive on cross-origin object
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1606374054376	geckodriver	INFO	Listening on 127.0.0.1:58995
+1606374054382	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilewmD723"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1606374059309	Marionette	INFO	Listening on port 33359
+1606374059432	Marionette	WARN	TLS certificate errors will be ignored for this session
+Exiting due to channel error.
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+Exiting due to channel error.
+Exiting due to channel error.
+1606374158513	geckodriver	INFO	Listening on 127.0.0.1:43841
+1606374158523	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileZgvYOz"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1606374163161	Marionette	INFO	Listening on port 42443
+1606374163295	Marionette	WARN	TLS certificate errors will be ignored for this session
+1606374167604	Marionette	INFO	Stopped listening on port 36515
+1606374168984	Marionette	INFO	Stopped listening on port 41259
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1606374250344	geckodriver	INFO	Listening on 127.0.0.1:55391
+1606374250349	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilegbGc2b"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1606374254883	Marionette	INFO	Listening on port 43459
+1606374255001	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1606374285146	geckodriver	INFO	Listening on 127.0.0.1:45755
+1606374285152	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileWii1Jv"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1606374289590	Marionette	INFO	Listening on port 35191
+1606374289706	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://cdn.permutive.com/3aba5292-ba75-422b-8715-bd21146f7836-web.js, line 1: Error: TypeError: Network request timed out
+JavaScript error: https://cdn.permutive.com/3aba5292-ba75-422b-8715-bd21146f7836-web.js, line 1: Error: TypeError: Network request timed out
+JavaScript error: https://cdn.permutive.com/3aba5292-ba75-422b-8715-bd21146f7836-web.js, line 1: Error: TypeError: Network request timed out
+JavaScript error: https://cdn.permutive.com/3aba5292-ba75-422b-8715-bd21146f7836-web.js, line 1: Error: TypeError: Network request timed out
+JavaScript error: https://cdn.permutive.com/3aba5292-ba75-422b-8715-bd21146f7836-web.js, line 1: Error: TypeError: Network request timed out
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: https://1832eddea44d34595f38ba24d92255dc.safeframe.googlesyndication.com/safeframe/1-0-37/html/container.html, line 8: SecurityError: Permission denied to access property Symbol.toPrimitive on cross-origin object
+1606374730698	geckodriver	INFO	Listening on 127.0.0.1:51965
+1606374731661	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileH3dZgY"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1606374737800	Marionette	INFO	Listening on port 34019
+1606374738095	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://cdn.robinhood.com/assets/generated_assets/Vendor-6e0e8e444212b5eccb75.chunk.js, line 2: Error: Unauthorized
+JavaScript error: https://cdn.robinhood.com/assets/generated_assets/Vendor-6e0e8e444212b5eccb75.chunk.js, line 2: Error: Unauthorized
+JavaScript error: https://cdn.robinhood.com/assets/generated_assets/Vendor-6e0e8e444212b5eccb75.chunk.js, line 2: Error: Unauthorized
+JavaScript warning: https://markets.businessinsider.com/Content/Scripts/Chart/chartiq/chartiq.min.js?v=2a22212d, line 1: unreachable code after return statement
+JavaScript warning: https://markets.businessinsider.com/Content/Scripts/Chart/chartiq/chartiq.min.js?v=2a22212d, line 1: unreachable code after return statement
+JavaScript warning: https://markets.businessinsider.com/Content/Scripts/Chart/chartiq/chartiq.min.js?v=2a22212d, line 1: unreachable code after return statement
+1606374848278	Marionette	INFO	Stopped listening on port 34019
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x3A0146,name=PContent::Msg_ScriptError) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x3A0146,name=PContent::Msg_ScriptError) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0xB60006,name=PWebSocket::Msg_DeleteSelf) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x3A0146,name=PContent::Msg_ScriptError) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0xB60006,name=PWebSocket::Msg_DeleteSelf) Channel closing: too late to send/recv, messages will be lost
+
+1606374854029	geckodriver	INFO	Listening on 127.0.0.1:57261
+1606374855035	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileQdYVjl"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1606374863098	Marionette	INFO	Listening on port 33449
+1606374863200	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://cdn.robinhood.com/assets/generated_assets/Vendor-6e0e8e444212b5eccb75.chunk.js, line 2: Error: Unauthorized
+JavaScript error: https://cdn.robinhood.com/assets/generated_assets/Vendor-6e0e8e444212b5eccb75.chunk.js, line 2: Error: Unauthorized
+JavaScript error: https://cdn.robinhood.com/assets/generated_assets/Vendor-6e0e8e444212b5eccb75.chunk.js, line 2: Error: Unauthorized
+JavaScript error: https://cdn.robinhood.com/assets/generated_assets/Vendor-6e0e8e444212b5eccb75.chunk.js, line 2: Error: Unauthorized
+JavaScript error: https://cdn.robinhood.com/assets/generated_assets/Vendor-6e0e8e444212b5eccb75.chunk.js, line 2: Error: Unauthorized
+JavaScript error: https://cdn.robinhood.com/assets/generated_assets/Vendor-6e0e8e444212b5eccb75.chunk.js, line 2: Error: Unauthorized
+JavaScript error: https://cdn.robinhood.com/assets/generated_assets/Vendor-6e0e8e444212b5eccb75.chunk.js, line 2: Error: Unauthorized
+JavaScript error: https://cdn.robinhood.com/assets/generated_assets/Vendor-6e0e8e444212b5eccb75.chunk.js, line 2: Error: Unauthorized
+JavaScript error: https://cdn.robinhood.com/assets/generated_assets/Vendor-6e0e8e444212b5eccb75.chunk.js, line 2: Error: Unauthorized
+JavaScript error: https://cdn.robinhood.com/assets/generated_assets/Vendor-6e0e8e444212b5eccb75.chunk.js, line 2: Error: Unauthorized
+JavaScript error: https://cdn.robinhood.com/assets/generated_assets/Vendor-6e0e8e444212b5eccb75.chunk.js, line 2: Error: Unauthorized
+JavaScript error: https://cdn.robinhood.com/assets/generated_assets/Vendor-6e0e8e444212b5eccb75.chunk.js, line 2: Error: Unauthorized
+JavaScript error: https://cdn.robinhood.com/assets/generated_assets/Vendor-6e0e8e444212b5eccb75.chunk.js, line 2: Error: Unauthorized
+JavaScript error: https://cdn.robinhood.com/assets/generated_assets/Vendor-6e0e8e444212b5eccb75.chunk.js, line 2: Error: Unauthorized
+JavaScript error: https://cdn.robinhood.com/assets/generated_assets/Vendor-6e0e8e444212b5eccb75.chunk.js, line 2: Error: Unauthorized
+JavaScript error: https://cdn.robinhood.com/assets/generated_assets/Vendor-6e0e8e444212b5eccb75.chunk.js, line 2: Error: Unauthorized
+JavaScript error: https://cdn.robinhood.com/assets/generated_assets/Vendor-6e0e8e444212b5eccb75.chunk.js, line 2: Error: Unauthorized
+JavaScript error: https://cdn.robinhood.com/assets/generated_assets/Vendor-6e0e8e444212b5eccb75.chunk.js, line 2: Error: Unauthorized
+JavaScript error: https://cdn.robinhood.com/assets/generated_assets/Vendor-6e0e8e444212b5eccb75.chunk.js, line 2: Error: Unauthorized
+JavaScript warning: https://markets.businessinsider.com/Content/Scripts/Chart/chartiq/chartiq.min.js?v=2a22212d, line 1: unreachable code after return statement
+JavaScript warning: https://markets.businessinsider.com/Content/Scripts/Chart/chartiq/chartiq.min.js?v=2a22212d, line 1: unreachable code after return statement
+JavaScript warning: https://markets.businessinsider.com/Content/Scripts/Chart/chartiq/chartiq.min.js?v=2a22212d, line 1: unreachable code after return statement
+1606374997797	Marionette	INFO	Stopped listening on port 33449
+1606375000972	geckodriver	INFO	Listening on 127.0.0.1:51195
+1606375001980	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileWLujHt"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1606375011976	Marionette	INFO	Listening on port 45859
+1606375012039	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1606375035255	Marionette	INFO	Stopped listening on port 45859
+1606375041143	Marionette	INFO	Stopped listening on port 35191
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1606375046010	Marionette	INFO	Stopped listening on port 43459
+1606377362479	geckodriver	INFO	Listening on 127.0.0.1:43243
+1606377363455	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileEx01U0"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1606377369962	Marionette	INFO	Listening on port 35247
+1606377370036	Marionette	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1606378155989	geckodriver	INFO	Listening on 127.0.0.1:58205
+1606378155995	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileEgMIuK"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1606378163255	Marionette	INFO	Listening on port 44303
+1606378163355	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://cdn.permutive.com/3aba5292-ba75-422b-8715-bd21146f7836-web.js, line 1: Error: TypeError: Network request timed out
+JavaScript error: https://cdn.permutive.com/3aba5292-ba75-422b-8715-bd21146f7836-web.js, line 1: Error: TypeError: Network request timed out
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: https://cdn.permutive.com/3aba5292-ba75-422b-8715-bd21146f7836-web.js, line 1: Error: TypeError: Network request timed out
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: https://2f276b3c5a2b8e6b6444a08f3a8357a9.safeframe.googlesyndication.com/safeframe/1-0-37/html/container.html, line 1: ReferenceError: tlt is not defined
+JavaScript error: https://2f276b3c5a2b8e6b6444a08f3a8357a9.safeframe.googlesyndication.com/safeframe/1-0-37/html/container.html, line 8: SecurityError: Permission denied to access property Symbol.toPrimitive on cross-origin object
+1606378341771	geckodriver	INFO	Listening on 127.0.0.1:39383
+1606378342689	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilesjVtu3"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1606378351260	Marionette	INFO	Listening on port 40771
+1606378351368	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://cdn.permutive.com/3aba5292-ba75-422b-8715-bd21146f7836-web.js, line 1: Error: TypeError: Network request timed out
+JavaScript error: https://cdn.permutive.com/3aba5292-ba75-422b-8715-bd21146f7836-web.js, line 1: Error: TypeError: Network request timed out
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: https://cdn.permutive.com/3aba5292-ba75-422b-8715-bd21146f7836-web.js, line 1: Error: TypeError: Network request timed out
+JavaScript error: https://cdn.permutive.com/3aba5292-ba75-422b-8715-bd21146f7836-web.js, line 1: Error: TypeError: Network request timed out
+JavaScript error: https://cdn.permutive.com/3aba5292-ba75-422b-8715-bd21146f7836-web.js, line 1: Error: TypeError: Network request timed out
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1606378421547	Marionette	INFO	Stopped listening on port 40771
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 1031: Error: Sqlite.jsm has been shutdown. Cannot open connection to: /tmp/rust_mozprofilesjVtu3/protections.sqlite
+1606378569452	addons.xpi	ERROR	System addon update list error Error: Failed downloading XML, status: 0, reason: timeout
+1606379225166	geckodriver	INFO	Listening on 127.0.0.1:34727
+1606379226175	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileeHjBah"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1606379262436	Marionette	INFO	Listening on port 33773
+1606379262974	Marionette	WARN	TLS certificate errors will be ignored for this session
+1606379396144	Marionette	INFO	Stopped listening on port 33773
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x5C000E,name=PHttpChannel::Msg___delete__) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x6C0027,name=PNecko::Msg_RemoveRequestContext) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1606390371018	geckodriver	INFO	Listening on 127.0.0.1:46421
+1606390371927	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileKVGunY"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1606390384181	Marionette	INFO	Listening on port 33071
+1606390384383	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://cdn.permutive.com/3aba5292-ba75-422b-8715-bd21146f7836-web.js, line 1: Error: TypeError: Network request timed out
+JavaScript error: https://cdn.permutive.com/3aba5292-ba75-422b-8715-bd21146f7836-web.js, line 1: Error: TypeError: Network request timed out
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: https://cdn.permutive.com/3aba5292-ba75-422b-8715-bd21146f7836-web.js, line 1: Error: TypeError: Network request timed out
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1606390467332	Marionette	INFO	Stopped listening on port 33071
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1606390493259	Marionette	INFO	Stopped listening on port 44303
+1606390634226	geckodriver	INFO	Listening on 127.0.0.1:57565
+1606390635234	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilehczdMm"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1606390639917	Marionette	INFO	Listening on port 40479
+1606390641454	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://cdn.robinhood.com/assets/generated_assets/Vendor-6e0e8e444212b5eccb75.chunk.js, line 2: Error: Unauthorized
+JavaScript error: https://cdn.robinhood.com/assets/generated_assets/Vendor-6e0e8e444212b5eccb75.chunk.js, line 2: Error: Unauthorized
+JavaScript error: https://cdn.robinhood.com/assets/generated_assets/Vendor-6e0e8e444212b5eccb75.chunk.js, line 2: Error: Unauthorized
+JavaScript error: https://cdn.robinhood.com/assets/generated_assets/Vendor-6e0e8e444212b5eccb75.chunk.js, line 2: Error: Unauthorized
+JavaScript error: https://cdn.robinhood.com/assets/generated_assets/Vendor-6e0e8e444212b5eccb75.chunk.js, line 2: Error: Unauthorized
+JavaScript error: https://cdn.robinhood.com/assets/generated_assets/Vendor-6e0e8e444212b5eccb75.chunk.js, line 2: Error: Unauthorized
+JavaScript warning: https://markets.businessinsider.com/Content/Scripts/Chart/chartiq/chartiq.min.js?v=2a22212d, line 1: unreachable code after return statement
+JavaScript warning: https://markets.businessinsider.com/Content/Scripts/Chart/chartiq/chartiq.min.js?v=2a22212d, line 1: unreachable code after return statement
+JavaScript warning: https://markets.businessinsider.com/Content/Scripts/Chart/chartiq/chartiq.min.js?v=2a22212d, line 1: unreachable code after return statement
+1606390727012	Marionette	INFO	Stopped listening on port 40479
+1606390730800	geckodriver	INFO	Listening on 127.0.0.1:46327
+1606390731807	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileiGhLPD"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1606390736165	Marionette	INFO	Listening on port 39615
+1606390736250	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://cdn.robinhood.com/assets/generated_assets/Vendor-6e0e8e444212b5eccb75.chunk.js, line 2: Error: Unauthorized
+JavaScript error: https://cdn.robinhood.com/assets/generated_assets/Vendor-6e0e8e444212b5eccb75.chunk.js, line 2: Error: Unauthorized
+JavaScript error: https://cdn.robinhood.com/assets/generated_assets/Vendor-6e0e8e444212b5eccb75.chunk.js, line 2: Error: Unauthorized
+JavaScript error: https://cdn.robinhood.com/assets/generated_assets/Vendor-6e0e8e444212b5eccb75.chunk.js, line 2: Error: Request has been terminated
+Possible causes: the network is offline, Origin is not allowed by Access-Control-Allow-Origin, the page is being unloaded, etc.
+JavaScript warning: https://markets.businessinsider.com/Content/Scripts/Chart/chartiq/chartiq.min.js?v=2a22212d, line 1: unreachable code after return statement
+JavaScript warning: https://markets.businessinsider.com/Content/Scripts/Chart/chartiq/chartiq.min.js?v=2a22212d, line 1: unreachable code after return statement
+JavaScript warning: https://markets.businessinsider.com/Content/Scripts/Chart/chartiq/chartiq.min.js?v=2a22212d, line 1: unreachable code after return statement
+JavaScript error: https://5472da8f38f984fbcad2a0545e74521c.safeframe.googlesyndication.com/safeframe/1-0-37/html/container.html, line 8: SecurityError: Permission denied to access property Symbol.toPrimitive on cross-origin object
+1606390842969	Marionette	INFO	Stopped listening on port 39615
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x3A0146,name=PContent::Msg_ScriptError) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0xB60006,name=PWebSocket::Msg_DeleteSelf) Channel closing: too late to send/recv, messages will be lost
+
+1606390846368	geckodriver	INFO	Listening on 127.0.0.1:50181
+1606390847372	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileWMWOAt"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1606390852556	Marionette	INFO	Listening on port 37699
+1606390852646	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://markets.businessinsider.com/Content/Scripts/Chart/chartiq/chartiq.min.js?v=2a22212d, line 1: unreachable code after return statement
+JavaScript warning: https://markets.businessinsider.com/Content/Scripts/Chart/chartiq/chartiq.min.js?v=2a22212d, line 1: unreachable code after return statement
+JavaScript warning: https://markets.businessinsider.com/Content/Scripts/Chart/chartiq/chartiq.min.js?v=2a22212d, line 1: unreachable code after return statement
+JavaScript error: https://www.gstatic.com/mysidia/48f2f5ef1106bf615cd568eafbe346a9.js?tag=video_mra/web_raspberry, line 166: SecurityError: The operation is insecure.
+1606390913837	Marionette	INFO	Stopped listening on port 37699
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x3A0146,name=PContent::Msg_ScriptError) Channel closing: too late to send/recv, messages will be lost
+
