@@ -1,45 +1,83 @@
 from selenium import webdriver
+from selenium.common import exceptions
+from selenium.webdriver.common.by import By
+from selenium.webdriver.support.ui import WebDriverWait
+from selenium.webdriver.support import expected_conditions as EC
+from selenium.webdriver.support.select import Select
 import sys
 from selenium.common import exceptions
 import csv
+import pandas as pd
 from next_week import next_suny
 from next_week import next_monday
+import time
+import yfinance as yf
 
-browser = webdriver.Chrome()
-def csv_url(url_obj):
-    readers = csv.DictReader(url_obj)
-    for reader in readers:
-        predecision = reader["Predecision"]
-        title = reader["Stock"]
-        print(title + " "+ predecision)
-        if predecision == "TRUE":
+# market_tech = yf.Ticker("MSFT")
+# print(market_tech.info.get('sector'))
+
+
+title_ticker = []
+event_ticker = []
+url_ticker = []
+
+
+
+browser = webdriver.Firefox()
+browser.get("https://markets.businessinsider.com/earnings-calendar#date="+next_monday+"-"+next_suny+"&name=&countries=&eventtypes=103,99&tab=ALL")
+i = 0
+while i<4:
+    try:
+        earnings = browser.find_elements_by_tag_name("#calendar_grid_container > div.table-responsive > table > tbody > tr")
+        for earning in earnings:
             try:
-                browser.get("https://markets.businessinsider.com/earnings-calendar#date="+next_monday+"-"+next_suny+"&name=&countries=&eventtypes=103,99&tab=ALL")
-                check_earnings = browser.find_elements_by_css_selector("table.table.instruments.calendar-grid")
-                for check_earning in check_earnings:
-                    check_event = check_earning.find_element_by_css_selector("tr td:nth-child(3)").text
-                    if check_event == "MID CAP" or check_event == "Annual General Meeting":
-                        ("Dont Scrape")
-                    else:
-                        browser.get("https://markets.businessinsider.com/stocks/"+title+"-stock")
-                        earning_clicks = browser.find_elements_by_class_name("price-section__row")
-                        for earning_click in earning_clicks:
-                            try:
-                                money = earning_click.find_element_by_css_selector("span.price-section__current-value").text
-                                if money > "0":
-                                    money = "YES"
-                                else:
-                                    money = "NO"
-                            except:
-                                sys.exc_info()
-            except exceptions.StaleElementReferenceException:
+                title = earning.find_element_by_css_selector("#calendar_grid_container > div.table-responsive > table > tbody > tr > td > a > strong").text
+                href = earning.find_element_by_css_selector("#calendar_grid_container > div.table-responsive > table > tbody > tr > td > a").get_attribute("href")
+                eventTicker = earning.find_element_by_css_selector("#calendar_grid_container > div.table-responsive > table > tbody > tr > td:nth-child(3)").text
+
+                # title = earning.find_element_by_css_selector("#calendar_grid_container > div.table-responsive > table > tbody > tr > td > a > strong")
+                title_ticker.append(title)
+                event_ticker.append(eventTicker)
+                url_ticker.append(href)
+            except:
                 pass
-            browser.quit()
-        # Print NA if predecision is NOT TRUE
-        else:
-            print("NA")
-
-
-if __name__ =="__main__":
-    with open("tickers1.csv") as url_obj:
-        csv_url(url_obj)
+            print('Getting nth-child(11)')
+            javascript = browser.find_element_by_xpath('//*[@id="calendar_grid_container"]/div[2]/div[2]/a[11]')
+            browser.execute_script("arguments[0].click();",javascript)
+            time.sleep(3)
+            # 
+            i = 0
+            while i<5:
+                try:
+                    print('Getting nth-child(12)')
+                    javascriptClick = WebDriverWait(browser,200).until(EC.visibility_of_element_located((By.XPATH,'//*[@id="calendar_grid_container"]/div[2]/div[2]/a[12]')))
+                    browser.execute_script("arguments[0].click();",javascriptClick)
+                    time.sleep(10)
+                    print("Done")
+                    i+=1
+                except exceptions.StaleElementReferenceException:
+                    pass
+            while i<10:
+                try:
+                    print('Getting nth-child(11) Again')
+                    jsClick = WebDriverWait(browser,200).until(EC.visibility_of_element_located((By.XPATH,'//*[@id="calendar_grid_container"]/div[2]/div[2]/a[11]')))
+                    browser.execute_script("arguments[0].click();",jsClick)
+                    time.sleep(10)
+                    print("Done Clicking 11th")
+                    i+=1
+                except exceptions.StaleElementReferenceException:
+                    pass
+            while i<4:
+                try:
+                    print("Getting 12th child again")
+                    jsClicks = WebDriverWait(browser,200).until(EC.visibility_of_element_located((By.XPATH,'//*[@id="calendar_grid_container"]/div[2]/div[2]/a[12]')))
+                    browser.execute_script("arguments[0].click();",jsClicks)
+                    time.sleep(10)
+                    print("Done")
+                    i +=1
+                except exceptions.StaleElementReferenceException:
+                    pass
+    except exceptions.StaleElementReferenceException:
+        pass
+final = pd.DataFrame(list(zip(title_ticker,event_ticker,url_ticker)),columns=['Ticker','Event','URL'])
+final.to_csv("Final.csv",index=False)
