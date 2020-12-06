@@ -37,30 +37,32 @@ def csv_url_reader(url_obj):
                 ('Oops!',sys.exc_info())
             # Getting Guru multiple sites
             browser.get("https://www.gurufocus.com/stock/"+title+"/summary")
-            gurus = browser.find_elements_by_css_selector("button.el-button.fs-regular.el-button--danger.el-button--mini.el-popover__reference")
+            time.sleep(5)
+            gurus = browser.find_elements_by_css_selector("button.el-button.fs-regular.el-button--mini.el-popover__reference")
+            data = "UNK"
             for guru in gurus:
-                try:
+                try:            
                     data = guru.find_element_by_css_selector("span").text
                 except:
                     ('Oops!',sys.exc_info())
             # Output
-            browser.get("https://markets.businessinsider.com/stocks/"+title+"-stock")
-            earnings = browser.find_elements_by_class_name("price-section__row")
-            for earning in earnings:
-                try:
-                    title = earning.find_element_by_css_selector("span.price-section__current-value").text
-                    if title > "1":
-                        title = "YES"
-                    else:
-                        title = "NO"
-                except:
-                    ('Oops',sys.exc_info())
-            print((name + ', '+ rat  +', ' + data + ', ' + str(tech) + ', ' + title))
+            #browser.get("https://markets.businessinsider.com/stocks/"+title+"-stock")
+            #earnings = browser.find_elements_by_class_name("price-section__row")
+            #for earning in earnings:
+            #    try:
+            #        title = earning.find_element_by_css_selector("span.price-section__current-value").text
+            #        if title > "1":
+            #            title = "YES"
+            #        else:
+            #            title = "NO"
+            #    except:
+            #        ('Oops',sys.exc_info())
+            print((name + ', '+ rat  +', ' + data + ', ' + str(tech)))
             browser.quit()
             time.sleep(2)
         else:
             print("NA")
 
 if __name__ =="__main__":
-    with open("tickers1.csv") as url_obj:
+    with open("tickers.csv") as url_obj:
         csv_url_reader(url_obj)
