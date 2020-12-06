@@ -1,7 +1,7 @@
 from selenium import webdriver
 import sys
 
-browser = webdriver.Firefox()
+browser = webdriver.Chrome()
 browser.get("https://markets.businessinsider.com/stocks/msft-stock")
 earnings = browser.find_elements_by_class_name("price-section__row")
 for earning in earnings:
