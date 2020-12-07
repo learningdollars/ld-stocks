@@ -23,11 +23,12 @@ def csv_url_reader(url_obj):
                 except:
                     ('Oops!!',sys.exc_info)
             ratings = browser.find_elements_by_css_selector('div._1fEdz1YPOLpLW1Ow3rKh92')
+            rat = -1
             for rating in ratings:
                 try:
                     rat = rating.find_element_by_css_selector('div._1fEdz1YPOLpLW1Ow3rKh92 h2').text
                 except:
-                    ('Oops!!',sys.exc_info())
+                    ('Oops!!',sys.exc_info()) # didn't find the rating
             # assert title in browser.title
             # Market Technology
             try:
