@@ -17,6 +17,7 @@ def csv_url_reader(url_obj):
             browser = webdriver.Chrome()
             browser.get("https://robinhood.com/stocks/" + real_ticker)
             stockname = browser.find_elements_by_css_selector('header.Jo5RGrWjFiX_iyW3gMLsy')
+            name = real_ticker # by default put the real ticker
             for stock in stockname:
                 try:
                     name = stock.find_element_by_css_selector('h1').text
@@ -34,6 +35,7 @@ def csv_url_reader(url_obj):
             except:
                 (sys.exc_info())
             browser.get("https://www.gurufocus.com/stock/"+real_ticker+"/summary")
+            time.sleep(4)
             gurus = browser.find_elements_by_css_selector("button.el-button.fs-regular.el-button--danger.el-button--mini.el-popover__reference")
             data ="UNK"
             for guru in gurus:
