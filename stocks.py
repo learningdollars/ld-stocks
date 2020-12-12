@@ -43,6 +43,7 @@ def csv_url_reader(url_obj):
                     data = guru.find_element_by_css_selector("span").text
                 except:
                     ('Oops!',sys.exc_info())
+            earning = "NO"
             try:
                 browser = webdriver.Chrome()
                 browser.get("https://finance.yahoo.com/calendar/earnings")
