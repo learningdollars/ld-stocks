@@ -10,57 +10,59 @@ import pandas as pd
 # function
 def csv_url_reader(url_obj):
     reader = csv.DictReader(url_obj,delimiter = ',')
+    browser = webdriver.Chrome()
     for line in reader:
-        real_ticker = line["Stock"]
-        precision = line["Predecision"]
-        if precision =='TRUE':
-            browser = webdriver.Chrome()
-            browser.get("https://robinhood.com/stocks/" + real_ticker)
-            stockname = browser.find_elements_by_css_selector('header.Jo5RGrWjFiX_iyW3gMLsy')
-            name = real_ticker # by default put the real ticker
-            for stock in stockname:
+        try:
+            real_ticker = line["Stock"]
+            precision = line["Predecision"]
+            if precision =='TRUE':
+                browser.get("https://robinhood.com/stocks/" + real_ticker)
+                stockname = browser.find_elements_by_css_selector('header.Jo5RGrWjFiX_iyW3gMLsy')
+                name = real_ticker # by default put the real ticker
+                for stock in stockname:
+                    try:
+                        name = stock.find_element_by_css_selector('h1').text
+                    except:
+                        ('Oops!!',sys.exc_info)
+                ratings = browser.find_elements_by_css_selector('div._1fEdz1YPOLpLW1Ow3rKh92')
+                for rating in ratings:
+                    try:
+                        rat = rating.find_element_by_css_selector('div._1fEdz1YPOLpLW1Ow3rKh92 h2').text
+                    except:
+                        ('Oops!!',sys.exc_info())
                 try:
-                    name = stock.find_element_by_css_selector('h1').text
+                    market_tech = yf.Ticker(real_ticker)
+                    tech = market_tech.info.get('sector')
                 except:
-                    ('Oops!!',sys.exc_info)
-            ratings = browser.find_elements_by_css_selector('div._1fEdz1YPOLpLW1Ow3rKh92')
-            for rating in ratings:
+                    print("failed to get rating report")
+                browser.get("https://www.gurufocus.com/stock/"+real_ticker+"/summary")
+                time.sleep(4)
+                gurus = browser.find_elements_by_css_selector("button.el-button.fs-regular.el-button--danger.el-button--mini.el-popover__reference")
+                data ="UNK"
+                for guru in gurus:
+                    try:
+                        data = guru.find_element_by_css_selector("span").text
+                    except:
+                        ('Oops!',sys.exc_info())
+                earning = "NO"
                 try:
-                    rat = rating.find_element_by_css_selector('div._1fEdz1YPOLpLW1Ow3rKh92 h2').text
+                    browser.get("https://finance.yahoo.com/calendar/earnings")
+                    time.sleep(4)
+                    titles = browser.find_elements_by_css_selector('table tbody tr')
+                    for title in titles:
+                        earning = title.find_element_by_css_selector('table tbody tr td a').text
+                        if earning not in real_ticker:
+                            earning = "NO"
+                        else:
+                            earning ="YES"
                 except:
-                    ('Oops!!',sys.exc_info())
-            try:
-                market_tech = yf.Ticker(real_ticker)
-                tech = market_tech.info.get('sector')
-            except:
-                (sys.exc_info())
-            browser.get("https://www.gurufocus.com/stock/"+real_ticker+"/summary")
-            time.sleep(4)
-            gurus = browser.find_elements_by_css_selector("button.el-button.fs-regular.el-button--danger.el-button--mini.el-popover__reference")
-            data ="UNK"
-            for guru in gurus:
-                try:
-                    data = guru.find_element_by_css_selector("span").text
-                except:
-                    ('Oops!',sys.exc_info())
-            earning = "NO"
-            try:
-                browser = webdriver.Chrome()
-                browser.get("https://finance.yahoo.com/calendar/earnings")
-                titles = browser.find_elements_by_css_selector('table tbody tr')
-                for title in titles:
-                    earning = title.find_element_by_css_selector('table tbody tr td a').text
-                    if earning not in real_ticker:
-                        earning = "NO"
-                    else:
-                        earning ="YES"
-            except:
-                (sys.exc_info())
-            print(name + ', '+ rat  +', ' + data + ', ' + tech + ', '+ earning)
-            browser.quit()
-            time.sleep(2)
-        else:
-            print("NA")
+                    print("failed to get earnings report")
+                print(name + ', '+ rat  +', ' + data + ', ' + tech + ', '+ earning)
+                time.sleep(2)
+            else:
+                print("NA")
+        except:
+            print("failed to do this stock but will do next")
 
 if __name__ =="__main__":
     with open("tickers.csv") as url_obj:
