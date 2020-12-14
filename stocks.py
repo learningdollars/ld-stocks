@@ -19,6 +19,7 @@ def csv_url_reader(url_obj):
             if precision =='TRUE':
                 browser = webdriver.Chrome()
                 browser.get("https://robinhood.com/stocks/" + real_ticker)
+                name = real_ticker
                 stockname = browser.find_elements_by_css_selector('header.Jo5RGrWjFiX_iyW3gMLsy')
                 for stock in stockname:
                     try:
