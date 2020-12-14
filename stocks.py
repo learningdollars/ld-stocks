@@ -5,6 +5,7 @@ import time
 from selenium import webdriver
 from next_week import next_suny
 from next_week import next_monday
+from next_week import day_picked
 
 import pandas as pd
 # function
@@ -35,25 +36,26 @@ def csv_url_reader(url_obj):
                 (sys.exc_info())
             browser.get("https://www.gurufocus.com/stock/"+real_ticker+"/summary")
             gurus = browser.find_elements_by_css_selector("button.el-button.fs-regular.el-button--danger.el-button--mini.el-popover__reference")
-            data ="UNK"
             for guru in gurus:
                 try:
                     data = guru.find_element_by_css_selector("span").text
                 except:
                     ('Oops!',sys.exc_info())
             try:
-                browser = webdriver.Chrome()
-                browser.get("https://finance.yahoo.com/calendar/earnings")
+                browser.get("https://finance.yahoo.com/calendar/earnings?from="+next_monday+"&to="+next_suny+"&day="+day_picked+"")
                 titles = browser.find_elements_by_css_selector('table tbody tr')
                 for title in titles:
                     earning = title.find_element_by_css_selector('table tbody tr td a').text
                     if earning not in real_ticker:
                         earning = "NO"
                     else:
-                        earning ="YES"
+                        earning = day_picked
             except:
                 (sys.exc_info())
-            print(name + ', '+ rat  +', ' + data + ', ' + tech + ', '+ earning)
+            try:
+                print(name + ', '+ rat  +', ' + data + ', ' + tech + ', ' + earning)
+            except:
+                pass
             browser.quit()
             time.sleep(2)
         else:
