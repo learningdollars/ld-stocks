@@ -35,6 +35,7 @@ def csv_url_reader(url_obj):
                     tech = market_tech.info.get('sector')
                 except:
                     print("failed to get rating report")
+                # NOTE IN NEXT RUN - NEED TO INVESTIGATE GURUFOCUS UNK
                 browser.get("https://www.gurufocus.com/stock/"+real_ticker+"/summary")
                 time.sleep(4+random.random()*10)
                 gurus = browser.find_elements_by_css_selector("button.el-button.fs-regular.el-button--danger.el-button--mini.el-popover__reference")

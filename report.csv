@@ -1,4 +1,3 @@
-DasuLaptop> python stocks.py 
 NA
 Microsoft, 90%, Significantly Overvalued, Technology, NO
 NA
@@ -1095,7 +1094,6 @@ NA
 NA
 NA
 NA
-DasuLaptop> python stocks.py 
 failed to do this stock but will do next
 NA
 NA
@@ -1182,7 +1180,6 @@ NA
 NA
 Aegon, 29%, Significantly Overvalued, Financial Services, NO
 NA
-DasuLaptop> python stocks.py 
 NA
 NA
 NA
@@ -3172,7 +3169,6 @@ NA
 NA
 NA
 NA
-DasuLaptop> python stocks.py 
 failed to do this stock but will do next
 NA
 NA
@@ -6143,5 +6139,3 @@ NA
 NA
 NA
 NA
-DasuLaptop> 
-
