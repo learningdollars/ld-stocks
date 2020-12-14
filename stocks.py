@@ -27,11 +27,13 @@ def csv_url_reader(url_obj):
                     except:
                         ('Oops!!',sys.exc_info)
                 ratings = browser.find_elements_by_css_selector('div._1fEdz1YPOLpLW1Ow3rKh92')
+                rat = "rating"
                 for rating in ratings:
                     try:
                         rat = rating.find_element_by_css_selector('div._1fEdz1YPOLpLW1Ow3rKh92 h2').text
                     except:
                         ('Oops!!',sys.exc_info())
+                tech = "sector"
                 try:
                     market_tech = yf.Ticker(real_ticker)
                     tech = market_tech.info.get('sector')
@@ -60,10 +62,7 @@ def csv_url_reader(url_obj):
                             earning = day_picked
                 except:
                     print("failed to get earnings report")
-                try:
-                    print(name + ', '+ rat  +', ' + data + ', ' + tech + ', ' + earning)
-                except:
-                    pass
+                print(name + ', '+ rat  +', ' + data + ', ' + tech + ', ' + earning)
                 time.sleep(4+random.random()*10)
                 browser.quit()
             else:
