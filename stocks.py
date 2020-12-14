@@ -5,7 +5,9 @@ import time
 from selenium import webdriver
 from next_week import next_suny
 from next_week import next_monday
+from next_week import day_picked
 import random
+
 import pandas as pd
 # function
 def csv_url_reader(url_obj):
@@ -17,8 +19,8 @@ def csv_url_reader(url_obj):
             if precision =='TRUE':
                 browser = webdriver.Chrome()
                 browser.get("https://robinhood.com/stocks/" + real_ticker)
+                name = real_ticker
                 stockname = browser.find_elements_by_css_selector('header.Jo5RGrWjFiX_iyW3gMLsy')
-                name = real_ticker # by default put the real ticker
                 for stock in stockname:
                     try:
                         name = stock.find_element_by_css_selector('h1').text
@@ -34,11 +36,11 @@ def csv_url_reader(url_obj):
                     market_tech = yf.Ticker(real_ticker)
                     tech = market_tech.info.get('sector')
                 except:
-                    print("failed to get rating report")
-                # NOTE IN NEXT RUN - NEED TO INVESTIGATE GURUFOCUS UNK
+                    # NOTE IN NEXT RUN - NEED TO INVESTIGATE GURUFOCUS UNK
+                    (sys.exc_info())
                 browser.get("https://www.gurufocus.com/stock/"+real_ticker+"/summary")
                 time.sleep(4+random.random()*10)
-                gurus = browser.find_elements_by_css_selector("button.el-button.fs-regular.el-button--danger.el-button--mini.el-popover__reference")
+                gurus = browser.find_elements_by_css_selector("button.el-button.el-popover__reference")
                 data ="UNK"
                 for guru in gurus:
                     try:
@@ -47,7 +49,7 @@ def csv_url_reader(url_obj):
                         ('Oops!',sys.exc_info())
                 earning = "NO"
                 try:
-                    browser.get("https://finance.yahoo.com/calendar/earnings")
+                    browser.get("https://finance.yahoo.com/calendar/earnings?from="+next_monday+"&to="+next_suny+"&day="+day_picked+"")
                     time.sleep(4+random.random()*10)
                     titles = browser.find_elements_by_css_selector('table tbody tr')
                     for title in titles:
@@ -55,17 +57,19 @@ def csv_url_reader(url_obj):
                         if earning not in real_ticker:
                             earning = "NO"
                         else:
-                            earning ="YES"
+                            earning = day_picked
                 except:
                     print("failed to get earnings report")
-                print(name + ', '+ rat  +', ' + data + ', ' + tech + ', '+ earning)
+                try:
+                    print(name + ', '+ rat  +', ' + data + ', ' + tech + ', ' + earning)
+                except:
+                    pass
                 time.sleep(4+random.random()*10)
                 browser.quit()
             else:
                 print("NA")
         except:
             print("failed to do this stock but will do next")
-
 if __name__ =="__main__":
     with open("tickers.csv") as url_obj:
         csv_url_reader(url_obj)
