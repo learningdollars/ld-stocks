@@ -5,17 +5,17 @@ import time
 from selenium import webdriver
 from next_week import next_suny
 from next_week import next_monday
-
+import random
 import pandas as pd
 # function
 def csv_url_reader(url_obj):
     reader = csv.DictReader(url_obj,delimiter = ',')
-    browser = webdriver.Chrome()
     for line in reader:
         try:
             real_ticker = line["Stock"]
             precision = line["Predecision"]
             if precision =='TRUE':
+                browser = webdriver.Chrome()
                 browser.get("https://robinhood.com/stocks/" + real_ticker)
                 stockname = browser.find_elements_by_css_selector('header.Jo5RGrWjFiX_iyW3gMLsy')
                 name = real_ticker # by default put the real ticker
@@ -36,7 +36,7 @@ def csv_url_reader(url_obj):
                 except:
                     print("failed to get rating report")
                 browser.get("https://www.gurufocus.com/stock/"+real_ticker+"/summary")
-                time.sleep(4)
+                time.sleep(4+random.random()*10)
                 gurus = browser.find_elements_by_css_selector("button.el-button.fs-regular.el-button--danger.el-button--mini.el-popover__reference")
                 data ="UNK"
                 for guru in gurus:
@@ -47,7 +47,7 @@ def csv_url_reader(url_obj):
                 earning = "NO"
                 try:
                     browser.get("https://finance.yahoo.com/calendar/earnings")
-                    time.sleep(4)
+                    time.sleep(4+random.random()*10)
                     titles = browser.find_elements_by_css_selector('table tbody tr')
                     for title in titles:
                         earning = title.find_element_by_css_selector('table tbody tr td a').text
@@ -58,7 +58,8 @@ def csv_url_reader(url_obj):
                 except:
                     print("failed to get earnings report")
                 print(name + ', '+ rat  +', ' + data + ', ' + tech + ', '+ earning)
-                time.sleep(2)
+                time.sleep(4+random.random()*10)
+                browser.quit()
             else:
                 print("NA")
         except:
