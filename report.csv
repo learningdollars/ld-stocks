@@ -1,4 +1,3 @@
-(venv_ldrest3) Gobis-MBP:ld-stocks gobidasu$ python stocks.py 
 NA
 NA
 NA
@@ -137,7 +136,7 @@ NA
 CVS, 75%, Fairly Valued, Healthcare, NO
 NA
 NA
-British American Tobacco, rating, Possible Value Trap, Think Twice, Consumer Defensive, NO
+British American Tobacco, rating, Possible Value Trap Think Twice, Consumer Defensive, NO
 NA
 Target, 61%, Significantly Overvalued, Consumer Defensive, NO
 NA
@@ -169,7 +168,7 @@ NA
 NA
 NA
 NA
-CIGNA Corporation, 89%, Possible Value Trap, Think Twice, Healthcare, NO
+CIGNA Corporation, 89%, Possible Value Trap Think Twice, Healthcare, NO
 NA
 NA
 NA
@@ -757,7 +756,7 @@ NA
 NA
 NA
 NA
-M&T Bank, 24%, Possible Value Trap, Think Twice, Financial Services, NO
+M&T Bank, 24%, Possible Value Trap Think Twice, Financial Services, NO
 NA
 NA
 NA
@@ -906,7 +905,7 @@ Huntington Bank, 35%, Fairly Valued, Financial Services, NO
 NA
 NA
 Discovery, 35%, Fairly Valued, Communication Services, NO
-Discovery, 32%, Possible Value Trap, Think Twice, Communication Services, NO
+Discovery, 32%, Possible Value Trap Think Twice, Communication Services, NO
 Discovery, 32%, Fairly Valued, Communication Services, NO
 NA
 NA
@@ -1052,7 +1051,7 @@ NA
 NA
 NA
 NA
-Lincoln Financial Group, 50%, Possible Value Trap, Think Twice, Financial Services, NO
+Lincoln Financial Group, 50%, Possible Value Trap Think Twice, Financial Services, NO
 NA
 NA
 NA
@@ -1355,7 +1354,7 @@ Oshkosh, 56%, Modestly Overvalued, Industrials, NO
 NA
 NA
 NA
-Hess Midstream, rating, Possible Value Trap, Think Twice, Energy, NO
+Hess Midstream, rating, Possible Value Trap Think Twice, Energy, NO
 NA
 NA
 NA
@@ -1570,7 +1569,7 @@ NA
 NA
 NA
 NA
-Unum, 9%, Possible Value Trap, Think Twice, Financial Services, NO
+Unum, 9%, Possible Value Trap Think Twice, Financial Services, NO
 NA
 NA
 NA
@@ -1617,7 +1616,7 @@ NA
 NA
 NA
 NA
-SL Green Realty, 25%, Possible Value Trap, Think Twice, Real Estate, NO
+SL Green Realty, 25%, Possible Value Trap Think Twice, Real Estate, NO
 NA
 NA
 NA
@@ -1789,7 +1788,7 @@ NA
 NA
 NA
 NA
-Banco Santander, 43%, Possible Value Trap, Think Twice, Financial Services, NO
+Banco Santander, 43%, Possible Value Trap Think Twice, Financial Services, NO
 NA
 NA
 NA
@@ -1800,7 +1799,7 @@ NA
 NA
 NA
 NA
-Alliance Data, 58%, Possible Value Trap, Think Twice, Financial Services, NO
+Alliance Data, 58%, Possible Value Trap Think Twice, Financial Services, NO
 NA
 NA
 NA
@@ -2070,12 +2069,12 @@ First Interstate Bank, 71%, Fairly Valued, Financial Services, NO
 NA
 NA
 NA
-Investors Bank, 100%, Possible Value Trap, Think Twice, Financial Services, NO
+Investors Bank, 100%, Possible Value Trap Think Twice, Financial Services, NO
 NA
 NA
 NA
 NA
-Teradata, 14%, Possible Value Trap, Think Twice, Technology, NO
+Teradata, 14%, Possible Value Trap Think Twice, Technology, NO
 NA
 NA
 Atlas, 33%, Significantly Overvalued, Financial Services, NO
@@ -2339,7 +2338,7 @@ NA
 Edgewell Personal Care, 40%, Modestly Overvalued, Consumer Defensive, NO
 NA
 NA
-Telephone & Data Systems, rating, Possible Value Trap, Think Twice, Communication Services, NO
+Telephone & Data Systems, rating, Possible Value Trap Think Twice, Communication Services, NO
 NA
 NA
 NA
@@ -2446,7 +2445,7 @@ NA
 NA
 NA
 NA
-Navient, 60%, Possible Value Trap, Think Twice, Financial Services, NO
+Navient, 60%, Possible Value Trap Think Twice, Financial Services, NO
 NA
 NA
 NA
@@ -2488,7 +2487,7 @@ NA
 NA
 NA
 NA
-First Financial Bancorp, 0%, Possible Value Trap, Think Twice, Financial Services, NO
+First Financial Bancorp, 0%, Possible Value Trap Think Twice, Financial Services, NO
 NA
 GCP Applied Technologies, rating, Fairly Valued, Basic Materials, NO
 NA
@@ -2511,8 +2510,8 @@ NA
 NA
 NA
 NA
-Gray Television, 83%, Possible Value Trap, Think Twice, Communication Services, NO
-GTN.A, rating, Possible Value Trap, Think Twice, sector, NO
+Gray Television, 83%, Possible Value Trap Think Twice, Communication Services, NO
+GTN.A, rating, Possible Value Trap Think Twice, sector, NO
 Park National, rating, Fairly Valued, Financial Services, NO
 NA
 NA
@@ -2596,7 +2595,7 @@ NA
 BrightSphere, 43%, Significantly Overvalued, Financial Services, NO
 NA
 NA
-Holly Energy, 75%, Possible Value Trap, Think Twice, Energy, NO
+Holly Energy, 75%, Possible Value Trap Think Twice, Energy, NO
 HNI, rating, Fairly Valued, Industrials, NO
 NA
 NA
@@ -2645,7 +2644,7 @@ NA
 NA
 NA
 NA
-Sixth Street Specialty Lending, 90%, Possible Value Trap, Think Twice, Financial Services, NO
+Sixth Street Specialty Lending, 90%, Possible Value Trap Think Twice, Financial Services, NO
 NA
 NA
 NA
@@ -2686,7 +2685,7 @@ Ultra Clean, rating, Significantly Overvalued, Technology, NO
 NA
 NA
 NA
-AMC Networks, 31%, Possible Value Trap, Think Twice, Communication Services, NO
+AMC Networks, 31%, Possible Value Trap Think Twice, Communication Services, NO
 NA
 NA
 NA
@@ -2816,7 +2815,7 @@ NA
 NA
 NA
 NA
-GEO Group, rating, Possible Value Trap, Think Twice, Real Estate, NO
+GEO Group, rating, Possible Value Trap Think Twice, Real Estate, NO
 BP Midstream, 29%, Significantly Undervalued, Energy, NO
 NA
 NA
@@ -3045,14 +3044,14 @@ NA
 NA
 NA
 NA
-Third Point Reinsurance, rating, Possible Value Trap, Think Twice, Financial Services, NO
+Third Point Reinsurance, rating, Possible Value Trap Think Twice, Financial Services, NO
 NA
 NA
 NA
 NA
 NA
 NA
-CXW, rating, Possible Value Trap, Think Twice, Real Estate, NO
+CXW, rating, Possible Value Trap Think Twice, Real Estate, NO
 NA
 NA
 NA
@@ -3134,7 +3133,7 @@ NA
 NA
 Foundation Building Materials, 50%, Significantly Overvalued, Industrials, NO
 NA
-Premier Financial, rating, Possible Value Trap, Think Twice, Financial Services, NO
+Premier Financial, rating, Possible Value Trap Think Twice, Financial Services, NO
 NA
 NA
 NA
@@ -3165,7 +3164,7 @@ NA
 NA
 NA
 NA
-ConnectOne, rating, Possible Value Trap, Think Twice, Financial Services, NO
+ConnectOne, rating, Possible Value Trap Think Twice, Financial Services, NO
 NA
 NA
 NA
@@ -3236,7 +3235,7 @@ NA
 NA
 NA
 NA
-Bright Scholar Education, rating, Possible Value Trap, Think Twice, Consumer Defensive, NO
+Bright Scholar Education, rating, Possible Value Trap Think Twice, Consumer Defensive, NO
 NA
 NA
 NA
@@ -3259,7 +3258,7 @@ NA
 Magic Software Enterprises, rating, Significantly Overvalued, Technology, NO
 NA
 NA
-World Acceptance Corporation, rating, Possible Value Trap, Think Twice, Financial Services, NO
+World Acceptance Corporation, rating, Possible Value Trap Think Twice, Financial Services, NO
 NA
 NA
 NA
@@ -3343,7 +3342,7 @@ NA
 NA
 NA
 NA
-Scorpio Tankers, 75%, Possible Value Trap, Think Twice, Energy, NO
+Scorpio Tankers, 75%, Possible Value Trap Think Twice, Energy, NO
 NA
 NA
 NA
@@ -3432,7 +3431,7 @@ NA
 SpartanNash, 29%, Modestly Undervalued, Consumer Defensive, NO
 NA
 NA
-HarborOne Bancorp, rating, Possible Value Trap, Think Twice, Financial Services, NO
+HarborOne Bancorp, rating, Possible Value Trap Think Twice, Financial Services, NO
 NA
 NA
 NA
@@ -3488,7 +3487,7 @@ NA
 NA
 NA
 NA
-PBF Logistics, 57%, Possible Value Trap, Think Twice, Energy, NO
+PBF Logistics, 57%, Possible Value Trap Think Twice, Energy, NO
 NA
 NA
 NA
@@ -3514,7 +3513,7 @@ NA
 NA
 NA
 NA
-QEP Resources, 15%, Possible Value Trap, Think Twice, Energy, NO
+QEP Resources, 15%, Possible Value Trap Think Twice, Energy, NO
 NA
 NA
 NA
@@ -3533,7 +3532,7 @@ NA
 NA
 NA
 NA
-Customers Bank, rating, Possible Value Trap, Think Twice, Financial Services, NO
+Customers Bank, rating, Possible Value Trap Think Twice, Financial Services, NO
 NA
 NA
 NA
@@ -3571,7 +3570,7 @@ NA
 NA
 NA
 NA
-Camden National, rating, Possible Value Trap, Think Twice, Financial Services, NO
+Camden National, rating, Possible Value Trap Think Twice, Financial Services, NO
 NA
 NA
 Heritage Commerce, rating, Modestly Undervalued, Financial Services, NO
@@ -3594,7 +3593,7 @@ NA
 NA
 NA
 NA
-Dime, rating, Possible Value Trap, Think Twice, Financial Services, NO
+Dime, rating, Possible Value Trap Think Twice, Financial Services, NO
 NA
 NA
 NA
@@ -3674,8 +3673,8 @@ NA
 NA
 NA
 NA
-Hoegh LNG, 57%, Possible Value Trap, Think Twice, Energy, NO
-Bridge, rating, Possible Value Trap, Think Twice, Financial Services, NO
+Hoegh LNG, 57%, Possible Value Trap Think Twice, Energy, NO
+Bridge, rating, Possible Value Trap Think Twice, Financial Services, NO
 NA
 NA
 NA
@@ -3710,7 +3709,7 @@ NA
 NA
 NA
 NA
-Valhi, rating, Possible Value Trap, Think Twice, Basic Materials, NO
+Valhi, rating, Possible Value Trap Think Twice, Basic Materials, NO
 NA
 NA
 NA
@@ -3753,7 +3752,7 @@ NA
 NA
 NA
 NA
-Flushing Bank, rating, Possible Value Trap, Think Twice, Financial Services, NO
+Flushing Bank, rating, Possible Value Trap Think Twice, Financial Services, NO
 NA
 NA
 NA
@@ -3870,7 +3869,7 @@ NA
 NA
 NA
 NA
-Capital City Bank Group, rating, Possible Value Trap, Think Twice, Financial Services, NO
+Capital City Bank Group, rating, Possible Value Trap Think Twice, Financial Services, NO
 NA
 NA
 NA
@@ -3909,7 +3908,7 @@ NA
 NA
 NA
 NA
-Midland States Bank, rating, Possible Value Trap, Think Twice, Financial Services, NO
+Midland States Bank, rating, Possible Value Trap Think Twice, Financial Services, NO
 NA
 Kimball Electronics, rating, Modestly Undervalued, Industrials, NO
 NA
@@ -3930,7 +3929,7 @@ NA
 NA
 NA
 NA
-Consolidated Communications, rating, Possible Value Trap, Think Twice, Communication Services, NO
+Consolidated Communications, rating, Possible Value Trap Think Twice, Communication Services, NO
 NA
 NA
 NA
@@ -4060,7 +4059,7 @@ NA
 NA
 NA
 NA
-Financial Institutions, rating, Possible Value Trap, Think Twice, Financial Services, NO
+Financial Institutions, rating, Possible Value Trap Think Twice, Financial Services, NO
 NA
 NA
 NA
@@ -4214,7 +4213,7 @@ NA
 NA
 NA
 NA
-Reliant Bancorp, 83%, Possible Value Trap, Think Twice, Financial Services, NO
+Reliant Bancorp, 83%, Possible Value Trap Think Twice, Financial Services, NO
 NA
 NA
 North American Energy, rating, Fairly Valued, Energy, NO
@@ -4310,7 +4309,7 @@ NA
 NA
 NA
 NA
-Old Second Bank, rating, Possible Value Trap, Think Twice, Financial Services, NO
+Old Second Bank, rating, Possible Value Trap Think Twice, Financial Services, NO
 NA
 NA
 NA
@@ -4446,7 +4445,7 @@ NA
 NA
 NA
 NA
-Civista Bank, 67%, Possible Value Trap, Think Twice, Financial Services, NO
+Civista Bank, 67%, Possible Value Trap Think Twice, Financial Services, NO
 NA
 NA
 NA
@@ -4494,7 +4493,7 @@ NA
 NA
 NA
 NA
-FLY Leasing, rating, Possible Value Trap, Think Twice, Industrials, NO
+FLY Leasing, rating, Possible Value Trap Think Twice, Industrials, NO
 Suro Capital, rating, UNK, Financial Services, NO
 NA
 NA
@@ -4506,7 +4505,7 @@ NA
 NA
 NA
 NA
-Qudian, 0%, Possible Value Trap, Think Twice, Financial Services, NO
+Qudian, 0%, Possible Value Trap Think Twice, Financial Services, NO
 NA
 NA
 NA
@@ -4529,7 +4528,7 @@ NA
 NA
 NA
 NA
-Horizon Technology Finance, 17%, Possible Value Trap, Think Twice, Financial Services, NO
+Horizon Technology Finance, 17%, Possible Value Trap Think Twice, Financial Services, NO
 NA
 NA
 NA
@@ -4540,7 +4539,7 @@ NA
 NA
 NA
 NA
-Great Ajax, rating, Possible Value Trap, Think Twice, Real Estate, NO
+Great Ajax, rating, Possible Value Trap Think Twice, Real Estate, NO
 NA
 NA
 NA
@@ -4745,7 +4744,7 @@ Alaska Communications, rating, Significantly Overvalued, Communication Services,
 NA
 NA
 NA
-CTO Realty Growth, rating, Possible Value Trap, Think Twice, Real Estate, NO
+CTO Realty Growth, rating, Possible Value Trap Think Twice, Real Estate, NO
 NA
 NA
 NA
@@ -4759,14 +4758,14 @@ NA
 NA
 NA
 NA
-Unity Bank, rating, Possible Value Trap, Think Twice, Financial Services, NO
+Unity Bank, rating, Possible Value Trap Think Twice, Financial Services, NO
 NA
 NA
 NA
 NA
 NA
 NA
-Secoo Holding, rating, Possible Value Trap, Think Twice, Consumer Cyclical, NO
+Secoo Holding, rating, Possible Value Trap Think Twice, Consumer Cyclical, NO
 NA
 NA
 NA
@@ -4793,10 +4792,10 @@ NA
 NA
 NA
 NA
-ParkeBank, rating, Possible Value Trap, Think Twice, Financial Services, NO
+ParkeBank, rating, Possible Value Trap Think Twice, Financial Services, NO
 NA
 NA
-First Bank, rating, Possible Value Trap, Think Twice, Financial Services, NO
+First Bank, rating, Possible Value Trap Think Twice, Financial Services, NO
 NA
 NA
 NA
@@ -4820,7 +4819,7 @@ NA
 NA
 NA
 NA
-Golar LNG, 29%, Possible Value Trap, Think Twice, Energy, NO
+Golar LNG, 29%, Possible Value Trap Think Twice, Energy, NO
 NA
 NA
 NA
@@ -4901,7 +4900,7 @@ NA
 NA
 NA
 NA
-Xinyuan Real Estate, rating, Possible Value Trap, Think Twice, Real Estate, NO
+Xinyuan Real Estate, rating, Possible Value Trap Think Twice, Real Estate, NO
 NA
 NA
 NA
@@ -4915,7 +4914,7 @@ NA
 NA
 NA
 NA
-First Business Financial Services, rating, Possible Value Trap, Think Twice, Financial Services, NO
+First Business Financial Services, rating, Possible Value Trap Think Twice, Financial Services, NO
 NA
 NA
 NA
@@ -4937,7 +4936,7 @@ NA
 NA
 NA
 NA
-First Northwest Bank, rating, Possible Value Trap, Think Twice, Financial Services, NO
+First Northwest Bank, rating, Possible Value Trap Think Twice, Financial Services, NO
 NA
 NA
 NA
@@ -5152,7 +5151,7 @@ NA
 NA
 NA
 NA
-Union Bank & Trust, rating, Possible Value Trap, Think Twice, Financial Services, NO
+Union Bank & Trust, rating, Possible Value Trap Think Twice, Financial Services, NO
 NA
 NA
 NA
@@ -5175,7 +5174,7 @@ NA
 Asure Software, 100%, Fairly Valued, Technology, NO
 NA
 NA
-Riverview Bancorp, rating, Possible Value Trap, Think Twice, Financial Services, NO
+Riverview Bancorp, rating, Possible Value Trap Think Twice, Financial Services, NO
 NA
 NA
 NA
@@ -5229,7 +5228,7 @@ Limestone Bank, rating, Fairly Valued, Financial Services, NO
 NA
 NA
 NA
-Ardmore Shipping, 88%, Possible Value Trap, Think Twice, Industrials, NO
+Ardmore Shipping, 88%, Possible Value Trap Think Twice, Industrials, NO
 Hill International, rating, Modestly Undervalued, Industrials, NO
 NA
 NA
@@ -5451,7 +5450,7 @@ NA
 NA
 NA
 NA
-Community First Bancshares, rating, Possible Value Trap, Think Twice, Financial Services, NO
+Community First Bancshares, rating, Possible Value Trap Think Twice, Financial Services, NO
 NA
 NA
 NA
@@ -5471,7 +5470,7 @@ NA
 Crown Crafts, rating, Modestly Overvalued, Consumer Cyclical, NO
 NA
 NA
-Summit State Bank, rating, Possible Value Trap, Think Twice, Financial Services, NO
+Summit State Bank, rating, Possible Value Trap Think Twice, Financial Services, NO
 NA
 NA
 NA
@@ -5506,7 +5505,7 @@ NA
 NA
 NA
 NA
-Martin Midstream, rating, Possible Value Trap, Think Twice, Energy, NO
+Martin Midstream, rating, Possible Value Trap Think Twice, Energy, NO
 NA
 NA
 NA
@@ -5567,7 +5566,7 @@ NA
 NA
 NA
 NA
-Navios Maritime, rating, Possible Value Trap, Think Twice, Energy, NO
+Navios Maritime, rating, Possible Value Trap Think Twice, Energy, NO
 NA
 NA
 NA
@@ -5690,7 +5689,7 @@ NA
 NA
 NA
 NA
-BBQ Holdings, rating, Possible Value Trap, Think Twice, Consumer Cyclical, NO
+BBQ Holdings, rating, Possible Value Trap Think Twice, Consumer Cyclical, NO
 NA
 NA
 NA
@@ -5811,7 +5810,7 @@ NA
 NA
 NA
 NA
-Seanergy, rating, Possible Value Trap, Think Twice, Industrials, NO
+Seanergy, rating, Possible Value Trap Think Twice, Industrials, NO
 NA
 NA
 NA
@@ -5875,7 +5874,7 @@ NA
 NA
 NA
 NA
-Permianville Royalty Trust, rating, Possible Value Trap, Think Twice, Energy, NO
+Permianville Royalty Trust, rating, Possible Value Trap Think Twice, Energy, NO
 NA
 NA
 Dunxin Financial, rating, Modestly Overvalued, Financial Services, NO
@@ -5889,7 +5888,7 @@ Euroseas, rating, Significantly Overvalued, Industrials, NO
 NA
 NA
 NA
-North European Oil Royalty Trust, rating, Possible Value Trap, Think Twice, Energy, NO
+North European Oil Royalty Trust, rating, Possible Value Trap Think Twice, Energy, NO
 NA
 NA
 NA
@@ -6142,4 +6141,3 @@ NA
 NA
 NA
 NA
-(venv_ldrest3) Gobis-MBP:ld-stocks gobidasu$ 
