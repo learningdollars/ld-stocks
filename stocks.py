@@ -61,7 +61,7 @@ def csv_url_reader(url_obj):
                 try:
                     for date in dates:
                         browser.get(
-                            "https://finance.yahoo.com/calendar/earnings?from=" + dates[0] + "&to=" + dates[6] + "&day=" + date + "")
+                            "https://finance.yahoo.com/calendar/earnings?from=" + dates[0] + "&to=" + dates[6] + "&day=" + date)
                         time.sleep(4 + random.random() * 10)
                         titles = browser.find_elements_by_css_selector('table tbody tr')
                         for title in titles:

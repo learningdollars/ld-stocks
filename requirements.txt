@@ -1,8 +1,8 @@
-python ==3.8.5
+#python==3.8.5
 selenium
-chrome webdriver
-Firefox webdriver(ANY)
+#chrome webdriver
+#Firefox webdriver(ANY)
 pandas
-csv file preview
-html5lib-1.1
+#csv file preview
+html5lib==1.1
 yfinance
