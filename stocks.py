@@ -20,6 +20,7 @@ def csv_url_reader(url_obj):
         day = start_date + datetime.timedelta(days=i)
         dates.append(day.strftime('%Y-%m-%d'))
     reader = csv.DictReader(url_obj, delimiter=',')
+    earnings_reports = None
     for line in reader:
         try:
             real_ticker = line["Stock"]
@@ -58,20 +59,28 @@ def csv_url_reader(url_obj):
                     except:
                         ('Oops!', sys.exc_info())
                 earning = "NO"
-                try:
-                    for date in dates:
-                        browser.get(
-                            "https://finance.yahoo.com/calendar/earnings?from=" + dates[0] + "&to=" + dates[6] + "&day=" + date)
-                        time.sleep(4 + random.random() * 10)
-                        titles = browser.find_elements_by_css_selector('table tbody tr')
-                        for title in titles:
-                            earning = title.find_element_by_css_selector('table tbody tr td a').text
-                            if earning not in real_ticker:
-                                earning = "NO"
-                            else:
-                                earning = date
-                except:
-                    print("failed to get earnings report")
+                if earnings_reports:
+                    if real_ticker in earnings_reports:
+                        earning = earnings_reports[real_ticker]
+                else:
+                    try:
+                        earnings_reports = {}
+                        for date in dates:
+                            browser.get(
+                                "https://finance.yahoo.com/calendar/earnings?from=" + dates[0] + "&to=" + dates[6] + "&day=" + date)
+                            time.sleep(4 + random.random() * 10)
+                            titles = browser.find_elements_by_css_selector('table tbody tr')
+                            for title in titles:
+                                earning = title.find_element_by_css_selector('table tbody tr td a').text
+                                print(earning, "has an earnings report")
+                                earnings_reports[earning] = date
+                                if earning not in real_ticker:
+                                    earning = "NO"
+                                else:
+                                    earning = date
+                        print("earnings_reports: ", earnings_reports)
+                    except:
+                        print("failed to get earnings report")
                 print(name + ', ' + rat + ', ' + data + ', ' + tech + ', ' + earning)
                 time.sleep(4 + random.random() * 10)
                 browser.quit()
