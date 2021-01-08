@@ -8,12 +8,14 @@ import random
 
 import pandas as pd
 
+# EDIT GET THE FIRST 100 PLUS THE STOCKS WE LIKE BY DEFAULT
+
 
 # function
 def csv_url_reader(url_obj):
-    next_week = (datetime.date.today().isocalendar()[1]) + 1
+    next_week = (datetime.date.today().isocalendar()[1]) % 52 + 1
     week = next_week - 2
-    start_date = time.asctime(time.strptime('2020 %d 0' % week, '%Y %W %w'))
+    start_date = time.asctime(time.strptime('2021 %d 0' % week, '%Y %W %w'))
     start_date = datetime.datetime.strptime(start_date, '%a %b %d %H:%M:%S %Y')
     dates = [start_date.strftime('%Y-%m-%d')]
     for i in range(1, 7):
