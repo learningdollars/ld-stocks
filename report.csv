@@ -1,4 +1,3 @@
-DasuLaptop> python stocks.py 
 NA
 NA
 NA
@@ -8,74 +7,6 @@ NA
 NA
 NA
 NA
-(u'JEF', 'has an earnings report')
-(u'APWC', 'has an earnings report')
-(u'CVU', 'has an earnings report')
-(u'PCYO', 'has an earnings report')
-(u'CETX', 'has an earnings report')
-(u'RQI', 'has an earnings report')
-(u'CALM', 'has an earnings report')
-(u'FPF', 'has an earnings report')
-(u'SGH', 'has an earnings report')
-(u'TDY', 'has an earnings report')
-(u'LNDC', 'has an earnings report')
-(u'MSM', 'has an earnings report')
-(u'SAR', 'has an earnings report')
-(u'UNF', 'has an earnings report')
-(u'RGP', 'has an earnings report')
-(u'GBX', 'has an earnings report')
-(u'CHSCP', 'has an earnings report')
-(u'SMPL', 'has an earnings report')
-(u'RELL', 'has an earnings report')
-(u'NOBH', 'has an earnings report')
-(u'RPM', 'has an earnings report')
-(u'KTEL', 'has an earnings report')
-(u'WDFC', 'has an earnings report')
-(u'AEHR', 'has an earnings report')
-(u'PKE', 'has an earnings report')
-(u'WBA', 'has an earnings report')
-(u'AYI', 'has an earnings report')
-(u'ANGO', 'has an earnings report')
-(u'ACCD', 'has an earnings report')
-(u'CAG', 'has an earnings report')
-(u'BBBY', 'has an earnings report')
-(u'SBBP', 'has an earnings report')
-(u'STZ', 'has an earnings report')
-(u'CCF', 'has an earnings report')
-(u'NTIC', 'has an earnings report')
-(u'DCT', 'has an earnings report')
-(u'LNN', 'has an earnings report')
-(u'EACO', 'has an earnings report')
-(u'FC', 'has an earnings report')
-(u'REVG', 'has an earnings report')
-(u'HELE', 'has an earnings report')
-(u'LW', 'has an earnings report')
-(u'MDC', 'has an earnings report')
-(u'SCHN', 'has an earnings report')
-(u'PSMT', 'has an earnings report')
-(u'MU', 'has an earnings report')
-(u'NATI', 'has an earnings report')
-(u'CSVI', 'has an earnings report')
-(u'SAR', 'has an earnings report')
-(u'NZF', 'has an earnings report')
-(u'RELL', 'has an earnings report')
-(u'LOACU', 'has an earnings report')
-(u'NEA', 'has an earnings report')
-(u'LOAC', 'has an earnings report')
-(u'ASNAQ', 'has an earnings report')
-(u'NVG', 'has an earnings report')
-(u'NRK', 'has an earnings report')
-(u'ADXS', 'has an earnings report')
-(u'TY', 'has an earnings report')
-(u'CCM', 'has an earnings report')
-(u'FRANQ', 'has an earnings report')
-(u'LEDS', 'has an earnings report')
-(u'UTF', 'has an earnings report')
-(u'SINA', 'has an earnings report')
-(u'HURC', 'has an earnings report')
-(u'GEENQ', 'has an earnings report')
-(u'SMRTQ', 'has an earnings report')
-('earnings_reports: ', {u'RGP': '2021-01-05', u'WDFC': '2021-01-06', u'ACCD': '2021-01-06', u'CVU': '2021-01-04', u'CHSCP': '2021-01-05', u'APWC': '2021-01-04', u'NEA': '2021-01-08', u'HELE': '2021-01-06', u'HURC': '2021-01-08', u'NOBH': '2021-01-05', u'FC': '2021-01-06', u'SMRTQ': '2021-01-08', u'WBA': '2021-01-06', u'AEHR': '2021-01-06', u'UTF': '2021-01-08', u'CCF': '2021-01-06', u'CAG': '2021-01-06', u'GBX': '2021-01-05', u'SINA': '2021-01-08', u'MU': '2021-01-06', u'LEDS': '2021-01-08', u'LW': '2021-01-06', u'MDC': '2021-01-06', u'REVG': '2021-01-06', u'SGH': '2021-01-04', u'NATI': '2021-01-07', u'LNN': '2021-01-06', u'NTIC': '2021-01-06', u'RELL': '2021-01-07', u'SCHN': '2021-01-06', u'SAR': '2021-01-07', u'DCT': '2021-01-06', u'RPM': '2021-01-05', u'BBBY': '2021-01-06', u'FPF': '2021-01-04', u'AYI': '2021-01-06', u'CSVI': '2021-01-07', u'KTEL': '2021-01-05', u'LOAC': '2021-01-08', u'TY': '2021-01-08', u'PCYO': '2021-01-04', u'CETX': '2021-01-04', u'PKE': '2021-01-06', u'SBBP': '2021-01-06', u'GEENQ': '2021-01-08', u'JEF': '2021-01-03', u'NZF': '2021-01-07', u'UNF': '2021-01-05', u'LOACU': '2021-01-08', u'STZ': '2021-01-06', u'NVG': '2021-01-08', u'NRK': '2021-01-08', u'CCM': '2021-01-08', u'ASNAQ': '2021-01-08', u'LNDC': '2021-01-05', u'ANGO': '2021-01-06', u'SMPL': '2021-01-05', u'MSM': '2021-01-05', u'EACO': '2021-01-06', u'TDY': '2021-01-04', u'FRANQ': '2021-01-08', u'CALM': '2021-01-04', u'PSMT': '2021-01-06', u'ADXS': '2021-01-08', u'RQI': '2021-01-04'})
 Facebook, 84%, Fairly Valued, Communication Services, NO
 NA
 NA
@@ -707,7 +638,7 @@ NA
 Kellogg, 45%, Fairly Valued, Consumer Defensive, NO
 NA
 NA
-Brasileira De Distribuicao, 91%, Possible Value Trap, Think Twice, Consumer Cyclical, NO
+Brasileira De Distribuicao, 91%, Possible Value Trap Think Twice, Consumer Cyclical, NO
 NA
 NA
 NA
@@ -937,7 +868,7 @@ NA
 NA
 NA
 NA
-Boston Properties, 58%, Possible Value Trap, Think Twice, Real Estate, NO
+Boston Properties, 58%, Possible Value Trap Think Twice, Real Estate, NO
 NA
 NA
 NA
@@ -1606,7 +1537,7 @@ NA
 NA
 NA
 NA
-Douglas Emmett, 40%, Possible Value Trap, Think Twice, Real Estate, NO
+Douglas Emmett, 40%, Possible Value Trap Think Twice, Real Estate, NO
 NA
 NA
 NA
@@ -2578,7 +2509,7 @@ NA
 NA
 NA
 NA
-Gray Television, 83%, Possible Value Trap, Think Twice, Communication Services, NO
+Gray Television, 83%, Possible Value Trap Think Twice, Communication Services, NO
 NA
 NA
 Hailiang Education Group, rating, Fairly Valued, Consumer Defensive, NO
@@ -2681,7 +2612,7 @@ NA
 NA
 NA
 NA
-BlackRock Taxable Municipal Bond Trust, rating, Possible Value Trap, Think Twice, Financial Services, NO
+BlackRock Taxable Municipal Bond Trust, rating, Possible Value Trap Think Twice, Financial Services, NO
 NA
 NA
 NA
@@ -2779,7 +2710,7 @@ NA
 NA
 NA
 NA
-Northwest Natural, 29%, Possible Value Trap, Think Twice, Utilities, NO
+Northwest Natural, 29%, Possible Value Trap Think Twice, Utilities, NO
 NA
 NA
 NA
@@ -3031,7 +2962,7 @@ NA
 NA
 NA
 Encore Capital Group, 71%, Fairly Valued, Financial Services, NO
-GEO Group, rating, Possible Value Trap, Think Twice, Real Estate, NO
+GEO Group, rating, Possible Value Trap Think Twice, Real Estate, NO
 NA
 NA
 NA
@@ -3276,7 +3207,7 @@ NA
 NA
 NA
 NA
-CoreCivic, rating, Possible Value Trap, Think Twice, Real Estate, NO
+CoreCivic, rating, Possible Value Trap Think Twice, Real Estate, NO
 NA
 NA
 NA
@@ -3448,7 +3379,7 @@ NA
 NA
 NA
 NA
-Invesco Quality Municipal Income Trust, rating, Possible Value Trap, Think Twice, Financial Services, NO
+Invesco Quality Municipal Income Trust, rating, Possible Value Trap Think Twice, Financial Services, NO
 NA
 NA
 NA
@@ -3801,7 +3732,7 @@ NA
 NA
 NA
 NA
-Global Cord Blood, rating, Possible Value Trap, Think Twice, Healthcare, NO
+Global Cord Blood, rating, Possible Value Trap Think Twice, Healthcare, NO
 NA
 NA
 NA
@@ -4134,7 +4065,7 @@ NA
 NA
 NA
 NA
-VirnetX, rating, Possible Value Trap, Think Twice, Technology, NO
+VirnetX, rating, Possible Value Trap Think Twice, Technology, NO
 NA
 NA
 NA
@@ -4429,7 +4360,7 @@ NA
 NA
 NA
 NA
-Investors Title, rating, Possible Value Trap, Think Twice, Financial Services, NO
+Investors Title, rating, Possible Value Trap Think Twice, Financial Services, NO
 NA
 NA
 NA
@@ -4932,7 +4863,7 @@ NA
 NA
 NA
 NA
-NACCO, rating, Possible Value Trap, Think Twice, Energy, NO
+NACCO, rating, Possible Value Trap Think Twice, Energy, NO
 NA
 NA
 NA
@@ -4954,7 +4885,7 @@ NA
 NA
 NA
 NA
-Westfield Financial, rating, Possible Value Trap, Think Twice, Financial Services, NO
+Westfield Financial, rating, Possible Value Trap Think Twice, Financial Services, NO
 NA
 NA
 NA
@@ -5065,7 +4996,7 @@ NA
 BrightSphere Investment, rating, UNK, sector, NO
 NA
 NA
-Pingtan Marine Enterprise, rating, Possible Value Trap, Think Twice, Consumer Defensive, NO
+Pingtan Marine Enterprise, rating, Possible Value Trap Think Twice, Consumer Defensive, NO
 NA
 NA
 NA
@@ -5289,7 +5220,7 @@ NA
 NA
 NA
 NA
-Randolph Bancorp, rating, Possible Value Trap, Think Twice, Financial Services, NO
+Randolph Bancorp, rating, Possible Value Trap Think Twice, Financial Services, NO
 NA
 NA
 NA
@@ -5299,17 +5230,7 @@ NA
 NA
 NA
 NA
-Ohio Valley Bank, rating, Possible Value Trap, Think Twice, Financial Services, NO
-NA
-NA
-NA
-NA
-NA
-NA
-NA
-NA
-NA
-NA
+Ohio Valley Bank, rating, Possible Value Trap Think Twice, Financial Services, NO
 NA
 NA
 NA
@@ -5327,7 +5248,17 @@ NA
 NA
 NA
 NA
-CF Bank, rating, Possible Value Trap, Think Twice, Financial Services, NO
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+CF Bank, rating, Possible Value Trap Think Twice, Financial Services, NO
 NA
 NA
 NA
@@ -5370,7 +5301,7 @@ NA
 NA
 NA
 NA
-Prudential Bank, rating, Possible Value Trap, Think Twice, Financial Services, NO
+Prudential Bank, rating, Possible Value Trap Think Twice, Financial Services, NO
 NA
 NA
 NA
@@ -5580,7 +5511,7 @@ NA
 NA
 NA
 NA
-Coda Octopus, rating, Possible Value Trap, Think Twice, Industrials, NO
+Coda Octopus, rating, Possible Value Trap Think Twice, Industrials, NO
 NA
 NA
 NA
@@ -5727,7 +5658,7 @@ NA
 NA
 NA
 NA
-Nuveen California Municipal Value Fund 2, rating, Possible Value Trap, Think Twice, Financial Services, NO
+Nuveen California Municipal Value Fund 2, rating, Possible Value Trap Think Twice, Financial Services, NO
 NA
 NA
 NA
@@ -6188,4 +6119,3 @@ NA
 NA
 NA
 NA
-DasuLaptop> 
