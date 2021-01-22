@@ -1,104 +1,3 @@
-DasuLaptop> python stocks.py 
-NA
-(u'AZZ', 'has an earnings report')
-(u'CUK', 'has an earnings report')
-(u'EXAS', 'has an earnings report')
-(u'VOXX', 'has an earnings report')
-(u'CNXC', 'has an earnings report')
-(u'CMC', 'has an earnings report')
-(u'LMNR', 'has an earnings report')
-(u'SNX', 'has an earnings report')
-(u'GWPH', 'has an earnings report')
-(u'KSHB', 'has an earnings report')
-(u'KRUS', 'has an earnings report')
-(u'SLP', 'has an earnings report')
-(u'BBW', 'has an earnings report')
-(u'ATRC', 'has an earnings report')
-(u'LOAC', 'has an earnings report')
-(u'ACI', 'has an earnings report')
-(u'RRGB', 'has an earnings report')
-(u'CCL', 'has an earnings report')
-(u'BBCP', 'has an earnings report')
-(u'EDUC', 'has an earnings report')
-(u'EDUC', 'has an earnings report')
-(u'CJREF', 'has an earnings report')
-(u'KN', 'has an earnings report')
-(u'CLOV', 'has an earnings report')
-(u'DENN', 'has an earnings report')
-(u'DXCM', 'has an earnings report')
-(u'EXFO', 'has an earnings report')
-(u'TLFA', 'has an earnings report')
-(u'OGI', 'has an earnings report')
-(u'KBH', 'has an earnings report')
-(u'PEN', 'has an earnings report')
-(u'REXR', 'has an earnings report')
-(u'PTCT', 'has an earnings report')
-(u'RARE', 'has an earnings report')
-(u'PI', 'has an earnings report')
-(u'NVCR', 'has an earnings report')
-(u'INLB', 'has an earnings report')
-(u'VOXX', 'has an earnings report')
-(u'FEDU', 'has an earnings report')
-(u'FEDU', 'has an earnings report')
-(u'HGSH', 'has an earnings report')
-(u'SJR', 'has an earnings report')
-(u'CLSH', 'has an earnings report')
-(u'RMCF', 'has an earnings report')
-(u'DSNY', 'has an earnings report')
-(u'TREE', 'has an earnings report')
-(u'LIVE', 'has an earnings report')
-(u'INFO', 'has an earnings report')
-(u'INFY', 'has an earnings report')
-(u'VRME', 'has an earnings report')
-(u'VOLT', 'has an earnings report')
-(u'WIT', 'has an earnings report')
-(u'SUEZF', 'has an earnings report')
-(u'ARTL', 'has an earnings report')
-(u'AVLNF', 'has an earnings report')
-(u'DAL', 'has an earnings report')
-(u'ALJJ', 'has an earnings report')
-(u'APHA', 'has an earnings report')
-(u'LXRP', 'has an earnings report')
-(u'BLK', 'has an earnings report')
-(u'FRC', 'has an earnings report')
-(u'BMRA', 'has an earnings report')
-(u'LEXX', 'has an earnings report')
-(u'ENBP', 'has an earnings report')
-(u'JCTCF', 'has an earnings report')
-(u'SOTK', 'has an earnings report')
-(u'PRGS', 'has an earnings report')
-(u'FLXN', 'has an earnings report')
-(u'WAFD', 'has an earnings report')
-(u'OPGN', 'has an earnings report')
-(u'ISRG', 'has an earnings report')
-(u'OMCL', 'has an earnings report')
-(u'ORMP', 'has an earnings report')
-(u'PIXY', 'has an earnings report')
-(u'SMIT', 'has an earnings report')
-(u'LOOP', 'has an earnings report')
-(u'BKSC', 'has an earnings report')
-(u'BRBW', 'has an earnings report')
-(u'QEPC', 'has an earnings report')
-(u'FRMO', 'has an earnings report')
-(u'VERO', 'has an earnings report')
-(u'PBCTP', 'has an earnings report')
-(u'RYFL', 'has an earnings report')
-(u'TIKRF', 'has an earnings report')
-(u'NEA', 'has an earnings report')
-(u'ADXS', 'has an earnings report')
-(u'NRK', 'has an earnings report')
-(u'C', 'has an earnings report')
-(u'JPM', 'has an earnings report')
-(u'WFC', 'has an earnings report')
-(u'RQI', 'has an earnings report')
-(u'UTF', 'has an earnings report')
-(u'SINA', 'has an earnings report')
-(u'CZNC', 'has an earnings report')
-(u'GEENQ', 'has an earnings report')
-(u'PNC', 'has an earnings report')
-(u'HIFS', 'has an earnings report')
-(u'SMRTQ', 'has an earnings report')
-('earnings_reports: ', {u'ORMP': '2021-01-13', u'RRGB': '2021-01-11', u'HIFS': '2021-01-15', u'CCL': '2021-01-11', u'CLSH': '2021-01-12', u'WAFD': '2021-01-13', u'RARE': '2021-01-11', u'SMRTQ': '2021-01-15', u'SMIT': '2021-01-13', u'LIVE': '2021-01-12', u'FLXN': '2021-01-13', u'QEPC': '2021-01-14', u'FEDU': '2021-01-12', u'RMCF': '2021-01-12', u'TREE': '2021-01-12', u'LOOP': '2021-01-13', u'CJREF': '2021-01-11', u'EXFO': '2021-01-11', u'WFC': '2021-01-15', u'CMC': '2021-01-10', u'GWPH': '2021-01-10', u'KN': '2021-01-11', u'OPGN': '2021-01-13', u'BMRA': '2021-01-13', u'OMCL': '2021-01-13', u'KBH': '2021-01-11', u'HGSH': '2021-01-12', u'RYFL': '2021-01-14', u'KRUS': '2021-01-10', u'DENN': '2021-01-11', u'VRME': '2021-01-12', u'PI': '2021-01-11', u'C': '2021-01-15', u'LOAC': '2021-01-11', u'PBCTP': '2021-01-14', u'BLK': '2021-01-13', u'ENBP': '2021-01-13', u'BKSC': '2021-01-14', u'CNXC': '2021-01-10', u'VOXX': '2021-01-12', u'CZNC': '2021-01-15', u'LXRP': '2021-01-13', u'SOTK': '2021-01-13', u'NVCR': '2021-01-11', u'PRGS': '2021-01-13', u'SNX': '2021-01-10', u'RQI': '2021-01-15', u'PIXY': '2021-01-13', u'AVLNF': '2021-01-13', u'ACI': '2021-01-11', u'NEA': '2021-01-15', u'PEN': '2021-01-11', u'REXR': '2021-01-11', u'EDUC': '2021-01-11', u'KSHB': '2021-01-10', u'JCTCF': '2021-01-13', u'GEENQ': '2021-01-15', u'ARTL': '2021-01-13', u'FRC': '2021-01-13', u'ATRC': '2021-01-11', u'SJR': '2021-01-12', u'BBW': '2021-01-11', u'EXAS': '2021-01-10', u'CUK': '2021-01-10', u'INFO': '2021-01-12', u'DSNY': '2021-01-12', u'FRMO': '2021-01-14', u'LEXX': '2021-01-13', u'ADXS': '2021-01-15', u'WIT': '2021-01-12', u'INFY': '2021-01-12', u'TIKRF': '2021-01-14', u'AZZ': '2021-01-10', u'PTCT': '2021-01-11', u'SINA': '2021-01-15', u'DAL': '2021-01-13', u'BRBW': '2021-01-14', u'CLOV': '2021-01-11', u'DXCM': '2021-01-11', u'ALJJ': '2021-01-13', u'UTF': '2021-01-15', u'TLFA': '2021-01-11', u'SUEZF': '2021-01-13', u'LMNR': '2021-01-10', u'SLP': '2021-01-10', u'VOLT': '2021-01-12', u'APHA': '2021-01-13', u'ISRG': '2021-01-13', u'VERO': '2021-01-14', u'INLB': '2021-01-12', u'NRK': '2021-01-15', u'JPM': '2021-01-15', u'OGI': '2021-01-11', u'BBCP': '2021-01-11', u'PNC': '2021-01-15'})
 Apple, 70%, Significantly Overvalued, Technology, NO
 Microsoft, 94%, Significantly Overvalued, Technology, NO
 NA
@@ -239,7 +138,7 @@ NA
 NA
 NA
 NA
-British American Tobacco, rating, Possible Value Trap, Think Twice, Consumer Defensive, NO
+British American Tobacco, rating, Possible Value Trap Think Twice, Consumer Defensive, NO
 NA
 NA
 NA
@@ -250,7 +149,7 @@ Anthem, 76%, Fairly Valued, Healthcare, NO
 NA
 Canadian National Railway, 28%, Modestly Overvalued, Industrials, NO
 NA
-CIGNA Corporation, 88%, Possible Value Trap, Think Twice, Healthcare, NO
+CIGNA Corporation, 88%, Possible Value Trap Think Twice, Healthcare, NO
 NA
 NA
 Infosys, 80%, Significantly Overvalued, Technology, 2021-01-12
@@ -319,7 +218,7 @@ NA
 NA
 NA
 Dominion Energy, 47%, Fairly Valued, Utilities, NO
-Vertex Pharmaceuticals, 82%, Possible Value Trap, Think Twice, Healthcare, NO
+Vertex Pharmaceuticals, 82%, Possible Value Trap Think Twice, Healthcare, NO
 NA
 NA
 NA
@@ -1143,7 +1042,7 @@ NA
 NA
 NA
 Globe Life, 29%, Fairly Valued, Financial Services, NO
-Lincoln Financial Group, 50%, Possible Value Trap, Think Twice, Financial Services, NO
+Lincoln Financial Group, 50%, Possible Value Trap Think Twice, Financial Services, NO
 NA
 NA
 Brookfield Renewable Class A, rating, Significantly Overvalued, Utilities, NO
@@ -1524,7 +1423,7 @@ NA
 NA
 NA
 NA
-Blueprint Medicines, 67%, Possible Value Trap, Think Twice, Healthcare, NO
+Blueprint Medicines, 67%, Possible Value Trap Think Twice, Healthcare, NO
 NA
 NA
 NA
@@ -1931,7 +1830,7 @@ NA
 NA
 NA
 NA
-Banco Santander, 50%, Possible Value Trap, Think Twice, Financial Services, NO
+Banco Santander, 50%, Possible Value Trap Think Twice, Financial Services, NO
 NA
 NA
 Murphy USA, rating, Fairly Valued, Consumer Cyclical, NO
@@ -1965,7 +1864,7 @@ TTEC Holdings, 75%, Significantly Overvalued, Technology, NO
 NA
 NA
 NA
-Alliance Data, 55%, Possible Value Trap, Think Twice, Financial Services, NO
+Alliance Data, 55%, Possible Value Trap Think Twice, Financial Services, NO
 NA
 NA
 NA
@@ -2028,7 +1927,7 @@ NA
 NA
 NA
 NA
-White Mountains Insurance, rating, Possible Value Trap, Think Twice, Financial Services, NO
+White Mountains Insurance, rating, Possible Value Trap Think Twice, Financial Services, NO
 NA
 Renewable Energy Group, 100%, Significantly Overvalued, Energy, NO
 NA
@@ -2132,7 +2031,7 @@ NA
 NA
 NA
 NA
-Investors Bank, 100%, Possible Value Trap, Think Twice, Financial Services, NO
+Investors Bank, 100%, Possible Value Trap Think Twice, Financial Services, NO
 NA
 NA
 NA
@@ -2657,7 +2556,7 @@ NA
 NA
 NA
 NA
-Gray Television, 100%, Possible Value Trap, Think Twice, Communication Services, NO
+Gray Television, 100%, Possible Value Trap Think Twice, Communication Services, NO
 NA
 NA
 Sykes, rating, Modestly Overvalued, Technology, NO
@@ -2774,7 +2673,7 @@ NA
 NA
 NA
 NA
-BlackRock Taxable Municipal Bond Trust, rating, Possible Value Trap, Think Twice, Financial Services, NO
+BlackRock Taxable Municipal Bond Trust, rating, Possible Value Trap Think Twice, Financial Services, NO
 NA
 NA
 NA
@@ -2991,7 +2890,7 @@ NA
 NA
 NA
 NA
-LexinFintech, 83%, Possible Value Trap, Think Twice, Financial Services, NO
+LexinFintech, 83%, Possible Value Trap Think Twice, Financial Services, NO
 NA
 NA
 NA
@@ -3102,7 +3001,7 @@ NA
 NA
 NA
 NA
-E.W. Scripps, 50%, Possible Value Trap, Think Twice, Communication Services, NO
+E.W. Scripps, 50%, Possible Value Trap Think Twice, Communication Services, NO
 QuinStreet, rating, Modestly Overvalued, Communication Services, NO
 NA
 NA
@@ -3414,7 +3313,7 @@ NA
 NA
 NA
 NA
-Saul Centers, rating, Possible Value Trap, Think Twice, Real Estate, NO
+Saul Centers, rating, Possible Value Trap Think Twice, Real Estate, NO
 NA
 NA
 NA
@@ -3478,14 +3377,14 @@ NA
 NA
 NA
 NA
-Helix Energy, 88%, Possible Value Trap, Think Twice, Energy, NO
+Helix Energy, 88%, Possible Value Trap Think Twice, Energy, NO
 NA
 NA
 NA
 NA
 NA
 Transportadora de Gas del Sur, rating, Significantly Overvalued, Energy, NO
-Calamos Dynamic Convertible & Income Fund, rating, Possible Value Trap, Think Twice, Financial Services, NO
+Calamos Dynamic Convertible & Income Fund, rating, Possible Value Trap Think Twice, Financial Services, NO
 NA
 NA
 NA
@@ -3495,7 +3394,7 @@ NA
 NA
 NA
 NA
-Bright Scholar Education, rating, Possible Value Trap, Think Twice, Consumer Defensive, NO
+Bright Scholar Education, rating, Possible Value Trap Think Twice, Consumer Defensive, NO
 NA
 Community Trust Bank, rating, Modestly Undervalued, Financial Services, NO
 NA
@@ -3680,7 +3579,7 @@ NA
 NA
 NA
 NA
-Central Pacific Financial, rating, Possible Value Trap, Think Twice, Financial Services, NO
+Central Pacific Financial, rating, Possible Value Trap Think Twice, Financial Services, NO
 NA
 NA
 NA
@@ -3738,7 +3637,7 @@ NA
 NA
 NA
 NA
-SIGA Technologies, rating, Possible Value Trap, Think Twice, Healthcare, NO
+SIGA Technologies, rating, Possible Value Trap Think Twice, Healthcare, NO
 NA
 NA
 NA
@@ -3812,7 +3711,7 @@ NA
 NA
 NA
 NA
-Barrett Business Services, rating, Possible Value Trap, Think Twice, Industrials, NO
+Barrett Business Services, rating, Possible Value Trap Think Twice, Industrials, NO
 NA
 NA
 NA
@@ -3827,7 +3726,7 @@ NA
 failed to do this stock but will do next
 NA
 NA
-International Seaways, 56%, Possible Value Trap, Think Twice, Industrials, NO
+International Seaways, 56%, Possible Value Trap Think Twice, Industrials, NO
 NA
 NA
 NA
@@ -3895,7 +3794,7 @@ NA
 NA
 NA
 NA
-Global Cord Blood, rating, Possible Value Trap, Think Twice, Healthcare, NO
+Global Cord Blood, rating, Possible Value Trap Think Twice, Healthcare, NO
 NA
 NA
 XBiotech, rating, UNK, Healthcare, NO
@@ -4355,7 +4254,7 @@ NA
 NA
 NA
 NA
-Citizens & Northern, rating, Possible Value Trap, Think Twice, Financial Services, 2021-01-15
+Citizens & Northern, rating, Possible Value Trap Think Twice, Financial Services, 2021-01-15
 NA
 NA
 NA
@@ -4489,7 +4388,7 @@ NA
 NA
 NA
 NA
-Heritage Insurance, rating, Possible Value Trap, Think Twice, Financial Services, NO
+Heritage Insurance, rating, Possible Value Trap Think Twice, Financial Services, NO
 NA
 NA
 NA
@@ -4548,7 +4447,7 @@ NA
 NA
 NA
 NA
-Farmers & Merchants Bank, rating, Possible Value Trap, Think Twice, Financial Services, NO
+Farmers & Merchants Bank, rating, Possible Value Trap Think Twice, Financial Services, NO
 NA
 NA
 NA
@@ -5024,7 +4923,7 @@ First Northwest Bank, rating, Modestly Undervalued, Financial Services, NO
 NA
 NA
 NA
-Tsakos Energy Navigation, rating, Possible Value Trap, Think Twice, Energy, NO
+Tsakos Energy Navigation, rating, Possible Value Trap Think Twice, Energy, NO
 NA
 NA
 NA
@@ -5059,7 +4958,7 @@ Community Bankers Trust, rating, Modestly Undervalued, Financial Services, NO
 NA
 NA
 NA
-First Guaranty Bank, rating, Possible Value Trap, Think Twice, Financial Services, NO
+First Guaranty Bank, rating, Possible Value Trap Think Twice, Financial Services, NO
 NA
 NA
 NA
@@ -5105,7 +5004,7 @@ NA
 Security National Financial, rating, Modestly Overvalued, Financial Services, NO
 NA
 NA
-First Savings Bank, rating, Possible Value Trap, Think Twice, Financial Services, NO
+First Savings Bank, rating, Possible Value Trap Think Twice, Financial Services, NO
 NA
 NA
 Ellington Residential Mortgage REIT, rating, UNK, Real Estate, NO
@@ -5143,7 +5042,7 @@ NA
 NA
 NA
 NA
-Pingtan Marine Enterprise, rating, Possible Value Trap, Think Twice, Consumer Defensive, NO
+Pingtan Marine Enterprise, rating, Possible Value Trap Think Twice, Consumer Defensive, NO
 NA
 NA
 NA
@@ -5310,7 +5209,7 @@ NA
 NA
 NA
 NA
-Riverview Bancorp, rating, Possible Value Trap, Think Twice, Financial Services, NO
+Riverview Bancorp, rating, Possible Value Trap Think Twice, Financial Services, NO
 NA
 NA
 NA
@@ -5333,7 +5232,7 @@ NA
 NA
 NA
 J. Alexander's, rating, Fairly Valued, Consumer Cyclical, NO
-Union Bank & Trust, rating, Possible Value Trap, Think Twice, Financial Services, NO
+Union Bank & Trust, rating, Possible Value Trap Think Twice, Financial Services, NO
 NA
 NA
 NA
@@ -5427,7 +5326,7 @@ NA
 NA
 NA
 NA
-Prudential Bank, rating, Possible Value Trap, Think Twice, Financial Services, NO
+Prudential Bank, rating, Possible Value Trap Think Twice, Financial Services, NO
 NA
 NA
 NA
@@ -5685,7 +5584,7 @@ NA
 NA
 NA
 NA
-Coda Octopus, rating, Possible Value Trap, Think Twice, Industrials, NO
+Coda Octopus, rating, Possible Value Trap Think Twice, Industrials, NO
 NA
 NA
 NA
@@ -5910,7 +5809,7 @@ NA
 NA
 NA
 NA
-HV Bancorp, rating, Possible Value Trap, Think Twice, Financial Services, NO
+HV Bancorp, rating, Possible Value Trap Think Twice, Financial Services, NO
 NA
 PermRock Royalty Trust (Unit), rating, UNK, Energy, NO
 NA
@@ -6218,4 +6117,3 @@ NA
 NA
 NA
 Qwest 7% Notes due 2056, rating, UNK, sector, NO
-DasuLaptop> 
