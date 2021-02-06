@@ -1,26 +1,21 @@
-Apple, 70%, Significantly Overvalued, Technology, NO
-Microsoft, 94%, Significantly Overvalued, Technology, NO
-NA
-AMAG, rating, Significantly Overvalued, sector, NO
-Alphabet Class C, 88%, Modestly Overvalued, Communication Services, NO
-Alphabet Class A, 88%, Modestly Overvalued, Communication Services, NO
-NA
-NA
-Facebook, 86%, Modestly Undervalued, Communication Services, NO
-NA
-NA
-NA
-BRK.A, rating, Fairly Valued, sector, NO
-BRK.B, rating, Fairly Valued, sector, NO
-NA
-NA
-NA
-NA
-NA
-Walmart, 79%, Modestly Overvalued, Consumer Defensive, NO
-NA
-Procter & Gamble, 63%, Modestly Overvalued, Consumer Defensive, NO
-UnitedHealth, 78%, Modestly Overvalued, Healthcare, NO
+Gobis-MBP:ld-stocks gobidasu$ python stocks.py 
+Traceback (most recent call last):
+  File "stocks.py", line 1, in <module>
+    import yfinance as yf
+ImportError: No module named yfinance
+Gobis-MBP:ld-stocks gobidasu$ ls
+Final.csv		__pycache__		earnings.py		geckodriver.log		next_week.pyc		report2.csv		stocks.py		tickers.csv		tickers2.csv
+README.md		done.csv		fix_order_of_report.py	next_week.py		report.csv		requirements.txt	testing_navigation.py	tickers1.csv
+Gobis-MBP:ld-stocks gobidasu$ source ../
+.DS_Store               10-ld-draj/             4.zip                   7.zip                   ac-pitchbigclients/     chromedriver_mac64.zip  one-pagers-printable/   rk-scraping-skills/     
+.gitignore              2-wo-pems.zip           5.zip                   8.zip                   blog-pics/              draj/                   rk-initial-work/        
+1.zip                   3.zip                   6.zip                   ac-linkedin-cache/      chromedriver            ld-stocks/              rk-pitchbigclients/     
+Gobis-MBP:ld-stocks gobidasu$ source ../draj/
+rk-venv/      venv_ldrest/  venv_ldrest3/ 
+Gobis-MBP:ld-stocks gobidasu$ source ../draj/venv_ldrest3/
+-bash: source: ../draj/venv_ldrest3/: is a directory
+Gobis-MBP:ld-stocks gobidasu$ source ../draj/venv_ldrest3/bin/activate
+(venv_ldrest3) Gobis-MBP:ld-stocks gobidasu$ python stocks.py 
 NA
 NA
 NA
@@ -28,88 +23,522 @@ NA
 NA
 NA
 NA
-Toyota, 65%, Modestly Overvalued, Consumer Cyclical, NO
-NA
-Verizon, 37%, Fairly Valued, Communication Services, NO
-failed to do this stock but will do next
-NA
-Comcast, 75%, Modestly Overvalued, Communication Services, NO
-NA
-NA
-NA
-NA
-Coca-Cola, 73%, Fairly Valued, Consumer Defensive, NO
-NA
-NA
-NA
-Pfizer, 32%, Fairly Valued, Healthcare, NO
-NA
-NA
-NA
-PepsiCo, 57%, Fairly Valued, Consumer Defensive, NO
 NA
 NA
 NA
 NA
 NA
 NA
-Oracle, 41%, Fairly Valued, Technology, NO
 NA
 NA
 NA
 NA
 NA
 NA
-BHP Billiton, 85%, Modestly Overvalued, Basic Materials, NO
-Accenture, 53%, Modestly Overvalued, Technology, NO
-NA
-failed to do this stock but will do next
-BHP Billiton, rating, Modestly Overvalued, Basic Materials, NO
-Costco, 62%, Modestly Overvalued, Consumer Defensive, NO
 NA
 NA
-McDonald's, 76%, Modestly Overvalued, Consumer Cyclical, NO
-Texas Instruments, 35%, Significantly Overvalued, Technology, NO
+NA
+AKTS has an earnings report
+CACC has an earnings report
+AMANF has an earnings report
+ARLP has an earnings report
+PBSV has an earnings report
+BFIN has an earnings report
+SBT has an earnings report
+NRIM has an earnings report
+CBT has an earnings report
+KRC has an earnings report
+WMG has an earnings report
+KMPR has an earnings report
+LSRCF has an earnings report
+CMRE has an earnings report
+CRUS has an earnings report
+CSWC has an earnings report
+PGC has an earnings report
+ON has an earnings report
+OTIS has an earnings report
+CMICF has an earnings report
+SKY has an earnings report
+PCH has an earnings report
+MRBK has an earnings report
+SMMF has an earnings report
+TMO has an earnings report
+FSFG has an earnings report
+FN has an earnings report
+RMR has an earnings report
+RYAAY has an earnings report
+HLIT has an earnings report
+ITUB has an earnings report
+WWD has an earnings report
+RMBS has an earnings report
+OMCL has an earnings report
+VRTX has an earnings report
+TESS has an earnings report
+KMT has an earnings report
+QTNT has an earnings report
+NXPI has an earnings report
+FCCY has an earnings report
+ARCB has an earnings report
+ABG has an earnings report
+WKCMF has an earnings report
+GOOGL has an earnings report
+MANH has an earnings report
+NVZMY has an earnings report
+NVZMF has an earnings report
+BABA has an earnings report
+AMZN has an earnings report
+ARE has an earnings report
+APAM has an earnings report
+ALGM has an earnings report
+ELUXY has an earnings report
+ATHM has an earnings report
+DOX has an earnings report
+ATGE has an earnings report
+AMCR has an earnings report
+EA has an earnings report
+ATO has an earnings report
+BRKS has an earnings report
+CLPBF has an earnings report
+GOOG has an earnings report
+ATKR has an earnings report
+SKFRY has an earnings report
+TELNY has an earnings report
+AMGN has an earnings report
+VTOL has an earnings report
+BR has an earnings report
+CLDB has an earnings report
+BPAQF has an earnings report
+FBHS has an earnings report
+PBI has an earnings report
+KFFB has an earnings report
+BP has an earnings report
+BPY has an earnings report
+CFBK has an earnings report
+IBTX has an earnings report
+IBTX has an earnings report
+SVBI has an earnings report
+BDN has an earnings report
+EPAY has an earnings report
+SALT has an earnings report
+CWBC has an earnings report
+PBHC has an earnings report
+TECH has an earnings report
+THFF has an earnings report
+CB has an earnings report
+CRVL has an earnings report
+IPHI has an earnings report
+NHNKF has an earnings report
+KKPCF has an earnings report
+MITSY has an earnings report
+DACHF has an earnings report
+OXLC has an earnings report
+CTLT has an earnings report
+XOM has an earnings report
+GAIN has an earnings report
+MPC has an earnings report
+SCCO has an earnings report
+MARUY has an earnings report
+PFIS has an earnings report
+SMCI has an earnings report
+MCK has an earnings report
+MKL has an earnings report
+GPK has an earnings report
+ETN has an earnings report
+LFVN has an earnings report
+JUVF has an earnings report
+SYY has an earnings report
+HAE has an earnings report
+CMG has an earnings report
+WAT has an earnings report
+PMHG has an earnings report
+GRWC has an earnings report
+LCNB has an earnings report
+COP has an earnings report
+EMR has an earnings report
+HMN has an earnings report
+PCRFY has an earnings report
+DLHC has an earnings report
+SKM has an earnings report
+UTL has an earnings report
+OCFT has an earnings report
+TCS has an earnings report
+SANM has an earnings report
+AQUA has an earnings report
+ESALY has an earnings report
+ESALF has an earnings report
+LPG has an earnings report
+HOG has an earnings report
+ENTG has an earnings report
+EPLYF has an earnings report
+FEYE has an earnings report
+FMN has an earnings report
+BEN has an earnings report
+RACE has an earnings report
+WDR has an earnings report
+GL has an earnings report
+LNVGY has an earnings report
+ASH has an earnings report
+ABBV has an earnings report
+HXGBF has an earnings report
+UHAL has an earnings report
+BDABF has an earnings report
+AFL has an earnings report
+ALFVF has an earnings report
+AVY has an earnings report
+ALGT has an earnings report
+APTV has an earnings report
+APO has an earnings report
+PAHC has an earnings report
+KLIC has an earnings report
+ALB has an earnings report
+AFG has an earnings report
+AMSC has an earnings report
+NVO has an earnings report
+JAIRF has an earnings report
+AVTR has an earnings report
+HWM has an earnings report
+SIEGY has an earnings report
+ALL has an earnings report
+ANGI has an earnings report
+AVNW has an earnings report
+HUSQF has an earnings report
+SMAWF has an earnings report
+ADTN has an earnings report
+MAA has an earnings report
+ALGN has an earnings report
+VOLVF has an earnings report
+SAN has an earnings report
+ELF has an earnings report
+ESBS has an earnings report
+BIIB has an earnings report
+BIP has an earnings report
+BSX has an earnings report
+BCH has an earnings report
+PPERF has an earnings report
+BBD has an earnings report
+BPYU has an earnings report
+HWEN has an earnings report
+FGBI has an earnings report
+KLAC has an earnings report
+LNC has an earnings report
+CCMP has an earnings report
+CNHI has an earnings report
+CTSH has an earnings report
+CTVA has an earnings report
+CHNG has an earnings report
+SITM has an earnings report
+CSWC has an earnings report
+IEC has an earnings report
+MSGS has an earnings report
+YUMC has an earnings report
+RGS has an earnings report
+CSGS has an earnings report
+EPM has an earnings report
+GEOS has an earnings report
+LCI has an earnings report
+SMG has an earnings report
+NEU has an earnings report
+CSII has an earnings report
+CENT has an earnings report
+CHKP has an earnings report
+IEX has an earnings report
+SC has an earnings report
+SENEA has an earnings report
+UGI has an earnings report
+CENTA has an earnings report
+SSNEF has an earnings report
+WNC has an earnings report
+GLAD has an earnings report
+PFGC has an earnings report
+YMDAF has an earnings report
+SSUMY has an earnings report
+CPRI has an earnings report
+EMKR has an earnings report
+SIMO has an earnings report
+SNE has an earnings report
+APPS has an earnings report
+DT has an earnings report
+DGII has an earnings report
+EBAY has an earnings report
+EZPW has an earnings report
+PLUS has an earnings report
+EVR has an earnings report
+EPD has an earnings report
+ECHO has an earnings report
+SU has an earnings report
+ENSG has an earnings report
+KE has an earnings report
+FORM has an earnings report
+NICK has an earnings report
+FETM has an earnings report
+HOFJF has an earnings report
+MDU has an earnings report
+THG has an earnings report
+SGU has an earnings report
+TGI has an earnings report
+GWW has an earnings report
+UEPS has an earnings report
+GPI has an earnings report
+ARW has an earnings report
+ATVI has an earnings report
+AINV has an earnings report
+IFNNY has an earnings report
+BDX has an earnings report
+AME has an earnings report
+SINGF has an earnings report
+DB has an earnings report
+OMVKY has an earnings report
+AOSL has an earnings report
+ALCO has an earnings report
+HRRB has an earnings report
+AVB has an earnings report
+ARWR has an earnings report
+ALXN has an earnings report
+APD has an earnings report
+SCMWY has an earnings report
+ABB has an earnings report
+ABC has an earnings report
+AGCO has an earnings report
+AVB has an earnings report
+AXFOF has an earnings report
+SWZCF has an earnings report
+WMS has an earnings report
+VTOL has an earnings report
+BCE has an earnings report
+BMY has an earnings report
+BRBR has an earnings report
+BSAC has an earnings report
+SBH has an earnings report
+BPYPO has an earnings report
+TWST has an earnings report
+BTGOF has an earnings report
+BAX has an earnings report
+BCLI has an earnings report
+NECB has an earnings report
+NGVC has an earnings report
+LARK has an earnings report
+GLBZ has an earnings report
+RBKB has an earnings report
+NBIX has an earnings report
+BEP has an earnings report
+BLL has an earnings report
+BV has an earnings report
+EVBN has an earnings report
+FARM has an earnings report
+NKSH has an earnings report
+PTBS has an earnings report
+BHE has an earnings report
+BILL has an earnings report
+BSIG has an earnings report
+YUM has an earnings report
+SENEB has an earnings report
+MRK has an earnings report
+PCTY has an earnings report
+PH has an earnings report
+PIPR has an earnings report
+RICOY has an earnings report
+CPT has an earnings report
+CSL has an earnings report
+CURO has an earnings report
+CTHR has an earnings report
+F has an earnings report
+GLT has an earnings report
+GOOS has an earnings report
+MZDAF has an earnings report
+NOK has an earnings report
+OCSI has an earnings report
+TAK has an earnings report
+CHGCF has an earnings report
+CMI has an earnings report
+CMS has an earnings report
+FTV has an earnings report
+HSY has an earnings report
+MNR has an earnings report
+TKPHF has an earnings report
+SNPHF has an earnings report
+CI has an earnings report
+LEA has an earnings report
+MDP has an earnings report
+LGF-A has an earnings report
+TDC has an earnings report
+OFC has an earnings report
+GHL has an earnings report
+DECK has an earnings report
+DXC has an earnings report
+KN has an earnings report
+NFG has an earnings report
+NINOY has an earnings report
+CENTA has an earnings report
+LGF-B has an earnings report
+IRMD has an earnings report
+VREX has an earnings report
+CLX has an earnings report
+OCSL has an earnings report
+SXI has an earnings report
+RL has an earnings report
+PBH has an earnings report
+AXTA has an earnings report
+ARTW has an earnings report
+NEA has an earnings report
+AIV has an earnings report
+AIKI has an earnings report
+NRK has an earnings report
+FMAO has an earnings report
+VRTU has an earnings report
+TY has an earnings report
+IO has an earnings report
+CATM has an earnings report
+EPM has an earnings report
+IMMR has an earnings report
+GEOS has an earnings report
+CLCT has an earnings report
+RQI has an earnings report
+UTF has an earnings report
+ULBI has an earnings report
+ULBI has an earnings report
+TCFC has an earnings report
+SINA has an earnings report
+COHR has an earnings report
+EMKR has an earnings report
+GEENQ has an earnings report
+KE has an earnings report
+ECIA has an earnings report
+MYGN has an earnings report
+GIGA has an earnings report
+GTIM has an earnings report
+GTIM has an earnings report
+GIGA has an earnings report
+GLOG has an earnings report
+GLOP has an earnings report
+WTM has an earnings report
+TNAV has an earnings report
+SMRTQ has an earnings report
+TYME has an earnings report
+VSAT has an earnings report
+ADNT has an earnings report
+AON has an earnings report
+VIVO has an earnings report
+VIVO has an earnings report
+BERY has an earnings report
+BRBR has an earnings report
+CIVB has an earnings report
+CIVB has an earnings report
+SPB has an earnings report
+ZBH has an earnings report
+CURO has an earnings report
+TAST has an earnings report
+CCM has an earnings report
+CCM has an earnings report
+CAH has an earnings report
+CSWI has an earnings report
+DJCO has an earnings report
+CBOE has an earnings report
+EL has an earnings report
+ROAD has an earnings report
+ROAD has an earnings report
+FE has an earnings report
+CNXN has an earnings report
+TALO has an earnings report
+NATH has an earnings report
+EAF has an earnings report
+IESC has an earnings report
+LTRPA has an earnings report
+HRC has an earnings report
+ULH has an earnings report
+LIVX has an earnings report
+UI has an earnings report
+ITW has an earnings report
+LBRT has an earnings report
+KRTX has an earnings report
+USAK has an earnings report
+OIIM has an earnings report
+OIIM has an earnings report
+JOUT has an earnings report
+REGN has an earnings report
+LAZ has an earnings report
+LIN has an earnings report
+TT has an earnings report
+earnings_reports:  {'AKTS': '2021-01-31', 'CACC': '2021-01-31', 'AMANF': '2021-01-31', 'ARLP': '2021-01-31', 'PBSV': '2021-01-31', 'BFIN': '2021-01-31', 'SBT': '2021-01-31', 'NRIM': '2021-01-31', 'CBT': '2021-01-31', 'KRC': '2021-01-31', 'WMG': '2021-01-31', 'KMPR': '2021-01-31', 'LSRCF': '2021-01-31', 'CMRE': '2021-01-31', 'CRUS': '2021-01-31', 'CSWC': '2021-02-02', 'PGC': '2021-01-31', 'ON': '2021-01-31', 'OTIS': '2021-01-31', 'CMICF': '2021-01-31', 'SKY': '2021-01-31', 'PCH': '2021-01-31', 'MRBK': '2021-01-31', 'SMMF': '2021-01-31', 'TMO': '2021-01-31', 'FSFG': '2021-01-31', 'FN': '2021-01-31', 'RMR': '2021-01-31', 'RYAAY': '2021-01-31', 'HLIT': '2021-01-31', 'ITUB': '2021-01-31', 'WWD': '2021-01-31', 'RMBS': '2021-01-31', 'OMCL': '2021-01-31', 'VRTX': '2021-01-31', 'TESS': '2021-01-31', 'KMT': '2021-01-31', 'QTNT': '2021-01-31', 'NXPI': '2021-01-31', 'FCCY': '2021-02-01', 'ARCB': '2021-02-01', 'ABG': '2021-02-01', 'WKCMF': '2021-02-01', 'GOOGL': '2021-02-01', 'MANH': '2021-02-01', 'NVZMY': '2021-02-01', 'NVZMF': '2021-02-01', 'BABA': '2021-02-01', 'AMZN': '2021-02-01', 'ARE': '2021-02-01', 'APAM': '2021-02-01', 'ALGM': '2021-02-01', 'ELUXY': '2021-02-01', 'ATHM': '2021-02-01', 'DOX': '2021-02-01', 'ATGE': '2021-02-01', 'AMCR': '2021-02-01', 'EA': '2021-02-01', 'ATO': '2021-02-01', 'BRKS': '2021-02-01', 'CLPBF': '2021-02-01', 'GOOG': '2021-02-01', 'ATKR': '2021-02-01', 'SKFRY': '2021-02-01', 'TELNY': '2021-02-01', 'AMGN': '2021-02-01', 'VTOL': '2021-02-03', 'BR': '2021-02-01', 'CLDB': '2021-02-01', 'BPAQF': '2021-02-01', 'FBHS': '2021-02-01', 'PBI': '2021-02-01', 'KFFB': '2021-02-01', 'BP': '2021-02-01', 'BPY': '2021-02-01', 'CFBK': '2021-02-01', 'IBTX': '2021-02-01', 'SVBI': '2021-02-01', 'BDN': '2021-02-01', 'EPAY': '2021-02-01', 'SALT': '2021-02-01', 'CWBC': '2021-02-01', 'PBHC': '2021-02-01', 'TECH': '2021-02-01', 'THFF': '2021-02-01', 'CB': '2021-02-01', 'CRVL': '2021-02-01', 'IPHI': '2021-02-01', 'NHNKF': '2021-02-01', 'KKPCF': '2021-02-01', 'MITSY': '2021-02-01', 'DACHF': '2021-02-01', 'OXLC': '2021-02-01', 'CTLT': '2021-02-01', 'XOM': '2021-02-01', 'GAIN': '2021-02-01', 'MPC': '2021-02-01', 'SCCO': '2021-02-01', 'MARUY': '2021-02-01', 'PFIS': '2021-02-01', 'SMCI': '2021-02-01', 'MCK': '2021-02-01', 'MKL': '2021-02-01', 'GPK': '2021-02-01', 'ETN': '2021-02-01', 'LFVN': '2021-02-01', 'JUVF': '2021-02-01', 'SYY': '2021-02-01', 'HAE': '2021-02-01', 'CMG': '2021-02-01', 'WAT': '2021-02-01', 'PMHG': '2021-02-01', 'GRWC': '2021-02-01', 'LCNB': '2021-02-01', 'COP': '2021-02-01', 'EMR': '2021-02-01', 'HMN': '2021-02-01', 'PCRFY': '2021-02-01', 'DLHC': '2021-02-01', 'SKM': '2021-02-01', 'UTL': '2021-02-01', 'OCFT': '2021-02-01', 'TCS': '2021-02-01', 'SANM': '2021-02-01', 'AQUA': '2021-02-01', 'ESALY': '2021-02-01', 'ESALF': '2021-02-01', 'LPG': '2021-02-01', 'HOG': '2021-02-01', 'ENTG': '2021-02-01', 'EPLYF': '2021-02-01', 'FEYE': '2021-02-01', 'FMN': '2021-02-01', 'BEN': '2021-02-01', 'RACE': '2021-02-01', 'WDR': '2021-02-01', 'GL': '2021-02-01', 'LNVGY': '2021-02-01', 'ASH': '2021-02-02', 'ABBV': '2021-02-02', 'HXGBF': '2021-02-02', 'UHAL': '2021-02-02', 'BDABF': '2021-02-02', 'AFL': '2021-02-02', 'ALFVF': '2021-02-02', 'AVY': '2021-02-02', 'ALGT': '2021-02-02', 'APTV': '2021-02-02', 'APO': '2021-02-02', 'PAHC': '2021-02-02', 'KLIC': '2021-02-02', 'ALB': '2021-02-02', 'AFG': '2021-02-02', 'AMSC': '2021-02-02', 'NVO': '2021-02-02', 'JAIRF': '2021-02-02', 'AVTR': '2021-02-02', 'HWM': '2021-02-02', 'SIEGY': '2021-02-02', 'ALL': '2021-02-02', 'ANGI': '2021-02-02', 'AVNW': '2021-02-02', 'HUSQF': '2021-02-02', 'SMAWF': '2021-02-02', 'ADTN': '2021-02-02', 'MAA': '2021-02-02', 'ALGN': '2021-02-02', 'VOLVF': '2021-02-02', 'SAN': '2021-02-02', 'ELF': '2021-02-02', 'ESBS': '2021-02-02', 'BIIB': '2021-02-02', 'BIP': '2021-02-02', 'BSX': '2021-02-02', 'BCH': '2021-02-02', 'PPERF': '2021-02-02', 'BBD': '2021-02-02', 'BPYU': '2021-02-02', 'HWEN': '2021-02-02', 'FGBI': '2021-02-02', 'KLAC': '2021-02-02', 'LNC': '2021-02-02', 'CCMP': '2021-02-02', 'CNHI': '2021-02-02', 'CTSH': '2021-02-02', 'CTVA': '2021-02-02', 'CHNG': '2021-02-02', 'SITM': '2021-02-02', 'IEC': '2021-02-02', 'MSGS': '2021-02-02', 'YUMC': '2021-02-02', 'RGS': '2021-02-02', 'CSGS': '2021-02-02', 'EPM': '2021-02-04', 'GEOS': '2021-02-04', 'LCI': '2021-02-02', 'SMG': '2021-02-02', 'NEU': '2021-02-02', 'CSII': '2021-02-02', 'CENT': '2021-02-02', 'CHKP': '2021-02-02', 'IEX': '2021-02-02', 'SC': '2021-02-02', 'SENEA': '2021-02-02', 'UGI': '2021-02-02', 'CENTA': '2021-02-03', 'SSNEF': '2021-02-02', 'WNC': '2021-02-02', 'GLAD': '2021-02-02', 'PFGC': '2021-02-02', 'YMDAF': '2021-02-02', 'SSUMY': '2021-02-02', 'CPRI': '2021-02-02', 'EMKR': '2021-02-04', 'SIMO': '2021-02-02', 'SNE': '2021-02-02', 'APPS': '2021-02-02', 'DT': '2021-02-02', 'DGII': '2021-02-02', 'EBAY': '2021-02-02', 'EZPW': '2021-02-02', 'PLUS': '2021-02-02', 'EVR': '2021-02-02', 'EPD': '2021-02-02', 'ECHO': '2021-02-02', 'SU': '2021-02-02', 'ENSG': '2021-02-02', 'KE': '2021-02-04', 'FORM': '2021-02-02', 'NICK': '2021-02-02', 'FETM': '2021-02-02', 'HOFJF': '2021-02-02', 'MDU': '2021-02-02', 'THG': '2021-02-02', 'SGU': '2021-02-02', 'TGI': '2021-02-02', 'GWW': '2021-02-02', 'UEPS': '2021-02-03', 'GPI': '2021-02-03', 'ARW': '2021-02-03', 'ATVI': '2021-02-03', 'AINV': '2021-02-03', 'IFNNY': '2021-02-03', 'BDX': '2021-02-03', 'AME': '2021-02-03', 'SINGF': '2021-02-03', 'DB': '2021-02-03', 'OMVKY': '2021-02-03', 'AOSL': '2021-02-03', 'ALCO': '2021-02-03', 'HRRB': '2021-02-03', 'AVB': '2021-02-03', 'ARWR': '2021-02-03', 'ALXN': '2021-02-03', 'APD': '2021-02-03', 'SCMWY': '2021-02-03', 'ABB': '2021-02-03', 'ABC': '2021-02-03', 'AGCO': '2021-02-03', 'AXFOF': '2021-02-03', 'SWZCF': '2021-02-03', 'WMS': '2021-02-03', 'BCE': '2021-02-03', 'BMY': '2021-02-03', 'BRBR': '2021-02-05', 'BSAC': '2021-02-03', 'SBH': '2021-02-03', 'BPYPO': '2021-02-03', 'TWST': '2021-02-03', 'BTGOF': '2021-02-03', 'BAX': '2021-02-03', 'BCLI': '2021-02-03', 'NECB': '2021-02-03', 'NGVC': '2021-02-03', 'LARK': '2021-02-03', 'GLBZ': '2021-02-03', 'RBKB': '2021-02-03', 'NBIX': '2021-02-03', 'BEP': '2021-02-03', 'BLL': '2021-02-03', 'BV': '2021-02-03', 'EVBN': '2021-02-03', 'FARM': '2021-02-03', 'NKSH': '2021-02-03', 'PTBS': '2021-02-03', 'BHE': '2021-02-03', 'BILL': '2021-02-03', 'BSIG': '2021-02-03', 'YUM': '2021-02-03', 'SENEB': '2021-02-03', 'MRK': '2021-02-03', 'PCTY': '2021-02-03', 'PH': '2021-02-03', 'PIPR': '2021-02-03', 'RICOY': '2021-02-03', 'CPT': '2021-02-03', 'CSL': '2021-02-03', 'CURO': '2021-02-05', 'CTHR': '2021-02-03', 'F': '2021-02-03', 'GLT': '2021-02-03', 'GOOS': '2021-02-03', 'MZDAF': '2021-02-03', 'NOK': '2021-02-03', 'OCSI': '2021-02-03', 'TAK': '2021-02-03', 'CHGCF': '2021-02-03', 'CMI': '2021-02-03', 'CMS': '2021-02-03', 'FTV': '2021-02-03', 'HSY': '2021-02-03', 'MNR': '2021-02-03', 'TKPHF': '2021-02-03', 'SNPHF': '2021-02-03', 'CI': '2021-02-03', 'LEA': '2021-02-03', 'MDP': '2021-02-03', 'LGF-A': '2021-02-03', 'TDC': '2021-02-03', 'OFC': '2021-02-03', 'GHL': '2021-02-03', 'DECK': '2021-02-03', 'DXC': '2021-02-03', 'KN': '2021-02-03', 'NFG': '2021-02-03', 'NINOY': '2021-02-03', 'LGF-B': '2021-02-03', 'IRMD': '2021-02-03', 'VREX': '2021-02-03', 'CLX': '2021-02-03', 'OCSL': '2021-02-03', 'SXI': '2021-02-03', 'RL': '2021-02-03', 'PBH': '2021-02-03', 'AXTA': '2021-02-04', 'ARTW': '2021-02-04', 'NEA': '2021-02-04', 'AIV': '2021-02-04', 'AIKI': '2021-02-04', 'NRK': '2021-02-04', 'FMAO': '2021-02-04', 'VRTU': '2021-02-04', 'TY': '2021-02-04', 'IO': '2021-02-04', 'CATM': '2021-02-04', 'IMMR': '2021-02-04', 'CLCT': '2021-02-04', 'RQI': '2021-02-04', 'UTF': '2021-02-04', 'ULBI': '2021-02-04', 'TCFC': '2021-02-04', 'SINA': '2021-02-04', 'COHR': '2021-02-04', 'GEENQ': '2021-02-04', 'ECIA': '2021-02-04', 'MYGN': '2021-02-04', 'GIGA': '2021-02-04', 'GTIM': '2021-02-04', 'GLOG': '2021-02-04', 'GLOP': '2021-02-04', 'WTM': '2021-02-04', 'TNAV': '2021-02-04', 'SMRTQ': '2021-02-04', 'TYME': '2021-02-04', 'VSAT': '2021-02-04', 'ADNT': '2021-02-05', 'AON': '2021-02-05', 'VIVO': '2021-02-05', 'BERY': '2021-02-05', 'CIVB': '2021-02-05', 'SPB': '2021-02-05', 'ZBH': '2021-02-05', 'TAST': '2021-02-05', 'CCM': '2021-02-05', 'CAH': '2021-02-05', 'CSWI': '2021-02-05', 'DJCO': '2021-02-05', 'CBOE': '2021-02-05', 'EL': '2021-02-05', 'ROAD': '2021-02-05', 'FE': '2021-02-05', 'CNXN': '2021-02-05', 'TALO': '2021-02-05', 'NATH': '2021-02-05', 'EAF': '2021-02-05', 'IESC': '2021-02-05', 'LTRPA': '2021-02-05', 'HRC': '2021-02-05', 'ULH': '2021-02-05', 'LIVX': '2021-02-05', 'UI': '2021-02-05', 'ITW': '2021-02-05', 'LBRT': '2021-02-05', 'KRTX': '2021-02-05', 'USAK': '2021-02-05', 'OIIM': '2021-02-05', 'JOUT': '2021-02-05', 'REGN': '2021-02-05', 'LAZ': '2021-02-05', 'LIN': '2021-02-05', 'TT': '2021-02-05'}
+UnitedHealth, 76%, Fairly Valued, Healthcare, NO
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+Merck, 76%, Modestly Undervalued, Healthcare, 2021-02-03
+NA
+Pfizer, 30%, Fairly Valued, Healthcare, NO
+NA
+NA
+Eli Lilly, 60%, Significantly Overvalued, Healthcare, NO
+NA
+NA
+NA
+NA
+Qualcomm, 70%, Significantly Overvalued, Technology, NO
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
 Unilever, 57%, Fairly Valued, Consumer Defensive, NO
-SAP, 55%, Modestly Undervalued, Technology, NO
 NA
 NA
 NA
 NA
-Union Pacific, 67%, Significantly Overvalued, Industrials, NO
-Honeywell, 58%, Significantly Overvalued, Industrials, NO
+Amgen, 47%, Fairly Valued, Healthcare, 2021-02-01
 NA
 NA
 NA
-JD.com, 88%, Significantly Overvalued, Consumer Cyclical, NO
 NA
 NA
-Morgan Stanley, 67%, Modestly Overvalued, Financial Services, NO
+China Life Insurance, 69%, Possible Value Trap, Think Twice, Financial Services, NO
 NA
-Citigroup, 78%, Modestly Undervalued, Financial Services, 2021-01-15
 NA
 NA
-Rio Tinto, rating, Significantly Overvalued, Basic Materials, NO
 NA
-Sony, 83%, Significantly Overvalued, Technology, NO
-Philip Morris, 74%, Fairly Valued, Consumer Defensive, NO
 NA
 NA
 NA
-Grupo Aeroportuario del Pacific, 41%, Modestly Overvalued, Industrials, NO
 NA
 NA
 NA
 NA
 NA
-IBM, 31%, Fairly Valued, Technology, NO
 NA
 NA
 NA
 NA
 NA
-BlackRock, 88%, Modestly Overvalued, Financial Services, 2021-01-13
-Charles Schwab, 47%, Modestly Overvalued, Financial Services, NO
 NA
 NA
 NA
@@ -119,7 +548,6 @@ NA
 NA
 NA
 NA
-GE, 71%, Significantly Overvalued, Industrials, NO
 NA
 NA
 NA
@@ -127,9 +555,7 @@ NA
 NA
 NA
 NA
-3M, 11%, Fairly Valued, Industrials, NO
 NA
-Vale, 95%, Significantly Overvalued, Basic Materials, NO
 NA
 NA
 NA
@@ -138,21 +564,15 @@ NA
 NA
 NA
 NA
-British American Tobacco, rating, Possible Value Trap Think Twice, Consumer Defensive, NO
 NA
 NA
+GlaxoSmithKline, 43%, Modestly Undervalued, Healthcare, NO
 NA
-Mondelez, 88%, Fairly Valued, Consumer Defensive, NO
 NA
-Baidu, 76%, Significantly Overvalued, Communication Services, NO
-Anthem, 76%, Fairly Valued, Healthcare, NO
 NA
-Canadian National Railway, 28%, Modestly Overvalued, Industrials, NO
 NA
-CIGNA Corporation, 88%, Possible Value Trap Think Twice, Healthcare, NO
 NA
 NA
-Infosys, 80%, Significantly Overvalued, Technology, 2021-01-12
 NA
 NA
 NA
@@ -162,234 +582,17 @@ NA
 NA
 NA
 NA
-S&P Global, 73%, Modestly Overvalued, Financial Services, NO
-US Bank, 38%, Modestly Undervalued, Financial Services, NO
 NA
 NA
 NA
+CIGNA Corporation, 88%, Possible Value Trap, Think Twice, Healthcare, 2021-02-03
 NA
 NA
-CSX, 65%, Significantly Overvalued, Industrials, NO
 NA
 NA
 NA
 NA
-NA
-Colgate, 45%, Modestly Overvalued, Consumer Defensive, NO
-Chubb, 59%, Fairly Valued, Financial Services, NO
-Activision Blizzard, 81%, Modestly Overvalued, Communication Services, NO
-failed to do this stock but will do next
-CME Group, 50%, Fairly Valued, Financial Services, NO
-NA
-Automatic Data Processing, 24%, Fairly Valued, Industrials, NO
-NA
-NA
-NA
-NA
-NA
-NA
-NA
-NA
-failed to do this stock but will do next
-NA
-NA
-PNC Financial, 32%, Fairly Valued, Financial Services, 2021-01-15
-Sherwin-Williams, 57%, Significantly Overvalued, Basic Materials, NO
-Intercontinental Exchange, 86%, Significantly Overvalued, Financial Services, NO
-NA
-Illinois Tool Works, 18%, Significantly Overvalued, Industrials, NO
-Norfolk Southern, 58%, Significantly Overvalued, Industrials, NO
-ABB Group, 33%, Significantly Overvalued, Industrials, NO
-NA
-failed to do this stock but will do next
-NA
-Southern, 41%, Modestly Overvalued, Utilities, NO
-NA
-NA
-NA
-NA
-NA
-NA
-NA
-Canadian Pacific Railway, 55%, Significantly Overvalued, Industrials, NO
-NA
-NA
-NA
-NA
-NA
-Dominion Energy, 47%, Fairly Valued, Utilities, NO
-Vertex Pharmaceuticals, 82%, Possible Value Trap Think Twice, Healthcare, NO
-NA
-NA
-NA
-NA
-NA
-HCA Healthcare, 76%, Modestly Overvalued, Healthcare, NO
-VMware, 71%, Modestly Undervalued, Technology, NO
-Marsh & McLennan, 30%, Fairly Valued, Financial Services, NO
-NA
-NA
-Dell, 55%, UNK, Technology, NO
-NA
-NA
-NA
-NA
-NA
-Itau Unibanco, 64%, Modestly Overvalued, Financial Services, NO
-NA
-NA
-NA
-NA
-Humana, 72%, Fairly Valued, Healthcare, NO
-NA
-failed to do this stock but will do next
-NA
-Dollar General, 74%, Modestly Overvalued, Consumer Defensive, NO
-ICICI Bank, 100%, UNK, Financial Services, NO
-NA
-NA
-NA
-NA
-NA
-NA
-NA
-NA
-NA
-NA
-NA
-NA
-NA
-NA
-NA
-NA
-NA
-NA
-Moody's, 63%, Modestly Overvalued, Financial Services, NO
-NA
-Newmont, 70%, Significantly Overvalued, Basic Materials, NO
-Honda, 88%, Modestly Overvalued, Consumer Cyclical, NO
-NA
-NA
-Royal Philips, 74%, Modestly Overvalued, Healthcare, NO
-America Movil, 79%, Fairly Valued, Communication Services, NO
-America Movil, 79%, Modestly Overvalued, Communication Services, NO
-Eaton, 61%, Significantly Overvalued, Industrials, NO
-Waste Management, 44%, Modestly Overvalued, Industrials, NO
-NA
-NA
-NA
-RELX, rating, Fairly Valued, Communication Services, NO
-NA
-NA
-NA
-Vodafone, 85%, Modestly Undervalued, Communication Services, NO
-NA
-NA
-NA
-NA
-NA
-NA
-Keurig Dr Pepper, 56%, Fairly Valued, Consumer Defensive, NO
-NA
-Kimberly-Clark, 38%, Fairly Valued, Consumer Defensive, NO
-NA
-Align Technology, 59%, Significantly Overvalued, Healthcare, NO
-NA
-NA
-NA
-failed to do this stock but will do next
-Roper Technologies, 43%, Modestly Overvalued, Industrials, NO
-Cognizant, 47%, Fairly Valued, Technology, NO
-NA
-NA
-NA
-NA
-Constellation Brands, 67%, Fairly Valued, Consumer Defensive, NO
-STZ.B, rating, Fairly Valued, sector, NO
-NA
-NA
-National Grid, 75%, Fairly Valued, Utilities, NO
-NA
-NA
-NA
-NA
-NA
-NA
-Barrick Gold, 71%, Significantly Overvalued, Basic Materials, NO
-NA
-NA
-NA
-NA
-EA, 61%, Modestly Overvalued, Communication Services, NO
-NA
-NA
-Thomson Reuters, 38%, Fairly Valued, Industrials, NO
-NA
-NA
-NA
-NA
-NA
-NA
-NA
-NA
-Amphenol, 58%, Modestly Overvalued, Technology, NO
-NA
-NA
-NA
-NA
-NA
-NA
-NA
-NA
-NA
-NA
-Aptiv, 74%, Significantly Overvalued, Consumer Cyclical, NO
-NA
-NA
-NA
-NA
-Restaurant Brands International, 72%, Modestly Undervalued, Consumer Cyclical, NO
-Cadence Design Systems, 63%, Significantly Overvalued, Technology, NO
-NA
-NA
-ING Group, 68%, UNK, Financial Services, NO
-NA
-Centene, 89%, Fairly Valued, Healthcare, NO
-NA
-NA
-NA
-failed to do this stock but will do next
-NA
-NA
-Ericsson, 73%, Modestly Overvalued, Technology, NO
-Stmicroelectronics, 62%, Significantly Overvalued, Technology, NO
-NA
-NA
-NA
-NA
-NA
-NA
-NA
-failed to do this stock but will do next
-NA
-NA
-NA
-NA
-NA
-NA
-Barclays, 52%, Fairly Valued, Financial Services, NO
-NA
-NA
-NA
-NA
-NA
-NA
-NA
-NA
-NA
-NA
-NA
-NA
+Anthem, 78%, Modestly Undervalued, Healthcare, NO
 NA
 NA
 NA
@@ -408,104 +611,11 @@ NA
 NA
 NA
 failed to do this stock but will do next
-PPG, 52%, Significantly Overvalued, Basic Materials, NO
-Carrier Global, 56%, UNK, Industrials, NO
 NA
-CRH, 76%, Fairly Valued, Basic Materials, NO
-NA
-NA
-BF.B, rating, Modestly Overvalued, sector, NO
-BF.A, rating, Significantly Overvalued, sector, NO
-NA
-NA
-General Mills, 27%, Fairly Valued, Consumer Defensive, NO
-NA
-Alexion Pharmaceuticals, 28%, Fairly Valued, Healthcare, NO
-Cintas, 40%, Significantly Overvalued, Industrials, NO
-NA
-NA
-NA
-NA
-Xcel Energy, 13%, Fairly Valued, Utilities, NO
-NA
-NA
-NA
-NA
-O'Reilly Auto Parts, 65%, Fairly Valued, Consumer Cyclical, NO
-NA
-NA
-Allstate, 53%, Fairly Valued, Financial Services, NO
-NA
-NA
-NA
-NA
-NA
-NA
-NA
-NA
-NA
-NA
-HP, 33%, Modestly Overvalued, Technology, NO
-NA
-NA
-NA
-Yum!, 37%, Fairly Valued, Consumer Cyclical, NO
-NA
-Paychex, 18%, Fairly Valued, Industrials, NO
-LyondellBasell, 32%, Significantly Overvalued, Basic Materials, NO
-NA
-Orange, 73%, Modestly Undervalued, Communication Services, NO
-NA
-NA
-NA
-NA
-NA
-Banco Santander Brasil, 58%, Modestly Undervalued, Financial Services, NO
-NA
-NA
-NA
-NA
-Eversource, 37%, Modestly Overvalued, Utilities, NO
 NA
 failed to do this stock but will do next
 NA
 NA
-Republic Services, 56%, Modestly Overvalued, Industrials, NO
-NA
-NA
-NA
-NA
-Rockwell Automation, 31%, Significantly Overvalued, Industrials, NO
-Interactive Brokers, 50%, Fairly Valued, Financial Services, NO
-NA
-NA
-Motorola Solutions, 75%, Modestly Overvalued, Technology, NO
-NA
-NA
-NA
-NA
-NA
-NA
-Archer Daniels Midland, 77%, Modestly Overvalued, Consumer Defensive, NO
-Fastenal, 18%, Significantly Overvalued, Industrials, NO
-NA
-NA
-NA
-NA
-NA
-Otis Worldwide, 64%, UNK, Industrials, NO
-AutoZone, 61%, Fairly Valued, Consumer Cyclical, NO
-NA
-NA
-NA
-NA
-NA
-NA
-Stanley Black & Decker, 63%, Modestly Overvalued, Industrials, NO
-NA
-NA
-Sun Life, 47%, Fairly Valued, Financial Services, NO
-Ametek, 76%, Significantly Overvalued, Industrials, NO
 NA
 NA
 NA
@@ -514,47 +624,395 @@ NA
 NA
 NA
 NA
-Telus, 73%, Fairly Valued, Communication Services, NO
-NA
-First Republic Bank, 35%, Modestly Overvalued, Financial Services, 2021-01-13
-NA
-NA
-failed to do this stock but will do next
-NatWest, 36%, Modestly Undervalued, Financial Services, NO
-NA
-NA
-Dollar Tree, 56%, Fairly Valued, Consumer Defensive, NO
 NA
 NA
 NA
 NA
-Skyworks, 65%, Significantly Overvalued, Technology, NO
+NA
+NA
+ABB Group, 29%, Modestly Overvalued, Industrials, 2021-02-03
 NA
 NA
 NA
 NA
-Clorox, 31%, Fairly Valued, Consumer Defensive, NO
-McCormick, 17%, Modestly Overvalued, Consumer Defensive, NO
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+Air Products & Chemicals, 52%, Modestly Overvalued, Basic Materials, 2021-02-03
+NA
+Vertex Pharmaceuticals, 83%, Possible Value Trap, Think Twice, Healthcare, 2021-01-31
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+Regeneron, 67%, Fairly Valued, Healthcare, 2021-02-05
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+Humana, 71%, Modestly Undervalued, Healthcare, NO
+NA
+NA
+NA
+NA
+NA
+NA
+Dollar General, 69%, Fairly Valued, Consumer Defensive, NO
+NA
+NA
+NA
+NA
+NA
+NA
+Newmont, 71%, Significantly Overvalued, Basic Materials, NO
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+America Movil, 84%, Fairly Valued, Communication Services, NO
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+Cognizant, 52%, Fairly Valued, Technology, 2021-02-02
+NA
+NA
+NA
+EA, 65%, Modestly Overvalued, Communication Services, 2021-02-01
+NA
+NA
+NA
+Barrick Gold, 82%, Significantly Overvalued, Basic Materials, NO
+NA
+NA
+NA
+Biogen, 41%, Modestly Undervalued, Healthcare, 2021-02-02
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+Cummins, 30%, Significantly Overvalued, Industrials, 2021-02-03
+NA
+NA
+NA
+NA
+NA
+Centene, 78%, Modestly Undervalued, Healthcare, NO
+NA
+NA
+NA
+NA
+NA
+NA
+Marvell, 75%, Significantly Overvalued, Technology, NO
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+General Mills, 24%, Fairly Valued, Consumer Defensive, NO
+NA
+NA
+NA
+NA
+NA
+NA
+Xcel Energy, 13%, Modestly Overvalued, Utilities, NO
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+Allstate, 58%, Fairly Valued, Financial Services, 2021-02-02
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+Rockwell Automation, 36%, Significantly Overvalued, Industrials, NO
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+Otis Worldwide, 64%, UNK, Industrials, 2021-01-31
+NA
+NA
+NA
+NA
+NA
+NA
+WEC Energy, 13%, Fairly Valued, Utilities, NO
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+Kroger, 26%, Fairly Valued, Consumer Defensive, NO
+NA
+NA
+Clorox, 29%, Fairly Valued, Consumer Defensive, 2021-02-03
+NA
+NA
+Sirius XM, 65%, Modestly Undervalued, Communication Services, NO
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+Fresenius Medical Care, 57%, Significantly Undervalued, Healthcare, NO
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
 MKC.V, rating, Modestly Overvalued, sector, NO
-Sirius XM, 72%, Modestly Undervalued, Communication Services, NO
 NA
+Cerner, 55%, Modestly Overvalued, Healthcare, NO
 NA
-Fresenius Medical Care, 67%, Modestly Undervalued, Healthcare, NO
 NA
 NA
 NA
 NA
+Fortis, 56%, Fairly Valued, Utilities, NO
 NA
 NA
-Telkom Indonesia, 96%, Fairly Valued, Communication Services, NO
 NA
 NA
 NA
 NA
+Nokia, 45%, Modestly Undervalued, Technology, 2021-02-03
 NA
 NA
-Hormel, 0%, Fairly Valued, Consumer Defensive, NO
-Rogers Communications, 60%, Fairly Valued, Communication Services, NO
 NA
 NA
 NA
@@ -563,7 +1021,6 @@ NA
 NA
 NA
 NA
-Liberty Media, 89%, Modestly Undervalued, Communication Services, NO
 NA
 NA
 NA
@@ -571,12 +1028,10 @@ NA
 NA
 NA
 NA
-Yum China, 85%, Significantly Overvalued, Consumer Cyclical, NO
 NA
 NA
 NA
 NA
-Consolidated Edison, 6%, Modestly Undervalued, Utilities, NO
 NA
 NA
 NA
@@ -584,10 +1039,10 @@ NA
 NA
 NA
 NA
-Garmin, 33%, Significantly Overvalued, Technology, NO
 NA
 NA
 NA
+LabCorp, 89%, Fairly Valued, Healthcare, NO
 NA
 NA
 NA
@@ -597,62 +1052,47 @@ NA
 NA
 NA
 NA
-Banco Bradesco, 85%, Modestly Undervalued, Financial Services, NO
 NA
 NA
 NA
-Arthur J. Gallagher, 86%, Significantly Overvalued, Financial Services, NO
-VeriSign, rating, Fairly Valued, Technology, NO
 NA
-FleetCor, 57%, Modestly Overvalued, Technology, NO
 NA
 NA
 NA
 NA
-ICL Group, 13%, Significantly Overvalued, Basic Materials, NO
 NA
 NA
 NA
 NA
-Hershey, 20%, Modestly Overvalued, Consumer Defensive, NO
-failed to do this stock but will do next
 NA
 NA
 NA
+Church & Dwight, 35%, Fairly Valued, Consumer Defensive, NO
 NA
 NA
 NA
-POSCO, 96%, Modestly Overvalued, Basic Materials, NO
-Vulcan, 27%, Modestly Overvalued, Basic Materials, NO
 NA
-Church & Dwight, 32%, Fairly Valued, Consumer Defensive, NO
 NA
 NA
 NA
-Grainger, 33%, Modestly Overvalued, Industrials, NO
 NA
-Kellogg, 41%, Fairly Valued, Consumer Defensive, NO
 NA
 NA
-Northern Trust, 28%, Modestly Undervalued, Financial Services, NO
 NA
 NA
 NA
 NA
+Kellogg, 33%, Modestly Undervalued, Consumer Defensive, NO
 NA
 NA
 NA
-failed to do this stock but will do next
-Hologic, 71%, Modestly Overvalued, Healthcare, NO
 NA
 NA
 NA
-failed to do this stock but will do next
 NA
 NA
 NA
 NA
-failed to do this stock but will do next
 NA
 NA
 NA
@@ -663,10 +1103,10 @@ NA
 NA
 NA
 NA
-failed to do this stock but will do next
 NA
 NA
 NA
+Cheniere Energy, 11%, Modestly Overvalued, Energy, NO
 NA
 NA
 NA
@@ -674,155 +1114,31 @@ NA
 NA
 NA
 NA
-CDW, 64%, Modestly Overvalued, Technology, NO
 NA
-Entergy, 74%, Modestly Overvalued, Utilities, NO
-Vipshop, 73%, Significantly Overvalued, Consumer Cyclical, NO
 NA
-Martin Marietta, 35%, Modestly Overvalued, Basic Materials, NO
 NA
 NA
 NA
 NA
 NA
 NA
+Check Point Software Technologies, 17%, Modestly Undervalued, Technology, 2021-02-02
 NA
-failed to do this stock but will do next
 NA
 NA
 NA
-Nomura, 30%, Fairly Valued, Financial Services, NO
 NA
 NA
 NA
-United Rentals, 44%, Significantly Overvalued, Industrials, NO
 NA
-Ameren, 62%, Fairly Valued, Utilities, NO
 NA
 NA
 NA
-SK Telecom, 100%, Fairly Valued, Communication Services, NO
 NA
 NA
-Dover, 53%, Significantly Overvalued, Industrials, NO
 NA
 NA
-Bio-Rad Laboratories, rating, Significantly Overvalued, Healthcare, NO
 NA
-NA
-failed to do this stock but will do next
-CGI Inc., 73%, Fairly Valued, Technology, NO
-Check Point Software Technologies, 17%, Fairly Valued, Technology, NO
-NA
-NA
-NA
-DISH Network, 39%, Fairly Valued, Communication Services, NO
-Broadridge, 33%, Modestly Overvalued, Technology, NO
-NA
-NA
-NA
-Amcor PLC, 50%, UNK, Consumer Cyclical, NO
-Trimble, 67%, Significantly Overvalued, Technology, NO
-NA
-NA
-NA
-NA
-Horizon Therapeutics, 91%, Significantly Overvalued, Healthcare, NO
-NA
-NA
-NA
-NA
-NA
-NA
-Kookmin Bank, 96%, Significantly Overvalued, Financial Services, NO
-Logitech, 71%, Significantly Overvalued, Technology, NO
-NA
-NA
-NA
-SS&C Technologies, 63%, Fairly Valued, Technology, NO
-NA
-NA
-NA
-NA
-NA
-NA
-NA
-NA
-NA
-Nucor, 17%, Modestly Overvalued, Basic Materials, NO
-Agnico Eagle Mines, 71%, Fairly Valued, Basic Materials, NO
-NA
-NA
-NA
-NA
-NA
-NA
-NA
-NA
-Conagra, 47%, Fairly Valued, Consumer Defensive, NO
-NA
-NA
-NA
-NA
-NA
-Cardinal Health, 32%, Fairly Valued, Healthcare, NO
-NA
-NA
-NA
-NA
-NA
-NA
-NA
-NA
-NA
-NA
-NA
-NA
-Expeditors International, 7%, Fairly Valued, Industrials, NO
-NA
-NA
-NA
-STERIS plc, 43%, Modestly Overvalued, Healthcare, NO
-Celanese, 52%, Significantly Overvalued, Basic Materials, NO
-NA
-NA
-NA
-NA
-NA
-NA
-Ubiquiti, rating, Significantly Overvalued, Technology, NO
-FMC, 82%, Modestly Overvalued, Basic Materials, NO
-Shinhan Financial Group, 91%, Modestly Overvalued, Financial Services, NO
-NA
-NA
-NA
-NA
-NA
-NA
-NA
-NA
-NA
-NA
-NA
-NA
-BioMarin, 61%, Modestly Undervalued, Healthcare, NO
-NA
-NA
-NA
-NA
-NA
-NA
-MGM Resorts, 17%, Significantly Overvalued, Consumer Cyclical, NO
-NA
-NA
-NA
-NA
-NA
-NA
-NA
-IDEX, 59%, Significantly Overvalued, Industrials, NO
-NA
-Domino's, 59%, Fairly Valued, Consumer Cyclical, NO
 NA
 NA
 NA
@@ -853,11 +1169,119 @@ NA
 NA
 NA
 NA
+Discovery, 24%, UNK, Communication Services, NO
 NA
 NA
 NA
 NA
-NetApp, 37%, Fairly Valued, Technology, NO
+NA
+Quest Diagnostics, 56%, UNK, Healthcare, NO
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+STERIS plc, 43%, UNK, Healthcare, NO
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+Citrix, 47%, Fairly Valued, Technology, NO
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
 NA
 NA
 NA
@@ -873,50 +1297,41 @@ NA
 NA
 failed to do this stock but will do next
 NA
-Eastman Chemical, 62%, Significantly Overvalued, Basic Materials, NO
 NA
-Avangrid, 11%, Fairly Valued, Utilities, NO
-Arch Capital, 67%, Modestly Undervalued, Financial Services, NO
 NA
 NA
+Campbell Soup, 22%, Fairly Valued, Consumer Defensive, NO
 NA
 NA
 NA
-Campbell Soup, 29%, Fairly Valued, Consumer Defensive, NO
 NA
 NA
 NA
-Markel, 38%, Modestly Undervalued, Financial Services, NO
 NA
 NA
 NA
 NA
 NA
-Packaging Corporation of America, 27%, Significantly Overvalued, Consumer Cyclical, NO
-Omnicom, 29%, Fairly Valued, Communication Services, NO
 NA
-VICI Properties, 95%, Fairly Valued, Real Estate, NO
+Kirkland Lake Gold, rating, Significantly Undervalued, Basic Materials, NO
 NA
-Kirkland Lake Gold, rating, Modestly Undervalued, Basic Materials, NO
-Hasbro, 71%, Fairly Valued, Consumer Cyclical, NO
 NA
 NA
-DaVita, 23%, Modestly Overvalued, Healthcare, NO
 NA
 NA
-Brown & Brown, 18%, Modestly Overvalued, Financial Services, NO
 NA
 NA
 NA
-Molina Healthcare, 54%, Significantly Overvalued, Healthcare, NO
+DaVita, 17%, Modestly Overvalued, Healthcare, NO
 NA
 NA
-C.H. Robinson, 17%, Fairly Valued, Industrials, NO
-J.M. Smucker, 6%, Fairly Valued, Consumer Defensive, NO
+Franklin Resources, 7%, Modestly Undervalued, Financial Services, 2021-02-01
+Packaging Corporation of America, 14%, Significantly Overvalued, Consumer Cyclical, NO
 NA
 NA
+Molina Healthcare, 50%, Significantly Overvalued, Healthcare, NO
+Booz Allen Hamilton, 50%, Fairly Valued, Industrials, NO
 NA
-Crown Holdings, 87%, Significantly Overvalued, Consumer Cyclical, NO
 NA
 NA
 NA
@@ -925,8 +1340,8 @@ NA
 NA
 NA
 NA
+J.M. Smucker, 0%, Fairly Valued, Consumer Defensive, NO
 NA
-International Flavors & Fragrances, 56%, Modestly Undervalued, Basic Materials, NO
 NA
 NA
 NA
@@ -936,23 +1351,16 @@ NA
 NA
 NA
 NA
-failed to do this stock but will do next
 NA
 NA
 NA
-failed to do this stock but will do next
-Scotts Miracle-Gro, 71%, Significantly Overvalued, Basic Materials, NO
-Autohome, 69%, Fairly Valued, Communication Services, NO
 NA
 NA
 NA
 NA
 NA
-Enel Americas, rating, Modestly Undervalued, Utilities, NO
 NA
 NA
-NortonLifeLock, 43%, Fairly Valued, Technology, NO
-Factset, 0%, Modestly Overvalued, Financial Services, NO
 NA
 NA
 NA
@@ -962,10 +1370,9 @@ NA
 NA
 NA
 NA
-W. R. Berkley, 18%, Fairly Valued, Financial Services, NO
 NA
+Lumen Technologies, 13%, Modestly Overvalued, Communication Services, NO
 NA
-Jack Henry & Associates, 20%, Fairly Valued, Technology, NO
 NA
 NA
 NA
@@ -974,22 +1381,34 @@ NA
 NA
 NA
 NA
-LKQ, 75%, Modestly Overvalued, Consumer Cyclical, NO
 NA
 NA
 NA
 NA
-Sibanye-Stillwater, 90%, Modestly Overvalued, Basic Materials, NO
 NA
 NA
 NA
-Advance Auto Parts, 61%, Fairly Valued, Consumer Cyclical, NO
 NA
 NA
-RPM International, 47%, Modestly Overvalued, Basic Materials, NO
 NA
 NA
-Universal Health Services, 53%, Modestly Undervalued, Healthcare, NO
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
 ICON plc, 41%, Modestly Overvalued, Healthcare, NO
 NA
 NA
@@ -998,54 +1417,13 @@ NA
 NA
 NA
 NA
-NA
-Westlake Chemical, 37%, Significantly Overvalued, Basic Materials, NO
-Banco de Chile, 42%, Modestly Undervalued, Financial Services, NO
-NA
-NA
-NA
-NA
-NA
-NA
-NA
-NA
-NA
-NA
-NA
-NA
-NA
-NA
-NA
-Allegion, 8%, Modestly Overvalued, Industrials, NO
-NA
-Toro, rating, Modestly Overvalued, Industrials, NO
-NA
-NA
-NA
-Darling Ingredients, 73%, Significantly Overvalued, Consumer Defensive, NO
-NA
-Cboe, 33%, Significantly Overvalued, Financial Services, NO
-NA
-NA
-NA
-NA
-NA
-NA
-Henry Schein, 41%, Fairly Valued, Healthcare, NO
+Lennox, 6%, Modestly Overvalued, Industrials, NO
 NA
 NA
 NA
 failed to do this stock but will do next
-Banco Santander-Chile, 57%, Modestly Undervalued, Financial Services, NO
 NA
-NA
-NA
-NA
-Globe Life, 29%, Fairly Valued, Financial Services, NO
-Lincoln Financial Group, 50%, Possible Value Trap Think Twice, Financial Services, NO
-NA
-NA
-Brookfield Renewable Class A, rating, Significantly Overvalued, Utilities, NO
+Molson Coors Beverage, 32%, Fairly Valued, Consumer Defensive, NO
 NA
 NA
 NA
@@ -1068,40 +1446,66 @@ NA
 NA
 NA
 NA
-BorgWarner, 47%, Fairly Valued, Consumer Cyclical, NO
 NA
 NA
 NA
 NA
-Bancolombia, 15%, Fairly Valued, Financial Services, NO
-NA
-NA
-Weibo, 58%, Modestly Undervalued, Communication Services, NO
 NA
 NA
 NA
-Everest Reinsurance, 60%, Modestly Undervalued, Financial Services, NO
 NA
 NA
 NA
-Amdocs, 71%, Fairly Valued, Technology, NO
-Snap-On, 30%, Modestly Overvalued, Industrials, NO
 NA
 NA
-Gaming & Leisure Properties, 88%, Fairly Valued, Real Estate, NO
+NA
+NA
+NA
+NA
+Cboe, 35%, Significantly Overvalued, Financial Services, 2021-02-05
+Magellan Midstream, 68%, Possible Value Trap, Think Twice, Energy, NO
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+Williams-Sonoma, 19%, Significantly Overvalued, Consumer Cyclical, NO
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+Quidel, 67%, Significantly Overvalued, Healthcare, NO
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
 NA
 NA
 NA
 AngloGold Ashanti, 50%, Significantly Overvalued, Basic Materials, NO
-Shaw Communications, 67%, Modestly Undervalued, Communication Services, 2021-01-12
-Flex, 64%, Significantly Overvalued, Technology, NO
-NA
-NA
-Watsco, 10%, UNK, Industrials, NO
-NA
-NA
-NA
-Western Union, 14%, Modestly Overvalued, Financial Services, NO
 NA
 NA
 NA
@@ -1111,24 +1515,31 @@ NA
 NA
 NA
 NA
-Hubbell, 60%, Significantly Overvalued, Industrials, NO
-NA
-Gentex, 56%, Significantly Overvalued, Consumer Cyclical, NO
-NA
-Kinross Gold, 71%, Significantly Overvalued, Basic Materials, NO
-NA
-NA
-NA
-NA
-Service Corporation International, rating, Fairly Valued, Consumer Cyclical, NO
-NA
-SEI Investments, 29%, Fairly Valued, Financial Services, NO
 NA
 NA
 NA
 NA
 NA
-Athene, 62%, Significantly Overvalued, Financial Services, NO
+NA
+NA
+NA
+Huaneng Power International, rating, Possible Value Trap, Think Twice, Utilities, NO
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
 NA
 NA
 NA
@@ -1151,27 +1562,21 @@ NA
 NA
 NA
 NA
-Encompass Health, 93%, Modestly Overvalued, Healthcare, NO
 NA
 NA
 NA
-Lithia Motors, 58%, Significantly Overvalued, Consumer Cyclical, NO
 NA
 NA
 NA
+PRA Health Sciences, 36%, Fairly Valued, Healthcare, NO
 NA
-Carlisle, 78%, Modestly Overvalued, Industrials, NO
-Steel Dynamics, 54%, Modestly Overvalued, Basic Materials, NO
 NA
+Gold Fields, 50%, Significantly Overvalued, Basic Materials, NO
 NA
-RenaissanceRe, 27%, Modestly Undervalued, Financial Services, NO
 NA
-Reliance Steel, 38%, Significantly Overvalued, Basic Materials, NO
-failed to do this stock but will do next
 NA
 NA
 NA
-STORE Capital, 50%, Modestly Overvalued, Real Estate, NO
 NA
 NA
 NA
@@ -1186,35 +1591,26 @@ NA
 NA
 NA
 NA
-failed to do this stock but will do next
-Gerdau, 82%, Significantly Overvalued, Basic Materials, NO
 NA
 NA
-Arrow Electronics, 9%, Modestly Overvalued, Technology, NO
 NA
-Gold Fields, 27%, Significantly Overvalued, Basic Materials, NO
 NA
-failed to do this stock but will do next
 NA
 NA
 NA
 NA
 NA
-Genpact, 70%, Fairly Valued, Technology, NO
-Woodward, 40%, Significantly Overvalued, Industrials, NO
-failed to do this stock but will do next
 NA
 NA
 NA
 NA
 NA
 NA
-JLL, 71%, Significantly Overvalued, Real Estate, NO
 NA
-RGA, 30%, Modestly Undervalued, Financial Services, NO
 NA
+Assurant, rating, Fairly Valued, Financial Services, NO
+Assurant (Preferred), rating, UNK, Financial Services, NO
 NA
-American Financial Group, rating, Modestly Undervalued, Financial Services, NO
 NA
 NA
 NA
@@ -1224,7 +1620,6 @@ NA
 NA
 NA
 NA
-Middleby, 50%, Modestly Overvalued, Industrials, NO
 NA
 NA
 NA
@@ -1234,7 +1629,6 @@ NA
 NA
 NA
 NA
-Robert Half, 29%, Modestly Overvalued, Industrials, NO
 NA
 NA
 NA
@@ -1258,45 +1652,38 @@ NA
 NA
 NA
 NA
-Berry Global Group, 81%, Modestly Undervalued, Consumer Cyclical, NO
 NA
 NA
-Lincoln Electric, 33%, Significantly Overvalued, Industrials, NO
 NA
 NA
 NA
+Cabot Oil & Gas, 57%, Fairly Valued, Energy, NO
 NA
 NA
 NA
 NA
-Pearson, 36%, Fairly Valued, Communication Services, NO
 NA
 NA
 NA
-failed to do this stock but will do next
 NA
 NA
 NA
-Sealed Air, 36%, Fairly Valued, Consumer Cyclical, NO
+Pearson, 15%, Modestly Overvalued, Communication Services, NO
 NA
 NA
 NA
-Royal Gold, 33%, Modestly Undervalued, Basic Materials, NO
 NA
-National Retail Properties, 33%, Modestly Undervalued, Real Estate, NO
 NA
 NA
 NA
 NA
 NA
 NA
-Jefferies, rating, Fairly Valued, Financial Services, NO
 NA
 NA
 NA
 NA
 NA
-failed to do this stock but will do next
 NA
 NA
 NA
@@ -1306,22 +1693,18 @@ NA
 NA
 NA
 NA
-Ritchie Bros Auctioneers, 36%, Significantly Overvalued, Industrials, NO
-Herbalife, rating, Fairly Valued, Consumer Defensive, NO
 NA
 NA
 NA
-Autonation, 27%, Significantly Overvalued, Consumer Cyclical, NO
 NA
 NA
 NA
-Woori Financial Group, 78%, UNK, Financial Services, NO
 NA
 NA
 NA
 NA
+Royal Gold, 42%, Modestly Undervalued, Basic Materials, NO
 NA
-Prosperity Bancshares, 43%, Modestly Undervalued, Financial Services, NO
 NA
 NA
 NA
@@ -1329,7 +1712,6 @@ NA
 NA
 NA
 NA
-Timken, 91%, Significantly Overvalued, Industrials, NO
 NA
 NA
 NA
@@ -1337,7 +1719,6 @@ NA
 NA
 NA
 NA
-CDK Global, 83%, Modestly Undervalued, Technology, NO
 NA
 NA
 NA
@@ -1359,29 +1740,23 @@ NA
 NA
 NA
 NA
-Huntsman, 75%, Significantly Overvalued, Basic Materials, NO
 NA
-People's United Bank (Preferred), rating, UNK, Financial Services, 2021-01-14
 NA
 NA
 NA
-Reynolds Consumer Products, 90%, UNK, Consumer Cyclical, NO
-Sonoco, 33%, Modestly Overvalued, Consumer Cyclical, NO
-Ternium, 69%, Significantly Overvalued, Basic Materials, NO
 NA
 NA
 NA
 NA
 NA
 NA
-National Instruments, 17%, Fairly Valued, Technology, NO
 NA
 NA
 NA
 NA
 NA
-failed to do this stock but will do next
 NA
+CACI, 79%, Fairly Valued, Technology, NO
 NA
 NA
 NA
@@ -1389,19 +1764,16 @@ NA
 NA
 NA
 NA
-First American, 67%, Modestly Undervalued, Financial Services, NO
 NA
 NA
 NA
 NA
+PLDT Inc., 78%, Fairly Valued, Communication Services, NO
 NA
 NA
-Leggett & Platt, rating, Modestly Undervalued, Consumer Cyclical, NO
-failed to do this stock but will do next
 NA
-Corelogic, 9%, Significantly Overvalued, Technology, NO
+Timken, 83%, Significantly Overvalued, Industrials, NO
 NA
-Old Republic, rating, Modestly Undervalued, Financial Services, NO
 NA
 NA
 NA
@@ -1414,6 +1786,7 @@ NA
 NA
 NA
 NA
+Ollie's Bargain Outlet, 50%, Modestly Undervalued, Consumer Defensive, NO
 NA
 NA
 NA
@@ -1423,7 +1796,60 @@ NA
 NA
 NA
 NA
-Blueprint Medicines, 67%, Possible Value Trap Think Twice, Healthcare, NO
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+Science Applications, 100%, Fairly Valued, Technology, NO
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+BJs, 60%, UNK, Consumer Defensive, NO
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+Credit Acceptance, 14%, Significantly Undervalued, Financial Services, 2021-01-31
+NA
+NA
+Helen of Troy, 50%, Modestly Overvalued, Consumer Defensive, NO
+NA
+Cirrus Logic, 73%, Significantly Overvalued, Technology, 2021-01-31
+NA
+NA
+NA
 NA
 NA
 NA
@@ -1432,12 +1858,9 @@ NA
 NA
 KT, 81%, Modestly Undervalued, Communication Services, NO
 NA
-Power Integrations, 50%, Significantly Overvalued, Technology, NO
 NA
-Sabesp, 60%, Significantly Overvalued, Utilities, NO
 NA
 NA
-Regal Beloit, 78%, Significantly Overvalued, Industrials, NO
 NA
 NA
 NA
@@ -1445,42 +1868,33 @@ NA
 NA
 NA
 NA
-Emcor, 33%, Fairly Valued, Industrials, NO
 NA
 NA
 NA
-Stifel, 43%, Modestly Overvalued, Financial Services, NO
 NA
 NA
 NA
 NA
-TriNet, rating, Significantly Overvalued, Industrials, NO
 NA
 NA
 NA
 NA
 NA
-Starwood Property Trust, 86%, Modestly Undervalued, Real Estate, NO
 NA
 NA
-failed to do this stock but will do next
 NA
 NA
 NA
-First Industrial Realty Trust, 50%, Fairly Valued, Real Estate, NO
-AppFolio, rating, Modestly Overvalued, Technology, NO
 NA
 NA
 NA
 NA
-Rexnord, 56%, Significantly Overvalued, Industrials, NO
 NA
 NA
 NA
 NA
 NA
 NA
-Ingredion, 50%, Modestly Undervalued, Consumer Defensive, NO
 NA
 NA
 NA
@@ -1501,7 +1915,6 @@ NA
 NA
 NA
 NA
-Kemper, 67%, Fairly Valued, Financial Services, NO
 NA
 NA
 NA
@@ -1515,6 +1928,7 @@ NA
 NA
 NA
 NA
+New York Community Bank, 50%, Fairly Valued, Financial Services, NO
 NA
 NA
 NA
@@ -1523,53 +1937,42 @@ NA
 NA
 NA
 NA
-Nexstar Media Group, 90%, Modestly Undervalued, Communication Services, NO
 NA
-Air Lease, 100%, Fairly Valued, Industrials, NO
 NA
 NA
 NA
 NA
 NA
-ASUR, 44%, Modestly Overvalued, Industrials, NO
 NA
 NA
-Houlihan Lokey, 11%, Significantly Overvalued, Financial Services, NO
 NA
 NA
 NA
 NA
 NA
 NA
-Curtiss Wright, rating, Fairly Valued, Industrials, NO
 NA
 NA
 NA
 NA
 NA
 NA
-failed to do this stock but will do next
 NA
 NA
-Lancaster Colony, rating, Fairly Valued, Consumer Defensive, NO
 NA
 NA
 NA
 NA
 NA
 NA
-Graphic Packaging International, 73%, Fairly Valued, Consumer Cyclical, NO
 NA
 NA
 NA
 NA
-Virtu Financial, 45%, Fairly Valued, Financial Services, NO
 NA
 NA
-Eagle Materials, 67%, Fairly Valued, Basic Materials, NO
 NA
 NA
-failed to do this stock but will do next
 NA
 NA
 NA
@@ -1577,117 +1980,21 @@ NA
 NA
 NA
 NA
-Maximus, rating, Modestly Undervalued, Industrials, NO
 NA
 NA
 NA
 NA
-Pilgrim's Pride, 29%, Modestly Undervalued, Consumer Defensive, NO
 NA
+Virtu Financial, 45%, Modestly Overvalued, Financial Services, NO
 NA
-failed to do this stock but will do next
-failed to do this stock but will do next
-MSC Industrial Direct, 15%, Modestly Overvalued, Industrials, NO
-NewMarket, rating, Fairly Valued, Basic Materials, NO
 NA
 NA
 NA
+frontdoor, 70%, UNK, Consumer Cyclical, NO
 NA
-Allison Transmission, 50%, Fairly Valued, Consumer Cyclical, NO
-Rli, 14%, Modestly Overvalued, Financial Services, NO
 NA
 NA
 NA
-NA
-NA
-China Biologic Products, rating, Modestly Overvalued, Healthcare, NO
-NA
-NA
-ASGN Incorporated, 63%, Modestly Overvalued, Industrials, NO
-NA
-51job, rating, Fairly Valued, Industrials, NO
-NA
-Element Solutions, 63%, Significantly Overvalued, Basic Materials, NO
-NA
-NA
-NA
-NA
-NA
-NA
-NA
-NA
-NA
-NA
-Clean Harbors, 70%, Significantly Overvalued, Industrials, NO
-NA
-NA
-NA
-NA
-NA
-NA
-Xerox, 13%, Fairly Valued, Technology, NO
-NA
-NA
-NA
-Hanover Insurance, rating, Modestly Undervalued, Financial Services, NO
-NA
-NA
-NA
-NA
-CEMIG, rating, Modestly Overvalued, Utilities, NO
-CIG.C, rating, Modestly Overvalued, sector, NO
-NA
-NA
-NA
-NA
-NA
-NA
-Valvoline, 60%, Fairly Valued, Energy, NO
-NCR, 100%, Modestly Overvalued, Technology, NO
-NA
-NA
-NA
-j2 Global, 92%, Modestly Undervalued, Technology, NO
-NA
-NA
-NA
-NA
-failed to do this stock but will do next
-NA
-Simpson Manufacturing, rating, Modestly Overvalued, Industrials, NO
-NA
-NA
-NA
-NA
-NA
-NA
-Carter's, 67%, Fairly Valued, Consumer Cyclical, NO
-NA
-NA
-NA
-NA
-NA
-NA
-NA
-NA
-NA
-NA
-NA
-NA
-Ardagh Group, 75%, Modestly Overvalued, Consumer Cyclical, NO
-NA
-NA
-NA
-NA
-NA
-NA
-Grand Canyon Education, rating, Fairly Valued, Consumer Defensive, NO
-NA
-NA
-NA
-NA
-NA
-failed to do this stock but will do next
 NA
 NA
 NA
@@ -1701,32 +2008,163 @@ NA
 NA
 NA
 NA
-PennyMac Financial Services, 100%, Modestly Undervalued, Financial Services, NO
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+Valvoline, 50%, Fairly Valued, Energy, NO
+NA
+NA
+NA
+National Beverage, rating, Significantly Overvalued, Consumer Defensive, NO
+NA
+NA
+NA
+NA
+NA
+NA
+NewMarket, rating, Fairly Valued, Basic Materials, 2021-02-02
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+Shell Midstream, 27%, Modestly Overvalued, Energy, NO
+NA
+NA
+NA
+NA
+NA
+WWE, 59%, Modestly Undervalued, Communication Services, NO
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+Nuveen AMT-Free Quality Municipal Income Fund, rating, UNK, Financial Services, 2021-02-04
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+FTI Consulting, rating, Fairly Valued, Industrials, NO
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+ManTech, 50%, Modestly Overvalued, Technology, NO
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
 NA
 NA
 Selective Insurance Group, 29%, Fairly Valued, Financial Services, NO
-Norbord, 56%, Modestly Overvalued, Basic Materials, NO
-NA
-NA
-NA
-NA
-NA
-Diodes, 71%, Significantly Overvalued, Technology, NO
-NA
-NA
-NA
-Hexcel, 15%, Fairly Valued, Industrials, NO
-NA
-NA
-NA
-Agree Realty, 92%, Fairly Valued, Real Estate, NO
-NA
-NA
-NA
-Aerojet Rocketdyne, 33%, Significantly Overvalued, Industrials, NO
-NA
-NA
-Silgan Holdings, 58%, Fairly Valued, Consumer Cyclical, NO
 NA
 NA
 NA
@@ -1742,11 +2180,6 @@ NA
 NA
 NA
 NA
-NA
-Avient, 67%, Significantly Overvalued, Basic Materials, NO
-NA
-NA
-Cannae, rating, Significantly Overvalued, Consumer Cyclical, NO
 NA
 NA
 NA
@@ -1770,25 +2203,6 @@ NA
 NA
 NA
 NA
-NA
-NA
-Select Medical, rating, Significantly Overvalued, Healthcare, NO
-NA
-NA
-NA
-NA
-NA
-Stamps.com, rating, Modestly Overvalued, Technology, NO
-NA
-NA
-ONE Gas, 50%, Fairly Valued, Utilities, NO
-NA
-NA
-NA
-NA
-NA
-NA
-Enersys, rating, Modestly Overvalued, Industrials, NO
 NA
 SSR Mining, 100%, Modestly Undervalued, Basic Materials, NO
 NA
@@ -1801,7 +2215,6 @@ NA
 NA
 NA
 NA
-Hawaiian Electric, 0%, Modestly Undervalued, Utilities, NO
 NA
 NA
 NA
@@ -1813,12 +2226,13 @@ NA
 NA
 NA
 NA
-failed to do this stock but will do next
 NA
 NA
 NA
+ONE Gas, 50%, Fairly Valued, Utilities, NO
 NA
 NA
+Intercorp Financial Services, 67%, Modestly Undervalued, Financial Services, NO
 NA
 NA
 NA
@@ -1830,10 +2244,8 @@ NA
 NA
 NA
 NA
-Banco Santander, 50%, Possible Value Trap Think Twice, Financial Services, NO
 NA
 NA
-Murphy USA, rating, Fairly Valued, Consumer Cyclical, NO
 NA
 NA
 NA
@@ -1848,8 +2260,8 @@ NA
 NA
 NA
 NA
-UFP Industries, rating, Modestly Overvalued, Basic Materials, NO
 NA
+Evoqua Water Technologies, 45%, Significantly Overvalued, Industrials, 2021-02-01
 NA
 NA
 NA
@@ -1857,14 +2269,10 @@ NA
 NA
 NA
 NA
-WNS Global Services, 100%, Modestly Overvalued, Industrials, NO
-Synaptics, 54%, Significantly Overvalued, Technology, NO
 NA
-TTEC Holdings, 75%, Significantly Overvalued, Technology, NO
 NA
 NA
 NA
-Alliance Data, 55%, Possible Value Trap Think Twice, Financial Services, NO
 NA
 NA
 NA
@@ -1878,10 +2286,8 @@ NA
 NA
 NA
 NA
-Copel, 22%, Significantly Overvalued, Utilities, NO
 NA
 NA
-Franklin Electric, rating, Significantly Overvalued, Industrials, NO
 NA
 NA
 NA
@@ -1893,7 +2299,6 @@ NA
 NA
 NA
 NA
-TEGNA, 67%, Modestly Undervalued, Communication Services, NO
 NA
 NA
 NA
@@ -1904,15 +2309,12 @@ NA
 NA
 NA
 NA
-BRF, 27%, Modestly Undervalued, Consumer Defensive, NO
 NA
-Nuveen Quality Municipal Income Fund, rating, UNK, Financial Services, NO
 NA
 NA
 NA
 NA
 NA
-failed to do this stock but will do next
 NA
 NA
 NA
@@ -1927,9 +2329,7 @@ NA
 NA
 NA
 NA
-White Mountains Insurance, rating, Possible Value Trap Think Twice, Financial Services, NO
 NA
-Renewable Energy Group, 100%, Significantly Overvalued, Energy, NO
 NA
 NA
 NA
@@ -1947,13 +2347,10 @@ NA
 NA
 NA
 NA
-Eastern Bank, rating, UNK, Financial Services, NO
 NA
 NA
 NA
 NA
-Fabrinet, rating, Significantly Overvalued, Technology, NO
-Canadian Solar, 71%, Significantly Overvalued, Technology, NO
 NA
 NA
 NA
@@ -1961,7 +2358,6 @@ NA
 NA
 NA
 NA
-Ingevity, 75%, Modestly Undervalued, Basic Materials, NO
 NA
 NA
 NA
@@ -1982,11 +2378,11 @@ NA
 NA
 NA
 NA
-PriceSmart, rating, Significantly Overvalued, Consumer Defensive, NO
 NA
 NA
 NA
 NA
+Brookfield Infrastructure, rating, UNK, Utilities, NO
 NA
 NA
 NA
@@ -1996,14 +2392,11 @@ NA
 NA
 NA
 NA
-Werner, 58%, Modestly Overvalued, Industrials, NO
 NA
 NA
 NA
 NA
-EXL Service, 20%, Modestly Overvalued, Technology, NO
 NA
-CVB Financial, 14%, Fairly Valued, Financial Services, NO
 NA
 NA
 NA
@@ -2013,7 +2406,6 @@ NA
 NA
 NA
 NA
-Nu Skin, 43%, Fairly Valued, Consumer Defensive, NO
 NA
 NA
 NA
@@ -2023,15 +2415,12 @@ NA
 NA
 NA
 NA
-GrafTech, rating, UNK, Industrials, NO
 NA
 NA
-BlackRock Science and Technology, rating, UNK, , NO
 NA
 NA
 NA
 NA
-Investors Bank, 100%, Possible Value Trap Think Twice, Financial Services, NO
 NA
 NA
 NA
@@ -2040,7 +2429,6 @@ NA
 NA
 NA
 NA
-Stepan, rating, Significantly Overvalued, Basic Materials, NO
 NA
 NA
 NA
@@ -2049,12 +2437,10 @@ NA
 NA
 NA
 NA
-Insight Enterprises, 83%, Significantly Overvalued, Technology, NO
 NA
 NA
 NA
 NA
-Evertec, 57%, Modestly Overvalued, Technology, NO
 NA
 NA
 NA
@@ -2062,12 +2448,9 @@ NA
 NA
 NA
 NA
-H. B. Fuller, 88%, Modestly Overvalued, Basic Materials, NO
-failed to do this stock but will do next
 NA
 NA
 NA
-California Water, rating, Fairly Valued, Utilities, NO
 NA
 NA
 NA
@@ -2076,13 +2459,10 @@ NA
 NA
 NA
 NA
-MOG.A, rating, Modestly Undervalued, sector, NO
 NA
 NA
 NA
 NA
-Summit Materials, 63%, Modestly Overvalued, Basic Materials, NO
-Brady, rating, Modestly Overvalued, Industrials, NO
 NA
 NA
 NA
@@ -2098,8 +2478,6 @@ NA
 NA
 NA
 NA
-Jinko Solar, 38%, UNK, Technology, NO
-Integer Holdings, rating, Modestly Overvalued, Healthcare, NO
 NA
 NA
 NA
@@ -2110,19 +2488,16 @@ NA
 NA
 NA
 NA
-failed to do this stock but will do next
+iRobot, 13%, Modestly Overvalued, Technology, NO
 NA
 NA
 NA
 NA
-Commercial Metals, 13%, Fairly Valued, Basic Materials, 2021-01-10
 NA
 NA
 NA
-Kennedy Wilson, rating, Significantly Overvalued, Real Estate, NO
 NA
 NA
-failed to do this stock but will do next
 NA
 NA
 NA
@@ -2152,73 +2527,13 @@ NA
 NA
 NA
 NA
-FirstCash, 57%, Modestly Undervalued, Financial Services, NO
 NA
 NA
 NA
-failed to do this stock but will do next
 NA
-Plexus, 43%, Fairly Valued, Technology, NO
-failed to do this stock but will do next
 NA
 NA
 NA
-MGE Energy, rating, Fairly Valued, Utilities, NO
-NA
-NA
-NA
-NA
-failed to do this stock but will do next
-NA
-Turquoise Hill Resources, 43%, Modestly Undervalued, Basic Materials, NO
-NA
-NA
-NA
-NA
-NA
-NA
-NA
-NA
-NA
-NA
-NA
-NA
-failed to do this stock but will do next
-NA
-NA
-NA
-failed to do this stock but will do next
-NA
-NA
-NA
-NA
-NA
-NA
-NA
-NA
-NA
-Albany International, 50%, Fairly Valued, Consumer Cyclical, NO
-NA
-NA
-NA
-NA
-NA
-NA
-NA
-NA
-NA
-NA
-NA
-NA
-NA
-NA
-ServisFirst Bank, rating, Fairly Valued, Financial Services, NO
-NA
-NA
-failed to do this stock but will do next
-NA
-NA
-failed to do this stock but will do next
 NA
 NA
 NA
@@ -2232,14 +2547,9 @@ NA
 MediaAlpha, 50%, UNK, Communication Services, NO
 NA
 NA
-Minerals Technologies, 83%, Modestly Overvalued, Basic Materials, NO
-Greif, rating, Modestly Overvalued, Consumer Cyclical, NO
-GEF.B, rating, Fairly Valued, sector, NO
 NA
 NA
 NA
-Healthcare Services Group, 22%, Fairly Valued, Healthcare, NO
-Sanmina, rating, Modestly Overvalued, Technology, NO
 NA
 NA
 NA
@@ -2259,6 +2569,7 @@ NA
 NA
 NA
 NA
+Sprouts Farmers Market, 25%, Modestly Undervalued, Consumer Defensive, NO
 NA
 NA
 NA
@@ -2296,8 +2607,6 @@ NA
 NA
 NA
 NA
-Grupo Aeroportuario Centro Norte, 67%, Significantly Overvalued, Industrials, NO
-Hudbay Minerals, 71%, Significantly Overvalued, Basic Materials, NO
 NA
 NA
 NA
@@ -2308,7 +2617,6 @@ NA
 NA
 NA
 NA
-Shenandoah Telecommunications, rating, Significantly Overvalued, Communication Services, NO
 NA
 NA
 NA
@@ -2316,21 +2624,13 @@ NA
 NA
 NA
 NA
-failed to do this stock but will do next
-Washington Federal, rating, Modestly Undervalued, Financial Services, 2021-01-13
 NA
-WesBanco, 44%, Modestly Undervalued, Financial Services, NO
 NA
 NA
 NA
-Compass Minerals, 40%, Modestly Overvalued, Basic Materials, NO
-Essential Properties Realty Trust, 75%, UNK, Real Estate, NO
-Nuveen California Quality Municipal Income Fund, rating, UNK, Financial Services, NO
 NA
-Central Garden & Pet, rating, Fairly Valued, Consumer Defensive, NO
 NA
 NA
-Tronox, 71%, Modestly Overvalued, Basic Materials, NO
 NA
 NA
 NA
@@ -2342,12 +2642,11 @@ NA
 NA
 NA
 NA
-Cactus, 60%, UNK, Energy, NO
 NA
+Healthcare Services Group, 22%, Modestly Overvalued, Healthcare, NO
 NA
 NA
 NA
-Bachoco, rating, Modestly Undervalued, Consumer Defensive, NO
 NA
 NA
 NA
@@ -2362,12 +2661,10 @@ NA
 NA
 NA
 NA
-World Fuel Services, rating, Fairly Valued, Energy, NO
 NA
 NA
 NA
 NA
-InterDigital, rating, Fairly Valued, Communication Services, NO
 NA
 NA
 NA
@@ -2380,27 +2677,164 @@ NA
 NA
 NA
 NA
-Comfort Systems, rating, Modestly Undervalued, Industrials, NO
 NA
 NA
 NA
 NA
-Progress Software, rating, Fairly Valued, Technology, 2021-01-13
 NA
 NA
 NA
-Cooper Tire & Rubber, rating, Significantly Overvalued, Consumer Cyclical, NO
 NA
 NA
-Herc Holdings, 88%, Significantly Overvalued, Industrials, NO
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+South Jersey Industries, 40%, Fairly Valued, Utilities, NO
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+AMC Networks, 13%, Modestly Undervalued, Communication Services, NO
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
 NA
 Tootsie Roll, rating, Fairly Valued, Consumer Defensive, NO
 NA
 NA
 NA
-Mueller water, 22%, Modestly Overvalued, Industrials, NO
-NA
-Eldorado Gold, 58%, Fairly Valued, Basic Materials, NO
 NA
 NA
 NA
@@ -2413,17 +2847,7 @@ NA
 NA
 NA
 NA
-NA
-Boise Cascade, rating, Modestly Overvalued, Basic Materials, NO
-NA
-NA
-Meritor, rating, Significantly Overvalued, Consumer Cyclical, NO
-NA
-NA
-NA
-NA
-NA
-Adams Diversified Equity Fund, rating, UNK, Financial Services, NO
+B&G Foods, 9%, Fairly Valued, Consumer Defensive, NO
 NA
 NA
 NA
@@ -2433,21 +2857,161 @@ NA
 NA
 NA
 NA
-failed to do this stock but will do next
-Vector Group, rating, Fairly Valued, Consumer Defensive, NO
-NA
-NA
-NA
-NA
-NA
-Edgewell Personal Care, 36%, Fairly Valued, Consumer Defensive, NO
 NA
 NA
 NA
 NA
 NA
 NA
-failed to do this stock but will do next
+NA
+NA
+NA
+NA
+NA
+Big Lots, 30%, Modestly Overvalued, Consumer Defensive, NO
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+Hostess, 77%, Modestly Overvalued, Consumer Defensive, NO
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+Horace Mann, rating, Modestly Undervalued, Financial Services, 2021-02-01
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+Fortuna Silver Mines, 43%, Significantly Overvalued, Basic Materials, NO
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+Delek Logistics, rating, Significantly Overvalued, Energy, NO
+WW International, 56%, Modestly Undervalued, Consumer Cyclical, NO
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
 Trillium Therapeutics, 100%, UNK, Healthcare, NO
 NA
 NA
@@ -2455,47 +3019,36 @@ NA
 NA
 NA
 NA
-Capitol Federal, rating, Fairly Valued, Financial Services, NO
-GCP Applied Technologies, rating, Modestly Overvalued, Basic Materials, NO
 NA
-Coca-Cola Consolidated, rating, Fairly Valued, Consumer Defensive, NO
 NA
 NA
 NA
 NA
-Columbia Financial, rating, UNK, Financial Services, NO
 NA
 NA
 NA
 NA
 NA
 NA
-Hostess, 75%, Fairly Valued, Consumer Defensive, NO
 NA
 NA
 NA
-BlackRock Municipal 2030 Target Term Trust, rating, UNK, Financial Services, NO
 NA
 NA
 NA
-Cal-Maine Foods, rating, Modestly Undervalued, Consumer Defensive, NO
 NA
-Northwest Bank, 17%, Modestly Undervalued, Financial Services, NO
 NA
-Horace Mann, rating, Fairly Valued, Financial Services, NO
-Fortuna Silver Mines, 29%, Significantly Overvalued, Basic Materials, NO
 NA
+AMTD International, rating, UNK, Financial Services, NO
 NA
 NA
 NA
 NA
 NA
 NA
-McGrath RentCorp, rating, Modestly Overvalued, Industrials, NO
 NA
-Ironwood Pharmaceuticals, 17%, Fairly Valued, Healthcare, NO
 NA
-FB Financial, 38%, Modestly Undervalued, Financial Services, NO
+Sally Beauty, 13%, Fairly Valued, Consumer Cyclical, 2021-02-03
 NA
 NA
 NA
@@ -2505,15 +3058,13 @@ NA
 NA
 NA
 NA
-failed to do this stock but will do next
+Waddell & Reed, 0%, Modestly Overvalued, Financial Services, 2021-02-01
 NA
 NA
 NA
 NA
 NA
 NA
-Otter Tail, rating, Modestly Undervalued, Utilities, NO
-Virtus Investment, rating, Significantly Overvalued, Financial Services, NO
 NA
 NA
 NA
@@ -2540,26 +3091,21 @@ NA
 NA
 NA
 NA
-OSI Systems, 83%, Modestly Overvalued, Technology, NO
 NA
 NA
-failed to do this stock but will do next
+BlackRock Taxable Municipal Bond Trust, rating, Possible Value Trap, Think Twice, Financial Services, NO
 NA
-Usana Health Sciences, rating, Modestly Undervalued, Consumer Defensive, NO
 NA
 NA
 NA
 NA
 NA
-American Woodmark, 50%, Fairly Valued, Consumer Cyclical, NO
 NA
 NA
 NA
 NA
-Gray Television, 100%, Possible Value Trap Think Twice, Communication Services, NO
 NA
 NA
-Sykes, rating, Modestly Overvalued, Technology, NO
 NA
 NA
 NA
@@ -2586,11 +3132,11 @@ NA
 NA
 NA
 NA
-Westamerica, rating, Fairly Valued, Financial Services, NO
 NA
 NA
 NA
 NA
+Alexander's, rating, Modestly Undervalued, Real Estate, NO
 NA
 NA
 NA
@@ -2598,15 +3144,14 @@ NA
 NA
 NA
 NA
+Ebix, rating, Modestly Undervalued, Technology, NO
 NA
-Banco Macro, 10%, Modestly Overvalued, Financial Services, NO
 NA
 NA
-Grupo Financiero Galicia, 0%, Modestly Overvalued, Financial Services, NO
 NA
+United Natural Foods, 17%, Significantly Overvalued, Consumer Defensive, NO
 NA
 NA
-Kenon, rating, UNK, Utilities, NO
 NA
 NA
 NA
@@ -2615,7 +3160,6 @@ NA
 NA
 NA
 NA
-Virtusa, rating, Fairly Valued, Technology, NO
 NA
 NA
 NA
@@ -2627,7 +3171,6 @@ NA
 NA
 NA
 NA
-Steelcase, rating, Fairly Valued, Industrials, NO
 NA
 NA
 NA
@@ -2636,15 +3179,11 @@ NA
 NA
 NA
 NA
-TTM Technologies, 88%, Fairly Valued, Technology, NO
 NA
-Provident Bank of New Jersey, rating, Modestly Undervalued, Financial Services, NO
-Methode Electronics, rating, Modestly Overvalued, Technology, NO
 NA
 NA
 NA
 NA
-James River Group, 57%, Significantly Overvalued, Financial Services, NO
 NA
 NA
 NA
@@ -2652,7 +3191,7 @@ NA
 NA
 NA
 NA
-Marcus & Millichap, rating, Modestly Overvalued, Real Estate, NO
+Silvercorp Metals, rating, Significantly Overvalued, Basic Materials, NO
 NA
 NA
 NA
@@ -2663,6 +3202,8 @@ NA
 NA
 NA
 NA
+Northwest Natural, 38%, Possible Value Trap, Think Twice, Utilities, NO
+Coherus BioSciences, 90%, UNK, sector, NO
 NA
 NA
 NA
@@ -2673,7 +3214,6 @@ NA
 NA
 NA
 NA
-BlackRock Taxable Municipal Bond Trust, rating, Possible Value Trap Think Twice, Financial Services, NO
 NA
 NA
 NA
@@ -2682,76 +3222,24 @@ NA
 NA
 NA
 NA
-Marten Transport, rating, Modestly Overvalued, Industrials, NO
 NA
-HNI, rating, Fairly Valued, Industrials, NO
 NA
 NA
 NA
 NA
-Telecom Argentina, rating, Significantly Overvalued, Communication Services, NO
 NA
 NA
 NA
 NA
-CSG Systems, rating, Modestly Undervalued, Technology, NO
 NA
 NA
 NA
-failed to do this stock but will do next
 NA
 NA
 NA
 NA
 NA
 NA
-NA
-NA
-NA
-NA
-NA
-NA
-NA
-NA
-NA
-NA
-NA
-NA
-NA
-BlackRock Credit Allocation Income Trust, rating, UNK, Financial Services, NO
-NA
-NA
-NA
-NA
-NA
-failed to do this stock but will do next
-NA
-NA
-NA
-NA
-BGC Partners, rating, Modestly Undervalued, Financial Services, NO
-NA
-NA
-NA
-NA
-NA
-NA
-NA
-NA
-NA
-NA
-NA
-NA
-NA
-NA
-NA
-Stewart, rating, Modestly Overvalued, Financial Services, NO
-NA
-NA
-NA
-NA
-NA
-Greentree Hospitality Group, 100%, UNK, Consumer Cyclical, NO
 NA
 NA
 NA
@@ -2776,7 +3264,6 @@ NA
 NA
 NA
 NA
-Formula Systems, rating, Significantly Overvalued, Technology, NO
 NA
 NA
 NA
@@ -2793,23 +3280,19 @@ NA
 NA
 NA
 NA
-Innoviva, rating, Modestly Undervalued, Healthcare, NO
 NA
 NA
 NA
-Coherus BioSciences, 90%, UNK, Healthcare, NO
 NA
 NA
 NA
 NA
 NA
 NA
-Newmark Group, rating, Modestly Undervalued, Real Estate, NO
 NA
 NA
 NA
 NA
-Encore Wire, rating, Fairly Valued, Industrials, NO
 NA
 NA
 NA
@@ -2818,12 +3301,9 @@ NA
 NA
 NA
 NA
-BlackRock Science & Technology Trust, rating, UNK, Financial Services, NO
 NA
 NA
-Frontline, 15%, Fairly Valued, Energy, NO
 NA
-Middlesex Water, rating, Modestly Overvalued, Utilities, NO
 NA
 NA
 NA
@@ -2832,7 +3312,6 @@ NA
 NA
 NA
 NA
-ePlus, rating, Fairly Valued, Technology, NO
 NA
 NA
 NA
@@ -2848,376 +3327,23 @@ NA
 NA
 NA
 NA
-ArcBest, 91%, Significantly Overvalued, Industrials, NO
 NA
 NA
 NA
 NA
 NA
 NA
-failed to do this stock but will do next
 NA
 NA
 NA
 NA
 NA
-Safety Insurance Group, rating, Fairly Valued, Financial Services, NO
 NA
 NA
 NA
 NA
 NA
 NA
-NA
-NA
-NA
-NA
-NA
-NA
-NA
-NA
-failed to do this stock but will do next
-NA
-NA
-NA
-NA
-NA
-NA
-NA
-StoneX, rating, Modestly Undervalued, Financial Services, NO
-NA
-NA
-NA
-NA
-NA
-LexinFintech, 83%, Possible Value Trap Think Twice, Financial Services, NO
-NA
-NA
-NA
-NA
-NA
-NA
-NA
-NA
-CTS, rating, Modestly Overvalued, Technology, NO
-NA
-NA
-Tompkins Financial, rating, Modestly Undervalued, Financial Services, NO
-NA
-NA
-NA
-Getty Realty, 50%, Modestly Undervalued, Real Estate, NO
-NA
-NA
-AMERISAFE, rating, Fairly Valued, Financial Services, NO
-City Holding, 0%, Modestly Undervalued, Financial Services, NO
-NA
-NA
-NA
-NA
-NA
-NA
-NA
-NA
-NA
-NA
-NA
-NA
-NA
-NA
-NA
-NA
-NA
-NA
-NA
-NA
-NA
-NA
-NA
-NA
-NA
-NA
-NA
-NA
-NA
-NA
-NA
-NA
-NA
-NA
-NA
-NA
-NA
-NA
-NA
-Johnson Outdoors, rating, Significantly Overvalued, Consumer Cyclical, NO
-NA
-NA
-NA
-NA
-NA
-NA
-NA
-Green Brick, rating, Significantly Overvalued, Consumer Cyclical, NO
-NA
-NA
-Mission Produce, 100%, UNK, Consumer Defensive, NO
-NA
-NA
-NA
-National Healthcare, rating, Fairly Valued, Healthcare, NO
-NA
-NA
-NA
-NA
-NA
-NA
-NA
-failed to do this stock but will do next
-NA
-NA
-NA
-NA
-NA
-NA
-NA
-NA
-NA
-NA
-NA
-NA
-NA
-NA
-NA
-NA
-NA
-Eaton Vance Enhanced Equity Income Fund II, rating, UNK, Financial Services, NO
-NA
-NA
-NA
-NA
-NA
-NA
-NA
-NA
-NA
-E.W. Scripps, 50%, Possible Value Trap Think Twice, Communication Services, NO
-QuinStreet, rating, Modestly Overvalued, Communication Services, NO
-NA
-NA
-NA
-Chase, rating, Modestly Overvalued, Basic Materials, NO
-NA
-NA
-NA
-NA
-NA
-NA
-failed to do this stock but will do next
-Orion Engineered Carbons, 71%, Modestly Overvalued, Basic Materials, NO
-NA
-NA
-NA
-Nuveen NASDAQ 100 Dynamic Overwrite Fund, rating, UNK, Financial Services, NO
-NA
-NA
-NA
-NA
-NA
-NA
-NA
-NA
-NA
-NA
-Encore Capital Group, 67%, Fairly Valued, Financial Services, NO
-NA
-NA
-NA
-NA
-NA
-NA
-NA
-NA
-Silvercorp Metals, rating, Significantly Overvalued, Basic Materials, NO
-NA
-NA
-NA
-NA
-NA
-NA
-NA
-NA
-NA
-NA
-NA
-NA
-NA
-NA
-NA
-NA
-NA
-NA
-DHT Holdings, 44%, Fairly Valued, Energy, NO
-NA
-NA
-NA
-NA
-NA
-NA
-NA
-NA
-NA
-NA
-NA
-NA
-NA
-NA
-NA
-NA
-NA
-Stock Yards Bank & Trust, rating, Fairly Valued, Financial Services, NO
-BlackRock MuniYield Quality Fund III, rating, UNK, Financial Services, NO
-NA
-Employers Holdings, rating, Modestly Undervalued, Financial Services, NO
-NA
-NA
-NA
-NA
-NA
-NA
-NA
-Eaton Vance Municipal Bond Fund, rating, UNK, Financial Services, NO
-NA
-NA
-NA
-NA
-NA
-NA
-NA
-NA
-NA
-NA
-Kforce, 50%, Fairly Valued, Industrials, NO
-NA
-Standard Motor Products, rating, Modestly Undervalued, Consumer Cyclical, NO
-NA
-NA
-NA
-NA
-NA
-NA
-NA
-NA
-Meridian Bioscience, rating, Modestly Overvalued, Healthcare, NO
-NA
-NA
-NA
-NA
-NA
-NA
-NA
-NA
-Great Lakes Dredge & Dock, rating, Significantly Overvalued, Industrials, NO
-ChipMOS Technologies, 83%, Fairly Valued, Technology, NO
-failed to do this stock but will do next
-NA
-NA
-NA
-National Energy Services Reunited, 100%, UNK, Energy, NO
-NA
-NA
-NA
-John B. Sanfilippo & Son, rating, Fairly Valued, Consumer Defensive, NO
-NA
-NA
-NA
-NA
-Pampa Energia, 0%, Fairly Valued, Utilities, NO
-NA
-failed to do this stock but will do next
-NA
-NA
-Lumber Liquidators, 17%, Significantly Overvalued, Consumer Cyclical, NO
-NA
-NA
-NA
-NA
-NA
-NA
-NA
-Hollysys Automation Technologies, rating, Modestly Undervalued, Industrials, NO
-NA
-NA
-NA
-NA
-NA
-DRDGOLD, rating, Significantly Overvalued, Basic Materials, NO
-NA
-NA
-NA
-NA
-Merchants Bank, rating, Modestly Undervalued, Financial Services, NO
-NA
-NA
-failed to do this stock but will do next
-Hanger, rating, Modestly Overvalued, Healthcare, NO
-Gorman-Rupp, rating, Modestly Overvalued, Industrials, NO
-NA
-NA
-NA
-NA
-failed to do this stock but will do next
-NA
-NA
-NA
-NA
-NA
-NA
-NA
-NA
-NA
-NA
-NA
-NA
-NA
-NA
-NA
-NA
-NA
-NA
-NA
-NA
-NA
-NA
-NA
-NA
-NA
-NA
-NA
-NA
-NA
-NA
-NA
-NA
-NA
-NA
-NA
-NA
-NA
-NA
-Foundation Building Materials, 0%, Significantly Overvalued, Industrials, NO
-NA
-NA
-NA
-NA
-NA
-NA
-NA
-NA
-NA
-NA
-NA
-Energy Recovery, rating, Significantly Overvalued, Industrials, NO
 NA
 NA
 NA
@@ -3248,7 +3374,6 @@ NA
 NA
 NA
 NA
-HomeStreet, 50%, Modestly Undervalued, Financial Services, NO
 NA
 NA
 NA
@@ -3257,16 +3382,7 @@ NA
 NA
 NA
 NA
-NA
-AllianzGI Equity & Convertible Income Fund, rating, UNK, Financial Services, NO
-NA
-NA
-NA
-NA
-NA
-NA
-NA
-NA
+National Healthcare, rating, Modestly Undervalued, Healthcare, NO
 NA
 NA
 NA
@@ -3280,9 +3396,6 @@ NA
 NA
 NA
 NA
-failed to do this stock but will do next
-NA
-National Western Life Group, rating, Modestly Undervalued, Financial Services, NO
 NA
 NA
 NA
@@ -3292,7 +3405,321 @@ NA
 NA
 NA
 NA
-failed to do this stock but will do next
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+GEO Group, rating, Possible Value Trap, Think Twice, Real Estate, NO
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+Suburban Propane, rating, Modestly Undervalued, Utilities, NO
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+World Acceptance Corporation, rating, Modestly Undervalued, Financial Services, NO
+NA
 NA
 NA
 Westlake Chemical, 63%, Modestly Overvalued, Basic Materials, NO
@@ -3300,7 +3727,6 @@ NA
 NA
 NA
 NA
-MSG Networks, 0%, Significantly Undervalued, Communication Services, NO
 NA
 NA
 NA
@@ -3308,12 +3734,351 @@ NA
 NA
 NA
 NA
-Vanda Pharmaceuticals, rating, Modestly Undervalued, Healthcare, NO
 NA
 NA
 NA
 NA
-Saul Centers, rating, Possible Value Trap Think Twice, Real Estate, NO
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+CrossAmerica, rating, Significantly Overvalued, Energy, NO
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+Nuveen Taxable Municipal Income Fund, rating, UNK, Financial Services, NO
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+PetMed Express, rating, Modestly Overvalued, Healthcare, NO
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+failed to do this stock but will do next
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+Triple-S Management, rating, Fairly Valued, Healthcare, NO
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+BlackRock Muni Intermediate Duration Fund, rating, UNK, Financial Services, NO
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
 NA
 NA
 NA
@@ -3346,7 +4111,7 @@ NA
 NA
 NA
 failed to do this stock but will do next
-Avid Technology, rating, Significantly Overvalued, Communication Services, NO
+Bank of Marin, rating, Modestly Undervalued, Financial Services, NO
 NA
 NA
 NA
@@ -3356,7 +4121,6 @@ NA
 NA
 NA
 NA
-failed to do this stock but will do next
 NA
 NA
 NA
@@ -3377,14 +4141,11 @@ NA
 NA
 NA
 NA
-Helix Energy, 88%, Possible Value Trap Think Twice, Energy, NO
 NA
 NA
 NA
 NA
 NA
-Transportadora de Gas del Sur, rating, Significantly Overvalued, Energy, NO
-Calamos Dynamic Convertible & Income Fund, rating, Possible Value Trap Think Twice, Financial Services, NO
 NA
 NA
 NA
@@ -3394,9 +4155,7 @@ NA
 NA
 NA
 NA
-Bright Scholar Education, rating, Possible Value Trap Think Twice, Consumer Defensive, NO
 NA
-Community Trust Bank, rating, Modestly Undervalued, Financial Services, NO
 NA
 NA
 NA
@@ -3419,333 +4178,6 @@ NA
 NA
 NA
 NA
-NA
-NA
-NA
-NA
-NA
-NA
-NA
-Winmark, rating, Modestly Overvalued, Consumer Cyclical, NO
-NA
-failed to do this stock but will do next
-NA
-NA
-NA
-NA
-NA
-NA
-NA
-NA
-NA
-NA
-NA
-NA
-NA
-NA
-NA
-NA
-NA
-NA
-NA
-NA
-NA
-NA
-NA
-NA
-NA
-Qiwi, 0%, Significantly Undervalued, Financial Services, NO
-NA
-NA
-CrossAmerica, rating, Modestly Overvalued, Energy, NO
-NA
-NA
-NA
-NA
-NA
-NA
-Eaton Vance Enhanced Equity Income Fund, rating, Modestly Overvalued, Financial Services, NO
-NA
-BlackRock Multi-Sector Income Trust, rating, UNK, Financial Services, NO
-NA
-NA
-NA
-NA
-NA
-NA
-NA
-NA
-NA
-NA
-NA
-NA
-NA
-NA
-NA
-NA
-NA
-NA
-NA
-NA
-NA
-NA
-NA
-NA
-NA
-NA
-Ready Capital Corporation, 83%, Modestly Undervalued, Real Estate, NO
-NA
-NA
-NA
-NA
-NA
-NA
-Foreign Trade Bank of Latin America, rating, Modestly Undervalued, Financial Services, NO
-NA
-NA
-NA
-NA
-Loma Negra, rating, Significantly Overvalued, Basic Materials, NO
-NA
-NA
-NA
-NA
-NA
-NA
-NA
-NA
-NA
-NA
-NA
-NA
-NA
-NA
-NA
-NA
-NA
-NA
-NA
-NA
-AdvanSix, rating, Fairly Valued, Basic Materials, NO
-NA
-NA
-NA
-NA
-NA
-NA
-BBVA Argentina, rating, Modestly Overvalued, Financial Services, NO
-NA
-NA
-NA
-NA
-NA
-NA
-NA
-NA
-NA
-NA
-NA
-NA
-NA
-NA
-NA
-NA
-NA
-NA
-NA
-NA
-NA
-NA
-NA
-York Water, rating, Modestly Overvalued, Utilities, NO
-NA
-NA
-NA
-NA
-NA
-NA
-NA
-NA
-NA
-NA
-NA
-NA
-NA
-NA
-NA
-NA
-NA
-NA
-NA
-NA
-NA
-Central Pacific Financial, rating, Possible Value Trap Think Twice, Financial Services, NO
-NA
-NA
-NA
-NA
-NA
-NA
-NA
-failed to do this stock but will do next
-NA
-NA
-NA
-NA
-International Money Expresss, 43%, UNK, Technology, NO
-NA
-Hawkins, rating, Modestly Overvalued, Basic Materials, NO
-NA
-NA
-NA
-NA
-NA
-NA
-NA
-NA
-NA
-NA
-NA
-NA
-NA
-NA
-NA
-NA
-NA
-NA
-NA
-NA
-NA
-Camden National, rating, Modestly Undervalued, Financial Services, NO
-NA
-NA
-NA
-failed to do this stock but will do next
-NA
-NA
-NA
-NA
-NA
-NA
-China Online Education Group, rating, Significantly Overvalued, Consumer Defensive, NO
-NA
-NA
-NA
-NA
-NA
-NA
-NA
-NA
-NA
-SIGA Technologies, rating, Possible Value Trap Think Twice, Healthcare, NO
-NA
-NA
-NA
-ProSight, rating, UNK, Financial Services, NO
-NA
-NA
-NA
-NA
-NA
-NA
-NA
-NA
-NA
-NA
-NA
-NA
-NA
-NA
-NA
-NA
-NA
-NA
-NA
-NA
-NA
-NA
-NA
-NA
-NA
-NA
-NA
-NA
-NA
-Luther Burbank, rating, Modestly Undervalued, Financial Services, NO
-NA
-NA
-NA
-NA
-NA
-NA
-NA
-NA
-NA
-NA
-NA
-NA
-NA
-NA
-NA
-NA
-NA
-Bank First, rating, Fairly Valued, Financial Services, NO
-NA
-NA
-NA
-NA
-NA
-NA
-NA
-NA
-NA
-NA
-NA
-NA
-NA
-NA
-AllianzGI Convertible & Income Fund, rating, UNK, Financial Services, NO
-NA
-NA
-NA
-NA
-NA
-NA
-Barrett Business Services, rating, Possible Value Trap Think Twice, Industrials, NO
-NA
-NA
-NA
-NA
-NA
-NA
-NA
-NA
-NA
-NA
-NA
-failed to do this stock but will do next
-NA
-NA
-International Seaways, 56%, Possible Value Trap Think Twice, Industrials, NO
-NA
-NA
-NA
-NA
-NA
-NA
-NA
-NA
-NA
-NA
-NA
-NA
-NA
-NA
-NA
-NA
-NA
-NA
-Alerus Financial, rating, Significantly Overvalued, Financial Services, NO
 NA
 NA
 NA
@@ -3794,25 +4226,6 @@ NA
 NA
 NA
 NA
-Global Cord Blood, rating, Possible Value Trap Think Twice, Healthcare, NO
-NA
-NA
-XBiotech, rating, UNK, Healthcare, NO
-NA
-NA
-Insteel, rating, Fairly Valued, Industrials, NO
-NA
-NA
-NA
-NA
-NA
-GAMCO Investors, rating, Fairly Valued, Financial Services, NO
-NA
-NA
-NA
-NA
-NA
-Bonanza Creek Energy, 83%, Modestly Overvalued, Energy, NO
 NA
 NA
 NA
@@ -3822,10 +4235,24 @@ NA
 NA
 NA
 NA
-Vishay Precision, rating, Modestly Overvalued, Technology, NO
+NA
+Sprague Resources, rating, Significantly Overvalued, Energy, NO
 NA
 NA
-American Public Education, rating, Fairly Valued, Consumer Defensive, NO
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
 NA
 Putnam Municipal Opportunities Trust, rating, UNK, Financial Services, NO
 NA
@@ -3836,6 +4263,7 @@ NA
 NA
 NA
 NA
+Kimball International, rating, Modestly Undervalued, Consumer Cyclical, NO
 NA
 NA
 NA
@@ -3845,7 +4273,6 @@ NA
 NA
 NA
 NA
-Nordic American Tankers, 33%, Significantly Overvalued, Industrials, NO
 NA
 NA
 NA
@@ -3858,6 +4285,7 @@ NA
 NA
 NA
 NA
+Consolidated Communications, rating, Modestly Undervalued, Communication Services, NO
 NA
 NA
 NA
@@ -3875,7 +4303,6 @@ NA
 NA
 NA
 NA
-Lawson Products, rating, Significantly Overvalued, Industrials, NO
 NA
 NA
 NA
@@ -3883,18 +4310,16 @@ NA
 NA
 NA
 NA
-Business First Bank, rating, UNK, Financial Services, NO
-BioDelivery, 100%, Modestly Undervalued, Healthcare, NO
 NA
 NA
 NA
 NA
-Capital City Bank Group, rating, Modestly Undervalued, Financial Services, NO
 NA
 NA
 NA
 NA
 NA
+Crescent Capital, rating, UNK, Financial Services, NO
 NA
 NA
 NA
@@ -3915,12 +4340,10 @@ NA
 NA
 NA
 NA
-FRP Holdings, rating, Fairly Valued, Real Estate, NO
 NA
 NA
 NA
 NA
-Computer Programs and Systems, 44%, Modestly Overvalued, Healthcare, NO
 NA
 NA
 NA
@@ -3934,7 +4357,6 @@ NA
 NA
 NA
 NA
-Donegal Group, rating, Fairly Valued, Financial Services, NO
 NA
 NA
 NA
@@ -3955,12 +4377,10 @@ NA
 NA
 NA
 NA
-ASA Gold & Precious Metals, rating, UNK, Financial Services, NO
 NA
 NA
 NA
 NA
-Teekay Tankers, 71%, Modestly Overvalued, Energy, NO
 NA
 NA
 NA
@@ -3970,11 +4390,37 @@ NA
 NA
 NA
 NA
-Nuveen Enhanced Municipal Value Fund, rating, UNK, Financial Services, NO
 NA
 NA
 NA
-Financial Institutions, rating, Modestly Undervalued, Financial Services, NO
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
 NA
 NA
 NA
@@ -4019,7 +4465,6 @@ NA
 NA
 NA
 BlackRock Income Trust, rating, UNK, Financial Services, NO
-AllianzGI Convertible & Income Fund II, rating, UNK, Financial Services, NO
 NA
 NA
 NA
@@ -4042,7 +4487,396 @@ NA
 NA
 NA
 NA
-Superior Group of Companies, rating, Modestly Overvalued, Consumer Cyclical, NO
+NA
+NA
+Turtle Beach, 100%, Significantly Overvalued, Technology, NO
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+Artesian Resources, rating, Fairly Valued, Utilities, NO
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+Interstate Power & Light Company Perp Prd Ser D, rating, UNK, Utilities, NO
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+Vitamin Cottage Natural Grocers, rating, Modestly Overvalued, Consumer Defensive, 2021-02-03
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+Voyager Therapeutics, 55%, Possible Value Trap, Think Twice, Healthcare, NO
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+Mix Telematics, rating, Modestly Undervalued, Technology, NO
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+Nuveen California Municipal Value Fund, rating, UNK, sector, NO
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+Value Line, rating, Fairly Valued, Financial Services, NO
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+Heritage Insurance, rating, Possible Value Trap, Think Twice, Financial Services, NO
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+Iteris, rating, Modestly Overvalued, Technology, NO
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
 NA
 NA
 NA
@@ -4071,12 +4905,8 @@ NA
 NA
 failed to do this stock but will do next
 NA
-failed to do this stock but will do next
-failed to do this stock but will do next
 NA
-failed to do this stock but will do next
 NA
-failed to do this stock but will do next
 NA
 NA
 NA
@@ -4088,17 +4918,14 @@ NA
 NA
 NA
 NA
-failed to do this stock but will do next
 NA
 NA
 NA
 NA
-failed to do this stock but will do next
 NA
 NA
 NA
 NA
-failed to do this stock but will do next
 NA
 NA
 NA
@@ -4106,10 +4933,7 @@ NA
 NA
 NA
 NA
-failed to do this stock but will do next
-failed to do this stock but will do next
 NA
-failed to do this stock but will do next
 NA
 NA
 NA
@@ -4124,7 +4948,6 @@ NA
 NA
 NA
 NA
-NI Holdings, rating, Modestly Undervalued, Financial Services, NO
 NA
 NA
 NA
@@ -4135,18 +4958,14 @@ NA
 NA
 NA
 NA
-Legacy Housing, rating, UNK, Consumer Cyclical, NO
 NA
 NA
 NA
 NA
 NA
 NA
-Intelligent Systems, rating, Fairly Valued, Technology, NO
-Mesabi Trust, rating, Significantly Overvalued, Basic Materials, NO
 NA
 NA
-UFP Technologies, rating, Modestly Overvalued, Consumer Cyclical, NO
 NA
 NA
 NA
@@ -4185,376 +5004,8 @@ NA
 NA
 NA
 NA
-failed to do this stock but will do next
 NA
 NA
-Future FinTech, rating, UNK, Technology, NO
-NA
-NA
-NA
-NA
-NA
-NA
-NA
-NA
-CapStar Financial, rating, Modestly Undervalued, Financial Services, NO
-NA
-NA
-NA
-NA
-NA
-NA
-NA
-NA
-NA
-NA
-W&t Offshore, rating, Modestly Undervalued, Energy, NO
-NA
-NA
-NA
-NA
-NA
-NA
-NA
-NA
-NA
-Bar Harbor Bank & Trust, rating, Modestly Undervalued, Financial Services, NO
-NA
-NA
-NA
-NA
-NA
-NA
-NA
-NA
-NA
-NA
-NA
-NA
-NA
-NA
-NA
-NA
-NA
-NA
-NA
-NA
-NA
-NA
-NA
-NA
-NA
-NA
-NA
-NA
-NA
-Leju Holdings, rating, Fairly Valued, Real Estate, NO
-NA
-NA
-NA
-NA
-NA
-Citizens & Northern, rating, Possible Value Trap Think Twice, Financial Services, 2021-01-15
-NA
-NA
-NA
-NA
-China Distance Education, rating, Fairly Valued, Consumer Defensive, NO
-NA
-NA
-NA
-NA
-NA
-NA
-NA
-NA
-NA
-NA
-NA
-NA
-NA
-NA
-NA
-NA
-NA
-NA
-NA
-NA
-NA
-NA
-NA
-NA
-Old Second Bank, rating, Modestly Undervalued, Financial Services, NO
-NA
-NA
-NA
-NA
-NA
-NA
-NA
-NA
-NA
-Fidelity D&D Bancorp, rating, Fairly Valued, Financial Services, NO
-NA
-failed to do this stock but will do next
-NA
-NA
-NA
-NA
-NA
-NA
-NA
-NA
-NA
-NA
-NA
-NA
-NA
-NA
-NA
-NA
-NA
-Sonabank, rating, Modestly Undervalued, Financial Services, NO
-NA
-NA
-NA
-NA
-NA
-NA
-NA
-NA
-American National Bank, rating, Modestly Undervalued, Financial Services, NO
-NA
-NA
-NA
-NA
-NA
-NA
-NA
-NA
-NA
-NA
-NA
-NA
-NA
-NA
-NA
-NA
-NA
-NA
-NA
-NA
-NA
-Summit Financial, rating, Modestly Undervalued, Financial Services, NO
-Civista Bank, 83%, Modestly Undervalued, Financial Services, NO
-NA
-NA
-NA
-NA
-NA
-NA
-NA
-NA
-Co-Diagnostics, rating, UNK, Healthcare, NO
-NA
-NA
-NA
-Nature's Sunshine Products, rating, Significantly Overvalued, Consumer Defensive, NO
-NA
-NA
-NA
-NA
-NA
-NA
-NA
-NA
-NA
-NA
-NA
-NA
-NA
-NA
-NA
-NA
-NA
-G. Willi-Food, rating, Significantly Overvalued, Consumer Defensive, NO
-Escalade, rating, Modestly Overvalued, Consumer Cyclical, NO
-Southern Bank, rating, Modestly Undervalued, Financial Services, NO
-NA
-NA
-NA
-NA
-NA
-NA
-NA
-NA
-Heritage Insurance, rating, Possible Value Trap Think Twice, Financial Services, NO
-NA
-NA
-NA
-NA
-Diamond S Shipping, 83%, UNK, Energy, NO
-NA
-NA
-NA
-NA
-NA
-NA
-NA
-NA
-NA
-NA
-Nuveen Select Tax-Free Income Portfolio, rating, UNK, Financial Services, NO
-NA
-NA
-failed to do this stock but will do next
-Peoples Financial Services, rating, Modestly Undervalued, Financial Services, NO
-NA
-NA
-NA
-NA
-NA
-NA
-NA
-NA
-Ciner Resources, rating, Modestly Undervalued, Basic Materials, NO
-NA
-Pioneer Municipal High Income Trust, rating, UNK, Financial Services, NO
-NA
-NA
-NA
-NA
-Pioneer Bancorp, rating, UNK, Financial Services, NO
-NA
-NA
-NA
-failed to do this stock but will do next
-failed to do this stock but will do next
-NA
-Pioneer Municipal High Income Advantage Trust, rating, UNK, Financial Services, NO
-NA
-NA
-NA
-NA
-NA
-NA
-NA
-NA
-NA
-NA
-Nuveen Select Tax-Free Income Portfolio 2, rating, UNK, Financial Services, NO
-NA
-NA
-NA
-NA
-Farmers & Merchants Bank, rating, Possible Value Trap Think Twice, Financial Services, NO
-NA
-NA
-NA
-NA
-NA
-NA
-NA
-NA
-NA
-NA
-NA
-NA
-NA
-NA
-NA
-NA
-NA
-NA
-NA
-NA
-NA
-NA
-NA
-NA
-NA
-NA
-Home Bancorp, rating, Modestly Undervalued, Financial Services, NO
-NA
-NA
-NA
-NA
-NA
-NA
-NA
-NA
-NA
-NA
-NA
-NA
-NA
-NA
-NA
-NA
-NA
-NA
-NA
-NA
-NA
-NA
-NA
-NA
-NA
-NA
-NA
-NA
-NA
-NA
-NA
-Coastal Financial, rating, UNK, Financial Services, NO
-NA
-NA
-NA
-NA
-NA
-NA
-NA
-NA
-NA
-NA
-NA
-NA
-NA
-NA
-NA
-NA
-NA
-NA
-NA
-NA
-NA
-NA
-NA
-NA
-NA
-NA
-NA
-NA
-NA
-NA
-Oil-Dri, rating, Fairly Valued, Basic Materials, NO
-NA
-NA
-NA
-NA
-NA
-NA
-NA
-NA
-NA
-NA
-Scienjoy, rating, UNK, Communication Services, NO
-Galiano Gold, 67%, Significantly Overvalued, Basic Materials, NO
-Hamilton Beach, rating, Fairly Valued, Technology, NO
-NA
-NA
-NA
-Saratoga Investment, 83%, Modestly Undervalued, Financial Services, NO
 NA
 NA
 NA
@@ -4565,9 +5016,7 @@ NA
 NA
 NA
 Eaton Vance Municipal Income 2028 Term Trust, rating, UNK, Financial Services, NO
-Big 5 Sporting Goods, rating, Significantly Overvalued, Consumer Cyclical, NO
 NA
-FS Bancorp, rating, Modestly Undervalued, Financial Services, NO
 NA
 NA
 NA
@@ -4575,7 +5024,6 @@ NA
 NA
 NA
 NA
-ChoiceOne Financial Services, rating, Fairly Valued, Financial Services, NO
 NA
 NA
 NA
@@ -4605,27 +5053,21 @@ NA
 NA
 NA
 NA
-Provident Bancorp, rating, Modestly Undervalued, Financial Services, NO
 NA
-Mesa Air, rating, UNK, Industrials, NO
 NA
 NA
 NA
 NA
 NA
-NL Industries, rating, Modestly Overvalued, Industrials, NO
 NA
 NA
 NA
 NA
 NA
 NA
-failed to do this stock but will do next
-Neuberger Berman High Yield Strategies Fund, rating, Significantly Overvalued, Financial Services, NO
 NA
 NA
 NA
-Lakeland Industries, rating, Significantly Overvalued, Consumer Cyclical, NO
 NA
 NA
 NA
@@ -4663,12 +5105,13 @@ NA
 NA
 NA
 NA
+First Choice Bancorp, rating, Modestly Undervalued, Financial Services, NO
 NA
-Norwood Financial, rating, Modestly Undervalued, Financial Services, NO
 NA
 NA
 NA
 NA
+Hovnanian Enterprises, rating, Significantly Overvalued, Consumer Cyclical, NO
 NA
 NA
 NA
@@ -4687,6 +5130,7 @@ NA
 NA
 NA
 NA
+Silvercrest, rating, Modestly Overvalued, Financial Services, NO
 NA
 NA
 NA
@@ -4699,7 +5143,6 @@ NA
 NA
 NA
 NA
-FVCBank, rating, Modestly Undervalued, Financial Services, NO
 NA
 NA
 NA
@@ -4714,7 +5157,6 @@ NA
 NA
 NA
 NA
-CNFinance, rating, UNK, Financial Services, NO
 NA
 NA
 NA
@@ -4725,7 +5167,6 @@ NA
 NA
 NA
 NA
-failed to do this stock but will do next
 NA
 NA
 NA
@@ -4738,18 +5179,16 @@ NA
 NA
 NA
 NA
-CRH Medical, rating, UNK, Healthcare, NO
 NA
 NA
 NA
+Norwood Financial, rating, Possible Value Trap, Think Twice, Financial Services, NO
 NA
 NA
 NA
 NA
 NA
 NA
-RGC Resources, rating, UNK, Utilities, NO
-Mid Penn Bancorp, rating, Modestly Undervalued, Financial Services, NO
 NA
 NA
 NA
@@ -4774,6 +5213,7 @@ NA
 NA
 NA
 NA
+Capital Bank, rating, UNK, Financial Services, NO
 NA
 NA
 NA
@@ -4786,7 +5226,6 @@ NA
 NA
 NA
 NA
-MFO, rating, UNK, sector, NO
 NA
 NA
 NA
@@ -4799,7 +5238,27 @@ NA
 NA
 NA
 NA
-Maiden Holdings, rating, UNK, Financial Services, NO
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
 NA
 NA
 NA
@@ -4812,17 +5271,14 @@ NA
 Nuveen Intermediate Duration Quality Municipal Term Fund, rating, UNK, Financial Services, NO
 NA
 NA
-First Capital, rating, UNK, Financial Services, NO
 NA
 NA
 NA
 NA
 NA
 NA
-China Index Holdings, rating, UNK, Technology, NO
 NA
 NA
-Ellsworth Growth & Income Fund, rating, UNK, Financial Services, NO
 NA
 NA
 NA
@@ -4833,19 +5289,15 @@ NA
 NA
 NA
 NA
-Gencor, rating, UNK, Industrials, NO
 NA
 NA
-Investar Bank, rating, UNK, Financial Services, NO
 NA
 NA
 NA
 NA
 NA
-Tortoise Essential Assets Income Term Fund, rating, UNK, Financial Services, NO
 NA
 NA
-Jiayin Group, rating, UNK, Communication Services, NO
 NA
 NA
 NA
@@ -4857,8 +5309,8 @@ NA
 NA
 NA
 NA
-Caledonia Mining, rating, Significantly Overvalued, Basic Materials, NO
 NA
+BayCom, rating, Possible Value Trap, Think Twice, Financial Services, NO
 NA
 NA
 NA
@@ -4878,25 +5330,19 @@ NA
 NA
 NA
 NA
-Bank of Commerce, rating, Modestly Undervalued, Financial Services, NO
 NA
 NA
-Shore Bancshares, rating, Modestly Undervalued, Financial Services, NO
 NA
 NA
 NA
-Codorus Valley Bancorp, rating, Modestly Undervalued, Financial Services, NO
 NA
 NA
-BlackRock MuniHoldings Quality Fund, rating, UNK, Financial Services, NO
-Intevac, rating, Significantly Overvalued, Industrials, NO
 NA
 NA
 NA
 NA
 NA
 NA
-Lazydays Holdings, rating, UNK, Consumer Cyclical, NO
 NA
 NA
 NA
@@ -4918,12 +5364,9 @@ NA
 NA
 NA
 NA
-SWK, rating, Fairly Valued, Financial Services, NO
-First Northwest Bank, rating, Modestly Undervalued, Financial Services, NO
 NA
 NA
 NA
-Tsakos Energy Navigation, rating, Possible Value Trap Think Twice, Energy, NO
 NA
 NA
 NA
@@ -4935,42 +5378,32 @@ NA
 NA
 NA
 NA
-Bridgford Foods, rating, Fairly Valued, Consumer Defensive, NO
 NA
 NA
 NA
 NA
-Permian Basin Royalty Trust, rating, Modestly Overvalued, Energy, NO
-Penns Woods Bancorp, rating, Modestly Undervalued, Financial Services, NO
 NA
-L.B. Foster, rating, Modestly Undervalued, Industrials, NO
 NA
 NA
-ESSA Bank & Trust, rating, Modestly Undervalued, Financial Services, NO
-1st Constitution Bank, rating, Modestly Undervalued, Financial Services, NO
 NA
 NA
 NA
 NA
 NA
 NA
-Community Bankers Trust, rating, Modestly Undervalued, Financial Services, NO
 NA
 NA
 NA
-First Guaranty Bank, rating, Possible Value Trap Think Twice, Financial Services, NO
 NA
 NA
 NA
 NA
 NA
-First Western Financial, rating, UNK, Financial Services, NO
 NA
 NA
 NA
 NA
 NA
-Level One Bank, rating, UNK, Financial Services, NO
 NA
 NA
 NA
@@ -5001,27 +5434,101 @@ NA
 NA
 NA
 NA
-Security National Financial, rating, Modestly Overvalued, Financial Services, NO
 NA
 NA
-First Savings Bank, rating, Possible Value Trap Think Twice, Financial Services, NO
 NA
 NA
-Ellington Residential Mortgage REIT, rating, UNK, Real Estate, NO
 NA
+Bridgford Foods, rating, Modestly Undervalued, Consumer Defensive, NO
 NA
 NA
 NA
 NA
 NA
 NA
+Standard AVB, rating, Fairly Valued, Financial Services, NO
 NA
 NA
 NA
 NA
 NA
 NA
-Auburn Bank, rating, Fairly Valued, Financial Services, NO
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
 NA
 NA
 NA
@@ -5041,42 +5548,6 @@ NA
 NA
 NA
 NA
-NA
-Pingtan Marine Enterprise, rating, Possible Value Trap Think Twice, Consumer Defensive, NO
-NA
-NA
-NA
-NA
-NA
-NA
-NA
-NA
-NA
-NA
-NA
-NA
-NA
-NA
-NA
-NA
-NA
-NA
-NA
-NA
-NA
-NA
-NA
-NA
-NA
-NA
-NA
-NA
-NA
-NA
-NA
-NA
-NA
-Colony Bank, rating, Modestly Undervalued, Financial Services, NO
 MMA Capital Holdings, rating, UNK, Financial Services, NO
 NA
 NA
@@ -5084,9 +5555,6 @@ NA
 NA
 NA
 NA
-SB Financial, rating, Modestly Undervalued, Financial Services, NO
-Hawthorn Bancshares, rating, Modestly Undervalued, Financial Services, NO
-Peoples Bancorp of North Carolina, rating, Modestly Undervalued, Financial Services, NO
 NA
 NA
 NA
@@ -5097,10 +5565,8 @@ NA
 NA
 NA
 NA
-County Bancorp, 33%, Fairly Valued, Financial Services, NO
 NA
 NA
-Middlefield Bank, rating, Modestly Undervalued, Financial Services, NO
 NA
 NA
 NA
@@ -5110,9 +5576,7 @@ NA
 NA
 NA
 NA
-Lifevantage, rating, Modestly Undervalued, Consumer Defensive, NO
 NA
-Oconee Federal, rating, Modestly Undervalued, Financial Services, NO
 NA
 NA
 NA
@@ -5121,26 +5585,24 @@ NA
 NA
 NA
 NA
-Oak Valley, rating, Modestly Undervalued, Financial Services, NO
+Provident Bank, rating, Modestly Overvalued, Financial Services, NO
 NA
 NA
 NA
 NA
-StoneCastle Financial, rating, UNK, Financial Services, NO
 NA
 NA
 NA
 NA
 NA
+Oconee Federal, rating, Fairly Valued, Financial Services, NO
 NA
 NA
 NA
 NA
-Malvern Bancorp, rating, Modestly Undervalued, Financial Services, NO
 NA
 NA
 NA
-Meridian, rating, Modestly Undervalued, Financial Services, NO
 NA
 NA
 NA
@@ -5150,13 +5612,11 @@ NA
 NA
 NA
 NA
-FNCB Bancorp, rating, Modestly Undervalued, Financial Services, NO
+First Financial Northwest, rating, Modestly Undervalued, Financial Services, NO
 NA
 NA
 NA
 NA
-Provident Bank, rating, Significantly Overvalued, Financial Services, NO
-California BanCorp, rating, Modestly Undervalued, Financial Services, NO
 NA
 NA
 NA
@@ -5169,24 +5629,21 @@ NA
 NA
 NA
 NA
-Ampco, rating, Significantly Overvalued, Industrials, NO
 NA
 NA
+Pro-Dex, rating, Modestly Overvalued, Healthcare, NO
 NA
 NA
 NA
 NA
-Fonar, rating, Modestly Undervalued, Healthcare, NO
 NA
 NA
 NA
 NA
 NA
 NA
-PCTEL, rating, Modestly Overvalued, Technology, NO
 NA
 NA
-failed to do this stock but will do next
 NA
 NA
 NA
@@ -5196,27 +5653,6 @@ NA
 NA
 NA
 NA
-NA
-NA
-NA
-NA
-NA
-NA
-NA
-Ardmore Shipping, 71%, Modestly Undervalued, Industrials, NO
-NA
-NA
-NA
-NA
-NA
-Riverview Bancorp, rating, Possible Value Trap Think Twice, Financial Services, NO
-NA
-NA
-NA
-NA
-NA
-NA
-Citizens Holding, rating, Modestly Undervalued, Financial Services, NO
 Ocean Bio-Chem, rating, Significantly Overvalued, Industrials, NO
 NA
 NA
@@ -5225,14 +5661,11 @@ NA
 NA
 NA
 NA
-Partners Bancorp, rating, Fairly Valued, Financial Services, NO
 NA
 NA
 NA
 NA
 NA
-J. Alexander's, rating, Fairly Valued, Consumer Cyclical, NO
-Union Bank & Trust, rating, Possible Value Trap Think Twice, Financial Services, NO
 NA
 NA
 NA
@@ -5252,17 +5685,14 @@ NA
 NA
 NA
 NA
-Salisbury Bank, rating, Modestly Undervalued, Financial Services, NO
 NA
 NA
-Ultralife, rating, Significantly Undervalued, Industrials, NO
 NA
 NA
 NA
 NA
 NA
 NA
-Pro-Dex, rating, Significantly Overvalued, Healthcare, NO
 NA
 NA
 NA
@@ -5281,7 +5711,6 @@ NA
 NA
 NA
 NA
-failed to do this stock but will do next
 NA
 NA
 NA
@@ -5298,35 +5727,28 @@ NA
 NA
 NA
 NA
-StealthGas, rating, Modestly Overvalued, Industrials, NO
-failed to do this stock but will do next
 NA
 NA
 NA
 NA
-Consumer Portfolio Services, rating, Modestly Overvalued, Financial Services, NO
 NA
 NA
-Oriental Culture, rating, UNK, Consumer Cyclical, NO
 NA
 NA
 NA
 NA
 NA
 NA
-Manning & Napier, rating, Significantly Overvalued, Financial Services, NO
 NA
 NA
 NA
 NA
 NA
-Computer Task Group, rating, Significantly Overvalued, Technology, NO
 NA
 NA
 NA
 NA
 NA
-Prudential Bank, rating, Possible Value Trap Think Twice, Financial Services, NO
 NA
 NA
 NA
@@ -5341,20 +5763,20 @@ NA
 NA
 NA
 NA
-failed to do this stock but will do next
 NA
 NA
 NA
 NA
-Delcath Systems, rating, UNK, Healthcare, NO
 NA
 NA
 NA
 NA
 NA
+Old Point Financial, rating, Modestly Undervalued, Financial Services, NO
 NA
 NA
 NA
+Summit State Bank, rating, Modestly Undervalued, Financial Services, NO
 NA
 NA
 NA
@@ -5363,7 +5785,6 @@ NA
 NA
 NA
 NA
-Sachem Capital, rating, Modestly Overvalued, Real Estate, NO
 NA
 NA
 NA
@@ -5394,7 +5815,6 @@ NA
 NA
 NA
 NA
-HMN Financial, rating, Modestly Undervalued, Financial Services, NO
 NA
 NA
 NA
@@ -5404,7 +5824,6 @@ NA
 NA
 NA
 NA
-Electromed, rating, Significantly Overvalued, Healthcare, NO
 NA
 NA
 NA
@@ -5414,7 +5833,6 @@ NA
 NA
 NA
 NA
-Key Tronic, rating, Modestly Overvalued, Technology, NO
 NA
 NA
 NA
@@ -5448,6 +5866,7 @@ NA
 NA
 NA
 NA
+First National, rating, Modestly Undervalued, Financial Services, NO
 NA
 NA
 NA
@@ -5457,34 +5876,29 @@ NA
 NA
 NA
 NA
+United Bancorp, rating, Modestly Undervalued, Financial Services, NO
 NA
 NA
 NA
-Perma-Fix Environmental Services, rating, Modestly Undervalued, Industrials, NO
-failed to do this stock but will do next
 NA
 NA
 NA
 NA
 NA
-Lake Shore Savings Bank, rating, Modestly Undervalued, Financial Services, NO
 NA
 NA
 NA
 NA
 NA
 NA
-Eaton Vance New York Municipal Income Trust, rating, UNK, Financial Services, NO
-failed to do this stock but will do next
 NA
 NA
 NA
 NA
+United Bank, rating, Possible Value Trap, Think Twice, Financial Services, NO
 NA
 NA
 NA
-Community West, rating, Modestly Undervalued, Financial Services, NO
-Crown Crafts, rating, Modestly Overvalued, Consumer Cyclical, NO
 NA
 NA
 NA
@@ -5542,7 +5956,74 @@ NA
 NA
 NA
 NA
-Nuveen Multi-Market Income Fund, rating, UNK, sector, NO
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+BlackRock MuniYield Arizona Fund, rating, UNK, Financial Services, NO
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+AMCON Distributing, rating, Fairly Valued, Consumer Defensive, NO
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
 NA
 NA
 NA
@@ -5562,19 +6043,15 @@ NA
 NA
 NA
 NA
-United-Guardian, rating, Modestly Undervalued, Consumer Defensive, NO
-Hennessy Advisors, rating, Fairly Valued, Financial Services, NO
 NA
 NA
 NA
 NA
 NA
-Lion Group, rating, UNK, Financial Services, NO
 NA
 NA
 NA
 NA
-BP Prudhoe Bay Royalty Trust, rating, Fairly Valued, Energy, NO
 NA
 NA
 NA
@@ -5584,7 +6061,6 @@ NA
 NA
 NA
 NA
-Coda Octopus, rating, Possible Value Trap Think Twice, Industrials, NO
 NA
 NA
 NA
@@ -5608,51 +6084,8 @@ NA
 NA
 NA
 NA
-ZK International, rating, UNK, Basic Materials, NO
 NA
 NA
-NA
-NA
-NA
-NA
-NA
-NA
-NA
-NA
-NA
-NA
-NA
-NA
-NA
-NA
-NA
-Bank of the James, rating, Modestly Undervalued, Financial Services, NO
-NA
-NA
-NA
-NA
-NA
-NA
-NA
-First US Bank, rating, Fairly Valued, Financial Services, NO
-NA
-NA
-NA
-NA
-NA
-NA
-NA
-NA
-NA
-NA
-NA
-NA
-NA
-NA
-NA
-NA
-NA
-CLPS Incorporation, rating, UNK, Technology, NO
 NA
 NA
 NA
@@ -5666,13 +6099,13 @@ NA
 NA
 NA
 NA
+BBQ Holdings, rating, Modestly Undervalued, Consumer Cyclical, NO
 NA
 NA
 NA
 NA
 NA
 NA
-failed to do this stock but will do next
 NA
 NA
 NA
@@ -5691,6 +6124,7 @@ NA
 NA
 NA
 NA
+Lion Group, rating, UNK, Financial Services, NO
 NA
 NA
 NA
@@ -5702,7 +6136,6 @@ NA
 NA
 NA
 NA
-Cross Timbers Royalty Trust, rating, Modestly Overvalued, Energy, NO
 NA
 NA
 NA
@@ -5711,7 +6144,6 @@ NA
 NA
 NA
 NA
-Income Opportunity Realty Investors, rating, UNK, Financial Services, NO
 NA
 NA
 NA
@@ -5735,7 +6167,6 @@ NA
 NA
 NA
 NA
-Espey Manufacturing & Electronics, rating, Modestly Undervalued, Industrials, NO
 NA
 NA
 NA
@@ -5775,7 +6206,6 @@ NA
 NA
 NA
 NA
-Elmira Savings Bank, rating, Modestly Undervalued, Financial Services, NO
 NA
 NA
 NA
@@ -5809,9 +6239,27 @@ NA
 NA
 NA
 NA
-HV Bancorp, rating, Possible Value Trap Think Twice, Financial Services, NO
 NA
-PermRock Royalty Trust (Unit), rating, UNK, Energy, NO
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+Rand Capital, rating, UNK, Financial Services, NO
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
 NA
 NA
 NA
@@ -5863,11 +6311,6 @@ NA
 NA
 NA
 NA
-Fuwei Films, rating, Significantly Overvalued, Consumer Cyclical, NO
-NA
-NA
-NA
-Glen Burnie Bancorp, rating, Fairly Valued, Financial Services, NO
 NA
 NA
 NA
@@ -5875,15 +6318,9 @@ NA
 NA
 NA
 NA
-Summer Infant, rating, Significantly Overvalued, Consumer Defensive, NO
 NA
 NA
-NA
-NA
-NA
-NA
-NA
-Ossen Innovation, rating, Significantly Overvalued, Basic Materials, NO
+Willamette Valley Vineyards (Preferred), rating, UNK, Consumer Defensive, NO
 NA
 NA
 NA
@@ -5907,7 +6344,6 @@ NA
 NA
 NA
 NA
-Dunxin Financial, rating, Modestly Overvalued, Financial Services, NO
 NA
 NA
 NA
@@ -5929,7 +6365,28 @@ NA
 NA
 NA
 NA
-SPAR, rating, Modestly Overvalued, Industrials, NO
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
 NA
 NA
 NA
@@ -5985,6 +6442,9 @@ NA
 NA
 NA
 NA
+Servotronics, rating, Modestly Undervalued, Industrials, NO
+NA
+Cyanotech, rating, Modestly Overvalued, Consumer Defensive, NO
 NA
 NA
 NA
@@ -6005,7 +6465,6 @@ NA
 NA
 NA
 NA
-Schmitt Industries, rating, Significantly Overvalued, Technology, 2021-01-13
 NA
 NA
 NA
@@ -6016,7 +6475,7 @@ NA
 NA
 NA
 NA
-Taitron Components, rating, Significantly Overvalued, Technology, NO
+NA
 NA
 NA
 NA
@@ -6056,6 +6515,7 @@ NA
 NA
 NA
 NA
+New Concept Energy, rating, Significantly Overvalued, Energy, NO
 NA
 NA
 NA
@@ -6083,29 +6543,6 @@ NA
 NA
 NA
 NA
-NA
-NA
-NA
-NA
-NA
-NA
-NA
-NA
-NA
-NA
-NA
-NA
-NA
-NA
-NA
-NA
-NA
-NA
-NA
-NA
-NA
-NA
-failed to do this stock but will do next
 NA
 NA
 NA
@@ -6117,3 +6554,18 @@ NA
 NA
 NA
 Qwest 7% Notes due 2056, rating, UNK, sector, NO
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+(venv_ldrest3) Gobis-MBP:ld-stocks gobidasu$ 
