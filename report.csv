@@ -1,21 +1,3 @@
-Gobis-MBP:ld-stocks gobidasu$ python stocks.py 
-Traceback (most recent call last):
-  File "stocks.py", line 1, in <module>
-    import yfinance as yf
-ImportError: No module named yfinance
-Gobis-MBP:ld-stocks gobidasu$ ls
-Final.csv		__pycache__		earnings.py		geckodriver.log		next_week.pyc		report2.csv		stocks.py		tickers.csv		tickers2.csv
-README.md		done.csv		fix_order_of_report.py	next_week.py		report.csv		requirements.txt	testing_navigation.py	tickers1.csv
-Gobis-MBP:ld-stocks gobidasu$ source ../
-.DS_Store               10-ld-draj/             4.zip                   7.zip                   ac-pitchbigclients/     chromedriver_mac64.zip  one-pagers-printable/   rk-scraping-skills/     
-.gitignore              2-wo-pems.zip           5.zip                   8.zip                   blog-pics/              draj/                   rk-initial-work/        
-1.zip                   3.zip                   6.zip                   ac-linkedin-cache/      chromedriver            ld-stocks/              rk-pitchbigclients/     
-Gobis-MBP:ld-stocks gobidasu$ source ../draj/
-rk-venv/      venv_ldrest/  venv_ldrest3/ 
-Gobis-MBP:ld-stocks gobidasu$ source ../draj/venv_ldrest3/
--bash: source: ../draj/venv_ldrest3/: is a directory
-Gobis-MBP:ld-stocks gobidasu$ source ../draj/venv_ldrest3/bin/activate
-(venv_ldrest3) Gobis-MBP:ld-stocks gobidasu$ python stocks.py 
 NA
 NA
 NA
@@ -38,427 +20,6 @@ NA
 NA
 NA
 NA
-AKTS has an earnings report
-CACC has an earnings report
-AMANF has an earnings report
-ARLP has an earnings report
-PBSV has an earnings report
-BFIN has an earnings report
-SBT has an earnings report
-NRIM has an earnings report
-CBT has an earnings report
-KRC has an earnings report
-WMG has an earnings report
-KMPR has an earnings report
-LSRCF has an earnings report
-CMRE has an earnings report
-CRUS has an earnings report
-CSWC has an earnings report
-PGC has an earnings report
-ON has an earnings report
-OTIS has an earnings report
-CMICF has an earnings report
-SKY has an earnings report
-PCH has an earnings report
-MRBK has an earnings report
-SMMF has an earnings report
-TMO has an earnings report
-FSFG has an earnings report
-FN has an earnings report
-RMR has an earnings report
-RYAAY has an earnings report
-HLIT has an earnings report
-ITUB has an earnings report
-WWD has an earnings report
-RMBS has an earnings report
-OMCL has an earnings report
-VRTX has an earnings report
-TESS has an earnings report
-KMT has an earnings report
-QTNT has an earnings report
-NXPI has an earnings report
-FCCY has an earnings report
-ARCB has an earnings report
-ABG has an earnings report
-WKCMF has an earnings report
-GOOGL has an earnings report
-MANH has an earnings report
-NVZMY has an earnings report
-NVZMF has an earnings report
-BABA has an earnings report
-AMZN has an earnings report
-ARE has an earnings report
-APAM has an earnings report
-ALGM has an earnings report
-ELUXY has an earnings report
-ATHM has an earnings report
-DOX has an earnings report
-ATGE has an earnings report
-AMCR has an earnings report
-EA has an earnings report
-ATO has an earnings report
-BRKS has an earnings report
-CLPBF has an earnings report
-GOOG has an earnings report
-ATKR has an earnings report
-SKFRY has an earnings report
-TELNY has an earnings report
-AMGN has an earnings report
-VTOL has an earnings report
-BR has an earnings report
-CLDB has an earnings report
-BPAQF has an earnings report
-FBHS has an earnings report
-PBI has an earnings report
-KFFB has an earnings report
-BP has an earnings report
-BPY has an earnings report
-CFBK has an earnings report
-IBTX has an earnings report
-IBTX has an earnings report
-SVBI has an earnings report
-BDN has an earnings report
-EPAY has an earnings report
-SALT has an earnings report
-CWBC has an earnings report
-PBHC has an earnings report
-TECH has an earnings report
-THFF has an earnings report
-CB has an earnings report
-CRVL has an earnings report
-IPHI has an earnings report
-NHNKF has an earnings report
-KKPCF has an earnings report
-MITSY has an earnings report
-DACHF has an earnings report
-OXLC has an earnings report
-CTLT has an earnings report
-XOM has an earnings report
-GAIN has an earnings report
-MPC has an earnings report
-SCCO has an earnings report
-MARUY has an earnings report
-PFIS has an earnings report
-SMCI has an earnings report
-MCK has an earnings report
-MKL has an earnings report
-GPK has an earnings report
-ETN has an earnings report
-LFVN has an earnings report
-JUVF has an earnings report
-SYY has an earnings report
-HAE has an earnings report
-CMG has an earnings report
-WAT has an earnings report
-PMHG has an earnings report
-GRWC has an earnings report
-LCNB has an earnings report
-COP has an earnings report
-EMR has an earnings report
-HMN has an earnings report
-PCRFY has an earnings report
-DLHC has an earnings report
-SKM has an earnings report
-UTL has an earnings report
-OCFT has an earnings report
-TCS has an earnings report
-SANM has an earnings report
-AQUA has an earnings report
-ESALY has an earnings report
-ESALF has an earnings report
-LPG has an earnings report
-HOG has an earnings report
-ENTG has an earnings report
-EPLYF has an earnings report
-FEYE has an earnings report
-FMN has an earnings report
-BEN has an earnings report
-RACE has an earnings report
-WDR has an earnings report
-GL has an earnings report
-LNVGY has an earnings report
-ASH has an earnings report
-ABBV has an earnings report
-HXGBF has an earnings report
-UHAL has an earnings report
-BDABF has an earnings report
-AFL has an earnings report
-ALFVF has an earnings report
-AVY has an earnings report
-ALGT has an earnings report
-APTV has an earnings report
-APO has an earnings report
-PAHC has an earnings report
-KLIC has an earnings report
-ALB has an earnings report
-AFG has an earnings report
-AMSC has an earnings report
-NVO has an earnings report
-JAIRF has an earnings report
-AVTR has an earnings report
-HWM has an earnings report
-SIEGY has an earnings report
-ALL has an earnings report
-ANGI has an earnings report
-AVNW has an earnings report
-HUSQF has an earnings report
-SMAWF has an earnings report
-ADTN has an earnings report
-MAA has an earnings report
-ALGN has an earnings report
-VOLVF has an earnings report
-SAN has an earnings report
-ELF has an earnings report
-ESBS has an earnings report
-BIIB has an earnings report
-BIP has an earnings report
-BSX has an earnings report
-BCH has an earnings report
-PPERF has an earnings report
-BBD has an earnings report
-BPYU has an earnings report
-HWEN has an earnings report
-FGBI has an earnings report
-KLAC has an earnings report
-LNC has an earnings report
-CCMP has an earnings report
-CNHI has an earnings report
-CTSH has an earnings report
-CTVA has an earnings report
-CHNG has an earnings report
-SITM has an earnings report
-CSWC has an earnings report
-IEC has an earnings report
-MSGS has an earnings report
-YUMC has an earnings report
-RGS has an earnings report
-CSGS has an earnings report
-EPM has an earnings report
-GEOS has an earnings report
-LCI has an earnings report
-SMG has an earnings report
-NEU has an earnings report
-CSII has an earnings report
-CENT has an earnings report
-CHKP has an earnings report
-IEX has an earnings report
-SC has an earnings report
-SENEA has an earnings report
-UGI has an earnings report
-CENTA has an earnings report
-SSNEF has an earnings report
-WNC has an earnings report
-GLAD has an earnings report
-PFGC has an earnings report
-YMDAF has an earnings report
-SSUMY has an earnings report
-CPRI has an earnings report
-EMKR has an earnings report
-SIMO has an earnings report
-SNE has an earnings report
-APPS has an earnings report
-DT has an earnings report
-DGII has an earnings report
-EBAY has an earnings report
-EZPW has an earnings report
-PLUS has an earnings report
-EVR has an earnings report
-EPD has an earnings report
-ECHO has an earnings report
-SU has an earnings report
-ENSG has an earnings report
-KE has an earnings report
-FORM has an earnings report
-NICK has an earnings report
-FETM has an earnings report
-HOFJF has an earnings report
-MDU has an earnings report
-THG has an earnings report
-SGU has an earnings report
-TGI has an earnings report
-GWW has an earnings report
-UEPS has an earnings report
-GPI has an earnings report
-ARW has an earnings report
-ATVI has an earnings report
-AINV has an earnings report
-IFNNY has an earnings report
-BDX has an earnings report
-AME has an earnings report
-SINGF has an earnings report
-DB has an earnings report
-OMVKY has an earnings report
-AOSL has an earnings report
-ALCO has an earnings report
-HRRB has an earnings report
-AVB has an earnings report
-ARWR has an earnings report
-ALXN has an earnings report
-APD has an earnings report
-SCMWY has an earnings report
-ABB has an earnings report
-ABC has an earnings report
-AGCO has an earnings report
-AVB has an earnings report
-AXFOF has an earnings report
-SWZCF has an earnings report
-WMS has an earnings report
-VTOL has an earnings report
-BCE has an earnings report
-BMY has an earnings report
-BRBR has an earnings report
-BSAC has an earnings report
-SBH has an earnings report
-BPYPO has an earnings report
-TWST has an earnings report
-BTGOF has an earnings report
-BAX has an earnings report
-BCLI has an earnings report
-NECB has an earnings report
-NGVC has an earnings report
-LARK has an earnings report
-GLBZ has an earnings report
-RBKB has an earnings report
-NBIX has an earnings report
-BEP has an earnings report
-BLL has an earnings report
-BV has an earnings report
-EVBN has an earnings report
-FARM has an earnings report
-NKSH has an earnings report
-PTBS has an earnings report
-BHE has an earnings report
-BILL has an earnings report
-BSIG has an earnings report
-YUM has an earnings report
-SENEB has an earnings report
-MRK has an earnings report
-PCTY has an earnings report
-PH has an earnings report
-PIPR has an earnings report
-RICOY has an earnings report
-CPT has an earnings report
-CSL has an earnings report
-CURO has an earnings report
-CTHR has an earnings report
-F has an earnings report
-GLT has an earnings report
-GOOS has an earnings report
-MZDAF has an earnings report
-NOK has an earnings report
-OCSI has an earnings report
-TAK has an earnings report
-CHGCF has an earnings report
-CMI has an earnings report
-CMS has an earnings report
-FTV has an earnings report
-HSY has an earnings report
-MNR has an earnings report
-TKPHF has an earnings report
-SNPHF has an earnings report
-CI has an earnings report
-LEA has an earnings report
-MDP has an earnings report
-LGF-A has an earnings report
-TDC has an earnings report
-OFC has an earnings report
-GHL has an earnings report
-DECK has an earnings report
-DXC has an earnings report
-KN has an earnings report
-NFG has an earnings report
-NINOY has an earnings report
-CENTA has an earnings report
-LGF-B has an earnings report
-IRMD has an earnings report
-VREX has an earnings report
-CLX has an earnings report
-OCSL has an earnings report
-SXI has an earnings report
-RL has an earnings report
-PBH has an earnings report
-AXTA has an earnings report
-ARTW has an earnings report
-NEA has an earnings report
-AIV has an earnings report
-AIKI has an earnings report
-NRK has an earnings report
-FMAO has an earnings report
-VRTU has an earnings report
-TY has an earnings report
-IO has an earnings report
-CATM has an earnings report
-EPM has an earnings report
-IMMR has an earnings report
-GEOS has an earnings report
-CLCT has an earnings report
-RQI has an earnings report
-UTF has an earnings report
-ULBI has an earnings report
-ULBI has an earnings report
-TCFC has an earnings report
-SINA has an earnings report
-COHR has an earnings report
-EMKR has an earnings report
-GEENQ has an earnings report
-KE has an earnings report
-ECIA has an earnings report
-MYGN has an earnings report
-GIGA has an earnings report
-GTIM has an earnings report
-GTIM has an earnings report
-GIGA has an earnings report
-GLOG has an earnings report
-GLOP has an earnings report
-WTM has an earnings report
-TNAV has an earnings report
-SMRTQ has an earnings report
-TYME has an earnings report
-VSAT has an earnings report
-ADNT has an earnings report
-AON has an earnings report
-VIVO has an earnings report
-VIVO has an earnings report
-BERY has an earnings report
-BRBR has an earnings report
-CIVB has an earnings report
-CIVB has an earnings report
-SPB has an earnings report
-ZBH has an earnings report
-CURO has an earnings report
-TAST has an earnings report
-CCM has an earnings report
-CCM has an earnings report
-CAH has an earnings report
-CSWI has an earnings report
-DJCO has an earnings report
-CBOE has an earnings report
-EL has an earnings report
-ROAD has an earnings report
-ROAD has an earnings report
-FE has an earnings report
-CNXN has an earnings report
-TALO has an earnings report
-NATH has an earnings report
-EAF has an earnings report
-IESC has an earnings report
-LTRPA has an earnings report
-HRC has an earnings report
-ULH has an earnings report
-LIVX has an earnings report
-UI has an earnings report
-ITW has an earnings report
-LBRT has an earnings report
-KRTX has an earnings report
-USAK has an earnings report
-OIIM has an earnings report
-OIIM has an earnings report
-JOUT has an earnings report
-REGN has an earnings report
-LAZ has an earnings report
-LIN has an earnings report
-TT has an earnings report
-earnings_reports:  {'AKTS': '2021-01-31', 'CACC': '2021-01-31', 'AMANF': '2021-01-31', 'ARLP': '2021-01-31', 'PBSV': '2021-01-31', 'BFIN': '2021-01-31', 'SBT': '2021-01-31', 'NRIM': '2021-01-31', 'CBT': '2021-01-31', 'KRC': '2021-01-31', 'WMG': '2021-01-31', 'KMPR': '2021-01-31', 'LSRCF': '2021-01-31', 'CMRE': '2021-01-31', 'CRUS': '2021-01-31', 'CSWC': '2021-02-02', 'PGC': '2021-01-31', 'ON': '2021-01-31', 'OTIS': '2021-01-31', 'CMICF': '2021-01-31', 'SKY': '2021-01-31', 'PCH': '2021-01-31', 'MRBK': '2021-01-31', 'SMMF': '2021-01-31', 'TMO': '2021-01-31', 'FSFG': '2021-01-31', 'FN': '2021-01-31', 'RMR': '2021-01-31', 'RYAAY': '2021-01-31', 'HLIT': '2021-01-31', 'ITUB': '2021-01-31', 'WWD': '2021-01-31', 'RMBS': '2021-01-31', 'OMCL': '2021-01-31', 'VRTX': '2021-01-31', 'TESS': '2021-01-31', 'KMT': '2021-01-31', 'QTNT': '2021-01-31', 'NXPI': '2021-01-31', 'FCCY': '2021-02-01', 'ARCB': '2021-02-01', 'ABG': '2021-02-01', 'WKCMF': '2021-02-01', 'GOOGL': '2021-02-01', 'MANH': '2021-02-01', 'NVZMY': '2021-02-01', 'NVZMF': '2021-02-01', 'BABA': '2021-02-01', 'AMZN': '2021-02-01', 'ARE': '2021-02-01', 'APAM': '2021-02-01', 'ALGM': '2021-02-01', 'ELUXY': '2021-02-01', 'ATHM': '2021-02-01', 'DOX': '2021-02-01', 'ATGE': '2021-02-01', 'AMCR': '2021-02-01', 'EA': '2021-02-01', 'ATO': '2021-02-01', 'BRKS': '2021-02-01', 'CLPBF': '2021-02-01', 'GOOG': '2021-02-01', 'ATKR': '2021-02-01', 'SKFRY': '2021-02-01', 'TELNY': '2021-02-01', 'AMGN': '2021-02-01', 'VTOL': '2021-02-03', 'BR': '2021-02-01', 'CLDB': '2021-02-01', 'BPAQF': '2021-02-01', 'FBHS': '2021-02-01', 'PBI': '2021-02-01', 'KFFB': '2021-02-01', 'BP': '2021-02-01', 'BPY': '2021-02-01', 'CFBK': '2021-02-01', 'IBTX': '2021-02-01', 'SVBI': '2021-02-01', 'BDN': '2021-02-01', 'EPAY': '2021-02-01', 'SALT': '2021-02-01', 'CWBC': '2021-02-01', 'PBHC': '2021-02-01', 'TECH': '2021-02-01', 'THFF': '2021-02-01', 'CB': '2021-02-01', 'CRVL': '2021-02-01', 'IPHI': '2021-02-01', 'NHNKF': '2021-02-01', 'KKPCF': '2021-02-01', 'MITSY': '2021-02-01', 'DACHF': '2021-02-01', 'OXLC': '2021-02-01', 'CTLT': '2021-02-01', 'XOM': '2021-02-01', 'GAIN': '2021-02-01', 'MPC': '2021-02-01', 'SCCO': '2021-02-01', 'MARUY': '2021-02-01', 'PFIS': '2021-02-01', 'SMCI': '2021-02-01', 'MCK': '2021-02-01', 'MKL': '2021-02-01', 'GPK': '2021-02-01', 'ETN': '2021-02-01', 'LFVN': '2021-02-01', 'JUVF': '2021-02-01', 'SYY': '2021-02-01', 'HAE': '2021-02-01', 'CMG': '2021-02-01', 'WAT': '2021-02-01', 'PMHG': '2021-02-01', 'GRWC': '2021-02-01', 'LCNB': '2021-02-01', 'COP': '2021-02-01', 'EMR': '2021-02-01', 'HMN': '2021-02-01', 'PCRFY': '2021-02-01', 'DLHC': '2021-02-01', 'SKM': '2021-02-01', 'UTL': '2021-02-01', 'OCFT': '2021-02-01', 'TCS': '2021-02-01', 'SANM': '2021-02-01', 'AQUA': '2021-02-01', 'ESALY': '2021-02-01', 'ESALF': '2021-02-01', 'LPG': '2021-02-01', 'HOG': '2021-02-01', 'ENTG': '2021-02-01', 'EPLYF': '2021-02-01', 'FEYE': '2021-02-01', 'FMN': '2021-02-01', 'BEN': '2021-02-01', 'RACE': '2021-02-01', 'WDR': '2021-02-01', 'GL': '2021-02-01', 'LNVGY': '2021-02-01', 'ASH': '2021-02-02', 'ABBV': '2021-02-02', 'HXGBF': '2021-02-02', 'UHAL': '2021-02-02', 'BDABF': '2021-02-02', 'AFL': '2021-02-02', 'ALFVF': '2021-02-02', 'AVY': '2021-02-02', 'ALGT': '2021-02-02', 'APTV': '2021-02-02', 'APO': '2021-02-02', 'PAHC': '2021-02-02', 'KLIC': '2021-02-02', 'ALB': '2021-02-02', 'AFG': '2021-02-02', 'AMSC': '2021-02-02', 'NVO': '2021-02-02', 'JAIRF': '2021-02-02', 'AVTR': '2021-02-02', 'HWM': '2021-02-02', 'SIEGY': '2021-02-02', 'ALL': '2021-02-02', 'ANGI': '2021-02-02', 'AVNW': '2021-02-02', 'HUSQF': '2021-02-02', 'SMAWF': '2021-02-02', 'ADTN': '2021-02-02', 'MAA': '2021-02-02', 'ALGN': '2021-02-02', 'VOLVF': '2021-02-02', 'SAN': '2021-02-02', 'ELF': '2021-02-02', 'ESBS': '2021-02-02', 'BIIB': '2021-02-02', 'BIP': '2021-02-02', 'BSX': '2021-02-02', 'BCH': '2021-02-02', 'PPERF': '2021-02-02', 'BBD': '2021-02-02', 'BPYU': '2021-02-02', 'HWEN': '2021-02-02', 'FGBI': '2021-02-02', 'KLAC': '2021-02-02', 'LNC': '2021-02-02', 'CCMP': '2021-02-02', 'CNHI': '2021-02-02', 'CTSH': '2021-02-02', 'CTVA': '2021-02-02', 'CHNG': '2021-02-02', 'SITM': '2021-02-02', 'IEC': '2021-02-02', 'MSGS': '2021-02-02', 'YUMC': '2021-02-02', 'RGS': '2021-02-02', 'CSGS': '2021-02-02', 'EPM': '2021-02-04', 'GEOS': '2021-02-04', 'LCI': '2021-02-02', 'SMG': '2021-02-02', 'NEU': '2021-02-02', 'CSII': '2021-02-02', 'CENT': '2021-02-02', 'CHKP': '2021-02-02', 'IEX': '2021-02-02', 'SC': '2021-02-02', 'SENEA': '2021-02-02', 'UGI': '2021-02-02', 'CENTA': '2021-02-03', 'SSNEF': '2021-02-02', 'WNC': '2021-02-02', 'GLAD': '2021-02-02', 'PFGC': '2021-02-02', 'YMDAF': '2021-02-02', 'SSUMY': '2021-02-02', 'CPRI': '2021-02-02', 'EMKR': '2021-02-04', 'SIMO': '2021-02-02', 'SNE': '2021-02-02', 'APPS': '2021-02-02', 'DT': '2021-02-02', 'DGII': '2021-02-02', 'EBAY': '2021-02-02', 'EZPW': '2021-02-02', 'PLUS': '2021-02-02', 'EVR': '2021-02-02', 'EPD': '2021-02-02', 'ECHO': '2021-02-02', 'SU': '2021-02-02', 'ENSG': '2021-02-02', 'KE': '2021-02-04', 'FORM': '2021-02-02', 'NICK': '2021-02-02', 'FETM': '2021-02-02', 'HOFJF': '2021-02-02', 'MDU': '2021-02-02', 'THG': '2021-02-02', 'SGU': '2021-02-02', 'TGI': '2021-02-02', 'GWW': '2021-02-02', 'UEPS': '2021-02-03', 'GPI': '2021-02-03', 'ARW': '2021-02-03', 'ATVI': '2021-02-03', 'AINV': '2021-02-03', 'IFNNY': '2021-02-03', 'BDX': '2021-02-03', 'AME': '2021-02-03', 'SINGF': '2021-02-03', 'DB': '2021-02-03', 'OMVKY': '2021-02-03', 'AOSL': '2021-02-03', 'ALCO': '2021-02-03', 'HRRB': '2021-02-03', 'AVB': '2021-02-03', 'ARWR': '2021-02-03', 'ALXN': '2021-02-03', 'APD': '2021-02-03', 'SCMWY': '2021-02-03', 'ABB': '2021-02-03', 'ABC': '2021-02-03', 'AGCO': '2021-02-03', 'AXFOF': '2021-02-03', 'SWZCF': '2021-02-03', 'WMS': '2021-02-03', 'BCE': '2021-02-03', 'BMY': '2021-02-03', 'BRBR': '2021-02-05', 'BSAC': '2021-02-03', 'SBH': '2021-02-03', 'BPYPO': '2021-02-03', 'TWST': '2021-02-03', 'BTGOF': '2021-02-03', 'BAX': '2021-02-03', 'BCLI': '2021-02-03', 'NECB': '2021-02-03', 'NGVC': '2021-02-03', 'LARK': '2021-02-03', 'GLBZ': '2021-02-03', 'RBKB': '2021-02-03', 'NBIX': '2021-02-03', 'BEP': '2021-02-03', 'BLL': '2021-02-03', 'BV': '2021-02-03', 'EVBN': '2021-02-03', 'FARM': '2021-02-03', 'NKSH': '2021-02-03', 'PTBS': '2021-02-03', 'BHE': '2021-02-03', 'BILL': '2021-02-03', 'BSIG': '2021-02-03', 'YUM': '2021-02-03', 'SENEB': '2021-02-03', 'MRK': '2021-02-03', 'PCTY': '2021-02-03', 'PH': '2021-02-03', 'PIPR': '2021-02-03', 'RICOY': '2021-02-03', 'CPT': '2021-02-03', 'CSL': '2021-02-03', 'CURO': '2021-02-05', 'CTHR': '2021-02-03', 'F': '2021-02-03', 'GLT': '2021-02-03', 'GOOS': '2021-02-03', 'MZDAF': '2021-02-03', 'NOK': '2021-02-03', 'OCSI': '2021-02-03', 'TAK': '2021-02-03', 'CHGCF': '2021-02-03', 'CMI': '2021-02-03', 'CMS': '2021-02-03', 'FTV': '2021-02-03', 'HSY': '2021-02-03', 'MNR': '2021-02-03', 'TKPHF': '2021-02-03', 'SNPHF': '2021-02-03', 'CI': '2021-02-03', 'LEA': '2021-02-03', 'MDP': '2021-02-03', 'LGF-A': '2021-02-03', 'TDC': '2021-02-03', 'OFC': '2021-02-03', 'GHL': '2021-02-03', 'DECK': '2021-02-03', 'DXC': '2021-02-03', 'KN': '2021-02-03', 'NFG': '2021-02-03', 'NINOY': '2021-02-03', 'LGF-B': '2021-02-03', 'IRMD': '2021-02-03', 'VREX': '2021-02-03', 'CLX': '2021-02-03', 'OCSL': '2021-02-03', 'SXI': '2021-02-03', 'RL': '2021-02-03', 'PBH': '2021-02-03', 'AXTA': '2021-02-04', 'ARTW': '2021-02-04', 'NEA': '2021-02-04', 'AIV': '2021-02-04', 'AIKI': '2021-02-04', 'NRK': '2021-02-04', 'FMAO': '2021-02-04', 'VRTU': '2021-02-04', 'TY': '2021-02-04', 'IO': '2021-02-04', 'CATM': '2021-02-04', 'IMMR': '2021-02-04', 'CLCT': '2021-02-04', 'RQI': '2021-02-04', 'UTF': '2021-02-04', 'ULBI': '2021-02-04', 'TCFC': '2021-02-04', 'SINA': '2021-02-04', 'COHR': '2021-02-04', 'GEENQ': '2021-02-04', 'ECIA': '2021-02-04', 'MYGN': '2021-02-04', 'GIGA': '2021-02-04', 'GTIM': '2021-02-04', 'GLOG': '2021-02-04', 'GLOP': '2021-02-04', 'WTM': '2021-02-04', 'TNAV': '2021-02-04', 'SMRTQ': '2021-02-04', 'TYME': '2021-02-04', 'VSAT': '2021-02-04', 'ADNT': '2021-02-05', 'AON': '2021-02-05', 'VIVO': '2021-02-05', 'BERY': '2021-02-05', 'CIVB': '2021-02-05', 'SPB': '2021-02-05', 'ZBH': '2021-02-05', 'TAST': '2021-02-05', 'CCM': '2021-02-05', 'CAH': '2021-02-05', 'CSWI': '2021-02-05', 'DJCO': '2021-02-05', 'CBOE': '2021-02-05', 'EL': '2021-02-05', 'ROAD': '2021-02-05', 'FE': '2021-02-05', 'CNXN': '2021-02-05', 'TALO': '2021-02-05', 'NATH': '2021-02-05', 'EAF': '2021-02-05', 'IESC': '2021-02-05', 'LTRPA': '2021-02-05', 'HRC': '2021-02-05', 'ULH': '2021-02-05', 'LIVX': '2021-02-05', 'UI': '2021-02-05', 'ITW': '2021-02-05', 'LBRT': '2021-02-05', 'KRTX': '2021-02-05', 'USAK': '2021-02-05', 'OIIM': '2021-02-05', 'JOUT': '2021-02-05', 'REGN': '2021-02-05', 'LAZ': '2021-02-05', 'LIN': '2021-02-05', 'TT': '2021-02-05'}
 UnitedHealth, 76%, Fairly Valued, Healthcare, NO
 NA
 NA
@@ -521,7 +82,7 @@ NA
 NA
 NA
 NA
-China Life Insurance, 69%, Possible Value Trap, Think Twice, Financial Services, NO
+China Life Insurance, 69%, Possible Value Trap Think Twice, Financial Services, NO
 NA
 NA
 NA
@@ -585,7 +146,7 @@ NA
 NA
 NA
 NA
-CIGNA Corporation, 88%, Possible Value Trap, Think Twice, Healthcare, 2021-02-03
+CIGNA Corporation, 88%, Possible Value Trap Think Twice, Healthcare, 2021-02-03
 NA
 NA
 NA
@@ -650,7 +211,7 @@ NA
 NA
 Air Products & Chemicals, 52%, Modestly Overvalued, Basic Materials, 2021-02-03
 NA
-Vertex Pharmaceuticals, 83%, Possible Value Trap, Think Twice, Healthcare, 2021-01-31
+Vertex Pharmaceuticals, 83%, Possible Value Trap Think Twice, Healthcare, 2021-01-31
 NA
 NA
 NA
@@ -1463,7 +1024,7 @@ NA
 NA
 NA
 Cboe, 35%, Significantly Overvalued, Financial Services, 2021-02-05
-Magellan Midstream, 68%, Possible Value Trap, Think Twice, Energy, NO
+Magellan Midstream, 68%, Possible Value Trap Think Twice, Energy, NO
 NA
 NA
 NA
@@ -1523,7 +1084,7 @@ NA
 NA
 NA
 NA
-Huaneng Power International, rating, Possible Value Trap, Think Twice, Utilities, NO
+Huaneng Power International, rating, Possible Value Trap Think Twice, Utilities, NO
 NA
 NA
 NA
@@ -3093,7 +2654,7 @@ NA
 NA
 NA
 NA
-BlackRock Taxable Municipal Bond Trust, rating, Possible Value Trap, Think Twice, Financial Services, NO
+BlackRock Taxable Municipal Bond Trust, rating, Possible Value Trap Think Twice, Financial Services, NO
 NA
 NA
 NA
@@ -3202,7 +2763,7 @@ NA
 NA
 NA
 NA
-Northwest Natural, 38%, Possible Value Trap, Think Twice, Utilities, NO
+Northwest Natural, 38%, Possible Value Trap Think Twice, Utilities, NO
 Coherus BioSciences, 90%, UNK, sector, NO
 NA
 NA
@@ -3456,7 +3017,7 @@ NA
 NA
 NA
 NA
-GEO Group, rating, Possible Value Trap, Think Twice, Real Estate, NO
+GEO Group, rating, Possible Value Trap Think Twice, Real Estate, NO
 NA
 NA
 NA
@@ -4654,7 +4215,7 @@ NA
 NA
 NA
 NA
-Voyager Therapeutics, 55%, Possible Value Trap, Think Twice, Healthcare, NO
+Voyager Therapeutics, 55%, Possible Value Trap Think Twice, Healthcare, NO
 NA
 NA
 NA
@@ -4831,7 +4392,7 @@ NA
 NA
 NA
 NA
-Heritage Insurance, rating, Possible Value Trap, Think Twice, Financial Services, NO
+Heritage Insurance, rating, Possible Value Trap Think Twice, Financial Services, NO
 NA
 NA
 NA
@@ -5182,7 +4743,7 @@ NA
 NA
 NA
 NA
-Norwood Financial, rating, Possible Value Trap, Think Twice, Financial Services, NO
+Norwood Financial, rating, Possible Value Trap Think Twice, Financial Services, NO
 NA
 NA
 NA
@@ -5310,7 +4871,7 @@ NA
 NA
 NA
 NA
-BayCom, rating, Possible Value Trap, Think Twice, Financial Services, NO
+BayCom, rating, Possible Value Trap Think Twice, Financial Services, NO
 NA
 NA
 NA
@@ -5895,7 +5456,7 @@ NA
 NA
 NA
 NA
-United Bank, rating, Possible Value Trap, Think Twice, Financial Services, NO
+United Bank, rating, Possible Value Trap Think Twice, Financial Services, NO
 NA
 NA
 NA
@@ -6568,4 +6129,3 @@ NA
 NA
 NA
 NA
-(venv_ldrest3) Gobis-MBP:ld-stocks gobidasu$ 
