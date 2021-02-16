@@ -1,12 +1,12 @@
-import yfinance as yf
 import csv
-import sys
-import time
-from selenium import webdriver
 import datetime
 import random
+import sys
+import time
 
 import pandas as pd
+import yfinance as yf
+from selenium import webdriver
 
 # EDIT GET THE FIRST 100 PLUS THE STOCKS WE LIKE BY DEFAULT
 
@@ -15,51 +15,65 @@ import pandas as pd
 def csv_url_reader(url_obj):
     next_week = (datetime.date.today().isocalendar()[1]) % 52 + 1
     week = next_week - 2
-    start_date = time.asctime(time.strptime('2021 %d 0' % week, '%Y %W %w'))
-    start_date = datetime.datetime.strptime(start_date, '%a %b %d %H:%M:%S %Y')
-    dates = [start_date.strftime('%Y-%m-%d')]
+    start_date = time.asctime(time.strptime("2021 %d 0" % week, "%Y %W %w"))
+    start_date = datetime.datetime.strptime(start_date, "%a %b %d %H:%M:%S %Y")
+    dates = [start_date.strftime("%Y-%m-%d")]
     for i in range(1, 7):
         day = start_date + datetime.timedelta(days=i)
-        dates.append(day.strftime('%Y-%m-%d'))
-    reader = csv.DictReader(url_obj, delimiter=',')
-    earnings_reports = None
+        dates.append(day.strftime("%Y-%m-%d"))
+    reader = csv.DictReader(url_obj, delimiter=",")
+
     for line in reader:
+
         try:
             real_ticker = line["Stock"]
             precision = line["Predecision"]
-            if precision == 'TRUE':
+            if precision == "TRUE":
+                earnings_reports = None
                 browser = webdriver.Chrome()
                 browser.get("https://robinhood.com/stocks/" + real_ticker)
                 name = real_ticker
-                stockname = browser.find_elements_by_css_selector('header.Jo5RGrWjFiX_iyW3gMLsy')
+                stockname = browser.find_elements_by_css_selector(
+                    "header.Jo5RGrWjFiX_iyW3gMLsy"
+                )
                 for stock in stockname:
                     try:
-                        name = stock.find_element_by_css_selector('h1').text
+                        name = stock.find_element_by_css_selector("h1").text
                     except:
-                        ('Oops!!', sys.exc_info())
-                ratings = browser.find_elements_by_css_selector('div._1fEdz1YPOLpLW1Ow3rKh92')
+                        ("Oops!!", sys.exc_info())
+                ratings = browser.find_elements_by_css_selector(
+                    "div._1fEdz1YPOLpLW1Ow3rKh92"
+                )
                 rat = "rating"
                 for rating in ratings:
                     try:
-                        rat = rating.find_element_by_css_selector('div._1fEdz1YPOLpLW1Ow3rKh92 h2').text
+                        rat = rating.find_element_by_css_selector(
+                            "div._1fEdz1YPOLpLW1Ow3rKh92 h2"
+                        ).text
                     except:
-                        ('Oops!!', sys.exc_info())
+                        ("Oops!!", sys.exc_info())
                 tech = "sector"
                 try:
                     market_tech = yf.Ticker(real_ticker)
-                    tech = market_tech.info.get('sector')
+                    tech = market_tech.info.get("sector")
                 except:
                     # NOTE IN NEXT RUN - NEED TO INVESTIGATE GURUFOCUS UNK
                     (sys.exc_info())
-                browser.get("https://www.gurufocus.com/stock/" + real_ticker + "/summary")
+                browser.get(
+                    "https://www.gurufocus.com/stock/"
+                    + real_ticker
+                    + "/summary"
+                )
                 time.sleep(4 + random.random() * 10)
-                gurus = browser.find_elements_by_css_selector("button.el-button.el-popover__reference")
+                gurus = browser.find_elements_by_css_selector(
+                    "button.el-button.el-popover__reference"
+                )
                 data = "UNK"
                 for guru in gurus:
                     try:
                         data = guru.find_element_by_css_selector("span").text
                     except:
-                        ('Oops!', sys.exc_info())
+                        ("Oops!", sys.exc_info())
                 earning = "NO"
                 if earnings_reports:
                     if real_ticker in earnings_reports:
@@ -69,21 +83,24 @@ def csv_url_reader(url_obj):
                         earnings_reports = {}
                         for date in dates:
                             browser.get(
-                                "https://finance.yahoo.com/calendar/earnings?from=" + dates[0] + "&to=" + dates[6] + "&day=" + date)
+                                f"https://finance.yahoo.com/calendar/earnings?from={dates[0]}&to={dates[6]}&day={date}"
+                            )
                             time.sleep(4 + random.random() * 10)
-                            titles = browser.find_elements_by_css_selector('table tbody tr')
+                            titles = browser.find_elements_by_css_selector(
+                                "table tbody tr"
+                            )
                             for title in titles:
-                                earning = title.find_element_by_css_selector('table tbody tr td a').text
+                                earning = title.find_element_by_css_selector(
+                                    "table tbody tr td a"
+                                ).text
                                 print(earning, "has an earnings report")
                                 earnings_reports[earning] = date
-                                if earning not in real_ticker:
-                                    earning = "NO"
-                                else:
-                                    earning = date
                         print("earnings_reports: ", earnings_reports)
                     except:
                         print("failed to get earnings report")
-                print(name + ', ' + rat + ', ' + data + ', ' + tech + ', ' + earning)
+                print(
+                    f"{name}, {rat}, {data}, {tech}, {earnings_reports[earning]}"
+                )
                 time.sleep(4 + random.random() * 10)
                 browser.quit()
             else:
