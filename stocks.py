@@ -23,13 +23,13 @@ def csv_url_reader(url_obj):
         dates.append(day.strftime("%Y-%m-%d"))
     reader = csv.DictReader(url_obj, delimiter=",")
 
+    earnings_reports = None
     for line in reader:
 
         try:
             real_ticker = line["Stock"]
             precision = line["Predecision"]
             if precision == "TRUE":
-                earnings_reports = None
                 browser = webdriver.Chrome()
                 browser.get("https://robinhood.com/stocks/" + real_ticker)
                 name = real_ticker
