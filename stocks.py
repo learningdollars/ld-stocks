@@ -25,7 +25,6 @@ def csv_url_reader(url_obj):
 
     earnings_reports = None
     for line in reader:
-
         try:
             real_ticker = line["Stock"]
             precision = line["Predecision"]
@@ -75,6 +74,7 @@ def csv_url_reader(url_obj):
                     except:
                         ("Oops!", sys.exc_info())
                 earning = "NO"
+                to_report = earning
                 if earnings_reports:
                     if real_ticker in earnings_reports:
                         earning = earnings_reports[real_ticker]
@@ -96,10 +96,11 @@ def csv_url_reader(url_obj):
                                 print(earning, "has an earnings report")
                                 earnings_reports[earning] = date
                         print("earnings_reports: ", earnings_reports)
+                        to_report = earnings_reports[earning]
                     except:
                         print("failed to get earnings report")
                 print(
-                    f"{name}, {rat}, {data}, {tech}, {earnings_reports[earning]}"
+                    f"{name}, {rat}, {data}, {tech}, {to_report}"
                 )
                 time.sleep(4 + random.random() * 10)
                 browser.quit()
