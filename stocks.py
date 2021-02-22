@@ -23,13 +23,12 @@ def csv_url_reader(url_obj):
         dates.append(day.strftime("%Y-%m-%d"))
     reader = csv.DictReader(url_obj, delimiter=",")
 
+    earnings_reports = None
     for line in reader:
-
         try:
             real_ticker = line["Stock"]
             precision = line["Predecision"]
             if precision == "TRUE":
-                earnings_reports = None
                 browser = webdriver.Chrome()
                 browser.get("https://robinhood.com/stocks/" + real_ticker)
                 name = real_ticker
@@ -75,6 +74,7 @@ def csv_url_reader(url_obj):
                     except:
                         ("Oops!", sys.exc_info())
                 earning = "NO"
+                to_report = earning
                 if earnings_reports:
                     if real_ticker in earnings_reports:
                         earning = earnings_reports[real_ticker]
@@ -96,17 +96,18 @@ def csv_url_reader(url_obj):
                                 print(earning, "has an earnings report")
                                 earnings_reports[earning] = date
                         print("earnings_reports: ", earnings_reports)
+                        to_report = earnings_reports[earning]
                     except:
                         print("failed to get earnings report")
                 print(
-                    f"{name}, {rat}, {data}, {tech}, {earnings_reports[earning]}"
+                    f"{name}, {rat}, {data}, {tech}, {to_report}"
                 )
                 time.sleep(4 + random.random() * 10)
-                browser.quit()
             else:
                 print("NA")
         except:
             print("failed to do this stock but will do next")
+        browser.quit()
 
 
 if __name__ == "__main__":
