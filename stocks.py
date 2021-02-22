@@ -103,11 +103,11 @@ def csv_url_reader(url_obj):
                     f"{name}, {rat}, {data}, {tech}, {to_report}"
                 )
                 time.sleep(4 + random.random() * 10)
-                browser.quit()
             else:
                 print("NA")
         except:
             print("failed to do this stock but will do next")
+        browser.quit()
 
 
 if __name__ == "__main__":
