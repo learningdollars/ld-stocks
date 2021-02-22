@@ -14,7 +14,7 @@ import pandas as pd
 # function
 def csv_url_reader(url_obj):
     next_week = (datetime.date.today().isocalendar()[1]) % 52 + 1
-    week = next_week - 2
+    week = next_week - 1
     start_date = time.asctime(time.strptime('2021 %d 0' % week, '%Y %W %w'))
     start_date = datetime.datetime.strptime(start_date, '%a %b %d %H:%M:%S %Y')
     dates = [start_date.strftime('%Y-%m-%d')]
@@ -61,10 +61,7 @@ def csv_url_reader(url_obj):
                     except:
                         ('Oops!', sys.exc_info())
                 earning = "NO"
-                if earnings_reports:
-                    if real_ticker in earnings_reports:
-                        earning = earnings_reports[real_ticker]
-                else:
+                if not earnings_reports:
                     try:
                         earnings_reports = {}
                         for date in dates:
@@ -73,16 +70,15 @@ def csv_url_reader(url_obj):
                             time.sleep(4 + random.random() * 10)
                             titles = browser.find_elements_by_css_selector('table tbody tr')
                             for title in titles:
-                                earning = title.find_element_by_css_selector('table tbody tr td a').text
-                                print(earning, "has an earnings report")
-                                earnings_reports[earning] = date
-                                if earning not in real_ticker:
-                                    earning = "NO"
-                                else:
-                                    earning = date
+                                stock_name = title.find_element_by_css_selector('table tbody tr td a').text
+                                print(stock_name, "has an earnings report")
+                                earnings_reports[stock_name] = date
                         print("earnings_reports: ", earnings_reports)
                     except:
                         print("failed to get earnings report")
+                        exit()
+                if real_ticker in earnings_reports:
+                    earning = earnings_reports[real_ticker]
                 print(name + ', ' + rat + ', ' + data + ', ' + tech + ', ' + earning)
                 time.sleep(4 + random.random() * 10)
                 browser.quit()
