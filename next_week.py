@@ -1,16 +1,17 @@
 import datetime
+import time
 
-def next_weekday(today_date,weekday):
-    days_ahead = weekday-today_date.weekday()
-    if days_ahead <=0:
-        days_ahead +=7
-    return today_date + datetime.timedelta(days_ahead)
-def next_sunday(today_date,weekday):
-    days_ahead = weekday - today_date.weekday()
-    if days_ahead <=0:
-        days_ahead +=13
-    return today_date +datetime.timedelta(days_ahead)
 
-today_date = datetime.date.today()
-next_monday = (next_weekday(today_date,0).strftime('%m/%d/%Y'))
-next_suny = (next_sunday(today_date,0).strftime('%m/%d/%Y'))
+def next_week_dates():
+    next_week = (datetime.date.today().isocalendar()[1]) + 1
+    week = next_week - 2
+    start_date = time.asctime(time.strptime('2020 %d 0' % week, '%Y %W %w'))
+    start_date = datetime.datetime.strptime(start_date, '%a %b %d %H:%M:%S %Y')
+    dates = [start_date.strftime('%Y-%m-%d')]
+    for i in range(1, 7):
+        day = start_date + datetime.timedelta(days=i)
+        dates.append(day.strftime('%Y-%m-%d'))
+    print(dates)
+
+
+next_week_dates()
