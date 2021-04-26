@@ -51,4 +51,5 @@ for stock in f:
 	# if so, change the limit sell if needed, o/w set the limit sell
 	
 	# check the date when the shares were purchased, and put the limit sell for the appropriate amount based on that
-	
+
+	# if it's been over a year, sell the security so you can count the loss for tax purposes - list out the securities to sell
