@@ -14,6 +14,11 @@ time.sleep(5)
 f = open("bought.csv")
 # may not even need the bought csv
 # can go through stocks in https://client.schwab.com/Areas/Accounts/Positions
+browser.get("https://client.schwab.com/Areas/Accounts/Positions")
+equities = browser.find_elements_by_xpath('//tr[@data-pulsr-securitygroup="Equity"]')
+for equity in equities:
+	ticker = equity.find_element_by_tag_name('a').text
+	
 
 for stock in f:
 	ticker = stock.strip()
