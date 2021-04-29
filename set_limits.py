@@ -17,8 +17,9 @@ f = open("bought.csv")
 browser.get("https://client.schwab.com/Areas/Accounts/Positions")
 equities = browser.find_elements_by_xpath('//tr[@data-pulsr-securitygroup="Equity"]')
 for equity in equities:
-	ticker = equity.find_element_by_tag_name('a').text
-	
+	ticker = equity.find_elements_by_tag_name('a')[0].text
+	cost = equity.find_elements_by_tag_name('a')[1].text[1:]
+	cost = float(cost.replace(',',''))
 
 for stock in f:
 	ticker = stock.strip()
