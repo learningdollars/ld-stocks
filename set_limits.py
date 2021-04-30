@@ -16,10 +16,21 @@ f = open("bought.csv")
 # can go through stocks in https://client.schwab.com/Areas/Accounts/Positions
 browser.get("https://client.schwab.com/Areas/Accounts/Positions")
 equities = browser.find_elements_by_xpath('//tr[@data-pulsr-securitygroup="Equity"]')
+
 for equity in equities:
 	ticker = equity.find_elements_by_tag_name('a')[0].text
 	cost = equity.find_elements_by_tag_name('a')[1].text[1:]
 	cost = float(cost.replace(',',''))
+	quantity = int(equities[0].find_elements_by_tag_name('td')[1].text)
+	# $3,339.46	
+
+# get orders
+browser.get("https://client.schwab.com/Trade/OrderStatus/ViewOrderStatus.aspx?ViewTypeFilter=All")
+orders_section = browser.find_elements_by_id("orders")
+orders = orders_section.find_elements_by_class_name('header-ticket')
+order_limitsellquant = {}
+for order in orders:
+
 
 for stock in f:
 	ticker = stock.strip()
@@ -59,3 +70,4 @@ for stock in f:
 	# check the date when the shares were purchased, and put the limit sell for the appropriate amount based on that
 
 	# if it's been over a year, sell the security so you can count the loss for tax purposes - list out the securities to sell
+
