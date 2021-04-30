@@ -12,7 +12,6 @@ print("waiting for user to login")
 time.sleep(5)
 
 f = open("bought.csv")
-# may not even need the bought csv
 # can go through stocks in https://client.schwab.com/Areas/Accounts/Positions
 browser.get("https://client.schwab.com/Areas/Accounts/Positions")
 equities = browser.find_elements_by_xpath('//tr[@data-pulsr-securitygroup="Equity"]')
@@ -23,6 +22,7 @@ for equity in equities:
 	cost = float(cost.replace(',',''))
 	quantity = int(equities[0].find_elements_by_tag_name('td')[1].text)
 	# $3,339.46	
+	# getting the cost basis cost of the stocks from bought.csv
 
 # get orders
 browser.get("https://client.schwab.com/Trade/OrderStatus/ViewOrderStatus.aspx?ViewTypeFilter=All")
@@ -40,8 +40,11 @@ for stock in f:
 	action = Select(browser.find_element_by_id("ddlAction_0"))
 	action.select_by_visible_text("Sell")
 	
-	# need to grab the quantity owned right now
-	# need to grab the quantity we already have a limit sell for right now
+	# need to grab the quantity owned right now -- see above
+
+	# need to grab the quantity we already have a limit sell for right now -- get from the bought.csv
+	
+
 	# need to find the difference - that's the amount we need to initially limit sell
 	
 	quantity_to_limit_sell = 1
@@ -63,11 +66,11 @@ for stock in f:
 	review_order.click()
 
 	print("==== changing limit for ", stock)
-	# check how many shares for which we have already set a limit sell
+	# check how many shares for which we have already set a limit sell -- check the bought.csv
 
-	# if so, change the limit sell if needed, o/w set the limit sell
-	
-	# check the date when the shares were purchased, and put the limit sell for the appropriate amount based on that
+	# if so, change the limit sell if needed, o/w set the limit sell -- using the same limit sell setting functionality above -- but first have to press cancel on the existing order
 
-	# if it's been over a year, sell the security so you can count the loss for tax purposes - list out the securities to sell
+	# check the date when the shares were purchased, and put the limit sell for the appropriate amount based on that -- we should probably still retain the bought csv and store the dates when we bought each amount on our end 
+
+	# if it's been over a year, sell the security so you can count the loss for tax purposes - list out the securities to sell -- again inferred from the bought.csv
 
