@@ -4,12 +4,27 @@ from selenium.webdriver.support.ui import Select
 
 # constants
 TRADE = "https://client.schwab.com/Areas/Trade/Stocks/Entry.aspx?Symbol="
-INITIAL_GROWTH = 1.0075
+WKLY_GROWTH_EXPECTATION = 1.0072
 
 browser = webdriver.Chrome()
 browser.get("https://client.schwab.com/")
 print("waiting for user to login")
 time.sleep(5)
+
+# can go through stocks we own now
+browser.get("https://client.schwab.com/Areas/Accounts/Positions")
+equities = browser.find_elements_by_xpath('//tr[@data-pulsr-securitygroup="Equity"]')
+owned_equities = {}
+for equity in equities:
+	ticker = equity.find_elements_by_tag_name('a')[0].text
+	owned_equities[ticker] = {}
+	owned_equities[ticker]["cost"] = float(equity.find_elements_by_tag_name('a')[1].text[1:].replace(',',''))
+	owned_equities[ticker]["quantity"] = int(equities[0].find_elements_by_tag_name('td')[1].text)
+	print(ticker, owned_equities[ticker]["cost"], owned_equities[ticker]["quantity"])
+
+# get existing limit orders and reset them
+browser.get("https://client.schwab.com/Trade/OrderStatus/ViewOrderStatus.aspx?ViewTypeFilter=All")
+
 
 # minimize dependencies
 # read the csv of stock, date, num shares
@@ -21,21 +36,15 @@ time.sleep(5)
 
 # still need to decide whether spreadsheet or inference is best 
 
-f = open("bought.csv")
-# can go through stocks in https://client.schwab.com/Areas/Accounts/Positions
-browser.get("https://client.schwab.com/Areas/Accounts/Positions")
-equities = browser.find_elements_by_xpath('//tr[@data-pulsr-securitygroup="Equity"]')
+# way to go about it - set the limit every week (round) to the next level required
+# so 1.0075, 1.015, is basically 1.45^(n/52), oh so it's just multiply by 1.0072 each week
+# now you know the cost basis, the limit option amount, 
 
-for equity in equities:
-	ticker = equity.find_elements_by_tag_name('a')[0].text
-	cost = equity.find_elements_by_tag_name('a')[1].text[1:]
-	cost = float(cost.replace(',',''))
-	quantity = int(equities[0].find_elements_by_tag_name('td')[1].text)
+f = open("bought.csv")
+
 	# $3,339.46	
 	# getting the cost basis cost of the stocks from bought.csv
 
-# get orders
-browser.get("https://client.schwab.com/Trade/OrderStatus/ViewOrderStatus.aspx?ViewTypeFilter=All")
 orders_section = browser.find_elements_by_id("orders")
 orders = orders_section.find_elements_by_class_name('header-ticket')
 order_limitsellquant = {}
