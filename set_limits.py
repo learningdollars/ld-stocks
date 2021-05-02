@@ -11,6 +11,16 @@ browser.get("https://client.schwab.com/")
 print("waiting for user to login")
 time.sleep(5)
 
+# minimize dependencies
+# read the csv of stock, date, num shares
+# print out the purchase prices to add for each of them
+# copy and paste them in
+# reget the the csv
+# set limit options on new purchases
+# cancel + set for old ones that need new
+
+# still need to decide whether spreadsheet or inference is best 
+
 f = open("bought.csv")
 # can go through stocks in https://client.schwab.com/Areas/Accounts/Positions
 browser.get("https://client.schwab.com/Areas/Accounts/Positions")
