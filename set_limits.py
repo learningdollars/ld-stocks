@@ -1,47 +1,18 @@
 from selenium import webdriver
 import time
 from selenium.webdriver.support.ui import Select
+from selenium.webdriver.common.keys import Keys
 
 # constants
 WKLY_GROWTH_EXPECTATION = 1.0072
+REGULAR_LIMIT_URL = "https://client.schwab.com/Areas/Trade/Stocks/Entry.aspx?Symbol="
+EXTENDED_HOURS_LIMIT_URL = "https://client.schwab.com/Areas/Trade/Stocks/ExtendedHours/Entry.aspx"
+SCHWAB_HOME = "https://client.schwab.com/"
+POSITIONS = "https://client.schwab.com/Areas/Accounts/Positions"
+ORDERS = "https://client.schwab.com/Trade/OrderStatus/ViewOrderStatus.aspx?ViewTypeFilter=All"
 
-browser = webdriver.Chrome()
-browser.get("https://client.schwab.com/")
-print("waiting for user to login")
-time.sleep(5)
-
-# can go through stocks we own now
-browser.get("https://client.schwab.com/Areas/Accounts/Positions")
-equities = browser.find_elements_by_xpath('//tr[@data-pulsr-securitygroup="Equity"]')
-owned_equities = {}
-for equity in equities:
-	ticker = equity.find_elements_by_tag_name('a')[0].text
-	owned_equities[ticker] = {}
-	owned_equities[ticker]["cost"] = float(equity.find_elements_by_tag_name('a')[1].text[1:].replace(',',''))
-	owned_equities[ticker]["quantity"] = int(equities[0].find_elements_by_tag_name('td')[1].text)
-	print(ticker, owned_equities[ticker]["cost"], owned_equities[ticker]["quantity"])
-
-# get existing limit orders and reset them
-browser.get("https://client.schwab.com/Trade/OrderStatus/ViewOrderStatus.aspx?ViewTypeFilter=All")
-cancels = browser.find_elements_by_class_name("link-cancel.button-secondary.rightClickDisable")
-for i in len(cancels):
-	browser.get("https://client.schwab.com/Trade/OrderStatus/ViewOrderStatus.aspx?ViewTypeFilter=All")
-	cancel = browser.find_elements_by_class_name("link-cancel.button-secondary.rightClickDisable")[i]
-	cancel.find_element_by_xpath('..')
-	whole_limit_call = cancel.find_element_by_xpath('../../../..')
-	num_limit_sell = int(whole_limit_call.find_elements_by_tag_name("td")[1].text.split(" ")[0])
-	limit_price = float(whole_limit_call.find_elements_by_tag_name("td")[2].text.split(" ")[1].replace("$", "").replace(",", ""))
-	relevant_ticker = whole_limit_call.get_attribute('innerHTML').split("Symbol=")[1].split('&amp')[0]
-	print("need to adjust limit for", relevant_ticker, num_limit_sell, "shares, curr limit", limit_price)
-	
-	cancel.click()
-	time.sleep(3)
-	confirmation = browser.find_element_by_link_text("Cancel Order")
-	confirmation.click()
-	time.sleep(3)
-	close.click()
-	
-	browser.get("https://client.schwab.com/Areas/Trade/Stocks/Entry.aspx?Symbol="+relevant_ticker)
+def set_regular_limit_option(relevant_ticker, num_limit_sell, limit_price, browser):
+	browser.get(REGULAR_LIMIT_URL+relevant_ticker)
 	action = Select(browser.find_element_by_id("ddlAction_0"))
 	action.select_by_visible_text("Sell")
 	quantity_input = browser.find_element_by_id("txtQty_0")
@@ -58,62 +29,59 @@ for i in len(cancels):
 	confirm = browser.find_element_by_id("btnConfirm")
 	confirm.click()
 
+def set_extended_hours_limit_option(relevant_ticker, num_limit_sell, limit_price, browser)
+	browser.get(EXTENDED_HOURS_LIMIT_URL)
+	symbol_input = browser.find_element_by_id("txtSym_0")
+	symbol_input.send_keys(relevant_ticker)
+	symbol_input.send_keys(Keys.RETURN)
+	action = Select(browser.find_element_by_id("ddlAction_0"))
+	action.select_by_visible_text("Sell")
+	
+
+browser = webdriver.Chrome()
+browser.get(SCHWAB_HOME)
+print("waiting for user to login")
+time.sleep(5)
+
+# can go through stocks we own now
+browser.get(POSITIONS)
+equities = browser.find_elements_by_xpath('//tr[@data-pulsr-securitygroup="Equity"]')
+owned_equities = {}
+for equity in equities:
+	ticker = equity.find_elements_by_tag_name('a')[0].text
+	owned_equities[ticker] = {}
+	owned_equities[ticker]["cost"] = float(equity.find_elements_by_tag_name('a')[1].text[1:].replace(',',''))
+	owned_equities[ticker]["quantity"] = int(equities[0].find_elements_by_tag_name('td')[1].text)
+	print(ticker, owned_equities[ticker]["cost"], owned_equities[ticker]["quantity"])
+
+# get existing limit orders and reset them
+browser.get(ORDERS)
+cancels = browser.find_elements_by_class_name("link-cancel.button-secondary.rightClickDisable")
+for i in len(cancels):
+	browser.get("https://client.schwab.com/Trade/OrderStatus/ViewOrderStatus.aspx?ViewTypeFilter=All")
+	cancel = browser.find_elements_by_class_name("link-cancel.button-secondary.rightClickDisable")[i]
+	cancel.find_element_by_xpath('..')
+	whole_limit_call = cancel.find_element_by_xpath('../../../..')
+	num_limit_sell = int(whole_limit_call.find_elements_by_tag_name("td")[1].text.split(" ")[0])
+	limit_price = float(whole_limit_call.find_elements_by_tag_name("td")[2].text.split(" ")[1].replace("$", "").replace(",", ""))
+	relevant_ticker = whole_limit_call.get_attribute('innerHTML').split("Symbol=")[1].split('&amp')[0]
+	print("need to adjust limit for", relevant_ticker, num_limit_sell, "shares, curr limit", limit_price)
+	# first cancel the current limit sell
+	cancel.click()
+	time.sleep(3)
+	confirmation = browser.find_element_by_link_text("Cancel Order")
+	confirmation.click()
+	time.sleep(3)
+	close.click()
+	# now reset it
+	set_regular_limit_option(relevant_ticker, num_limit_sell, limit_price, browser)
+	set_extended_hours_limit_option(relevant_ticker, num_limit_sell, limit_price, browser)
 	owned_equities[ticker]["number_limit_adjusted"] += 1
 
+# set initial limit sells
+for ticker, oe in owned_equities.items():
+	set_regular_limit_option(ticker, oe["quantity"] - oe["number_limit_adjusted"], oe["cost"] browser)
 
-# minimize dependencies
-# read the csv of stock, date, num shares
-# print out the purchase prices to add for each of them
-# copy and paste them in
-# reget the the csv
-# set limit options on new purchases
-# cancel + set for old ones that need new
-
-# still need to decide whether spreadsheet or inference is best 
-
-# way to go about it - set the limit every week (round) to the next level required
-# so 1.0075, 1.015, is basically 1.45^(n/52), oh so it's just multiply by 1.0072 each week
-# now you know the cost basis, the limit option amount, 
-
-orders_section = browser.find_element_by_id("orders")
-orders = orders_section.find_elements_by_class_name('header-ticket')
-
-f = open("bought.csv")
-
-	# $3,339.46	
-	# getting the cost basis cost of the stocks from bought.csv
-
-order_limitsellquant = {}
-for order in orders:
-
-
-for stock in f:
-	ticker = stock.strip()
-	print("==== setting initial limit for ", stock)
-	browser.get(TRADE + ticker)
-	
-	
-	
-	# need to grab the quantity owned right now -- see above
-
-	# need to grab the quantity we already have a limit sell for right now -- get from the bought.csv
-	
-
-	# need to find the difference - that's the amount we need to initially limit sell
-		
-	
-
-	# need to grab the cost we bought the stock for
-	
-
-	
-
-	print("==== changing limit for ", stock)
-	# check how many shares for which we have already set a limit sell -- check the bought.csv
-
-	# if so, change the limit sell if needed, o/w set the limit sell -- using the same limit sell setting functionality above -- but first have to press cancel on the existing order
-
-	# check the date when the shares were purchased, and put the limit sell for the appropriate amount based on that -- we should probably still retain the bought csv and store the dates when we bought each amount on our end 
-
-	# if it's been over a year, sell the security so you can count the loss for tax purposes - list out the securities to sell -- again inferred from the bought.csv
-
+# set extended hours limit sells
+for ticker, oe in owned_equities.items():
+	set_extended_hours_limit_option(ticker, oe["quantity"] - oe["number_limit_adjusted"], oe["cost"] browser)
