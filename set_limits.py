@@ -24,6 +24,21 @@ for equity in equities:
 
 # get existing limit orders and reset them
 browser.get("https://client.schwab.com/Trade/OrderStatus/ViewOrderStatus.aspx?ViewTypeFilter=All")
+cancels = browser.find_elements_by_class_name("link-cancel.button-secondary.rightClickDisable")
+for i in len(cancels):
+	cancel = browser.find_elements_by_class_name("link-cancel.button-secondary.rightClickDisable")[i]
+	cancel.find_element_by_xpath('..')
+	whole_limit_call = cancel.find_element_by_xpath('../../../..')
+	num_limit_sell = int(whole_limit_call.find_elements_by_tag_name("td")[1].text.split(" ")[0])
+	limit_price = float(whole_limit_call.find_elements_by_tag_name("td")[2].text.split(" ")[1].replace("$", "").replace(",", ""))
+	relevant_ticker = whole_limit_call.get_attribute('innerHTML').split("Symbol=")[1].split('&amp')[0]
+	print("need to adjust limit for", relevant_ticker, num_limit_sell, "shares, curr limit", limit_price)
+	cancel.click()
+	time.sleep(3)
+	confirmation = browser.find_element_by_link_text("Cancel Order")
+	confirmation.click()
+	time.sleep(3)
+	close.click()
 
 
 # minimize dependencies
@@ -40,13 +55,14 @@ browser.get("https://client.schwab.com/Trade/OrderStatus/ViewOrderStatus.aspx?Vi
 # so 1.0075, 1.015, is basically 1.45^(n/52), oh so it's just multiply by 1.0072 each week
 # now you know the cost basis, the limit option amount, 
 
+orders_section = browser.find_element_by_id("orders")
+orders = orders_section.find_elements_by_class_name('header-ticket')
+
 f = open("bought.csv")
 
 	# $3,339.46	
 	# getting the cost basis cost of the stocks from bought.csv
 
-orders_section = browser.find_elements_by_id("orders")
-orders = orders_section.find_elements_by_class_name('header-ticket')
 order_limitsellquant = {}
 for order in orders:
 
