@@ -1,7 +1,8 @@
-from selenium import webdriver
-import time
 from selenium.webdriver.support.ui import Select
 from selenium.webdriver.common.keys import Keys
+from selenium import webdriver
+import time
+import sys
 
 # constants
 WKLY_GROWTH_EXPECTATION = 1.0072
@@ -10,6 +11,8 @@ EXTENDED_HOURS_LIMIT_URL = "https://client.schwab.com/Areas/Trade/Stocks/Extende
 SCHWAB_HOME = "https://client.schwab.com/"
 POSITIONS = "https://client.schwab.com/Areas/Accounts/Positions"
 ORDERS = "https://client.schwab.com/Trade/OrderStatus/ViewOrderStatus.aspx?ViewTypeFilter=All"
+
+version = sys.argv[1]
 
 def set_regular_limit_option(relevant_ticker, num_limit_sell, limit_price, browser):
 	browser.get(REGULAR_LIMIT_URL+relevant_ticker)
@@ -36,7 +39,15 @@ def set_extended_hours_limit_option(relevant_ticker, num_limit_sell, limit_price
 	symbol_input.send_keys(Keys.RETURN)
 	action = Select(browser.find_element_by_id("ddlAction_0"))
 	action.select_by_visible_text("Sell")
-	
+	quantity_input = browser.find_element_by_id("txtQty_0")
+	quantity_input.send_keys(num_limit_sell)
+	limit_input = browser.find_element_by_id("txtLimit_0")
+	limit_input.send_keys(limit_price*WKLY_GROWTH_EXPECTATION)
+	review = browser.find_element_by_id("btnReview")
+	review.click()
+	time.sleep(3)
+	confirm = browser.find_element_by_id("btnConfirm")
+	confirm.click()
 
 browser = webdriver.Chrome()
 browser.get(SCHWAB_HOME)
@@ -66,22 +77,31 @@ for i in len(cancels):
 	limit_price = float(whole_limit_call.find_elements_by_tag_name("td")[2].text.split(" ")[1].replace("$", "").replace(",", ""))
 	relevant_ticker = whole_limit_call.get_attribute('innerHTML').split("Symbol=")[1].split('&amp')[0]
 	print("need to adjust limit for", relevant_ticker, num_limit_sell, "shares, curr limit", limit_price)
-	# first cancel the current limit sell
-	cancel.click()
-	time.sleep(3)
-	confirmation = browser.find_element_by_link_text("Cancel Order")
-	confirmation.click()
-	time.sleep(3)
-	close.click()
-	# now reset it
-	set_regular_limit_option(relevant_ticker, num_limit_sell, limit_price, browser)
-	set_extended_hours_limit_option(relevant_ticker, num_limit_sell, limit_price, browser)
+	# note we only want to cancel the existing limit options if it's during the regular period, if early period we let the old ones remain
+	if version == "regular": 	
+		# first cancel the current limit sell
+		cancel.click()
+		time.sleep(3)
+		confirmation = browser.find_element_by_link_text("Cancel Order")
+		confirmation.click()
+		time.sleep(3)
+		close.click()
+		# now reset it
+		set_regular_limit_option(relevant_ticker, num_limit_sell, limit_price, browser)
 	owned_equities[ticker]["number_limit_adjusted"] += 1
 
 # set initial limit sells
-for ticker, oe in owned_equities.items():
-	set_regular_limit_option(ticker, oe["quantity"] - oe["number_limit_adjusted"], oe["cost"] browser)
+if version == "early":
+	for ticker, oe in owned_equities.items():
+		set_regular_limit_option(ticker, oe["quantity"] - oe["number_limit_adjusted"], oe["cost"], browser)
 
 # set extended hours limit sells
-for ticker, oe in owned_equities.items():
-	set_extended_hours_limit_option(ticker, oe["quantity"] - oe["number_limit_adjusted"], oe["cost"] browser)
+if version == "regular":
+	for ticker, oe in owned_equities.items():
+		set_extended_hours_limit_option(ticker, oe["quantity"] - oe["number_limit_adjusted"], oe["cost"], browser)
+
+# note on time sleeps
+# note on crash resistence
+# note on output logs
+
+
