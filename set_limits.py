@@ -1,6 +1,7 @@
 from selenium.webdriver.support.ui import Select
 from selenium.webdriver.common.keys import Keys
 from selenium import webdriver
+import random
 import time
 import sys
 
@@ -11,8 +12,6 @@ EXTENDED_HOURS_LIMIT_URL = "https://client.schwab.com/Areas/Trade/Stocks/Extende
 SCHWAB_HOME = "https://client.schwab.com/"
 POSITIONS = "https://client.schwab.com/Areas/Accounts/Positions"
 ORDERS = "https://client.schwab.com/Trade/OrderStatus/ViewOrderStatus.aspx?ViewTypeFilter=All"
-
-version = sys.argv[1]
 
 def set_regular_limit_option(relevant_ticker, num_limit_sell, limit_price, browser):
 	browser.get(REGULAR_LIMIT_URL+relevant_ticker)
@@ -31,6 +30,7 @@ def set_regular_limit_option(relevant_ticker, num_limit_sell, limit_price, brows
 	time.sleep(3)
 	confirm = browser.find_element_by_id("btnConfirm")
 	confirm.click()
+	print("set regular limit option for", relevant_ticker)
 
 def set_extended_hours_limit_option(relevant_ticker, num_limit_sell, limit_price, browser)
 	browser.get(EXTENDED_HOURS_LIMIT_URL)
@@ -48,16 +48,20 @@ def set_extended_hours_limit_option(relevant_ticker, num_limit_sell, limit_price
 	time.sleep(3)
 	confirm = browser.find_element_by_id("btnConfirm")
 	confirm.click()
+	print("set extended hours limit option for", relevant_ticker)
 
+version = sys.argv[1]
 browser = webdriver.Chrome()
 browser.get(SCHWAB_HOME)
 print("waiting for user to login")
-time.sleep(5)
+time.sleep(5 + random.random())
 
 # can go through stocks we own now
 browser.get(POSITIONS)
+time.sleep(3 + random.random())
 equities = browser.find_elements_by_xpath('//tr[@data-pulsr-securitygroup="Equity"]')
 owned_equities = {}
+print("=== owned equities ===")
 for equity in equities:
 	ticker = equity.find_elements_by_tag_name('a')[0].text
 	owned_equities[ticker] = {}
@@ -67,41 +71,47 @@ for equity in equities:
 
 # get existing limit orders and reset them
 browser.get(ORDERS)
+time.sleep(3 + random.random())
 cancels = browser.find_elements_by_class_name("link-cancel.button-secondary.rightClickDisable")
+print("=== existing limits to reset ===")
 for i in len(cancels):
 	browser.get("https://client.schwab.com/Trade/OrderStatus/ViewOrderStatus.aspx?ViewTypeFilter=All")
+	time.sleep(3 + random.random())
 	cancel = browser.find_elements_by_class_name("link-cancel.button-secondary.rightClickDisable")[i]
 	cancel.find_element_by_xpath('..')
 	whole_limit_call = cancel.find_element_by_xpath('../../../..')
 	num_limit_sell = int(whole_limit_call.find_elements_by_tag_name("td")[1].text.split(" ")[0])
 	limit_price = float(whole_limit_call.find_elements_by_tag_name("td")[2].text.split(" ")[1].replace("$", "").replace(",", ""))
 	relevant_ticker = whole_limit_call.get_attribute('innerHTML').split("Symbol=")[1].split('&amp')[0]
-	print("need to adjust limit for", relevant_ticker, num_limit_sell, "shares, curr limit", limit_price)
+	time.sleep(3 + random.random())
 	# note we only want to cancel the existing limit options if it's during the regular period, if early period we let the old ones remain
 	if version == "regular": 	
+		print("YES need to adjust limit for", relevant_ticker, num_limit_sell, "shares, curr limit", limit_price)	
 		# first cancel the current limit sell
 		cancel.click()
-		time.sleep(3)
+		time.sleep(3 + random.random())
 		confirmation = browser.find_element_by_link_text("Cancel Order")
 		confirmation.click()
-		time.sleep(3)
+		time.sleep(3 + random.random())
 		close.click()
 		# now reset it
 		set_regular_limit_option(relevant_ticker, num_limit_sell, limit_price, browser)
+	else:
+		print("NO need to adjust limit for", relevant_ticker, num_limit_sell, "shares, curr limit", limit_price, "- in early hours")
 	owned_equities[ticker]["number_limit_adjusted"] += 1
+	time.sleep(3 + random.random())
 
+print("=== set limits ===")
 # set initial limit sells
+time.sleep(3 + random.random())
 if version == "early":
 	for ticker, oe in owned_equities.items():
 		set_regular_limit_option(ticker, oe["quantity"] - oe["number_limit_adjusted"], oe["cost"], browser)
 
 # set extended hours limit sells
+time.sleep(3 + random.random())
 if version == "regular":
 	for ticker, oe in owned_equities.items():
 		set_extended_hours_limit_option(ticker, oe["quantity"] - oe["number_limit_adjusted"], oe["cost"], browser)
 
-# note on time sleeps
-# note on crash resistence
-# note on output logs
-
-
+# note on crash resistence, save output as well in mc or program output
