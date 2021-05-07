@@ -32,7 +32,7 @@ def set_regular_limit_option(relevant_ticker, num_limit_sell, limit_price, brows
 	confirm.click()
 	print("set regular limit option for", relevant_ticker)
 
-def set_extended_hours_limit_option(relevant_ticker, num_limit_sell, limit_price, browser)
+def set_extended_hours_limit_option(relevant_ticker, num_limit_sell, limit_price, browser):
 	browser.get(EXTENDED_HOURS_LIMIT_URL)
 	symbol_input = browser.find_element_by_id("txtSym_0")
 	symbol_input.send_keys(relevant_ticker)
@@ -54,7 +54,7 @@ version = sys.argv[1]
 browser = webdriver.Chrome()
 browser.get(SCHWAB_HOME)
 print("waiting for user to login")
-time.sleep(5 + random.random())
+time.sleep(10 + random.random())
 
 # can go through stocks we own now
 browser.get(POSITIONS)
@@ -77,45 +77,45 @@ browser.get(ORDERS)
 time.sleep(3 + random.random())
 cancels = browser.find_elements_by_class_name("link-cancel.button-secondary.rightClickDisable")
 print("=== existing limits to reset ===")
-for i in len(cancels):
-	try:
-		browser.get("https://client.schwab.com/Trade/OrderStatus/ViewOrderStatus.aspx?ViewTypeFilter=All")
+for i in range(0, len(cancels)):
+	#try:
+	browser.get("https://client.schwab.com/Trade/OrderStatus/ViewOrderStatus.aspx?ViewTypeFilter=All")
+	time.sleep(3 + random.random())
+	cancel = browser.find_elements_by_class_name("link-cancel.button-secondary.rightClickDisable")[i]
+	cancel.find_element_by_xpath('..')
+	whole_limit_call = cancel.find_element_by_xpath('../../../..')
+	num_limit_sell = int(whole_limit_call.find_elements_by_tag_name("td")[1].text.split(" ")[0])
+	limit_price = float(whole_limit_call.find_elements_by_tag_name("td")[2].text.split(" ")[1].replace("$", "").replace(",", ""))
+	relevant_ticker = whole_limit_call.get_attribute('innerHTML').split("Symbol=")[1].split('&amp')[0]
+	time.sleep(3 + random.random())
+	# note we only want to cancel the existing limit options if it's during the regular period, if early period we let the old ones remain
+	if version == "regular": 	
+		print("YES need to adjust limit for", relevant_ticker, num_limit_sell, "shares, curr limit", limit_price)	
+		# first cancel the current limit sell
+		cancel.click()
 		time.sleep(3 + random.random())
-		cancel = browser.find_elements_by_class_name("link-cancel.button-secondary.rightClickDisable")[i]
-		cancel.find_element_by_xpath('..')
-		whole_limit_call = cancel.find_element_by_xpath('../../../..')
-		num_limit_sell = int(whole_limit_call.find_elements_by_tag_name("td")[1].text.split(" ")[0])
-		limit_price = float(whole_limit_call.find_elements_by_tag_name("td")[2].text.split(" ")[1].replace("$", "").replace(",", ""))
-		relevant_ticker = whole_limit_call.get_attribute('innerHTML').split("Symbol=")[1].split('&amp')[0]
+		confirmation = browser.find_element_by_link_text("Cancel Order")
+		confirmation.click()
 		time.sleep(3 + random.random())
-		# note we only want to cancel the existing limit options if it's during the regular period, if early period we let the old ones remain
-		if version == "regular": 	
-			print("YES need to adjust limit for", relevant_ticker, num_limit_sell, "shares, curr limit", limit_price)	
-			# first cancel the current limit sell
-			cancel.click()
-			time.sleep(3 + random.random())
-			confirmation = browser.find_element_by_link_text("Cancel Order")
-			confirmation.click()
-			time.sleep(3 + random.random())
-			close.click()
-			# now reset it
-			set_regular_limit_option(relevant_ticker, num_limit_sell, limit_price, browser)
-		else:
-			print("NO need to adjust limit for", relevant_ticker, num_limit_sell, "shares, curr limit", limit_price, "- in early hours")
-		owned_equities[ticker]["number_limit_adjusted"] += 1
-		time.sleep(3 + random.random())
-	except:
-		print("failed on this stock, moving to next")
+		close.click()
+		# now reset it
+		set_regular_limit_option(relevant_ticker, num_limit_sell, limit_price, browser)
+	else:
+		print("NO need to adjust limit for", relevant_ticker, num_limit_sell, "shares, curr limit", limit_price, "- in early hours")
+	owned_equities[ticker]["number_limit_adjusted"] += 1
+	time.sleep(3 + random.random())
+	#except:
+	#	print("failed on this stock, moving to next")
 
 print("=== set limits ===")
 # set initial limit sells
 time.sleep(3 + random.random())
 if version == "early":
 	for ticker, oe in owned_equities.items():
-		try:
-			set_regular_limit_option(ticker, oe["quantity"] - oe["number_limit_adjusted"], oe["cost"], browser)
-		except:
-			print("failed on this stock, moving to next")
+		#try:
+		set_regular_limit_option(ticker, oe["quantity"] - oe["number_limit_adjusted"], oe["cost"], browser)
+		#except:
+		#	print("failed on this stock, moving to next")
 
 # set extended hours limit sells
 time.sleep(3 + random.random())
@@ -126,4 +126,4 @@ if version == "regular":
 		except:
 			print("failed on this stock, moving to next")
 
-# note on crash resistence, save output as well in mc or program output
+print("don't forget to copy and paste the output into the running_log.txt, with the date")
